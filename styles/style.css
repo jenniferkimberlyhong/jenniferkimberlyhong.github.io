@@ -7,15 +7,35 @@ a {
 }
 
 body {
-  background-color: #FFFFFF;
-  font-family: 'Playfair Display', serif;
-  font-family: 'Poppins', sans-serif;
+  background-color: #FFFDFB;
+  font-family: "Brandon Text Regular", "Josefin Sans", sans-serif;
+  transition: all 500ms;
+  will-change: background;
 }
 
-.logo-size {
-  position: absolute;
-  width: 45px;
-  height: 45px;
-  left: 32px;
-  top: 22px;
+#contact {
+  display: block;
+  width: 100%;
+  /* height: 100vh; */
+}
+
+.container {
+  width: 100%;
+  overflow: hidden;
+}
+
+.bg-header {
+  background-image: linear-gradient(#FFF3ED, #FFFDFB);
+}
+
+html {
+  font-size: 10px;
+  font-family: 'Brandon Text Regular';
+  color: #001F40;
+}
+
+p {
+  font-size: 1.6rem;
+  line-height: 120%;
+  font-family: 'Brandon Text Regular';
 }
