@@ -2,146 +2,137 @@
 <html>
 <head>
   <meta charset="utf-8">
-  <meta name = "viewport" content="width=device-width, initial-scale=1.0">
+  <meta name = "viewport" content="width=device-width, initial-scale=1">
   <title>Jennifer Hong | UX Designer</title>
 
   <!--- CSS STYLESHEETS --->
   <link rel="stylesheet" href="css/style.css">
   <link rel="stylesheet" href="css/reset.css">
   <link rel="stylesheet" href="css/animate.css">
-
+  <link rel="stylesheet" href="https://use.fontawesome.com/releases/v5.3.1/css/all.css" integrity="sha384-mzrmE5qonljUremFsqc01SB46JvROS7bZs3IO2EmfFsd15uHvIt+Y8vEf7N7fWAU" crossorigin="anonymous">
   <link rel="shortcut icon" type="img/png" href="images/logo.png"/>
 
   <!--- FONT --->
   <link href="https://fonts.googleapis.com/css?family=Playfair+Display|Poppins&display=swap" rel="stylesheet">
-
 </head>
 
 <!--- HEADER --->
 <body>
-  <div class="container">
-  <header class="bg-header" id="top">
+  <header>
     <!--- NAV --->
-    <nav class="navbar">
-      <a class="logo" href="index.html">
-        <img class="logo-size" src="images/logo.png" alt="JH logo">
-      </a>
+    <nav class="nav-bar">
       <div class="desktop">
-      <ul class="no">
-        <li>
-          <a class="off animated-in" href="#projects">WORK</a>
-        </li>
-        <li>
-          <a class="off animated-in" href="#about.html">ABOUT</a>
-        </li>
-        <li>
-          <a class="off animated-in" href="https://drive.google.com/file/d/1na1zdJSxlJQ1XaBgVsJx4gZPkdSvsARK/view?usp=sharing">RESUME</a>
-        </li>
-        <li>
-          <a class="off animated-in" href="#contact.html">CONTACT</a>
-        </li>
-      </ul>
+      <a href="index.html"><img class="logo-size" src="images/logo.png" alt="JH logo"></a>
     </div>
-    <div class="fixed"
-    <div id="navbar-toggle">
-      <input type="checkbox">
-      <span></span>
-      <span></span>
-      <span></span>
-      <ul id="main-nav"
-      <li>
-        <a class="nav-link one animated-in" href="index.html">WORK</a>
-      </li>
-      <li>
-        <a class="nav-link two animated-in" href="about.html">ABOUT</a>
-      </li>
-      <li>
-        <a class="nav-link three animated-in" href="https://drive.google.com/file/d/1na1zdJSxlJQ1XaBgVsJx4gZPkdSvsARK/view?usp=sharing">RESUME</a>
-      </li>
-      <li>
-        <a class="nav-link four animated-in" href="contact.html">CONTACT</a>
-      </li>
-    </ul>
-  </div>
-</div>
-</nav>
+        <ul>
+          <li><a class="logo" href="index.html"><img class="logo-size" src="images/logo.png" alt="JH logo"></a></li>
+          <li><a class="work" href="projects.html">work</a></li>
+          <li><a class="about" href="about.html">about</a></li>
+          <li><a class="resume" href="https://drive.google.com/file/d/1na1zdJSxlJQ1XaBgVsJx4gZPkdSvsARK/view?usp=sharing" target="_blank">resume</a></li>
+          <li><a class="contact" href="contact.html">contact</a></li>
+        </ul>
+    </nav>
+  </header>
 
 <!--- HERO UNIT --->
 <section id="hero">
   <div class="grid-hero">
-    <div>
-      <img class="desktop-image animated delay-1s fadeIn zoomIn" src="images/ux-portfolio-homepage.jpeg" alt="ux-portfolio-homepage">
-      <img class="mobile-header" src="images/ux-portfolio-homepage.jpeg" alt="ux-portfolio-homepage-mobile">
-    </div>
-    <article>
-      <h1 class="name animated delay-2s fadeIn">I’m  JENNIFER HONG  and I’m a UX/UI Designer based in NYC.</h1>
-      <p class="slogan animated slower delay-3s fadeIn">I have a passion for designing and building beautiful interfaces with engaging experiences to solve</p>
-      <p class="description animated slower delay-3s fadeIn">complex problems.</p>
-      <p class="description animated slower delay-3s fadeIn">To learn more, check out my work here or connect with me by email or linkedin.</p>
-    </article>
+      <h1 class="headline">I’m  JENNIFER HONG  and I’m a <span style="background-color: rgba(201, 175, 152, 0.5)">  UX/UI Designer</span> based in NYC.</h1>
+      <p class="tagline-one">I have a passion for <span style="background-color: rgba(201, 175, 152, 0.5)">  designing</span> and building beautiful interfaces with <span style="background-color: rgba(201, 175, 152, 0.5)">  engaging experiences</span> to solve complex problems.</p>
+      <p class="tagline-two">To learn more, check out my work <b>here</b> or connect with me by email or linkedin.</p>
   </div>
-  <div class="see-work animated bounce-work">
-    <a class="work-link" href="#projects">VIEW FEATURED WORK</a>
+  <div class="view-work">
+    <a class="work-link" href="#projects">View Featured Work</a>
     <i class="fas fa-caret-down"></i>
   </div>
 </section>
-</header>
 
-<!---PROJECTS--->
+<!--- PROJECTS --->
 <section id="projects">
   <div class="stack">
     <a class="feat-project-display" href="stack.html">
-      <img class="project-desktop2" src="image/stack-project" alt="stack-project">
-      <img class="project-mobile-lg" src="" alt="">
+      <img class="stack-image" src="images/stack-project.jpeg" alt="stack-project">
     </a>
-    <article class="feat-project-text2">
-      <h3 class="project-name">Stack</h3>
+    <article class="project-one">
+      <h3 class="project-name">Stack Cloud Storage</h3>
       <p class="project-desc">An iOS mobile application and webpage for a collaborative cloud storage solution for students, professionals, and casual users.</p>
-      <a class="read-more primary-btn" href="stack.html">READ CASE STUDY</a>
+      <a class="read-more primary-btn" href="stack.html">Read Case Study</a>
     </article>
   </div>
 </section>
 
-<!---DESIGN PROCESS--->
+<!--- DESIGN PROCESS --->
+<section id="design">
+  <div class="design-process">
+    <div class="column-one">
+    <h3 class="process-name">Research</h3>
+    <img src="images/research.svg" alt="user research" class="center">
+    <p class="process-desc">Define the problem, gather user research, and competitive analysis.</p>
+    <h3 class="process-name">Visual Design</h3>
+    <img src="images/design.svg" alt="visual design" class="center">
+    <p class="process-desc">Define the problem, gather user research, and competitive analysis.</p>
+    </div>
+    <div class="column-two">
+      <h3 class="process-name">Test</h3>
+      <img src="images/test.svg" alt="testing" class="center">
+      <p class="process-desc">Define the problem, gather user research, and competitive analysis.</p>
+      <h3 class="process-name">Develop</h3>
+      <img src="images/develop.svg" alt="develop" class="center">
+      <p class="process-desc">Define the problem, gather user research, and competitive analysis.</p>
+    </div>
+  </div>
+</section>
 
+<!--- TESTIMONIAL --->
+<section id="testimonial">
+  <div class="testimonial-section">
+    <p class="references">Reference Paragraph Here</p>
+  </div>
+</section>
 
-<!---FOOTER--->
-<!---CONTACT--->
+<!--- FOOTER --->
+<!--- CONTACT --->
 <section id="contact">
-       <div class="contact-box">
-         </div>
-         <div class="contact-content">
-             <h2 class="contact-header">Let's Connect!</h2>
-         </div>
-           <div class="contact-btns">
-             <a class="get-in-touch primary-btn" href="mailto:jennifer.hong13@gmail.com">GET IN TOUCH</a>
-           </div>
-           <div class="return-top bounce">
-             <a class="return-link" href="#top">Return to top</a>
-             <i class="fas fa-caret-up"></i>
-           </div>
-         </div>
-       </div>
-     </section>
-<!---CONTACT FOOTER--->
-<footer id="footer-box">
-        <ul class="social-media">
-          <li>
-              <a href="https://www.linkedin.com/in/jenniferkimberlyhong">
-                <i class="fab fa-linkedin"></i>
-              </a>
-          </li>
-          <li>
-              <a href="https://github.com/jenniferkimberlyhong">
-                <i class="fab fa-github"></i>
-              </a>
-          </li>
-        </ul>
-        <div class="copyright">
-          <p><i class="far fa-copyright"></i> 2019 Jennifer Hong</p>
-        </div>
-       </footer>
-     </div>
+    <div class="contact-section">
+        <h2 class="contact-header">Let's Connect!</h2>
+      </div>
+      <div class="contact-btns">
+        <a class="get-in-touch primary-btn" href="mailto:jennifer.hong13@gmail.com">Get in Touch</a>
+        <a class="download-resume primary-btn" href="https://drive.google.com/file/d/1na1zdJSxlJQ1XaBgVsJx4gZPkdSvsARK/view?usp=sharing" target="_blank">Download Resume</a>
+      </div>
+      <div class="return-top bounce">
+        <a class="return-link" href="#top">Return to Top</a>
+        <i class="fas fa-caret-up"></i>
+      </div>
+    </div>
+  </div>
+</section>
+
+<!--- SOCIAL MEDIA --->
+<footer id="footer">
+  <ul class="social-media">
+    <li><a href="https://www.linkedin.com/in/jenniferkimberlyhong/"><i class="fab fa-linkedin"></i></a></li>
+    <li><a href="mailto:jennifer.hong13@gmail.com"><i class="far fa-envelope"></i></a></li>
+    <li><a href="https://github.com/jenniferkimberlyhong"><i class="fab fa-github"></i></a></li>
+  </ul>
+  <div class="copyright">
+    <p> All rights reserved <i class="far fa-copyright"></i> 2019 Jennifer Hong</p>
+  </div>
+</footer>
+
+<script src="https://unpkg.com/aos@next/dist/aos.js"></script>
+<script>
+AOS.init();
+</script>
+
+<!-- Global site tag (gtag.js) - Google Analytics -->
+<script async src="https://www.googletagmanager.com/gtag/js?id=UA-127904400-1"></script>
+<script>
+window.dataLayer = window.dataLayer || [];
+function gtag(){dataLayer.push(arguments);}
+gtag('js', new Date());
+gtag('config', 'UA-127904400-1');
+</script>
 
 </body>
 </html>
