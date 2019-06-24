@@ -1,0 +1,202 @@
+*, *:after, *::before {
+  box-sizing: border-box;
+}
+
+.nav-bar {
+  float: right;
+  font-family: "Poppins";
+  font-size: 14px;
+}
+
+.desktop {
+  background-color: #000;
+  overflow: hidden;
+}
+
+.logo-size {
+  position: absolute;
+  width: 45px;
+  height: 45px;
+  left: 32px;
+  top: 22px;
+}
+
+.work, .about, .resume, .contact {
+  text-transform: uppercase;
+  font-size: 14px;
+}
+
+ul {
+  list-style-type: none;
+}
+
+li {
+  display: inline;
+}
+
+li a {
+  display: inline;
+  padding: 20px;
+  text-decoration: none;
+}
+
+li a:hover {
+  color: rgba(154, 77, 85, 0.5);
+}
+
+li a:visited {
+  color: #C9AF98;
+}
+
+li a:link {
+  color: black;
+}
+
+#hero {
+  width: 100%;
+  padding: 150px;
+  margin: 20px;
+  text-align: center;
+  font-size: 18px;
+  line-height: 180%;
+  font-family: "Poppins";
+}
+
+div {
+  background-color: #FFFFFF;
+  box-sizing: border-box;  /* Add this */
+}
+
+
+.tagline-one, .tagline-two, .work-link {
+  font-size: 14px;
+  line-height: inherit;
+}
+
+#hero div.view-work i.fa-caret-down {
+  font-size: 1rem;
+  padding-bottom: 1rem;
+}
+
+.stack {
+  width: 100%;
+  height: 400px;
+  padding: 50px;
+  box-sizing: border-box;
+  background-color: rgba(201, 175, 152, 0.2);
+}
+
+.stack-image {
+  width: 50%;
+  float: right;
+  padding-right: 50px;
+}
+
+.project-name {
+  font-family: "Playfair Display";
+  text-transform: uppercase;
+  width: 50%;
+  font-size: 18px;
+  padding-left: 100px;
+}
+
+.project-desc {
+  font-family: "Poppins";
+  text-align: left;
+  font-size: 14px;
+  padding-left: 100px;
+  line-height: 150%;
+  padding-top: 50px;
+  padding-bottom: 50px;
+}
+
+a.primary-btn {
+  padding: 100px;
+  width: 48%;
+  border: #3A4660;
+  font-size: 14px;
+  text-transform: uppercase;
+  font-family: "Poppins";
+}
+
+section#design div.column-one {
+  float: left;
+  width: 50%;
+}
+
+section#design div.column-two {
+  float: right;
+  width: 50%;
+}
+
+
+.references {
+  text-align: center;
+}
+
+.testimonial-section {
+  width: 100%;
+  box-sizing: border-box;
+  background-color: #E6DDDE;
+  padding: 50px;
+}
+
+section#contact {
+  width: 100%;
+}
+
+section#contact .contact-header {
+  text-align: center;
+}
+
+.footer {
+  position: absolute;
+  width: 100%;
+  color: white;
+  text-align: right;
+  left: 0;
+  bottom: 0;
+}
+
+.design-process {
+  box-sizing: border-box;
+  padding: 20px;
+  width: 100%;
+  height: 500px;
+}
+
+.process-name {
+  text-align: center;
+  text-transform: uppercase;
+  font-family: "Poppins";
+  padding: 25px;
+}
+
+.process-desc {
+  text-align: center;
+  font-family: "Poppins";
+  padding: 25px;
+  font-size: 14px;
+}
+
+.center {
+  display: block;
+  margin-left: auto;
+  margin-right: auto;
+  padding: 5px;
+  width: 50px;
+  height: 50px;
+}
+
+.contact-section {
+  box-sizing: border-box;
+  padding: 100px;
+  width: 100%;
+}
+
+a.get-in-touch primary-btn {
+
+}
+a.download-resume primary-btn {
+  
+}
