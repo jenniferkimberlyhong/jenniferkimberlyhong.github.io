@@ -4,7 +4,7 @@
 
 .nav-bar {
   float: right;
-  font-family: "Poppins";
+  font-family: 'Montserrat', sans-serif;
   font-size: 14px;
 }
 
@@ -15,8 +15,8 @@
 
 .logo-size {
   position: absolute;
-  width: 45px;
-  height: 45px;
+  width: 25px;
+  height: 40px;
   left: 32px;
   top: 22px;
 }
@@ -40,12 +40,12 @@ li a {
   text-decoration: none;
 }
 
-li a:hover {
+.nav-bar li a:hover {
   color: rgba(154, 77, 85, 0.5);
 }
 
 li a:visited {
-  color: #C9AF98;
+  color: black;
 }
 
 li a:link {
@@ -59,7 +59,12 @@ li a:link {
   text-align: center;
   font-size: 18px;
   line-height: 180%;
-  font-family: "Poppins";
+  font-family: 'Montserrat', sans-serif;
+}
+
+.hello {
+  text-align: center;
+  font-size: 60px;
 }
 
 div {
@@ -93,7 +98,7 @@ div {
 }
 
 .project-name {
-  font-family: "Playfair Display";
+  font-family: 'Montserrat', sans-serif;
   text-transform: uppercase;
   width: 50%;
   font-size: 18px;
@@ -101,7 +106,7 @@ div {
 }
 
 .project-desc {
-  font-family: "Poppins";
+  font-family: 'Montserrat', sans-serif;
   text-align: left;
   font-size: 14px;
   padding-left: 100px;
@@ -116,7 +121,7 @@ a.primary-btn {
   border: #3A4660;
   font-size: 14px;
   text-transform: uppercase;
-  font-family: "Poppins";
+  font-family: 'Montserrat', sans-serif;
 }
 
 section#design div.column-one {
@@ -132,6 +137,7 @@ section#design div.column-two {
 
 .references {
   text-align: center;
+  font-family: 'Montserrat', sans-serif;
 }
 
 .testimonial-section {
@@ -141,11 +147,11 @@ section#design div.column-two {
   padding: 50px;
 }
 
-section#contact {
+#contact {
   width: 100%;
 }
 
-section#contact .contact-header {
+.contact-header {
   text-align: center;
 }
 
@@ -168,13 +174,13 @@ section#contact .contact-header {
 .process-name {
   text-align: center;
   text-transform: uppercase;
-  font-family: "Poppins";
+  font-family: 'Montserrat', sans-serif;
   padding: 25px;
 }
 
 .process-desc {
   text-align: center;
-  font-family: "Poppins";
+  font-family: 'Montserrat', sans-serif;
   padding: 25px;
   font-size: 14px;
 }
@@ -192,11 +198,55 @@ section#contact .contact-header {
   box-sizing: border-box;
   padding: 100px;
   width: 100%;
+  font-family: 'Montserrat', sans-serif;
+}
+.copyright {
+  font-family: 'Montserrat', sans-serif;
+  font-size: 10px;
+  text-transform: uppercase;
 }
 
-a.get-in-touch primary-btn {
+.social-media ul,li {
+  display: inline;
+  float: right;
+}
 
+.social-media li a {
+  display: inline;
+  padding: 20px;
+  text-decoration: none;
 }
-a.download-resume primary-btn {
-  
+
+.social-media li a:hover {
+  color: rgba(154, 77, 85, 0.5);
 }
+
+.return-link {
+  font-family: 'Montserrat', sans-serif;
+  font-size: 14px;
+}
+
+div.contact-btns {
+width: 100%;
+margin: 0 auto;
+}
+
+.contact-btns .primary-btn {
+  width: 85%;
+}
+
+div.contact-btns a.get-in-touch {
+  margin-right: 1.5rem;
+  font-family: 'Montserrat', sans-serif;
+}
+
+div.contact-btns a.download-resume {
+  margin-left: 1rem;
+  font-family: 'Montserrat', sans-serif;
+}
+
+@media screen and (max-width: 1024px) {
+   header.mdl-layout__header {
+     display: flex;
+   }
+ }
