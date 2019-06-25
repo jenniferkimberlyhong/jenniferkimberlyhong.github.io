@@ -1,15 +1,23 @@
-*, *:after, *::before {
+*, *:before, *:after {
   box-sizing: border-box;
+  -webkit-box-sizing: border-box;
+-moz-box-sizing:border-box;
+margin: 0;
+padding: 0;
 }
 
 .nav-bar {
   float: right;
+  height: 80px;
+  width: 100%;
   font-family: 'Montserrat', sans-serif;
   font-size: 14px;
+  position: fixed;
+  padding: 32px;
 }
 
 .desktop {
-  background-color: #000;
+  background-color: #ffffff;
   overflow: hidden;
 }
 
@@ -23,15 +31,11 @@
 
 .work, .about, .resume, .contact {
   text-transform: uppercase;
-  font-size: 14px;
+  font-size: 12px;
 }
 
 ul {
   list-style-type: none;
-}
-
-li {
-  display: inline;
 }
 
 li a {
@@ -53,104 +57,126 @@ li a:link {
 }
 
 #hero {
-  width: 100%;
-  padding: 150px;
-  margin: 20px;
-  text-align: center;
-  font-size: 18px;
-  line-height: 180%;
+  width: auto;
+  height: 500px;
+  margin: auto;
+  font-size: 16px;
+  line-height: normal;
   font-family: 'Montserrat', sans-serif;
+  text-align: center;
+}
+
+.grid-hero {
+  margin: auto;
+  width: 80%;
+  padding: 200px;
 }
 
 .hello {
-  text-align: center;
   font-size: 60px;
 }
 
-div {
-  background-color: #FFFFFF;
-  box-sizing: border-box;  /* Add this */
-}
-
-
-.tagline-one, .tagline-two, .work-link {
+.tagline-one {
   font-size: 14px;
   line-height: inherit;
 }
 
+.tagline-two {
+  padding: 15px;
+  font-size: 12px;
+  line-height: inherit;
+}
+
+.view-work {
+  width: 80%;
+  font-size: 12px;
+}
+
 #hero div.view-work i.fa-caret-down {
   font-size: 1rem;
+  padding: 5px;
   padding-bottom: 1rem;
 }
 
-.stack {
-  width: 100%;
-  height: 400px;
-  padding: 50px;
-  box-sizing: border-box;
-  background-color: rgba(201, 175, 152, 0.2);
-}
-
-.stack-image {
-  width: 50%;
-  float: right;
-  padding-right: 50px;
-}
-
-.project-name {
-  font-family: 'Montserrat', sans-serif;
+a.primary-btn {
+  padding: 15px;
+  border-radius: 10px;
+  color: white;
+  text-align: center;
+  width: 200px;
+  border: none;
+  font-size: 14px;
   text-transform: uppercase;
-  width: 50%;
-  font-size: 18px;
-  padding-left: 100px;
+  font-family: 'Montserrat', sans-serif;
+  text-decoration: none;
+  display: inline-block;
+  background-color: #3A4660
 }
 
-.project-desc {
+/**DESIGN PROCESS**/
+.design-box-one {
+  width: auto%;
+  height: 300px;
+  margin-top: 20rem;
   font-family: 'Montserrat', sans-serif;
+  font-size: 16px;
+  background-color: rgba(201, 175, 152, 0.2);
+  margin-left: 91px;
+  margin-right: 91px;
+}
+
+.design-box-two {
+  width: 100%;
+  margin-top: 8rem;
+  height: 300px;
+  font-family: 'Montserrat', sans-serif;
+  font-size: 16px;
+  background-color: rgba(201, 175, 152, 0.1);
+}
+
+.process {
+  position: relative;
+  overflow: hidden;
+}
+
+.process-name {
+  padding: 40px;
+  text-align: left;
+  text-transform: uppercase;
+}
+
+.process-desc {
+  padding: 40px;
   text-align: left;
   font-size: 14px;
-  padding-left: 100px;
-  line-height: 150%;
-  padding-top: 50px;
-  padding-bottom: 50px;
 }
-
-a.primary-btn {
-  padding: 100px;
-  width: 48%;
-  border: #3A4660;
-  font-size: 14px;
-  text-transform: uppercase;
-  font-family: 'Montserrat', sans-serif;
-}
-
-section#design div.column-one {
-  float: left;
-  width: 50%;
-}
-
-section#design div.column-two {
-  float: right;
-  width: 50%;
-}
-
-
-.references {
-  text-align: center;
-  font-family: 'Montserrat', sans-serif;
-}
+/**END DESIGN PROCESS**/
 
 .testimonial-section {
   width: 100%;
-  box-sizing: border-box;
-  background-color: #E6DDDE;
+  height: 250px;
   padding: 50px;
+  margin-top: 25rem;
 }
 
-#contact {
-  width: 100%;
+.references {
+  width: 60%;
+  margin: auto;
+  text-align: center;
+  font-family: 'Montserrat', sans-serif;
+  font-size: 14px;
 }
 
+.reference-name {
+  width: 60%;
+  padding: 25px;
+  margin: auto;
+  text-align: right;
+  font-family: 'Montserrat', sans-serif;
+  font-size: 14px;
+}
+
+/**BOTTOM CONTACT INFO**/
 .contact-header {
   text-align: center;
 }
@@ -158,40 +184,9 @@ section#design div.column-two {
 .footer {
   position: absolute;
   width: 100%;
-  color: white;
   text-align: right;
   left: 0;
   bottom: 0;
-}
-
-.design-process {
-  box-sizing: border-box;
-  padding: 20px;
-  width: 100%;
-  height: 500px;
-}
-
-.process-name {
-  text-align: center;
-  text-transform: uppercase;
-  font-family: 'Montserrat', sans-serif;
-  padding: 25px;
-}
-
-.process-desc {
-  text-align: center;
-  font-family: 'Montserrat', sans-serif;
-  padding: 25px;
-  font-size: 14px;
-}
-
-.center {
-  display: block;
-  margin-left: auto;
-  margin-right: auto;
-  padding: 5px;
-  width: 50px;
-  height: 50px;
 }
 
 .contact-section {
@@ -226,15 +221,6 @@ section#design div.column-two {
   font-size: 14px;
 }
 
-div.contact-btns {
-width: 100%;
-margin: 0 auto;
-}
-
-.contact-btns .primary-btn {
-  width: 85%;
-}
-
 div.contact-btns a.get-in-touch {
   margin-right: 1.5rem;
   font-family: 'Montserrat', sans-serif;
@@ -245,8 +231,106 @@ div.contact-btns a.download-resume {
   font-family: 'Montserrat', sans-serif;
 }
 
+/**FEATURED PROJECTS**/
+.container-one {
+  width: auto;
+  float: left;
+  margin-left: 100px;
+}
+
+.container-two {
+  width: auto;
+  float: right;
+  margin-right: 100px;
+}
+
+.content {
+  position: relative;
+  width: 90%;
+  max-width: 400px;
+  margin: auto;
+  overflow: hidden;
+}
+
+.content .content-overlay {
+  background: rgba(230, 221, 222, 0.5);
+  position: absolute;
+  height: 99%;
+  width: 100%;
+  left: 0;
+  top: 0;
+  bottom: 0;
+  right: 0;
+  opacity: 0;
+  -webkit-transition: all 0.4s ease-in-out 0s;
+  -moz-transition: all 0.4s ease-in-out 0s;
+  transition: all 0.4s ease-in-out 0s;
+}
+
+.content:hover .content-overlay{
+  opacity: .5;
+}
+
+.content-image{
+  width: 100%;
+}
+
+.content-details {
+  position: absolute;
+  text-align: center;
+  padding-left: 1em;
+  padding-right: 1em;
+  width: 100%;
+  top: 50%;
+  left: 50%;
+  opacity: 0;
+  -webkit-transform: translate(-50%, -50%);
+  -moz-transform: translate(-50%, -50%);
+  transform: translate(-50%, -50%);
+  -webkit-transition: all 0.3s ease-in-out 0s;
+  -moz-transition: all 0.3s ease-in-out 0s;
+  transition: all 0.3s ease-in-out 0s;
+}
+
+.content:hover .content-details{
+  top: 50%;
+  left: 50%;
+  opacity: 1;
+}
+
+.content-details h3{
+  color: black;
+  font-weight: 500;
+  letter-spacing: 0.15em;
+  margin-bottom: 0.5em;
+  text-transform: uppercase;
+}
+
+.content-details p{
+  color: black;
+  font-size: 0.8em;
+}
+
+.fadeIn-top{
+  top: 20%;
+}
+/**END FEATURED PROJECTS**/
+
 @media screen and (max-width: 1024px) {
    header.mdl-layout__header {
      display: flex;
    }
  }
+
+ @media screen and (min-width: 900px){
+  .container{
+    width: 33.33333%;
+  }
+}
+
+@media screen and (max-width: 640px){
+  .container{
+    display: block;
+    width: 100%;
+  }
+}
