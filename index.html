@@ -2,7 +2,7 @@
 <html>
 <head>
   <meta charset="utf-8">
-  <meta name = "viewport" content="width=device-width, initial-scale=1">
+  <meta name ="viewport" content="width=device-width, initial-scale=1">
   <title>Jennifer Hong | UX Designer</title>
 
   <!--- CSS STYLESHEETS --->
@@ -17,21 +17,21 @@
   <link href="https://fonts.googleapis.com/css?family=Montserrat:300&display=swap" rel="stylesheet">
 </head>
 
-<!--- HEADER --->
 <body>
+  <!--- HEADER --->
   <header>
     <!--- NAV --->
     <nav class="nav-bar">
       <div class="desktop">
-      <a href="index.html"><img class="logo-size" src="images/jh.png" alt="JH logo"></a>
-    </div>
-        <ul>
-          <li><a class="logo" href="index.html"><img class="logo-size" src="images/jh.png" alt="JH logo"></a></li>
-          <li><a class="work" href="projects.html">work</a></li>
-          <li><a class="about" href="about.html">about</a></li>
-          <li><a class="resume" href="https://drive.google.com/file/d/1na1zdJSxlJQ1XaBgVsJx4gZPkdSvsARK/view?usp=sharing" target="_blank">resume</a></li>
-          <li><a class="contact" href="contact.html">contact</a></li>
-        </ul>
+        <a href="index.html"><img class="logo-size" src="images/jh.png" alt="JH logo"></a>
+      </div>
+      <ul>
+        <li><a class="logo" href="index.html"><img class="logo-size" src="images/jh.png" alt="JH logo"></a></li>
+        <li><a class="work" href="projects.html">work</a></li>
+        <li><a class="about" href="about.html">about</a></li>
+        <li><a class="resume" href="https://drive.google.com/file/d/1na1zdJSxlJQ1XaBgVsJx4gZPkdSvsARK/view?usp=sharing" target="_blank">resume</a></li>
+        <li><a class="contact" href="contact.html">contact</a></li>
+      </ul>
     </nav>
   </header>
 
@@ -51,36 +51,42 @@
 
 <!--- PROJECTS --->
 <section id="projects">
-  <div class="stack">
-    <a class="feat-project-display" href="stack.html">
-      <img class="stack-image" src="images/stack-project.jpeg" alt="stack-project">
+  <div class="container-one">
+    <div class="content"> <a href="stack.html" target="blank">
+      <div class="content-overlay"></div>
+      <img class="content-image" src="images/stack-project.jpeg">
+      <div class="content-details fadeIn-top">
+        <h3 class="content-title">stack</h3>
+        <p class="content-text">An iOS mobile application and webpage for a collaborative cloud storage solution</p>
+      </div>
     </a>
-    <article class="project-one">
-      <h3 class="project-name">Stack Cloud Storage</h3>
-      <p class="project-desc">An iOS mobile application and webpage for a collaborative cloud storage solution for students, professionals, and casual users.</p>
-      <a class="read-more primary-btn" href="stack.html">Read Case Study</a>
-    </article>
   </div>
+</div>
+<div class="container-two">
+  <div class="content"> <a href="stack.html" target="blank">
+    <div class="content-overlay"></div>
+    <img class="content-image" src="images/stack-project.jpeg">
+    <div class="content-details fadeIn-top">
+      <h3 class="content-title">portfolio</h3>
+      <p class="content-text">description</p>
+    </div>
+  </a>
+</div>
+</div>
 </section>
 
 <!--- DESIGN PROCESS --->
 <section id="design">
-  <div class="design-process">
-    <div class="column-one">
-    <h3 class="process-name"><span style="background-color: rgba(154, 77, 85, 0.5)"> Research </span></h3>
-    <img src="images/research.svg" alt="user research" class="center">
-    <p class="process-desc">Define the problem, gather user research, and competitive analysis.</p>
-    <h3 class="process-name"><span style="background-color: rgba(154, 77, 85, 0.5)"> Visual Design </span></h3>
-    <img src="images/design.svg" alt="visual design" class="center">
-    <p class="process-desc">Define the problem, gather user research, and competitive analysis.</p>
+  <div class="design-box-one">
+    <div class="process">
+      <h3 class="process-name">UX Design</h3>
+      <p class="process-desc">Define the problem, gather user research, and competitive analysis.</p>
     </div>
-    <div class="column-two">
-      <h3 class="process-name"><span style="background-color: rgba(154, 77, 85, 0.5)"> Test </span> </h3>
-      <img src="images/test.svg" alt="testing" class="center">
-      <p class="process-desc">Define the problem, gather user research, and competitive analysis.</p>
-      <h3 class="process-name"><span style="background-color: rgba(154, 77, 85, 0.5)"> Develop </span></h3>
-      <img src="images/develop.svg" alt="develop" class="center">
-      <p class="process-desc">Define the problem, gather user research, and competitive analysis.</p>
+    <div class="design-box-two">
+      <div class="process">
+        <h3 class="process-name">UI Design</h3>
+        <p class="process-desc">Define the problem, gather user research, and competitive analysis.</p>
+      </div>
     </div>
   </div>
 </section>
@@ -88,7 +94,8 @@
 <!--- TESTIMONIAL --->
 <section id="testimonial">
   <div class="testimonial-section">
-    <p class="references">Reference Paragraph Here</p>
+    <p class="references">"Reference Paragraph Here Reference Paragraph Here Reference Paragraph Here Reference Paragraph Here Reference Paragraph Here Reference Paragraph Here"</p>
+    <p class="reference-name"> - Reference Name</p>
   </div>
 </section>
 
@@ -99,8 +106,8 @@
         <h2 class="contact-header">Let's Connect!</h2>
       </div>
       <div class="contact-btns">
-        <a class="get-in-touch primary-btn" href="mailto:jennifer.hong13@gmail.com">Get in Touch</a>
-        <a class="download-resume primary-btn" href="https://drive.google.com/file/d/1na1zdJSxlJQ1XaBgVsJx4gZPkdSvsARK/view?usp=sharing" target="_blank">Download Resume</a>
+        <a class="get-in-touch-primary-btn" href="mailto:jennifer.hong13@gmail.com">Get in Touch</a>
+        <a class="download-resume-primary-btn" href="https://drive.google.com/file/d/1na1zdJSxlJQ1XaBgVsJx4gZPkdSvsARK/view?usp=sharing" target="_blank">Download Resume</a>
       </div>
       <div class="return-top bounce">
         <a class="return-link" href="#top">Return to Top</a>
