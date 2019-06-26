@@ -58,12 +58,16 @@ li a:link {
 
 #hero {
   width: auto;
-  height: 500px;
+  height: 550px;
   margin: auto;
   font-size: 16px;
   line-height: 2rem;
   font-family: 'Montserrat', sans-serif;
   text-align: center;
+}
+
+.highlight {
+  background: linear-gradient(180deg,rgba(255,255,255,0) 48%, rgba(237, 138, 99, 0.5) 45%);
 }
 
 .grid-hero {
@@ -75,7 +79,7 @@ li a:link {
 .hello {
   font-size: 68px;
   padding: 25px;
-  color: #C9AF98;
+  color: #3A4660;
 }
 
 .headline, .tagline-one {
@@ -89,15 +93,23 @@ li a:link {
   line-height: inherit;
 }
 
-.view-work {
-  width: 80%;
+.work-link {
+  margin-top: 10px;
+  text-align: center;
   font-size: 12px;
+  text-transform: uppercase;
+  text-decoration: none;
+  color: #3A4660;
+  width: 100%;
+  padding: 20px;
+  font-weight: bold;
 }
 
-#hero div.view-work i.fa-caret-down {
+i.fa-caret-down {
   font-size: 1rem;
   padding: 5px;
   padding-bottom: 1rem;
+  color: #3A4660
 }
 
 a.primary-btn {
@@ -165,7 +177,9 @@ a.primary-btn {
   width: 60%;
   margin: auto;
   text-align: center;
+  font-style: italic;
   font-family: 'Montserrat', sans-serif;
+  line-height: 2rem;
   font-size: 14px;
 }
 
@@ -174,6 +188,7 @@ a.primary-btn {
   padding: 25px;
   margin: auto;
   text-align: right;
+  text-transform: uppercase;
   font-family: 'Montserrat', sans-serif;
   font-size: 14px;
 }
@@ -181,6 +196,10 @@ a.primary-btn {
 /**BOTTOM CONTACT INFO**/
 .contact-header {
   text-align: center;
+  font-size: 48px;
+  text-transform: lowercase;
+  font-family: Sacramento;
+  color: #3A4660;
 }
 
 .footer {
@@ -192,12 +211,13 @@ a.primary-btn {
 }
 
 .contact-section {
-  box-sizing: border-box;
-  padding: 100px;
+  margin-top: 1rem;
+  padding: 20px;
   width: 100%;
   font-family: 'Montserrat', sans-serif;
 }
 .copyright {
+  padding-left: 32px;
   font-family: 'Montserrat', sans-serif;
   font-size: 10px;
   text-transform: uppercase;
@@ -218,19 +238,64 @@ a.primary-btn {
   color: rgba(154, 77, 85, 0.5);
 }
 
+.return-top-bounce {
+  width: 100%;
+  text-align: center;
+  padding: 20px;
+  font-size: 12px;
+}
+
 .return-link {
   font-family: 'Montserrat', sans-serif;
   font-size: 14px;
+  text-transform: uppercase;
+  text-align: center;
+  text-decoration: none;
+  color: #3A4660;
 }
 
-div.contact-btns a.get-in-touch {
+i.fa-caret-up {
+  color: #3A4660;
+  padding: 10px;
+  font-size: 1rem;
+}
+
+.contact-btns {
+  text-align: center;
+}
+
+.get-in-touch-primary-btn {
   margin-right: 1.5rem;
+  width: 200px;
+  display: inline-block;
   font-family: 'Montserrat', sans-serif;
+  text-transform: uppercase;
+  font-size: 14px;
+  text-align: center;
+  background-color: white;
+  padding: 10px 20px;
+  text-decoration: none;
+  border: 2px solid #3A4660;
+  color: #3A4660;
+  border-radius: 8px;
+  font-weight: bold;
 }
 
-div.contact-btns a.download-resume {
-  margin-left: 1rem;
+.download-resume-primary-btn {
+  margin-right: 1.5rem;
+  width: 200px;
+  display: inline-block;
   font-family: 'Montserrat', sans-serif;
+  text-transform: uppercase;
+  font-size: 14px;
+  text-align: center;
+  background-color: white;
+  padding: 10px 20px;
+  text-decoration: none;
+  border: 2px solid #3A4660;
+  color: #3A4660;
+  border-radius: 8px;
+  font-weight: bold;
 }
 
 /**FEATURED PROJECTS**/
