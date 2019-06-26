@@ -31,7 +31,7 @@ padding: 0;
 
 .work, .about, .resume, .contact {
   text-transform: uppercase;
-  font-size: 12px;
+  font-size: 14px;
 }
 
 ul {
@@ -61,29 +61,31 @@ li a:link {
   height: 500px;
   margin: auto;
   font-size: 16px;
-  line-height: normal;
+  line-height: 2rem;
   font-family: 'Montserrat', sans-serif;
   text-align: center;
 }
 
 .grid-hero {
   margin: auto;
-  width: 80%;
+  width: 90%;
   padding: 200px;
 }
 
 .hello {
-  font-size: 60px;
+  font-size: 68px;
+  padding: 25px;
+  color: #C9AF98;
 }
 
-.tagline-one {
-  font-size: 14px;
+.headline, .tagline-one {
+  font-size: 22px;
   line-height: inherit;
 }
 
 .tagline-two {
-  padding: 15px;
-  font-size: 12px;
+  padding: 20px;
+  font-size: 16px;
   line-height: inherit;
 }
 
@@ -233,20 +235,20 @@ div.contact-btns a.download-resume {
 
 /**FEATURED PROJECTS**/
 .container-one {
-  width: auto;
+  width: 100%;
   float: left;
-  margin-left: 100px;
+  margin-left: 91px;
 }
 
 .container-two {
-  width: auto;
+  width: 100%;
   float: right;
-  margin-right: 100px;
+  margin-right: 91px;
 }
 
 .content {
   position: relative;
-  width: 90%;
+  width: auto;
   max-width: 400px;
   margin: auto;
   overflow: hidden;
@@ -323,13 +325,13 @@ div.contact-btns a.download-resume {
  }
 
  @media screen and (min-width: 900px){
-  .container{
+  .container-one, .container-two {
     width: 33.33333%;
   }
 }
 
-@media screen and (max-width: 640px){
-  .container{
+@media screen and (max-width: 1024px){
+  .container-one, .container-two {
     display: block;
     width: 100%;
   }
