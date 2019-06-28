@@ -131,7 +131,7 @@ a.primary-btn {
 .design-box-one {
   width: auto%;
   height: 300px;
-  margin-top: 20rem;
+  margin-top: 25rem;
   font-family: 'Montserrat', sans-serif;
   font-size: 16px;
   background-color: rgba(201, 175, 152, 0.2);
@@ -314,7 +314,6 @@ i.fa-caret-up {
 .content {
   position: relative;
   width: auto;
-  max-width: 400px;
   margin: auto;
   overflow: hidden;
 }
@@ -391,11 +390,11 @@ i.fa-caret-up {
 
  @media screen and (min-width: 900px){
   .container-one, .container-two {
-    width: 33.33333%;
+    width: 40%;
   }
 }
 
-@media screen and (max-width: 1024px){
+@media screen and (max-width: 600px){
   .container-one, .container-two {
     display: block;
     width: 100%;
