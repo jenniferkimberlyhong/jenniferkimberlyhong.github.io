@@ -1,79 +1,74 @@
 *, *:before, *:after {
   box-sizing: border-box;
   -webkit-box-sizing: border-box;
--moz-box-sizing:border-box;
-margin: 0;
-padding: 0;
+  -moz-box-sizing:border-box;
+  margin: 0;
+  padding: 0;
 }
 
 .nav-bar {
-  float: right;
-  height: 80px;
   width: 100%;
   font-family: 'Montserrat', sans-serif;
-  font-size: 14px;
-  padding: 32px;
-}
-
-.desktop {
-  background-color: #ffffff;
-  overflow: hidden;
+  font-size: 12px;
+  margin-top: .5rem;
 }
 
 .logo-size {
-  position: absolute;
-  width: 25px;
-  height: 40px;
-  left: 32px;
-  top: 22px;
+  width: 70px;
+  height: 60px;
 }
 
-.about, .resume, .work {
-  text-transform: uppercase;
-  font-size: 12px;
-  width: 85px;
-  color: #3A4660;
-  font-weight: bold;
+ul.main-header {
+  list-style: none;
+  display: flex;
+  align-items: center;
+  justify-content: space-around;
+  flex: 1;
+  padding: 0;
 }
 
-ul {
+ul, li {
+  list-style: none;
+}
+
+li.main-header li {
   list-style-type: none;
+  margin: 0 2%;
 }
 
-li a {
-  display: inline;
-  padding: 20px;
-  text-decoration: none;
-}
-
-.nav-bar li a:hover {
-  color: rgba(154, 77, 85, 0.5);
-}
-
-.contact {
-  font-size: 12px;
+a {
+  color: black;
   text-transform: uppercase;
-  border-radius: 12px;
-  border: 10px;
-  width: 200px;
-  text-align: center;
-  background-color: #3A4660;
-  padding: 8px;
   text-decoration: none;
-  color: white;
-  font-weight: bold;
+  letter-spacing: 0.15em;
+  margin: 0 40px;
 }
 
+a:after {
+  background: none repeat scroll 0 0 transparent;
+  bottom: 0;
+  content: "";
+  display: block;
+  height: 2px;
+  left: 50%;
+  position: absolute;
+  background: black;
+  transition: width 0.3s ease 0s, left 0.3s ease 0s;
+  width: 0;
+}
+a:hover:after {
+  width: 100%;
+  left: 0;
+}
 
+/** HERO **/
 #hero {
   width: auto;
-  height: 550px;
+  height: 420px;
   margin: auto;
-  font-size: 16px;
-  line-height: 2rem;
+  line-height: 1.5rem;
   font-family: 'Montserrat', sans-serif;
-  text-align: center;
-  font-weight: bold;
+  text-align: left;
 }
 
 .highlight {
@@ -82,41 +77,32 @@ li a {
 
 .grid-hero {
   margin: auto;
-  width: 90%;
-  padding: 200px;
+  padding: 90px;
 }
 
 .hello {
-  font-size: 68px;
-  padding: 20px;
-  color: #3A4660;
+  font-size: 40px;
+  color: rgba(237, 138, 99, 1);
+  margin-top: 2rem;
+  margin-bottom: 1rem;
 }
 
 .headline, .tagline-one {
-  font-size: 22px;
-  line-height: inherit;
-}
-
-.tagline-two {
-  padding: 20px;
   font-size: 16px;
-  line-height: inherit;
+  width: 500px;
 }
 
 .work-link {
-  margin-top: 10px;
-  text-align: center;
-  font-size: 12px;
+  margin-top: 2rem;
+  font-size: 10px;
   text-transform: uppercase;
   text-decoration: none;
   color: #3A4660;
-  width: 100%;
-  padding: 20px;
   font-weight: bold;
 }
 
 i.fa-caret-down {
-  font-size: 1rem;
+  font-size: .8rem;
   padding: 5px;
   padding-bottom: 1rem;
   color: #3A4660
@@ -139,7 +125,7 @@ a.primary-btn {
 
 /**DESIGN PROCESS**/
 #design {
-  margin-top: 25rem;
+  margin-top: 45rem;
   padding: 32px;
   margin-left: 91px;
   margin-right: 91px;
@@ -356,6 +342,20 @@ i.fa-caret-up {
   margin-right: 91px;
 }
 
+.container-three {
+  margin-top: 1.5rem;
+  width: 40%;
+  float: left;
+  margin-left: 91px;
+}
+
+.container-four {
+  margin-top: 1.5rem;
+  width: 40%;
+  float: right;
+  margin-right: 91px;
+}
+
 .content {
   position: relative;
   width: auto;
@@ -364,7 +364,7 @@ i.fa-caret-up {
 }
 
 .content .content-overlay {
-  background: rgba(237, 138, 99, 0.5);
+  background: rgba(237, 138, 99, .8);
   position: absolute;
   height: 100%;
   width: 100%;
