@@ -73,6 +73,7 @@ li a {
   line-height: 2rem;
   font-family: 'Montserrat', sans-serif;
   text-align: center;
+  font-weight: bold;
 }
 
 .highlight {
@@ -137,52 +138,87 @@ a.primary-btn {
 }
 
 /**DESIGN PROCESS**/
-.design-box-one {
-  width: auto%;
-  height: 300px;
+#design {
   margin-top: 25rem;
-  font-family: 'Montserrat', sans-serif;
-  font-size: 16px;
-  background-color: rgba(201, 175, 152, 0.2);
+  padding: 32px;
   margin-left: 91px;
   margin-right: 91px;
-}
-
-.design-box-two {
-  width: 100%;
-  margin-top: 8rem;
   height: 300px;
   font-family: 'Montserrat', sans-serif;
-  font-size: 16px;
-  background-color: rgba(201, 175, 152, 0.1);
+  font-size: 14px;
 }
 
-.process {
+.design-header {
+  text-transform: uppercase;
+  font-weight: bolder;
+  margin-right: 64px;
+  font-size: 20px;
+  margin-bottom: 1.5rem;
+  text-align: center;
+}
+
+.design-header-two {
+  text-transform: uppercase;
+  margin-left: 128px;
+  font-weight: bolder;
+  font-size: 20px;
+  margin-bottom: 5rem;
+  text-align: center;
+}
+
+.design-left {
+  width: 33%;
+  float: left;
+  text-align: center;
+}
+
+.design-center {
+  display: inline-block;
+  text-align: center;
+  width: 33%;
+}
+
+.design-right {
+  float: right;
+  text-align: center;
+  width: 33%;
+}
+
+.paint-image {
+  margin-top: .5rem;
+  width: 5.5rem;
+  height: 4.2rem;
+  position: absolute;
+}
+
+.gif-image {
+  width: 6rem;
+  height: 6rem;
   position: relative;
-  overflow: hidden;
 }
 
 .process-name {
-  padding: 40px;
-  text-align: left;
+  padding: 20px;
+  text-align: center;
   text-transform: uppercase;
+  font-weight: bold;
 }
 
 .process-desc {
-  padding: 40px;
-  text-align: left;
-  font-size: 14px;
+  font-size: 12px;
+  line-height: 150%;
 }
 /**END DESIGN PROCESS**/
 
 .testimonial-section {
   width: 100%;
-  height: 250px;
-  padding: 50px;
-  margin-top: 25rem;
+  height: 300px;
+  margin-top: 12rem;
+  background-color: rgba(201, 175, 152, 0.2);
 }
 
 .references {
+  padding: 50px;
   width: 60%;
   margin: auto;
   text-align: center;
@@ -194,7 +230,7 @@ a.primary-btn {
 
 .reference-name {
   width: 60%;
-  padding: 25px;
+  padding: 50px;
   margin: auto;
   text-align: right;
   text-transform: uppercase;
@@ -220,7 +256,7 @@ a.primary-btn {
 }
 
 .contact-section {
-  margin-top: 1rem;
+  margin-top: 5rem;
   padding: 20px;
   width: 100%;
   font-family: 'Montserrat', sans-serif;
@@ -256,7 +292,7 @@ a.primary-btn {
 
 .return-link {
   font-family: 'Montserrat', sans-serif;
-  font-size: 14px;
+  font-size: 12px;
   text-transform: uppercase;
   text-align: center;
   text-decoration: none;
@@ -328,9 +364,9 @@ i.fa-caret-up {
 }
 
 .content .content-overlay {
-  background: rgba(230, 221, 222, 0.5);
+  background: rgba(237, 138, 99, 0.5);
   position: absolute;
-  height: 99%;
+  height: 100%;
   width: 100%;
   left: 0;
   top: 0;
@@ -343,7 +379,7 @@ i.fa-caret-up {
 }
 
 .content:hover .content-overlay{
-  opacity: .4;
+  opacity: 1;
 }
 
 .content-image{
@@ -375,15 +411,21 @@ i.fa-caret-up {
 
 .content-details h3{
   color: black;
-  font-weight: 500;
+  font-weight: bold;
+  font-size: 30px;
   letter-spacing: 0.15em;
   margin-bottom: 0.5em;
-  text-transform: uppercase;
+  text-transform: lowercase;
+  font-family: Montserrat;
 }
 
 .content-details p{
   color: black;
-  font-size: 0.8em;
+  font-weight: bold;
+  font-size: 12px;
+  line-height: 200%;
+  text-transform: uppercase;
+  font-family: Montserrat;
 }
 
 .fadeIn-top{
