@@ -44,23 +44,6 @@ a {
   margin: 0 40px;
 }
 
-a:after {
-  background: none repeat scroll 0 0 transparent;
-  bottom: 0;
-  content: "";
-  display: block;
-  height: 2px;
-  left: 50%;
-  position: absolute;
-  background: black;
-  transition: width 0.3s ease 0s, left 0.3s ease 0s;
-  width: 0;
-}
-a:hover:after {
-  width: 100%;
-  left: 0;
-}
-
 /** HERO **/
 #hero {
   width: auto;
@@ -126,7 +109,6 @@ a.primary-btn {
 /**DESIGN PROCESS**/
 #design {
   margin-top: 50rem;
-  padding: 32px;
   margin-left: 91px;
   margin-right: 91px;
   height: 300px;
@@ -168,6 +150,13 @@ a.primary-btn {
   float: right;
   text-align: center;
   width: 33%;
+}
+
+p {
+  text-align: justify;
+  width: 90%;
+  align-items: center;
+  justify-content: space-around;
 }
 
 .paint-image {
