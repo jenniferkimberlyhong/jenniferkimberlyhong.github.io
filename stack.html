@@ -4,13 +4,15 @@
   <meta charset="utf-8">
   <meta name ="viewport" content="width=device-width, initial-scale=1">
   <title>Jennifer Hong | UX Designer</title>
+
   <!--- CSS STYLESHEETS --->
   <link rel="stylesheet" href="css/style.css">
   <link rel="stylesheet" href="css/reset.css">
   <link rel="stylesheet" href="css/animate.css">
-  <link rel="stylesheet" href="css/stack.css">
   <link rel="stylesheet" href="https://use.fontawesome.com/releases/v5.3.1/css/all.css" integrity="sha384-mzrmE5qonljUremFsqc01SB46JvROS7bZs3IO2EmfFsd15uHvIt+Y8vEf7N7fWAU" crossorigin="anonymous">
   <link rel="shortcut icon" type="img/png" href="images/logo.png"/>
+  <link rel="stylesheet" href="css/stack.css">
+
   <!--- FONT --->
   <link href="https://fonts.googleapis.com/css?family=Sacramento&display=swap" rel="stylesheet">
   <link href="https://fonts.googleapis.com/css?family=Montserrat:300&display=swap" rel="stylesheet">
@@ -18,20 +20,18 @@
 
 <body>
   <!--- HEADER --->
+  <!--- NAV --->
   <header>
-    <!--- NAV --->
     <nav class="nav-bar">
-      <div class="desktop">
-        <a href="index.html"><img class="logo-size" src="images/jh.png" alt="JH logo"></a>
-      </div>
-      <ul>
-        <li><a class="logo" href="index.html"><img class="logo-size" src="images/jh.png" alt="JH logo"></a></li>
-        <li><a class="work" href="projects.html">work</a></li>
-        <li><a class="about" href="about.html">about</a></li>
-        <li><a class="resume" href="https://drive.google.com/file/d/1na1zdJSxlJQ1XaBgVsJx4gZPkdSvsARK/view?usp=sharing" target="_blank">resume</a></li>
-        <li><a class="contact" href="contact.html">contact</a></li>
+      <ul class="main-header">
+        <li><a href="about.html">about</a></li>
+        <li><a href="https://drive.google.com/file/d/1na1zdJSxlJQ1XaBgVsJx4gZPkdSvsARK/view?usp=sharing" target="_blank">resume</a></li>
+        <li><a href="index.html"><img class="logo-size" src="images/jh.png" alt="JH logo"></a></li>
+        <li><a href="projects.html">work</a></li>
+        <li><a href="contact.html">contact</a></li>
       </ul>
     </nav>
+  </header>
 
   <!--- HERO UNIT --->
   <section id="stack-hero">
@@ -43,56 +43,42 @@
 <!--- PROJECT NAVIGATION --->
 <section id="project-navigation">
   <nav id="project-menu" class="sticky">
-    <ul class="navbar-nav navcenter">
-      <li>
-        <a class="scrollspy" href="#overview-section">Overview</a>
-      </li>
-      <li>
-        <a class="scrollspy" href="#discovery-section">Discovery & Research</a>
-      </li>
-      <li>
-        <a class="scrollspy" href="#information-section">Information Architecture</a>
-      </li>
-      <li>
-        <a class="scrollspy" href="#wireframe-section">Wireframes & Testing</a>
-      </li>
-      <li>
-        <a class="scrollspy" href="#branding-section">Branding</a>
-      </li>
-      <li>
-        <a class="scrollspy" href="#visual-section">Visual Design</a>
-      </li>
-      <li>
-        <a class="scrollspy" href="#lessons-section">Lessons Learned</a>
-      </li>
+    <ul class="project-navbar">
+      <li><a class="scrollspy" href="#overview-section">Overview</a></li>
+      <li><a class="scrollspy" href="#discovery-section">Discovery & Research</a></li>
+      <li><a class="scrollspy" href="#information-section">Information Architecture</a></li>
+      <li><a class="scrollspy" href="#wireframe-section">Wireframes & Testing</a></li>
+      <li><a class="scrollspy" href="#branding-section">Branding</a></li>
+      <li><a class="scrollspy" href="#visual-section">Visual Design</a></li>
+      <li><a class="scrollspy" href="#lessons-section">Lessons Learned</a></li>
     </ul>
   </nav>
-  </header>
 
-<!--- OVERVIEW --->
-<section id="overview-section">
-  <div class="overview">
-    <h3 class="overview-header">Stack</h3>
+  <!--- OVERVIEW --->
+  <section id="overview-section">
+    <div class="overview">
+      <h3 class="overview-header">Stack</h3>
       <h2 class="overview-summary">Stack is a collaborative cloud storage solution for students, professionals, and casual users. It allows users one place to easily store, organize, manage, and share files on the cloud.</h2>
       <div class="contact-btns1">
-        <a class="desktop-prototype primary-btn" href="" target ="_blank">Desktop Prototype</a>
-        <a class="mobile-prototype primary-btn" href="" target ="_blank">Mobile Prototype</a>
+        <a class="desktop-prototype-primary-btn" href="" target ="_blank">Desktop Prototype</a>
+        <a class="mobile-prototype-primary-btn" href="" target ="_blank">Mobile Prototype</a>
       </div>
     </div>
-    <div class="project-details">
+    <article class="project-details">
       <div class="roles">
-        <img src="" alt="role icon">
-        <h2 class="title">Role</h2>
-        <ul>
+        <img class="role-icon" src="images/roles.png" alt="role icon">
+        <h4>Role</h4>
+        <ul class="listing">
           <li>UX Design</li>
           <li>UI Design</li>
           <li>Branding</li>
         </ul>
       </div>
+
       <div class="deliverable">
-        <img src="" alt="deliverable icon">
-        <h2 class="title">Deliverables</h2>
-        <ul>
+        <img class="deliverable-icon" src="images/deliverable.svg" alt="deliverable icon">
+        <h4>Deliverables</h4>
+        <ul class="listing">
           <li>Competitive Analysis</li>
           <li>User Survey</li>
           <li>User Personas</li>
@@ -106,10 +92,11 @@
           <li>Visual Design</li>
         </ul>
       </div>
+
       <div class="design-tools">
-        <img src="" alt="tools icon">
-        <h2 class="title">Tools & Softwares</h2>
-        <ul>
+        <img class="design-icon" src="images/tools.svg" alt="tools icon">
+        <h4>Tools & Softwares</h4>
+        <ul class="listing">
           <li>Figma</li>
           <li>Sketch</li>
           <li>GitHub</li>
@@ -120,46 +107,49 @@
           <li>UsabilityHub</li>
         </ul>
       </div>
-      <div class="challenge">
-        <h3 class="challenge-title">The Challenge</h3>
-        <h2 class="challenge-subtitle">Understanding the Problem</h2>
+      </article>
+
+      <article class="challenge">
+        <h2 class="challenge-title">The Challenge</h2>
+        <h3 class="challenge-subtitle">Understanding the Problem</h3>
         <p class="challenge-desc">The Client wants to join the cloud storage and organization market. There are big name competitors but the market is young and have room for another competitor.
 The Client is looking for a collaborative networking tool with a combination of features to attract an audience. They do not have a name, brand, or know if it will accessible by web or mobile. There are a lot of decisions to be made and research to understand the market and create a collaborative cloud storage solution.</p>
-</div>
-<div class="problem">
-  <h3 class="problem-title">The Problem</h3>
-  <h2 class="problem-subtitle"> </h2>
+</article>
+
+<article class="problem">
+  <h2 class="problem-title">The Problem</h2>
+  <h3 class="problem-subtitle"> Understanding the issues</h3>
   <p class="problem-desc">Stack’s goal is to provide users one place to easily store, organize, manage, and share files on the cloud.</p>
-    </section>
+</article>
+</section>
 
 <!--- DISCOVERY & RESEARCH --->
 <section id="discovery-section">
   <div class="discovery-title">
-    <h2 class="discovery-title-chapter"> SECTION I | DISCOVERY & RESEARCH </h2>
-    <div class="competitive-section">Competitive Analysis</div>
+    <h1 class="discovery-title-chapter"> <span class="highlight">SECTION I | DISCOVERY & RESEARCH</span> </h1>
+    <h2 class="competitive-section">Competitive Analysis</h2>
     <h3 class="competitive-subtitle">Turning weaknesses into strengths</h3>
     <img class="comp" src="images/competitive-analysis-overview.svg" alt="comp image">
     <p class="competitive-desc">The cloud storage market is saturated with big name competitors. To understand this market and its competitors, I researched 3 of the top cloud storage products that are vastly different but have unique characteristics that make it successful: Evernote, Google Drive, and Pinterest. To compete in this market, the product will need to provide functions that are important to the targeted users. A successful product will be a combination of the three with the ability to collaborate seamlessly in real time and create actionable items from bookmarked items.</p>
   </div>
   <div class="user-survey">
-    <div class="survey-section">User Surveys</div>
+    <h2 class="survey-section">User Surveys</h2>
     <h3 class="survey-subtitle">Who are the cloud storage users?</h3>
     <p class="survey-desc">To learn about the potential audience, I created a survey with Google Forms and conducted it to students and working professionals to research the important features and user experience of a cloud storage application.</p>
     <img class="survey-image" src="images/user-survey-pic.png" alt="survey image">
     </div>
     <div class="user-personas">
-      <div class="persona-section">User Personas<div>
+      <h2 class="persona-section">User Personas</h2>
         <h3 class="persona-subtitle">Bringing the Users to Life</h3>
         <img class="persona-one" src="images/persona-one.png" alt="persona image one">
         <img class="persona-two" src="images/persona-two.png" alt="persona image two">
         </div>
-</div>
   </section>
 
 <!--- INFORMATION ARCHITECTURE --->
 <section id="information-section">
-  <h2 class="information-title-chapter"> SECTION II | INFORMATION ARCHITECTURE </h2>
-  <div class="stories-section">User Stories & User Flows</div>
+  <h1 class="information-title-chapter"> SECTION II | INFORMATION ARCHITECTURE </h1>
+  <h2 class="stories-section">User Stories & User Flows</h2>
   <h3 class="stories-subtitle">Defining user goals and mapping out the MVPs</h3>
   <p class="stories-desc">Based on the user research, I began prioritizing the tasks by user importance and constructing the sitemap as a foundation for Stack’s and web and mobile application.</p>
   <h2 class="MVP-title">Minimum Viable Product (MVP)</h2>
@@ -179,16 +169,16 @@ The Client is looking for a collaborative networking tool with a combination of 
 
 <!--- WIREFRAMES & TESTING --->
 <section id="wireframe-section">
-  <h2 class="wireframe-title-chapter"> SECTION III | WIREFRAMES & TESTING </h2>
+  <h1 class="wireframe-title-chapter"> SECTION III | WIREFRAMES & TESTING </h1>
   <div class="lofi-wireframe">
-    <h3 class="wireframe-subtitle">Low Fidelity Wireframes</h3>
+    <h2 class="wireframe-subtitle">Low Fidelity Wireframes</h2>
     <h3 class="wireframe-subsection">The Foundation</h3>
     <p class="wireframe-desc">After creating the information architecture, I began creating low fidelity wireframes and transferring it onto Figma. I started wireframing the landing page, it is where users will create an account and learn about the product and application of Stack and the most important as it is the first impression to new users.</p>
     <img class="wireframe-image-one" src="images/." alt="">
     <img class="wireframe-image-two" src="images/." alt="">
   </div>
   <div class="usability">
-    <div class="usability-testing-title"Usability Testing</div>
+    <h2 class="usability-testing-title"Usability Testing</h2>
       <h3 class="usability-subtitle"> </h3>
       <p class="usability-desc">After the usability testing, I was able to see that my 2 participants were able to get through the 3 processes somewhat easily.
 Signing up for a new account is an easy process
@@ -205,18 +195,18 @@ Maybe add another window when clicking on Move instead of just the folders showi
 
 <!--- BRANDING --->
 <section id="branding-section">
-  <h2 class="branding-title-chapter"> SECTION IV | BRANDING </h2>
+  <h1 class="branding-title-chapter"> SECTION IV | BRANDING </h1>
   <div class="logo">
-    <h3 class="logo-title">Logo</h3>
+    <h2 class="logo-title">Logo</h2>
     <img class="logo-image" src="images/.">
     <img class="logo-image-two" src="images/.">
     </div>
     <div class="typography">
-      <h3 class="typo-title">Typography</h3>
+      <h2 class="typo-title">Typography</h2>
       <img class="typo-image" src="images/.">
       </div>
       <div class="color palette">
-        <h3 class="color-title">Color Palette</h3>
+        <h2 class="color-title">Color Palette</h2>
         <img class="color-image" src="images/.">
         </div>
   </section>
@@ -224,36 +214,36 @@ Maybe add another window when clicking on Move instead of just the folders showi
 
 <!--- VISUAL DESIGN --->
 <section id="visual-section">
-  <h2 class="visual-title-chapter"> SECTION V | VISUAL DESIGN </h2>
+  <h1 class="visual-title-chapter"> SECTION V | VISUAL DESIGN </h1>
   <div class="hifi-prototype">
-    <h3 class="hifi-title">High Fidelity Mockup</h3>
+    <h2 class="hifi-title">High Fidelity Mockup</h2>
     <img class="hifi-image" src="images/.">
     </div>
     <div class="preference-testing">
-      <h3 class="preference-title">Preference Testing</h3>
+      <h2 class="preference-title">Preference Testing</h2>
       <p class="preference-desc">Usability Tests are a great way to see participants utilize the website and see if it is intuitive or if it’s challenging for them to navigate throughout the site. Based on the 3 tests performed, I will be updating the design based on feedback. I received questions on page navigation, missing steps, and design decisions. These feedback are great for me to go back and understand where the struggles are for users. When I’m creating these sometimes, I do tend to forget a few steps since I understand what I’m doing but it’s good to see from another perspective. I also do agree that I can use updates to the design especially with the use of colors and images. And the other top item of page navigation, I believe there are few places on the website that need easier/faster navigation than clicking on the logo. Based on this test, I'll be going back to my hi-fi mock-up and updating based on user feedback as well as feedback from the preference tests. </p>
       <img class="preference-image" src="images/.">
       </div>
       <div class="final-product">
-        <h3 class="final-title">Final Prototype</h3>
+        <h2 class="final-title">Final Prototype</h2>
         <img class="final-image" src="images/.">
         </div>
   </section>
 
 <!--- LESSONS LEARNED --->
 <section id="lessons-section">
-  <h2 class="lessons-title-chapter"> SECTION VI | LESSONS LEARNED </h2>
+  <h1 class="lessons-title-chapter"> SECTION VI | LESSONS LEARNED </h1>
   <div class="lessons-one">
-    <h3 class="lessons-one-title">Test Early and Often</h3>
+    <h2 class="lessons-one-title">Test Early and Often</h2>
     </div>
     <div class="lessons-two">
-      <h3 class="lessons-two-title">Test all your options</h3>
+      <h2 class="lessons-two-title">Test all your options</h2>
       </div>
       <div class="lessons-three">
-        <h3 class="lessons-three-title">Spend more time wireframing</h3>
+        <h2 class="lessons-three-title">Spend more time wireframing</h2>
         </div>
         <div class="additional-changes">
-          <h3 class="changes-title">Additional Changes</h3>
+          <h2 class="changes-title">Additional Changes</h2>
           <p class="changes-desc">I would focus more on the landing page. This is the main page where users will go to when discovering the application. Possibly include more images onto this page. I also learned about preference testing during this project and believe this is important to learn users preference on the visual design of the webpage.</p>
           </div>
 
