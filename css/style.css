@@ -46,31 +46,32 @@ a {
 
 /** HERO **/
 #hero {
-  width: auto;
-  height: 420px;
-  margin: auto;
-  line-height: 1.5rem;
+  width: 100%;
+  height: 300px;
+  margin-top: 5rem;
+  line-height: 140%;
   font-family: 'Montserrat', sans-serif;
   text-align: left;
 }
 
 .highlight {
-  background: linear-gradient(180deg,rgba(255,255,255,0) 48%, rgba(237, 138, 99, 0.5) 45%);
+  background: linear-gradient(180deg,rgba(255,255,255,0) 48%, rgba(117, 142, 133, 0.4) 45%);
 }
 
 .grid-hero {
   margin: auto;
-  padding: 90px;
 }
 
 .hello {
-  font-size: 40px;
-  color: rgba(237, 138, 99, 1);
+  font-size: 50px;
+  color: #758E85;
+  margin-left: 96px;
   margin-top: 2rem;
-  margin-bottom: 1rem;
+  margin-bottom: 2rem;
 }
 
 .headline, .tagline-one {
+  margin-left: 96px;
   font-size: 16px;
   width: 500px;
 }
@@ -109,8 +110,8 @@ a.primary-btn {
 /**DESIGN PROCESS**/
 #design {
   margin-top: 50rem;
-  margin-left: 91px;
-  margin-right: 91px;
+  margin-left: 128px;
+  margin-right: 128px;
   height: 300px;
   font-family: 'Montserrat', sans-serif;
   font-size: 14px;
@@ -181,7 +182,7 @@ p {
 
 .process-desc {
   font-size: 12px;
-  line-height: 150%;
+  line-height: 140%;
 }
 /**END DESIGN PROCESS**/
 
@@ -199,7 +200,7 @@ p {
   text-align: center;
   font-style: italic;
   font-family: 'Montserrat', sans-serif;
-  line-height: 2rem;
+  line-height: 140%;
   font-size: 14px;
 }
 
@@ -216,10 +217,11 @@ p {
 /**BOTTOM CONTACT INFO**/
 .contact-header {
   text-align: center;
-  font-size: 48px;
+  font-size: 40px;
+  font-weight: bold;
   text-transform: lowercase;
-  font-family: Sacramento;
-  color: #3A4660;
+  font-family: Montserrat;
+  color: #758E85;
 }
 
 .footer {
@@ -243,8 +245,14 @@ p {
   text-transform: uppercase;
 }
 
-.social-media ul,li {
+ul.social-media {
   display: inline;
+  float: right;
+}
+
+li.social-media {
+  display: inline-block;
+  list-style-type: none;
   float: right;
 }
 
@@ -252,10 +260,11 @@ p {
   display: inline;
   padding: 20px;
   text-decoration: none;
+  color: black;
 }
 
 .social-media li a:hover {
-  color: rgba(154, 77, 85, 0.5);
+  color: #758E85;
 }
 
 .return-top-bounce {
@@ -271,11 +280,11 @@ p {
   text-transform: uppercase;
   text-align: center;
   text-decoration: none;
-  color: #3A4660;
+  color: #758E85;
 }
 
 i.fa-caret-up {
-  color: #3A4660;
+  color: #758E85;
   padding: 10px;
   font-size: 1rem;
 }
@@ -286,63 +295,59 @@ i.fa-caret-up {
 
 .get-in-touch-primary-btn {
   margin-right: 1.5rem;
-  width: 200px;
+  width: 250px;
   display: inline-block;
   font-family: 'Montserrat', sans-serif;
   text-transform: uppercase;
   font-size: 14px;
   text-align: center;
   background-color: white;
-  padding: 10px 20px;
+  padding: 20px 20px;
   text-decoration: none;
-  border: 2px solid #3A4660;
-  color: #3A4660;
+  border: 2px solid #758E85;
+  color: #758E85;
   border-radius: 8px;
   font-weight: bold;
 }
 
 .download-resume-primary-btn {
   margin-right: 1.5rem;
-  width: 200px;
+  width: 250px;
   display: inline-block;
   font-family: 'Montserrat', sans-serif;
   text-transform: uppercase;
   font-size: 14px;
   text-align: center;
   background-color: white;
-  padding: 10px 20px;
+  padding: 20px 20px;
   text-decoration: none;
-  border: 2px solid #3A4660;
-  color: #3A4660;
+  border: 2px solid #758E85;
+  color: #758E85;
   border-radius: 8px;
   font-weight: bold;
 }
 
 /**FEATURED PROJECTS**/
 .container-one {
-  width: 50%;
   float: left;
-  margin-left: 91px;
+  margin-left: 96px;
 }
 
 .container-two {
-  width: 50%;
   float: right;
-  margin-right: 91px;
+  margin-right: 96px;
 }
 
 .container-three {
   margin-top: 1.5rem;
-  width: 40%;
   float: left;
-  margin-left: 91px;
+  margin-left: 96px;
 }
 
 .container-four {
   margin-top: 1.5rem;
-  width: 40%;
   float: right;
-  margin-right: 91px;
+  margin-right: 96px;
 }
 
 .content {
@@ -406,15 +411,17 @@ i.fa-caret-up {
   margin-bottom: 0.5em;
   text-transform: lowercase;
   font-family: Montserrat;
+  text-align: center;
 }
 
 .content-details p{
   color: black;
   font-weight: bold;
   font-size: 12px;
-  line-height: 200%;
+  line-height: 140%;
   text-transform: uppercase;
   font-family: Montserrat;
+  text-align: center;
 }
 
 .fadeIn-top{
@@ -429,13 +436,13 @@ i.fa-caret-up {
  }
 
  @media screen and (min-width: 900px){
-  .container-one, .container-two {
+  .container-one, .container-two, .container-three, .container-four {
     width: 40%;
   }
 }
 
 @media screen and (max-width: 600px){
-  .container-one, .container-two {
+  .container-one, .container-two, .container-three, .container-four {
     display: block;
     width: 100%;
   }
