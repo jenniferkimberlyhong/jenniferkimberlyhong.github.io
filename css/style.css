@@ -6,10 +6,12 @@
   padding: 0;
 }
 
+:root {font-size:16px}
+
 .nav-bar {
   width: 100%;
   font-family: 'Montserrat', sans-serif;
-  font-size: 12px;
+  font-size: 0.75em;
   margin-top: .5rem;
 }
 
@@ -49,7 +51,7 @@ a {
   width: 100%;
   height: 300px;
   margin-top: 5rem;
-  line-height: 140%;
+  line-height: 150%;
   font-family: 'Montserrat', sans-serif;
   text-align: left;
 }
@@ -63,7 +65,7 @@ a {
 }
 
 .hello {
-  font-size: 50px;
+  font-size: 3.125em;
   color: #758E85;
   margin-left: 96px;
   margin-top: 2rem;
@@ -72,13 +74,13 @@ a {
 
 .headline, .tagline-one {
   margin-left: 96px;
-  font-size: 16px;
+  font-size: 1em;
   width: 500px;
 }
 
 .work-link {
   margin-top: 2rem;
-  font-size: 10px;
+  font-size: 0.625em;
   text-transform: uppercase;
   text-decoration: none;
   color: #3A4660;
@@ -86,7 +88,7 @@ a {
 }
 
 i.fa-caret-down {
-  font-size: .8rem;
+  font-size: .825em;
   padding: 5px;
   padding-bottom: 1rem;
   color: #3A4660
@@ -99,7 +101,7 @@ a.primary-btn {
   text-align: center;
   width: 200px;
   border: none;
-  font-size: 14px;
+  font-size: 0.875em;
   text-transform: uppercase;
   font-family: 'Montserrat', sans-serif;
   text-decoration: none;
@@ -114,14 +116,14 @@ a.primary-btn {
   margin-right: 128px;
   height: 300px;
   font-family: 'Montserrat', sans-serif;
-  font-size: 14px;
+  font-size: 0.875em;
 }
 
 .design-header {
   text-transform: uppercase;
   font-weight: bolder;
   margin-right: 64px;
-  font-size: 20px;
+  font-size: 1.25em;
   margin-bottom: 1.5rem;
   text-align: center;
 }
@@ -130,7 +132,7 @@ a.primary-btn {
   text-transform: uppercase;
   margin-left: 128px;
   font-weight: bolder;
-  font-size: 20px;
+  font-size: 1.25em;
   margin-bottom: 5rem;
   text-align: center;
 }
@@ -181,8 +183,8 @@ p {
 }
 
 .process-desc {
-  font-size: 12px;
-  line-height: 140%;
+  font-size: 0.75em;
+  line-height: 150%;
 }
 /**END DESIGN PROCESS**/
 
@@ -200,8 +202,8 @@ p {
   text-align: center;
   font-style: italic;
   font-family: 'Montserrat', sans-serif;
-  line-height: 140%;
-  font-size: 14px;
+  line-height: 150%;
+  font-size: 0.875em;
 }
 
 .reference-name {
@@ -211,13 +213,13 @@ p {
   text-align: right;
   text-transform: uppercase;
   font-family: 'Montserrat', sans-serif;
-  font-size: 14px;
+  font-size: 0.875em;
 }
 
 /**BOTTOM CONTACT INFO**/
 .contact-header {
   text-align: center;
-  font-size: 40px;
+  font-size: 2.5em;
   font-weight: bold;
   text-transform: lowercase;
   font-family: Montserrat;
@@ -241,18 +243,12 @@ p {
 .copyright {
   padding-left: 32px;
   font-family: 'Montserrat', sans-serif;
-  font-size: 10px;
+  font-size: 0.625em;
   text-transform: uppercase;
 }
 
-ul.social-media {
+ul.social-media li {
   display: inline;
-  float: right;
-}
-
-li.social-media {
-  display: inline-block;
-  list-style-type: none;
   float: right;
 }
 
@@ -271,12 +267,12 @@ li.social-media {
   width: 100%;
   text-align: center;
   padding: 20px;
-  font-size: 12px;
+  font-size: 0.75em;
 }
 
 .return-link {
   font-family: 'Montserrat', sans-serif;
-  font-size: 12px;
+  font-size: 0.75em;
   text-transform: uppercase;
   text-align: center;
   text-decoration: none;
@@ -299,7 +295,7 @@ i.fa-caret-up {
   display: inline-block;
   font-family: 'Montserrat', sans-serif;
   text-transform: uppercase;
-  font-size: 14px;
+  font-size: 0.875em;
   text-align: center;
   background-color: white;
   padding: 20px 20px;
@@ -316,7 +312,7 @@ i.fa-caret-up {
   display: inline-block;
   font-family: 'Montserrat', sans-serif;
   text-transform: uppercase;
-  font-size: 14px;
+  font-size: 0.875em;
   text-align: center;
   background-color: white;
   padding: 20px 20px;
@@ -406,7 +402,7 @@ i.fa-caret-up {
 .content-details h3{
   color: black;
   font-weight: bold;
-  font-size: 30px;
+  font-size: 1.875em;
   letter-spacing: 0.15em;
   margin-bottom: 0.5em;
   text-transform: lowercase;
@@ -417,8 +413,8 @@ i.fa-caret-up {
 .content-details p{
   color: black;
   font-weight: bold;
-  font-size: 12px;
-  line-height: 140%;
+  font-size: 0.75em;
+  line-height: 150%;
   text-transform: uppercase;
   font-family: Montserrat;
   text-align: center;

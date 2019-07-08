@@ -1,6 +1,6 @@
 #stack-hero {
   width: 100%;
-  height: 500px;
+  height: 31.25rem;
   margin: auto;
   align-items: center;
 }
@@ -8,8 +8,8 @@
 .stack-hero {
   height: auto;
   width: auto;
-  margin-left: 128px;
-  margin-right: 128px;
+  margin-left: 8rem;
+  margin-right: 8rem;
 }
 
 #project-navigation {
@@ -19,7 +19,7 @@
 
 ul.project-navbar {
   list-style: none;
-  font-size: 10px;
+  font-size: 0.625rem;
   display: flex;
   align-items: center;
   justify-content: space-around;
@@ -30,13 +30,19 @@ ul.project-navbar {
 ul.listing {
   text-align: center;
   list-style-type: none;
-  line-height: 140%;
+  line-height: 150%;
+}
+
+.listing li {
+  text-align: center;
+  list-style-type: none;
+  line-height: 150%;
 }
 
 body {
   font-family: "Montserrat";
   font-size: 14px;
-  line-height: 140%;
+  line-height: 150%;
 }
 
 #overview-section {
@@ -120,8 +126,8 @@ body {
   margin-top: 3rem;
   margin-bottom: 5rem;
   text-align: center;
-  margin-left: 128px;
-  margin-right: 128px;
+  margin-left: 8rem;
+  margin-right: 8rem;
 }
 
 .role-icon, .deliverable-icon, .design-icon {
@@ -152,15 +158,15 @@ h1 {
   text-align: left;
   font-weight: bold;
   margin-bottom: 5rem;
-  margin-left: 128px;
-  margin-right: 128px;
+  margin-left: 8rem;
+  margin-right: 8rem;
   text-transform: uppercase;
   font-size: 2rem;
 }
 
 h2 {
-  margin-left: 128px;
-  margin-right: 128px;
+  margin-left: 8rem;
+  margin-right: 8rem;
   text-align: left;
   margin-bottom: .5rem;
   font-size: 1.75rem;
@@ -172,8 +178,8 @@ h2 {
 }
 
 h3 {
-  margin-left: 128px;
-  margin-right: 128px;
+  margin-left: 8rem;
+  margin-right: 8rem;
   font-style: italic;
   text-align: left;
   margin-top: 1rem;
@@ -183,8 +189,8 @@ h3 {
 }
 
 h4 {
-  margin-left: 128px;
-  margin-right: 128px;
+  margin-left: 8rem;
+  margin-right: 8rem;
   font-style: normal;
   text-align: center;
   font-weight: bold;
@@ -195,8 +201,8 @@ h4 {
 }
 
 h5 {
-  margin-left: 128px;
-  margin-right: 128px;
+  margin-left: 8rem;
+  margin-right: 8rem;
   font-style: normal;
   text-align: left;
   margin-bottom: 1rem;
@@ -215,8 +221,8 @@ h6 {
 }
 
 p {
-  margin-left: 128px;
-  margin-right: 128px;
+  margin-left: 8rem;
+  margin-right: 8rem;
   font-size: 1rem;
   text-align: justify;
   margin-bottom: 1rem;
@@ -232,7 +238,7 @@ p {
   height: auto;
   width: 35%;
   float: right;
-  margin-right: 128px;
+  margin-right: 8rem;
 }
 
 .competitive-desc {
@@ -243,14 +249,14 @@ p {
   width: 38%;
   height: auto;
   float: left;
-  margin-left: 128px;
+  margin-left: 8rem;
 }
 
 .persona-two {
   width: 38%;
   height: auto;
   float: right;
-  margin-right: 128px;
+  margin-right: 8rem;
 }
 
 .user-survey {
@@ -288,14 +294,14 @@ p {
   height: auto;
   padding-left: 45px;
   padding-right: 45px;
-  margin-left: 128px;
-  margin-right: 128px;
+  margin-left: 8rem;
+  margin-right: 8rem;
   margin-bottom: 1rem;
 }
 
 .result-one, .result-two, .result-three, .result-four {
   width: 60%;
-  margin-right: 128px;
+  margin-right: 8rem;
 }
 
 .survey-desc {
@@ -305,8 +311,8 @@ p {
 .percentage {
   font-size: 12px;
   text-align: center;
-  margin-left: 128px;
-  margin-right: 128px;
+  margin-left: 8rem;
+  margin-right: 8rem;
 }
 
 .percentages {
@@ -319,7 +325,7 @@ p {
 
 .results {
   column-count: 4;
-  margin-right: 128px;
+  margin-right: 8rem;
   column-gap: auto;
   column-width: 100%;
 }
@@ -333,8 +339,8 @@ p {
 }
 
 .MVP-items {
-  margin-left: 128px;
-  line-height: 140%;
+  margin-left: 8rem;
+  line-height: 150%;
 }
 
 .example-mvp {
@@ -343,8 +349,8 @@ p {
 
 .example-mvp-image {
   width: 80%;
-  margin-left: 128px;
-  margin-right: 128px;
+  margin-left: 8rem;
+  margin-right: 8rem;
   align-items: center;
 }
 
@@ -360,7 +366,7 @@ p {
 
 .wireframe-image-one {
   float:left;
-  margin-left: 128px;
+  margin-left: 8rem;
   width: 36%;
   border-width: thin;
   border-style: solid;
@@ -373,13 +379,13 @@ p {
   border-style: solid;
   border-color: black;
   float: right;
-  margin-right: 128px;
+  margin-right: 8rem;
 }
 
 .wireframe-image-three {
   margin-top: 1rem;
   float:left;
-  margin-left: 128px;
+  margin-left: 8rem;
   width: 36%;
   border-width: thin;
   border-style: solid;
@@ -393,15 +399,15 @@ p {
   border-style: solid;
   border-color: black;
   float: right;
-  margin-right: 128px;
+  margin-right: 8rem;
 }
 
 .feedback {
-  margin-left: 128px;
-  margin-right: 128px;
+  margin-left: 8rem;
+  margin-right: 8rem;
   max-width: 624px;
   font-style: italic;
-  line-height: 140%;
+  line-height: 150%;
   list-style-type: circle;
 }
 
@@ -419,10 +425,10 @@ p {
 }
 
 .logo-image, .typo-image, .color-image {
-  margin-left: 128px;
+  margin-left: 8rem;
   margin-top: 2rem;
   margin-bottom: 2rem;
-  margin-right: 128px;
+  margin-right: 8rem;
 }
 
 .color-image {
@@ -442,18 +448,18 @@ p {
   margin-top: 2rem;
   width: 20%;
   height: auto;
-  margin-left: 128px;
+  margin-left: 8rem;
   border-width: thin;
   border-style: solid;
   border-color: black;
 }
 
 .preference-image {
-  margin-left: 128px;
+  margin-left: 8rem;
   height: auto;
   width: 38%;
   float: right;
-  margin-right: 128px;
+  margin-right: 8rem;
 }
 
 .preference-desc {
@@ -465,4 +471,25 @@ p {
   height: 600px;
   margin-top: 20rem;
   width: auto;
+}
+
+#contact {
+  width: 100%;
+  text-align: center;
+}
+
+.contact-header {
+  text-align: center;
+  max-width: 100%;
+}
+
+.copyright-name {
+  font-size: 10px;
+  float: left;
+  margin: 32px;
+}
+
+.social-media li{
+  float: right;
+  display: inline-block;
 }
