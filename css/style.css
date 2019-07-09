@@ -70,6 +70,7 @@ a {
   margin-left: 96px;
   margin-top: 2rem;
   margin-bottom: 2rem;
+  width: 100%;
 }
 
 .headline, .tagline-one {
@@ -431,6 +432,12 @@ i.fa-caret-up {
    }
  }
 
+ @media screen and (min-width: 1024px){
+  .container-one, .container-two, .container-three, .container-four {
+    width: 40%;
+  }
+}
+
  @media screen and (min-width: 900px){
   .container-one, .container-two, .container-three, .container-four {
     width: 40%;
@@ -442,4 +449,17 @@ i.fa-caret-up {
     display: block;
     width: 100%;
   }
+}
+
+@media screen and (max-width: 480px){
+  .container-one, .container-two, .container-three, .container-four {
+    display: block;
+    width: 100%;
+  }
+}
+
+@media only screen and (max-width: 480px) {
+body {
+font-size: 14px;
+}
 }
