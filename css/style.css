@@ -67,7 +67,7 @@ a {
 .hello {
   font-size: 3.125em;
   color: #758E85;
-  margin-left: 6em;
+  margin-left: 96px;
   margin-top: 2rem;
   margin-bottom: 2rem;
   text-align: left;
@@ -435,55 +435,62 @@ i.fa-caret-up {
 /**media query for navbar**/
 
 @media screen and (min-width: 1200px){
-  .mobile-navbar {
+  .mobile {
     display: none;
   }
 }
 @media screen and (min-width: 900px){
-  .mobile-navbar {
+  .mobile {
     display: none;
   }
 }
 @media screen and (min-width: 768px){
-  .mobile-navbar {
+  .mobile {
     display: none;
   }
 }
-
 @media screen and (max-width: 575px){
-  .nav-bar {
-  display: none;
-}
 
-.mobile-navbar {
+  .logo-size {
+    float: right;
+    height: auto;
+    width: 50px;
+  }
+
+  .mobile-container {
+    height: 100px;
+    margin: auto;
+    padding: 20px;
+  }
+
+.mobile {
   font-family: "Montserrat";
   overflow: hidden;
-  background-color: black;
   position: relative;
 }
 
-.mobile-navbar #myLinks {
-  display: none;
+.mobile #myLinks {
+
 }
 
-.mobile-navbar a {
-  color: blue;
+.mobile a {
+  color: black;;
   padding: 14px 16px;
   text-decoration: none;
-  font-size: 16px;
+  font-size: 14px;
   display: block;
 }
 
-.mobile-navbar a.icon {
-  background: black;
+.mobile a.icon {
+  background: white;
   display: block;
   position: absolute;
   left: 0;
   top: 0;
 }
 
-.mobile-navbar a:hover {
-  background-color: yellow;
+.mobile a:hover {
+  background-color: #758E85;
   color: black;
 }
 
@@ -491,6 +498,11 @@ i.fa-caret-up {
   background-color: red;
   color: black;
 }
+
+.nav-bar {
+display: none;
+}
+
 }
  /**media query for featured projects**/
 
@@ -512,6 +524,8 @@ i.fa-caret-up {
     width: 100%;
     margin-left: auto;
     margin-right: auto;
+    padding-left: 20px;
+    padding-right: 20px;
   }
 }
 
@@ -521,6 +535,8 @@ i.fa-caret-up {
     width: 100%;
     margin-left: auto;
     margin-right: auto;
+    padding-left: 20px;
+    padding-right: 20px;
   }
 }
 
@@ -549,6 +565,7 @@ i.fa-caret-up {
 }
 
 @media screen and (max-width: 575px){
+
   .hello {
     font-size: 3.125em;
     color: #758E85;
