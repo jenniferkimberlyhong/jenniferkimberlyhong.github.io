@@ -67,14 +67,14 @@ a {
 .hello {
   font-size: 3.125em;
   color: #758E85;
-  margin-left: 96px;
+  margin-left: 6em;
   margin-top: 2rem;
   margin-bottom: 2rem;
   width: 100%;
 }
 
 .headline, .tagline-one {
-  margin-left: 96px;
+  margin-left: 6em;
   font-size: 1em;
   width: 500px;
 }
@@ -327,24 +327,24 @@ i.fa-caret-up {
 /**FEATURED PROJECTS**/
 .container-one {
   float: left;
-  margin-left: 96px;
+  margin-left: 6em;
 }
 
 .container-two {
   float: right;
-  margin-right: 96px;
+  margin-right: 6em;
 }
 
 .container-three {
   margin-top: 1.5rem;
   float: left;
-  margin-left: 96px;
+  margin-left: 6em;
 }
 
 .container-four {
   margin-top: 1.5rem;
   float: right;
-  margin-right: 96px;
+  margin-right: 6em;
 }
 
 .content {
@@ -432,6 +432,66 @@ i.fa-caret-up {
    }
  }
 
+/**media query for navbar**/
+
+@media screen and (min-width: 1200px){
+  .mobile-navbar {
+    display: none;
+  }
+}
+@media screen and (min-width: 900px){
+  .mobile-navbar {
+    display: none;
+  }
+}
+@media screen and (min-width: 768px){
+  .mobile-navbar {
+    display: none;
+  }
+}
+
+@media screen and (max-width: 575px){
+  .nav-bar {
+  display: none;
+}
+
+.mobile-navbar {
+  font-family: "Montserrat";
+  overflow: hidden;
+  background-color: black;
+  position: relative;
+}
+
+.mobile-navbar #myLinks {
+  display: none;
+}
+
+.mobile-navbar a {
+  color: blue;
+  padding: 14px 16px;
+  text-decoration: none;
+  font-size: 16px;
+  display: block;
+}
+
+.mobile-navbar a.icon {
+  background: black;
+  display: block;
+  position: absolute;
+  left: 0;
+  top: 0;
+}
+
+.mobile-navbar a:hover {
+  background-color: yellow;
+  color: black;
+}
+
+.active {
+  background-color: red;
+  color: black;
+}
+}
  /**media query for featured projects**/
 
  @media screen and (min-width: 1200px){
@@ -450,6 +510,8 @@ i.fa-caret-up {
   .container-one, .container-two, .container-three, .container-four {
     display: block;
     width: 100%;
+    margin-left: auto;
+    margin-right: auto;
   }
 }
 
@@ -457,11 +519,42 @@ i.fa-caret-up {
   .container-one, .container-two, .container-three, .container-four {
     display: block;
     width: 100%;
+    margin-left: auto;
+    margin-right: auto;
   }
 }
 
-@media only screen and (max-width: 575px) {
-body {
-font-size: 14px;
+/**media query for hero**/
+@media screen and (max-width: 768px){
+  .hello {
+    font-size: 3.125em;
+    color: #758E85;
+    text-align: center;
+    margin-left: auto;
+    margin-right: auto;
+    margin-top: 2rem;
+    margin-bottom: 0.5em;
+    width: 100%;
+  }
+
+  .headline, .tagline-one {
+    text-align: center;
+    margin-left: auto;
+    margin-right: auto;
+    font-size: 0.875em;
+    width: 100%;
+    padding-left: 2em;
+    padding-right: 2em;
+  }
 }
+
+@media screen and (max-width: 575px){
+  .container-one, .container-two, .container-three, .container-four {
+    display: block;
+    padding-left: 2em;
+    padding-right: 2em;
+    width: 100%;
+    margin-left: auto;
+    margin-right: auto;
+  }
 }
