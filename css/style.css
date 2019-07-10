@@ -70,7 +70,7 @@ a {
   margin-left: 6em;
   margin-top: 2rem;
   margin-bottom: 2rem;
-  width: 100%;
+  text-align: left;
 }
 
 .headline, .tagline-one {
@@ -112,7 +112,7 @@ a.primary-btn {
 
 /**DESIGN PROCESS**/
 #design {
-  margin-top: 50rem;
+  margin-top: 60em;
   margin-left: 128px;
   margin-right: 128px;
   height: 300px;
@@ -549,12 +549,24 @@ i.fa-caret-up {
 }
 
 @media screen and (max-width: 575px){
-  .container-one, .container-two, .container-three, .container-four {
-    display: block;
-    padding-left: 2em;
-    padding-right: 2em;
-    width: 100%;
+  .hello {
+    font-size: 3.125em;
+    color: #758E85;
+    text-align: center;
     margin-left: auto;
     margin-right: auto;
+    margin-top: 2rem;
+    margin-bottom: 0.5em;
+    width: 100%;
+  }
+
+  .headline, .tagline-one {
+    text-align: center;
+    margin-left: auto;
+    margin-right: auto;
+    font-size: 0.875em;
+    width: 100%;
+    padding-left: 2em;
+    padding-right: 2em;
   }
 }
