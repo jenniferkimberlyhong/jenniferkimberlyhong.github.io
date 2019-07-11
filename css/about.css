@@ -1,10 +1,10 @@
 #about {
   width: auto;
-  font-size: 14px;
+  font-size: 16px;
   font-family: 'Montserrat', sans-serif;
-  margin-left: 200px;
-  margin-right: 100px;
-  text-align: justify;
+  text-align: left;
+  margin-left: 20em;
+  margin-right: 20em;
 }
 
 .me {
@@ -13,15 +13,15 @@
   width: auto;
   float: left;
   display: inline-block;
+  padding-top: 20px;
   padding-right: 20px;
-  padding-bottom: 10px;
-  border-radius: 50%;
+  border-radius: 0%;
 }
 
 .my-name {
   margin-top: 4rem;
   margin-bottom: 1.5rem;
-  font-size: 16px;
+  font-size: 20px;
   font-weight: bold;
 }
 
@@ -29,4 +29,31 @@
   margin-bottom: 1rem;
   line-height: 140%;
   max-width: 624px;
+}
+
+@media (min-width: 320px) and (max-width: 575px) {
+  #about {
+    width: auto;
+    font-size: 14px;
+    margin-left: 2em;
+    margin-right: 2em;
+  }
+  .me {
+    margin-left: 2em;
+    padding-top: 20px;
+    padding-right: 20px;
+  }
+
+  .my-name {
+    margin-top: 4rem;
+    margin-bottom: 1.5rem;
+    font-size: 18px;
+    font-weight: bold;
+  }
+
+  .bio, .bio-two, .bio-three {
+    margin-bottom: 2em;
+    line-height: 140%;
+    width: 90%;
+  }
 }

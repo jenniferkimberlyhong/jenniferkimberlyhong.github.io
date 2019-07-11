@@ -6,12 +6,12 @@
   <title>Jennifer Hong | UX Designer</title>
 
   <!--- CSS STYLESHEETS --->
-  <link rel="stylesheet" href="css/style.css">
   <link rel="stylesheet" href="css/reset.css">
   <link rel="stylesheet" href="css/animate.css">
-  <link rel="stylesheet" href="css/about.css">
   <link rel="stylesheet" href="https://use.fontawesome.com/releases/v5.3.1/css/all.css" integrity="sha384-mzrmE5qonljUremFsqc01SB46JvROS7bZs3IO2EmfFsd15uHvIt+Y8vEf7N7fWAU" crossorigin="anonymous">
   <link rel="shortcut icon" type="img/png" href="images/logo.png"/>
+  <link rel="stylesheet" href="css/style.css">
+  <link rel="stylesheet" href="css/about.css">
 
   <!--- FONT --->
   <link href="https://fonts.googleapis.com/css?family=Sacramento&display=swap" rel="stylesheet">
@@ -19,6 +19,7 @@
 </head>
 
 <body>
+  <div class="container">
   <!--- HEADER --->
   <!--- NAV --->
   <header>
@@ -28,9 +29,23 @@
         <li><a href="https://drive.google.com/file/d/1na1zdJSxlJQ1XaBgVsJx4gZPkdSvsARK/view?usp=sharing" target="_blank">resume</a></li>
         <li><a href="index.html"><img class="logo-size" src="images/jh.png" alt="JH logo"></a></li>
         <li><a href="#projects">work</a></li>
-        <li><a href="contact.html">contact</a></li>
+        <li><a href="mailto:jennifer.hong13@gmail.com">contact</a></li>
       </ul>
     </nav>
+    <div class="mobile-container">
+      <div class="mobile">
+        <a href="index.html"><img class="logo-size" src="images/jh.png">
+        <div id="myLinks">
+        <a href="about.html">about</a>
+        <a href="https://drive.google.com/file/d/1na1zdJSxlJQ1XaBgVsJx4gZPkdSvsARK/view?usp=sharing" target="_blank">resume</a>
+        <a href="#projects">work</a>
+        <a href="mailto:jennifer.hong13@gmail.com">contact</a>
+      </div>
+      <a href="javascript:void(0);" class="icon" onclick="myFunction()">
+        <i class="fa fa-bars"></i>
+      </a>
+    </div>
+  </div>
   </header>
 
   <section id="about">
@@ -62,14 +77,25 @@
   <!--- SOCIAL MEDIA --->
   <footer id="footer">
     <ul class="social-media">
-      <li><a href="https://www.linkedin.com/in/jenniferkimberlyhong/"><i class="fab fa-linkedin"></i></a></li>
-      <li><a href="mailto:jennifer.hong13@gmail.com"><i class="far fa-envelope"></i></a></li>
-      <li><a href="https://github.com/jenniferkimberlyhong"><i class="fab fa-github"></i></a></li>
+      <li><a href="https://www.linkedin.com/in/jenniferkimberlyhong/"><i class="fab fa-linkedin fa-lg"></i></a></li>
+      <li><a href="mailto:jennifer.hong13@gmail.com"><i class="far fa-envelope fa-lg"></i></a></li>
+      <li><a href="https://github.com/jenniferkimberlyhong"><i class="fab fa-github fa-lg"></i></a></li>
     </ul>
     <div class="copyright">
-      <p> All rights reserved <i class="far fa-copyright"></i> 2019 Jennifer Hong</p>
+      <p> All rights reserved <i class="far fa-copyright fa-sm"></i> 2019 Jennifer Hong</p>
     </div>
   </footer>
 
-</body>
-</html>
+  <script>
+  function myFunction() {
+    var x = document.getElementById("myLinks");
+    if (x.style.display === "block") {
+      x.style.display = "none";
+    } else {
+      x.style.display = "block";
+    }
+  }
+  </script>
+
+  </body>
+  </html>

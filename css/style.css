@@ -112,7 +112,7 @@ a.primary-btn {
 
 /**DESIGN PROCESS**/
 #design {
-  margin-top: 60em;
+  margin-top: 3em;
   height: 300px;
   font-family: 'Montserrat', sans-serif;
   font-size: 0.875em;
@@ -137,7 +137,8 @@ a.primary-btn {
 }
 
 .design-left {
-  width: 33%;
+  margin-left: 4em;
+  width: 30%;
   float: left;
   text-align: center;
 }
@@ -145,13 +146,14 @@ a.primary-btn {
 .design-center {
   display: inline-block;
   text-align: center;
-  width: 33%;
+  width: 30%;
 }
 
 .design-right {
+  margin-right: 4em;
   float: right;
   text-align: center;
-  width: 33%;
+  width: 30%;
 }
 
 p {
@@ -320,12 +322,18 @@ ul.social-media li {
 }
 
 /**FEATURED PROJECTS**/
+
+#projects {
+  height: 800px;
+}
 .container-one {
+  margin-top: 1.5rem;
   float: left;
   margin-left: 6em;
 }
 
 .container-two {
+  margin-top: 1.5rem;
   float: right;
   margin-right: 5em;
 }
@@ -506,7 +514,7 @@ ul.social-media li {
 
 @media (min-width: 1025px) and (max-width: 1280px) {
   .container-one, .container-two, .container-three, .container-four {
-    width: 50%;
+    width: 40%;
   }
 }
 
@@ -539,7 +547,7 @@ ul.social-media li {
 }
 
 /**tablet hero**/
-@media (min-width: 576px) and (min-width: 767px) {
+@media (min-width: 576px) and (max-width: 767px) {
   .hello {
     font-size: 3.125em;
     color: #758E85;
@@ -705,9 +713,13 @@ ul.social-media li {
     padding-right: 3em;
   }
 
+  #projects {
+    height: 1000px;
+  }
+
   #design {
-    margin-top: 96em;
-    height: 720px;
+    margin-top: 28em;
+    height: 740px;
     font-family: 'Montserrat', sans-serif;
     font-size: 0.875em;
     width: 100%;
@@ -750,6 +762,11 @@ ul.social-media li {
     margin: 0 auto;
   }
 
+  .testimonial-section {
+    height: 340px;
+    width: 100%;
+  }
+
   .get-in-touch-primary-btn {
     margin-right: 1rem;
     width: 180px;
@@ -788,7 +805,7 @@ ul.social-media li {
     width: 100%;
     text-align: center;
     padding: 20px;
-    font-size: 0.5em;
+    font-size: 0.75em;
     font-family: 'Montserrat', sans-serif;
     text-transform: uppercase;
     color: #758E85;
@@ -802,10 +819,10 @@ ul.social-media li {
 
   .contact-header {
     text-align: center;
-    font-size: 1.5em;
+    font-size: 1.75em;
     font-weight: bold;
     text-transform: lowercase;
-    font-family: Montserrat;
+    font-family: "Montserrat";
     color: #758E85;
   }
 
