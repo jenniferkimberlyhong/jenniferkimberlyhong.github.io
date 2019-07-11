@@ -512,6 +512,23 @@ ul.social-media li {
 
  /**media query for featured projects**/
 
+@media screen and (min-width: 1600px) {
+  .container-one, .container-two, .container-three, .container-four {
+    width: 50%;
+  }
+
+  #projects {
+    height: 900px;
+  }
+
+  #design {
+    margin-top: 10em;
+    height: 300px;
+    font-family: 'Montserrat', sans-serif;
+    font-size: 0.875em;
+  }
+}
+
 @media screen and (min-width: 1025px) {
   .container-one, .container-two, .container-three, .container-four {
     width: 40%;
