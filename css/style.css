@@ -508,7 +508,7 @@ ul.social-media li {
 }
 
 /**TABLET & LAPTOP DEVICE 768 to 1024**/
-@media only screen and (min-width: 576px) and (max-width: 1024px) {
+@media only screen and (min-width: 768px) and (max-width: 1024px) and (-webkit-min-device-pixel-ratio: 1) {
   .container-one, .container-two, .container-three, .container-four {
     width: 40%;
   }
@@ -516,7 +516,7 @@ ul.social-media li {
 
 /**MOBILE DEVICE 320 to 767**/
 
-@media only screen and (min-width: 320px) and (max-width: 575px) {
+@media only screen and (min-width: 320px) and (max-width: 767px) {
 
   .container-one, .container-two, .container-three, .container-four {
     display: block;
@@ -526,7 +526,6 @@ ul.social-media li {
     padding-left: 2em;
     padding-right: 2em;
   }
-}
 
   .hello {
     font-size: 3.125em;
