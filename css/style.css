@@ -516,6 +516,17 @@ ul.social-media li {
   .container-one, .container-two, .container-three, .container-four {
     width: 40%;
   }
+
+  #projects {
+    height: 850px;
+  }
+
+  #design {
+    margin-top: 5em;
+    height: 300px;
+    font-family: 'Montserrat', sans-serif;
+    font-size: 0.875em;
+  }
 }
 
 @media (min-width: 768px) and (max-width: 1024px) {
