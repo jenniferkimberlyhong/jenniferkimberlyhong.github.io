@@ -8,9 +8,9 @@
   <!--- CSS STYLESHEETS --->
   <link rel="stylesheet" href="css/reset.css">
   <link rel="stylesheet" href="css/animate.css">
-  <link rel="stylesheet" href="css/style.css">
   <link rel="stylesheet" href="https://use.fontawesome.com/releases/v5.3.1/css/all.css" integrity="sha384-mzrmE5qonljUremFsqc01SB46JvROS7bZs3IO2EmfFsd15uHvIt+Y8vEf7N7fWAU" crossorigin="anonymous">
   <link rel="shortcut icon" type="img/png" href="images/logo.png"/>
+  <link rel="stylesheet" href="css/style.css">
   <link rel="stylesheet" href="css/stack.css">
 
   <!--- FONT --->
@@ -308,15 +308,25 @@ The Client is looking for a collaborative networking tool with a combination of 
         <!--- SOCIAL MEDIA --->
         <footer id="footer">
           <ul class="social-media">
-            <li><a href="https://www.linkedin.com/in/jenniferkimberlyhong/"><i class="fab fa-linkedin"></i></a></li>
-            <li><a href="mailto:jennifer.hong13@gmail.com"><i class="far fa-envelope"></i></a></li>
-            <li><a href="https://github.com/jenniferkimberlyhong"><i class="fab fa-github"></i></a></li>
+            <li><a href="https://www.linkedin.com/in/jenniferkimberlyhong/"><i class="fab fa-linkedin fa-lg"></i></a></li>
+            <li><a href="mailto:jennifer.hong13@gmail.com"><i class="far fa-envelope fa-lg"></i></a></li>
+            <li><a href="https://github.com/jenniferkimberlyhong"><i class="fab fa-github fa-lg"></i></a></li>
           </ul>
           <div class="copyright">
-            <p class="copyright-name"> All rights reserved <i class="far fa-copyright"></i> 2019 Jennifer Hong</p>
+            <p> All rights reserved <i class="far fa-copyright fa-sm"></i> 2019 Jennifer Hong</p>
           </div>
         </footer>
 
+        <script>
+        function myFunction() {
+          var x = document.getElementById("myLinks");
+          if (x.style.display === "block") {
+            x.style.display = "none";
+          } else {
+            x.style.display = "block";
+          }
+        }
+        </script>
 
         </body>
         </html>
