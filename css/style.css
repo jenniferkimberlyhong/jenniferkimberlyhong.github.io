@@ -491,7 +491,7 @@ ul.social-media li {
 
 /**LARGE DESKTOP DEVICE**/
 
-@media only screen and (min-width: 1600px) {
+@media only screen and (min-width: 1025px) {
   .container-one, .container-two, .container-three, .container-four {
     width: 40%;
   }
@@ -507,16 +507,16 @@ ul.social-media li {
   }
 }
 
-/**TABLET & LAPTOP DEVICE 768 to 1024**/
-@media only screen and (min-width: 768px) and (max-width: 1024px) and (-webkit-min-device-pixel-ratio: 1) {
+/**TABLET & LAPTOP DEVICE 576 to 1024**/
+@media only screen and (min-width: 768px) and (max-width: 1024px) {
   .container-one, .container-two, .container-three, .container-four {
     width: 40%;
   }
 }
 
-/**MOBILE DEVICE 320 to 767**/
+/**MOBILE DEVICE 320 to 575**/
 
-@media only screen and (min-width: 320px) and (max-width: 767px) {
+@media only screen and (min-width: 320px) and (max-width: 575px) {
 
   .container-one, .container-two, .container-three, .container-four {
     display: block;
@@ -549,7 +549,7 @@ ul.social-media li {
   }
 
   #projects {
-    height: 1300px;
+    height: 1200px;
   }
 
   #design {
