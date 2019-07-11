@@ -503,32 +503,12 @@ ul.social-media li {
   #design {
     margin-top: 10em;
     height: 300px;
-    font-family: 'Montserrat', sans-serif;
     font-size: 0.875em;
   }
 }
 
-/**LAPTOP DEVICE**/
-
-@media only screen and (min-width: 1025px) {
-  .container-one, .container-two, .container-three, .container-four {
-    width: 40%;
-  }
-
-  #projects {
-    height: 850px;
-  }
-
-  #design {
-    margin-top: 5em;
-    height: 300px;
-    font-family: 'Montserrat', sans-serif;
-    font-size: 0.875em;
-  }
-}
-
-/**TABLET DEVICE**/
-@media only screen and (min-width: 768px) and (max-width: 1024px) and (-webkit-min-device-pixel-ratio: 1) {
+/**TABLET & LAPTOP DEVICE 768 to 1024**/
+@media only screen and (min-width: 768px) and (max-width: 1024px) {
   .container-one, .container-two, .container-three, .container-four {
     width: 40%;
   }
