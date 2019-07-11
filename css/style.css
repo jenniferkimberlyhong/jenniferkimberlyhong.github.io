@@ -438,7 +438,7 @@ ul.social-media li {
 
 /**desktop navbar**/
 
-@media (min-width: 1025px) and (max-width: 1280px){
+@media (min-width: 1025px) and (max-width: 1600px){
   .mobile-container {
     display: none;
   }
@@ -512,7 +512,7 @@ ul.social-media li {
 
  /**media query for featured projects**/
 
-@media (min-width: 1025px) and (max-width: 1280px) {
+@media (min-width: 1025px) and (max-width: 1600px) {
   .container-one, .container-two, .container-three, .container-four {
     width: 40%;
   }
