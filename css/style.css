@@ -50,8 +50,9 @@ a {
 /** HERO **/
 #hero {
   width: 100%;
-  height: 300px;
+  height: auto;
   margin-top: 5em;
+  margin-bottom: 5em;
   line-height: 150%;
   font-family: 'Montserrat', sans-serif;
   text-align: left;
@@ -64,14 +65,13 @@ a {
 .hello {
   font-size: 3.125em;
   color: #758E85;
-  margin-top: .5em;
   margin-bottom: 1em;
   text-align: left;
 }
 
 .headline, .tagline-one {
-  font-size: 1em;
-  width: 500px;
+  font-size: 1.125em;
+  width: 550px;
 }
 
 .highlight {
@@ -86,25 +86,25 @@ a {
 }
 
 .container-one {
-  margin-top: 1.5rem;
+  margin-top: 1em;
   float: left;
   margin-left: 6em;
 }
 
 .container-two {
-  margin-top: 1.5rem;
+  margin-top: 1em;
   float: right;
   margin-right: 6em;
 }
 
 .container-three {
-  margin-top: 1.5rem;
+  margin-top: 1em;
   float: left;
   margin-left: 6em;
 }
 
 .container-four {
-  margin-top: 1.5rem;
+  margin-top: 1em;
   float: right;
   margin-right: 6em;
 }
@@ -194,6 +194,8 @@ a {
   font-family: 'Montserrat', sans-serif;
   text-align: center;
   line-height: 150%;
+  margin-top: 5em;
+  margin-bottom: 5em;
 }
 
 .design-header {
@@ -227,10 +229,11 @@ a {
   width: 33%;
 }
 
-p {
-  width: 70%;
+.process-desc {
+  max-width: 70%;
   align-items: center;
   margin: 0 auto;
+  font-size: 0.875em;
 }
 
 .paint-image {
@@ -252,9 +255,6 @@ p {
   font-weight: bold;
 }
 
-.process-desc {
-  font-size: 0.875em;
-}
 /**END DESIGN PROCESS**/
 
 /**REFERENCE SECTION**/
@@ -288,8 +288,11 @@ p {
 /**BOTTOM CONTACT INFO**/
 #footer {
   position: absolute;
-  width: 100%;
   font-family: "Montserrat";
+  margin-top: 2em;
+  margin-left: 2em;
+  margin-right: 2em;
+  width: 96%;
 }
 
 .contact-section {
@@ -322,7 +325,7 @@ ul.social-media li {
 .social-media li a {
   display: inline;
   padding-left: 10px;
-  padding-bottom: 20px;
+  padding-bottom: 10px;
   text-decoration: none;
   color: black;
 }
@@ -667,7 +670,7 @@ ul.social-media li {
 
   .container-one, .container-two, .container-three, .container-four {
     display: block;
-    width: 100%;
+    width: auto;
     margin-left: auto;
     margin-right: auto;
     padding-left: 3em;
@@ -686,7 +689,7 @@ ul.social-media li {
     margin-right: auto;
     margin-top: 2rem;
     margin-bottom: 0.5em;
-    width: 100%;
+    width: auto;
   }
 
   .headline, .tagline-one {
@@ -694,21 +697,15 @@ ul.social-media li {
     margin-left: auto;
     margin-right: auto;
     font-size: 0.875em;
-    width: 100%;
+    width: auto;
     padding-left: 3em;
     padding-right: 3em;
   }
 
-  #projects {
-    height: auto;
-  }
-
   #design {
-    margin-top: 2em;
-    height: auto;
     font-family: 'Montserrat', sans-serif;
     font-size: 0.875em;
-    width: 100%;
+    width: auto;
   }
 
   .design-header {
@@ -753,8 +750,8 @@ ul.social-media li {
   }
 
   .testimonial-section {
-    height: auto;
     margin-top: 20em;
+    height: auto;
   }
 
   .get-in-touch-primary-btn {
@@ -778,7 +775,6 @@ ul.social-media li {
   }
 
   .contact-header {
-    text-align: center;
     font-size: 1.75em;
     font-weight: bold;
     text-transform: lowercase;
@@ -786,17 +782,14 @@ ul.social-media li {
     color: #758E85;
   }
 
-  #footer {
-    margin-top: 1em;
-  }
   .copyright {
     font-size: .60em;
-    width: 100%;
-    margin-bottom: 1em;
+    width: 60%;
   }
   .social-media {
     margin-right: 5.5em;
     margin-bottom: 4em;
-    width: 0 auto;
+    width: auto;
+    background-color: red;
   }
 }
