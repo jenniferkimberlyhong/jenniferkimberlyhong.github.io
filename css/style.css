@@ -4,9 +4,33 @@
   -moz-box-sizing:border-box;
   margin: 0;
   padding: 0;
+  background-color:;
 }
 
 :root {font-size:16px}
+
+p {
+  font-size: 1em;
+}
+
+h1 {
+  font-size: 3.375em;
+}
+h2 {
+  font-size: 2.25em;
+}
+h3 {
+  font-size: 1.5em;
+}
+
+h4 {
+  font-size: 1em;
+}
+
+p {
+  font-size: 1em;
+  max-width: 624px;
+}
 
 /**NAV BAR**/
 .nav-bar {
@@ -19,15 +43,17 @@
 .logo-size {
   width: 70px;
   height: 60px;
+  display: flex;
+  margin: 0 auto;
 }
 
 ul.main-header {
   list-style: none;
   display: flex;
   align-items: center;
-  justify-content: space-around;
+  justify-content:center;
   flex: 1;
-  padding: 0;
+  font-weight: bold;
 }
 
 ul, li {
@@ -39,43 +65,45 @@ li.main-header li {
   margin: 0 2%;
 }
 
+.main-header li a:hover {
+  color: #758E85;
+}
+
 a {
   color: black;
   text-transform: uppercase;
   text-decoration: none;
   letter-spacing: 0.15em;
-  margin: 0 40px;
+  margin: 0 20px;
 }
 
 /** HERO **/
 #hero {
-  width: 100%;
   height: auto;
-  margin-top: 5em;
-  margin-bottom: 5em;
-  line-height: 150%;
+  margin-top: 8em;
+  margin-bottom: 8em;
+  line-height: 180%;
   font-family: 'Montserrat', sans-serif;
   text-align: left;
 }
 
 .grid-hero {
-  margin-left: 6em;
+  margin-left: 8em;
 }
 
 .hello {
-  font-size: 3.125em;
+  font-weight: bold;
+  margin-bottom: .3em;
   color: #758E85;
-  margin-bottom: 1em;
-  text-align: left;
 }
 
 .headline, .tagline-one {
-  font-size: 1.125em;
-  width: 550px;
+  width: 624px;
+  font-size: 20px;
 }
 
 .highlight {
-  background: linear-gradient(180deg,rgba(255,255,255,0) 48%, rgba(117, 142, 133, 0.4) 45%);
+  background: linear-gradient(180deg,rgba(255,255,255,0) 60%, rgba(117, 142, 133, 0.5) 45%);
 }
 
 /**FEATURED PROJECTS**/
@@ -88,25 +116,25 @@ a {
 .container-one {
   margin-top: 1em;
   float: left;
-  margin-left: 6em;
+  margin-left: 8em;
 }
 
 .container-two {
   margin-top: 1em;
   float: right;
-  margin-right: 6em;
+  margin-right: 8em;
 }
 
 .container-three {
   margin-top: 1em;
   float: left;
-  margin-left: 6em;
+  margin-left: 8em;
 }
 
 .container-four {
   margin-top: 1em;
   float: right;
-  margin-right: 6em;
+  margin-right: 8em;
 }
 
 .content {
@@ -190,19 +218,17 @@ a {
 
 /**DESIGN PROCESS**/
 #design {
+  margin-top: 5em;
   height: auto;
   font-family: 'Montserrat', sans-serif;
   text-align: center;
-  line-height: 150%;
-  margin-top: 5em;
-  margin-bottom: 5em;
+  line-height: 180%;
 }
 
 .design-header {
   text-transform: uppercase;
   font-weight: bolder;
   margin-right: 3em;
-  font-size: 1.25em;
   margin-bottom: 1.5rem;
 }
 
@@ -210,30 +236,31 @@ a {
   text-transform: uppercase;
   margin-left: 3em;
   font-weight: bolder;
-  font-size: 1.25em;
   margin-bottom: 5em;
 }
 
 .design-left {
-  width: 33%;
+  margin-left: 8em;
+  width: 25%;
   float: left;
 }
 
 .design-center {
   display: inline-block;
-  width: 33%;
+  width: 25%;
 }
 
 .design-right {
   float: right;
-  width: 33%;
+  width: 25%;
+  margin-right: 8em;
 }
 
 .process-desc {
-  max-width: 70%;
   align-items: center;
   margin: 0 auto;
   font-size: 0.875em;
+  max-width: 90%;
 }
 
 .paint-image {
@@ -258,10 +285,11 @@ a {
 /**END DESIGN PROCESS**/
 
 /**REFERENCE SECTION**/
-.testimonial-section {
+#testimonial {
   height: auto;
-  margin-top: 15em;
-  background-color: rgba(201, 175, 152, 0.2);
+  margin-top: 25em;
+}
+.testimonial-section {
   font-family: 'Montserrat', sans-serif;
 }
 
@@ -286,13 +314,16 @@ a {
 }
 
 /**BOTTOM CONTACT INFO**/
+#contact {
+  background-color:;
+  margin-bottom: 2em;
+}
+
 #footer {
   position: absolute;
   font-family: "Montserrat";
-  margin-top: 2em;
-  margin-left: 2em;
-  margin-right: 2em;
-  width: 96%;
+  padding: 20px;
+  width: 100%;
 }
 
 .contact-section {
@@ -304,53 +335,59 @@ a {
 
 .contact-header {
   text-align: center;
-  font-size: 2.5em;
   font-weight: bold;
   text-transform: lowercase;
   color: #758E85;
+  margin-top: 1em;
 }
 
 .copyright {
-  font-size: .75em;
-  text-transform: uppercase;
-  display: block;
-  width: 40%;
+  font-size: .7em;
+  display: inline-block;
+  text-align: center;
+  width: 100%;
+  margin-top: 4em;
 }
 
 ul.social-media li {
-  display: inline;
-  float: right;
+  display: inline-block;
+}
+
+.social-media {
+  text-align: center;
 }
 
 .social-media li a {
-  display: inline;
-  padding-left: 10px;
-  padding-bottom: 10px;
+  display: inline-block;
   text-decoration: none;
-  color: black;
 }
 
 .social-media li a:hover {
-  color: #758E85;
+  color: black;
 }
 
 .return-top-bounce {
   width: 100%;
   text-align: center;
-  padding: 20px;
   font-size: 0.75em;
   font-family: 'Montserrat', sans-serif;
-  text-transform: uppercase;
   color: #758E85;
   text-decoration: none;
   font-weight: bold;
 }
 
+.fa-envelope, .fa-linkedin, .fa-github {
+  color: #758E85;
+  text-align: center;
+}
+
 .return-link {
   color: #758E85;
+  text-transform: lowercase;
 }
 
 .contact-btns {
+  margin-top: 2em;
   text-align: center;
 }
 
@@ -362,13 +399,13 @@ ul.social-media li {
   text-transform: uppercase;
   font-size: 0.875em;
   text-align: center;
-  background-color: white;
+  background-color: #758E85;
   padding: 14px 16px;
   text-decoration: none;
   border: 2px solid #758E85;
-  color: #758E85;
+  color: white;
   border-radius: 8px;
-  font-weight: bold;
+  font-weight: bolder;
 }
 
 .download-resume-primary-btn {
@@ -379,11 +416,11 @@ ul.social-media li {
   text-transform: uppercase;
   font-size: 0.875em;
   text-align: center;
-  background-color: white;
+  background-color: #758E85;
   padding: 14px 16px;
   text-decoration: none;
   border: 2px solid #758E85;
-  color: #758E85;
+  color: white;
   border-radius: 8px;
   font-weight: bold;
 }
@@ -479,37 +516,20 @@ ul.social-media li {
     height: 900px;
   }
 
-  #design {
-    margin-top: 10em;
-    height: 300px;
-    font-family: 'Montserrat', sans-serif;
-    font-size: 0.875em;
-  }
 }
 
 /**DESKTOP**/
 
 @media screen and (min-width: 1025px) {
   .container-one, .container-two, .container-three, .container-four {
-    width: 40%;
-  }
-
-  #projects {
-    height: 850px;
-  }
-
-  #design {
-    margin-top: 5em;
-    height: 300px;
-    font-family: 'Montserrat', sans-serif;
-    font-size: 0.875em;
+    width: 38%;
   }
 }
 
 /**LAPTOP**/
 @media (min-width: 769px) and (max-width: 1024px) {
   .container-one, .container-two, .container-three, .container-four {
-    width: 40%;
+    width: 35%;
   }
 }
 
@@ -546,7 +566,6 @@ ul.social-media li {
   }
 
   #design {
-    margin-top: 96em;
     height: 720px;
     font-family: 'Montserrat', sans-serif;
     font-size: 0.875em;
@@ -649,19 +668,6 @@ ul.social-media li {
     color: #758E85;
   }
 
-  #footer {
-    margin-top: 1em;
-  }
-  .copyright {
-    font-size: .60em;
-    width: 100%;
-    margin: auto;
-    margin-bottom: 1em;
-  }
-  .social-media {
-    margin: 5em;
-    padding-bottom: .5em;
-  }
 }
 
 /**MOBILE DEVICE**/
@@ -682,7 +688,6 @@ ul.social-media li {
   }
 
   .hello {
-    font-size: 3.125em;
     color: #758E85;
     text-align: center;
     margin-left: auto;
@@ -780,16 +785,5 @@ ul.social-media li {
     text-transform: lowercase;
     font-family: "Montserrat";
     color: #758E85;
-  }
-
-  .copyright {
-    font-size: .60em;
-    width: 60%;
-  }
-  .social-media {
-    margin-right: 5.5em;
-    margin-bottom: 4em;
-    width: auto;
-    background-color: red;
   }
 }
