@@ -544,65 +544,85 @@ ul.social-media li {
     padding-left: 3em;
     padding-right: 3em;
   }
+  .grid-hero {
+    margin: 0 auto;
+    margin-left: 3em;
+    margin-right: 3em;
+  }
 
   .hello {
-    font-size: 3.125em;
-    color: #758E85;
     text-align: center;
-    margin-left: auto;
-    margin-right: auto;
-    margin-top: 2rem;
-    margin-bottom: 0.5em;
-    width: 100%;
+    font-size: 1.5em;
   }
 
   .headline, .tagline-one {
     text-align: center;
-    margin-left: auto;
-    margin-right: auto;
     font-size: 0.875em;
+    width: auto;
+  }
+
+  .content-details h3{
+    color: white;
+    font-weight: bold;
+    font-size: 1.5em;
+    letter-spacing: 0.15em;
+    margin-bottom: 0.5em;
+    text-transform: lowercase;
+    font-family: Montserrat;
+    text-align: center;
+  }
+
+  .content-details p{
+    color: white;
+    font-weight: bold;
+    font-size: 0.875em;
+    line-height: 150%;
+    text-transform: uppercase;
+    font-family: "Montserrat";
+    text-align: center;
     width: 100%;
-    padding-left: 3em;
-    padding-right: 3em;
   }
 
   #design {
-    height: 720px;
     font-family: 'Montserrat', sans-serif;
     font-size: 0.875em;
-    width: 100%;
+    width: auto;
   }
 
   .design-header {
     text-transform: uppercase;
     font-weight: bolder;
-    font-size: 1.25em;
-    margin-bottom: 1.5rem;
+    font-size: 1.5em;
+    margin-bottom: 1em;
   }
 
   .design-header-two {
     text-transform: uppercase;
     font-weight: bolder;
-    font-size: 1.25em;
-    margin-bottom: 5rem;
+    font-size: 1.5em;
+    margin-bottom: 5em;
   }
 
   .design-left {
-    width: 100%;
+    width: auto;
     text-align: center;
     margin-bottom: 2em;
+    margin-left: 2em;
+    margin-right: 2em;
   }
 
   .design-center {
     display: inline-block;
     text-align: center;
-    width: 100%;
+    width: auto;
     margin-bottom: 2em;
   }
 
   .design-right {
     text-align: center;
-    width: 100%;
+    width: auto;
+    margin-left: 2em;
+    margin-right: 2em;
   }
 
   p {
@@ -610,50 +630,25 @@ ul.social-media li {
     margin: 0 auto;
   }
 
+  .testimonial-section {
+    margin-top: 20em;
+    height: auto;
+  }
+
   .get-in-touch-primary-btn {
-    margin-right: 1rem;
-    width: 180px;
-    display: inline-block;
-    font-family: 'Montserrat', sans-serif;
-    text-transform: uppercase;
-    font-size: 0.65em;
-    text-align: center;
-    background-color: white;
-    padding: 14px 16px;
-    text-decoration: none;
-    border: 2px solid #758E85;
-    color: #758E85;
-    border-radius: 8px;
-    font-weight: bold;
+    margin: 0 auto;
+    margin-bottom: 1em;
+    width: 200px;
+    display: block;
+    font-size: 0.750em;
   }
 
   .download-resume-primary-btn {
-    margin-left: 1rem;
-    width: 180px;
-    display: inline-block;
-    font-family: 'Montserrat', sans-serif;
-    text-transform: uppercase;
-    font-size: 0.65em;
-    text-align: center;
-    background-color: white;
-    padding: 14px 16px;
-    text-decoration: none;
-    border: 2px solid #758E85;
-    color: #758E85;
-    border-radius: 8px;
-    font-weight: bold;
-  }
-
-  .return-top-bounce {
-    width: 100%;
-    text-align: center;
-    padding: 20px;
-    font-size: 0.5em;
-    font-family: 'Montserrat', sans-serif;
-    text-transform: uppercase;
-    color: #758E85;
-    text-decoration: none;
-    font-weight: bold;
+    margin: 0 auto;
+    margin-bottom: 1em;
+    width: 200px;
+    display: block;
+    font-size: 0.750em;
   }
 
   .return-link {
@@ -661,14 +656,11 @@ ul.social-media li {
   }
 
   .contact-header {
-    text-align: center;
-    font-size: 1.5em;
+    font-size: 1.75em;
     font-weight: bold;
     text-transform: lowercase;
-    font-family: Montserrat;
+    font-family: "Montserrat";
     color: #758E85;
-  }
-
 }
 
 /**MOBILE DEVICE**/
