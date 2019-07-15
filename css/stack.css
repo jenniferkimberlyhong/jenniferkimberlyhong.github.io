@@ -1,93 +1,147 @@
-#stack-hero {
+h2 {
+  font-family: "Montserrat";
+  margin-top: 3em;
+  margin-left: 3em;
+  margin-right: 3em;
+  text-align: center;
+  margin-bottom: 1em;
+  font-weight: bold;
+  color: #3A4660;
+  text-transform: uppercase;
+  font-size: 2.25em;
+}
+
+h3 {
+  font-family: "Montserrat";
+  text-align: center;
+  text-transform: uppercase;
+  color: #3A4660;
+  font-size: 1.875em;
+  margin-bottom: 0.5em;
+}
+
+h4 {
+  font-family: "Sacramento";
+  font-style: italic;
+  margin-bottom: 1em;
+  font-size: 2.25em;
+  text-align: center;
+  font-weight: bold;
+  letter-spacing: 0.08em;
+  color: #FECB5E;
+  text-transform: lowercase;
+}
+
+h5 {
+  font-family: "Montserrat";
+  font-style: normal;
+  text-align: left;
+  margin-bottom: 1em;
+  font-size: 1em;
+}
+
+h6 {
+  font-family: "Montserrat";
+  font-style: normal;
+  margin-bottom: 1em;
+  font-size: 1.125em;
+  font-weight: bold;
+  max-width: 624px;
+  text-transform: uppercase;
+  color: #3A4660;
+}
+
+p {
+  font-family: "Montserrat";
+  margin: 0 auto;
+  font-size: 1em;
+  text-align: left;
+  line-height: 180%;
+  max-width: 624px;
+  margin-bottom: 2em;
+}
+
+.highlight {
+  background: linear-gradient(180deg,rgba(255,255,255,0) 65%, rgba(145, 172, 200, 0.5) 45%);
+}
+
+/**HERO**/
+#everyday-hero {
   width: 100%;
-  height: 31.25rem;
-  margin: auto;
-  align-items: center;
+  height: 32em;
 }
 
-.stack-hero {
-  height: auto;
-  width: auto;
-  margin-left: 8rem;
-  margin-right: 8rem;
-}
-
+/**NAVIGATION BAR**/
 #project-navigation {
-  width: 100%;
-  margin-top: 2rem;
+  margin-top: 2em;
 }
 
 ul.project-navbar {
   list-style: none;
-  font-size: 0.625rem;
+  font-size: 0.75em;
   display: flex;
   align-items: center;
   justify-content: space-around;
   flex: 1;
   padding: 0;
+  font-weight: bold;
 }
+
+.project-navbar li a:hover {
+  color: #FECB5E;
+}
+
+/**OVERVIEW**/
 
 ul.listing {
   text-align: center;
   list-style-type: none;
-  line-height: 150%;
+  line-height: 180%;
 }
 
 .listing li {
   text-align: center;
   list-style-type: none;
-  line-height: 150%;
+  line-height: 180%;
 }
 
 body {
   font-family: "Montserrat";
-  font-size: 14px;
-  line-height: 150%;
+  font-size: 1em;
+  line-height: 180%;
 }
 
 #overview-section {
-  margin-top: 5rem;
-  height: 1300px;
   width: 100%;
+  margin-top: 2em;
+  margin-bottom: 2em;
+  height: auto;
   text-align: center;
-}
-
-.final-product {
-  margin-top: 10rem;
-  width: 40%;
-  border-style: solid;
-  border-width: thin;
-  border-color: black;
-}
-.final-product-two {
-  margin-top: 10rem;
-  float: right;
-  width: 40%;
-  border-style: solid;
-  border-width: thin;
-  border-color: black;
+  overflow: hidden;
 }
 
 .overview-header {
-  margin-bottom: 2rem;
+  margin-left: 6em;
+  margin-right: 6em;
+  margin-bottom: 0.5em;
   font-style: normal;
   font-weight: bold;
-  font-size: 50px;
   text-transform: lowercase;
   text-align: center;
+  color: #3A4660;
 }
 
 .overview-summary {
   width: 50%;
   margin-left: auto;
   margin-right: auto;
-  margin-bottom: 2rem;
-  font-weight: normal;
+  margin-bottom: 2em;
+  margin-top: 0.5em;
   text-align: center;
   color: black;
   text-transform: lowercase;
+  font-size: 1.250em;
   font-weight: normal;
-  font-size: 18px;
   font-family: "Montserrat";
 }
 
@@ -95,13 +149,13 @@ body {
   display: inline-block;
   font-family: 'Montserrat', sans-serif;
   text-transform: uppercase;
-  font-size: 10px;
+  font-size: 1em;
   text-align: center;
-  background-color: white;
+  background-color: #3A4660;
   padding: 10px 20px;
   text-decoration: none;
   border: 2px solid #3A4660;
-  color: #3A4660;
+  color: white;
   border-radius: 8px;
   font-weight: bold;
 }
@@ -110,30 +164,30 @@ body {
   display: inline-block;
   font-family: 'Montserrat', sans-serif;
   text-transform: uppercase;
-  font-size: 10px;
+  font-size: 1em;
   text-align: center;
-  background-color: white;
+  background-color: #3A4660;
   padding: 10px 20px;
   text-decoration: none;
   border: 2px solid #3A4660;
-  color: #3A4660;
+  color: white;
   border-radius: 8px;
   font-weight: bold;
 }
 
 .project-details {
-  font-size: 12px;
+  font-size: 1em;
   margin-top: 3rem;
   margin-bottom: 5rem;
   text-align: center;
-  margin-left: 8rem;
-  margin-right: 8rem;
+  margin-left: 4em;
+  margin-right: 4em;
 }
 
 .role-icon, .deliverable-icon, .design-icon {
   align-items: center;
-  width: 2rem;
-  margin-bottom: 1.5rem;
+  width: 3.5em;
+  margin-bottom: 1em;
 }
 
 .roles {
@@ -154,214 +208,218 @@ body {
   width: 33%;
 }
 
-h1 {
-  text-align: left;
-  font-weight: bold;
-  margin-bottom: 5rem;
-  margin-left: 8rem;
-  margin-right: 8rem;
-  text-transform: uppercase;
-  font-size: 2rem;
-}
-
-h2 {
-  margin-left: 8rem;
-  margin-right: 8rem;
-  text-align: left;
-  margin-bottom: .5rem;
-  font-size: 1.75rem;
-  font-weight: bold;
-  color: #758E85;
-  max-width: 624px;
-  text-transform: uppercase;
-  font-family: "open sans";
-}
-
-h3 {
-  margin-left: 8rem;
-  margin-right: 8rem;
-  font-style: italic;
-  text-align: left;
-  margin-top: 1rem;
-  margin-bottom: 1rem;
-  font-size: 1.125rem;
-  max-width: 624px;
-}
-
-h4 {
-  margin-left: 8rem;
-  margin-right: 8rem;
-  font-style: normal;
-  text-align: center;
-  font-weight: bold;
-  margin-bottom: 1rem;
-  font-size: 1rem;
-  text-transform: uppercase;
-  max-width: 624px;
-}
-
-h5 {
-  margin-left: 8rem;
-  margin-right: 8rem;
-  font-style: normal;
-  text-align: left;
-  margin-bottom: 1rem;
-  font-size: 1rem;
-  max-width: 624px;
-}
-
-h6 {
-  font-style: normal;
-  text-align: center;
-  margin-bottom: 1rem;
-  font-size: 0.875rem;
-  font-weight: bold;
-  max-width: 624px;
-  text-transform: uppercase;
-}
-
-p {
-  margin-left: 8rem;
-  margin-right: 8rem;
-  font-size: 1rem;
-  text-align: left;
-  margin-bottom: 1rem;
-  max-width: 624px;
-}
-
-#discovery-section {
-  height: 1100px;
-  margin-top: 20rem;
-}
-
-.comp {
-  height: auto;
-  width: 35%;
-  float: right;
-  margin-right: 8rem;
-}
-
-.competitive-desc {
-  max-width: 450px;
-}
-
-.persona-one {
-  width: 38%;
-  height: auto;
-  float: left;
-  margin-left: 8rem;
-}
-
-.persona-two {
-  width: 38%;
-  height: auto;
-  float: right;
-  margin-right: 8rem;
-}
-
-.user-survey {
-  margin-top: 8rem;
-  margin-bottom: 5rem;
-  width: 100%;
-}
-
 .box-challenge {
-  width: 38%;
+  width: 50%;
   float: left;
-  display: table;
 }
 
 .box-problem {
-  width: 38%;
+  width: 50%;
   float: right;
-  margin-right: 256px;
-  display: table;
 }
 
 .challenge-title, .challenge-subtitle, .problem-title, .problem-subtitle {
   text-align: center;
-  width: 100%;
+  margin-left: 3em;
+  margin-right: 3em;
 }
 
 .challenge-desc, .problem-desc {
-  padding: 20px;
-  width: 100%;
-  text-align: center;
+  text-align: left;
+  margin-left: 6em;
+  margin-right: 6em;
 }
 
-.daily, .responsive, .bookmark, .collaboration {
-  width: 90%;
+#discovery-section {
+  overflow: hidden;
   height: auto;
-  padding-left: 45px;
-  padding-right: 45px;
-  margin-left: 8rem;
-  margin-right: 8rem;
-  margin-bottom: 1rem;
+}
+
+.comp {
+  margin-left: 23em;
+  margin-bottom: 2em;
+}
+
+.google, .evernote, .pinterest {
+  width: 3em;
+  height: auto;
+  margin-left: 3em;
+  margin-right: 3em;
+}
+
+.swot-primary-btn {
+  display: block;
+  width: 250px;
+  margin: 0 auto;
+  font-family: 'Montserrat', sans-serif;
+  text-transform: uppercase;
+  font-size: 1em;
+  text-align: center;
+  padding: 10px 20px;
+  text-decoration: none;
+  color: #3A4660;
+  border-radius: 8px;
+  font-weight: bold;
+  margin-bottom: 2em;
+}
+
+.user-survey {
+  padding: 2em;
+  background-color: rgba(201, 175, 152, 0.1);
+}
+.daily, .responsive, .bookmark, .collaboration {
+  width: 2.5em;
+  height: auto;
+  margin-bottom: 1em;
+  margin-left: 6.5em;
+  margin-right: 6.5em;
 }
 
 .result-one, .result-two, .result-three, .result-four {
-  width: 60%;
-  margin-right: 8rem;
+  margin: 0 auto;
 }
 
-.survey-desc {
-  margin-bottom: 3rem;
-
-}
 .percentage {
-  font-size: 12px;
+  font-size: 0.875em;
+  width: 65%;
   text-align: center;
-  margin-left: 8rem;
-  margin-right: 8rem;
 }
 
 .percentages {
-  text-align: center;
-  font-size: 2rem;
-  width: 100%;
-  font-size: 40px;
-  margin-bottom: 1.5rem;
+  margin-left: 6em;
+  margin-right: 6em;
+  margin: 0 auto;
+  margin-bottom: .5em;
 }
 
 .results {
   column-count: 4;
-  margin-right: 8rem;
+  margin-left: 3em;
+  margin-right: 3em;
   column-gap: auto;
   column-width: 100%;
+}
+
+.user-personas {
+  margin-top: 2em;
+  margin-bottom: 2em;
+}
+
+.persona-one {
+  text-align: center;
+  width: 38%;
+  float: left;
+  margin-left: 6em;
+  margin-right: 6em;
+  font-size: .75em;
+}
+
+.persona-one h5 {
+  text-align: center;
+  margin: 0;
+}
+
+.motivations {
+  text-align: left;
+
+}
+
+.persona-two {
+  margin-right: 6em;
+  text-align: center;
+  margin-left: 6em;
+  width: 38%;
+  float: right;
+  font-size: .75em;
+}
+
+.persona-two h5 {
+  text-align: center;
+  margin: 0;
+}
+
+.emma {
+  width: 15em;
+  height: 20em;
+  border-style: 2px solid #3A4660;
+  border-radius: 8px;
+}
+
+.jake {
+  width: 15em;
+  height: 20em;
+  border-style: 2px solid #3A4660;
+  border-radius: 8px;
 }
 
 /**BEGIN INFORMATION**/
 
 #information-section {
-  height: 720px;
-  margin-top: 20rem;
-  width: auto;
-}
-
-.MVP-items {
-  margin-left: 8rem;
-  line-height: 150%;
+  overflow: hidden;
+  height: auto;
 }
 
 .example-mvp {
-  margin-top: 2rem;
+  margin: 0 auto;
+  text-align: left;
+  font-style: italic;
+  color: #3A4660;
+  font-weight: bold;
 }
 
 .example-mvp-image {
-  width: 80%;
-  margin-left: 8rem;
-  margin-right: 8rem;
-  align-items: center;
+  margin: 0 auto;
+  width: 60%;
+  margin-top: 2em;
+  margin-left: 15em;
+  margin-right: 15em;
 }
 
+.MVP-title {
+  margin: 0 auto;
+}
+
+.MVP-subtitle {
+  font-style: italic;
+  color: #3A4660;
+  font-weight: bold;
+  margin-bottom: 1em;
+}
+
+.MVP-items li {
+  text-align: left;
+  list-style: initial;
+  margin-left: 20em;
+  margin-bottom: 1em;
+}
+
+.user-flow-primary-btn {
+  display: block;
+  width: 250px;
+  margin: 0 auto;
+  font-family: 'Montserrat', sans-serif;
+  text-transform: uppercase;
+  font-size: 1em;
+  text-align: center;
+  padding: 10px 20px;
+  text-decoration: none;
+  color: #3A4660;
+  border-radius: 8px;
+  font-weight: bold;
+}
+
+.contact-btns1 a:hover {
+  color: #FECB5E;
+  text-decoration: underline;
+}
 /**END INFORMATION**/
 
 /**BEGIN WIREFRAME**/
 
 #wireframe-section {
-  height: 1050px;
-  margin-top: 20rem;
-  width: auto;
+  overflow: hidden;
+  height: auto;
+  width: 100%;
 }
 
 .wireframe-image-one {
@@ -403,8 +461,6 @@ p {
 }
 
 .feedback {
-  margin-left: 8rem;
-  margin-right: 8rem;
   max-width: 624px;
   font-style: italic;
   line-height: 150%;
@@ -419,9 +475,9 @@ p {
 
 
 #branding-section {
-  height: 600px;
-  margin-top: 20rem;
-  width: auto;
+  overflow: hidden;
+  height: auto;
+  width: 100%;
 }
 
 .logo-image, .typo-image, .color-image {
@@ -436,14 +492,15 @@ p {
 }
 
 #visual-section {
-  height: 1200px;
-  margin-top: 20rem;
-  width: auto;
+  overflow: hidden;
+  height: auto;
+  width: 100%;
 }
 
 .hifi-subsection-header {
   margin-bottom: 2rem;
 }
+
 .hifi-one, .hifi-two, .hifi-three, .hifi-four {
   margin-top: 2rem;
   width: 20%;
@@ -454,49 +511,24 @@ p {
   border-color: black;
 }
 
-.preference-image {
-  margin-left: 8rem;
-  height: auto;
-  width: 38%;
-  float: right;
-  margin-right: 8rem;
-}
-
 .preference-desc {
   margin-top: 2rem;
   max-width: 360px;
 }
 
 #lessons-section {
-  height: 600px;
-  margin-top: 20rem;
-  width: auto;
-}
-
-#contact {
+  overflow: hidden;
+  height: auto;
   width: 100%;
-  text-align: center;
 }
 
 .contact-header {
-  text-align: center;
-  max-width: 100%;
-}
-
-.copyright-name {
-  font-size: 10px;
-  float: left;
-  margin: 32px;
-}
-
-.social-media li{
-  float: right;
-  display: inline-block;
+  font-size: 2.25em;
 }
 
 /**MOBILE**/
 @media (min-width: 320px) and (max-width: 575px) {
-  .stack-hero {
+  .everyday-hero {
     margin: 0 auto;
     width: 100%;
   }
@@ -607,6 +639,7 @@ p {
   }
 
   #discovery-section {
+    overflow: hidden;
     height: auto;
     margin-top: 20rem;
   }
@@ -663,6 +696,7 @@ p {
     margin-right: 2em;
     width: 50%;
   }
+
   .percentages {
     font-size: 2em;
     text-align: center;
@@ -678,9 +712,8 @@ p {
     column-width: 100%;
   }
   #information-section {
-    height: 750px;
-    margin-top: 20rem;
-    width: auto;
+    height: auto;
+    width: 100%;
   }
 
   .MVP-items {
@@ -699,7 +732,7 @@ p {
     align-items: center;
   }
   #wireframe-section {
-    height: 1700px;
+    height: auto;
     margin-top: 5em;
     width: 100%;
   }
@@ -739,7 +772,7 @@ p {
     list-style-type: circle;
   }
   #branding-section {
-    height: 400px;
+    height: auto;
     margin-top: 20em;
     width: 100%;
   }
@@ -757,8 +790,7 @@ p {
   }
 
   #visual-section {
-    height: 2000px;
-    margin-top: 20rem;
+    height: auto;
     width: 100%;
   }
 
@@ -770,23 +802,14 @@ p {
     width: 50%;
   }
 
-  .preference-image {
-    margin-left: 2em;
-    height: auto;
-    width: 80%;
-    float: left;
-    margin-right: 2em;
-  }
 
   .preference-desc {
-    margin-top: 15em;
-    width: 80%;
-    text-align: center;
+    text-align: left;
+    width: 100%;
   }
 
   #lessons-section {
-    height: 600px;
-    margin-top: 20rem;
+    height: auto;
     width: 100%;
   }
 

@@ -28,8 +28,9 @@ h4 {
 }
 
 p {
-  font-size: 1em;
+  font-size: 1.250em;
   max-width: 624px;
+  line-height: 180%;
 }
 
 /**NAV BAR**/
@@ -103,7 +104,7 @@ a {
 }
 
 .highlight {
-  background: linear-gradient(180deg,rgba(255,255,255,0) 60%, rgba(117, 142, 133, 0.5) 45%);
+  background: linear-gradient(180deg,rgba(255,255,255,0) 60%, rgba(117, 142, 133, 0.4) 45%);
 }
 
 /**FEATURED PROJECTS**/
@@ -145,7 +146,7 @@ a {
 }
 
 .content .content-overlay {
-  background: #758E85;
+  background: rgb(173, 186, 183, 1);
   position: absolute;
   height: auto;
   width: auto;
@@ -197,7 +198,7 @@ a {
   letter-spacing: 0.15em;
   margin-bottom: 0.5em;
   text-transform: lowercase;
-  font-family: Montserrat;
+  font-family: "Montserrat";
   text-align: center;
 }
 
@@ -288,7 +289,7 @@ a {
 /**REFERENCE SECTION**/
 #testimonial {
   height: auto;
-  margin-top: 15em;
+  margin-top: 10em;
 }
 .testimonial-section {
   font-family: 'Montserrat', sans-serif;
@@ -316,7 +317,6 @@ a {
 
 /**BOTTOM CONTACT INFO**/
 #contact {
-  background-color:;
   margin-bottom: 2em;
 }
 
@@ -328,10 +328,13 @@ a {
 }
 
 .contact-section {
+  border-top-style: solid;
+  border-top-color: #758E85;
+  border-top-width: 3px;
   padding: 20px;
   width: 100%;
   font-family: "Montserrat";
-  margin-top: 2em;
+  margin-top: 1em;
 }
 
 .contact-header {
@@ -527,7 +530,7 @@ ul.social-media li {
 }
 
 /**LAPTOP**/
-@media (min-width: 900px) and (max-width: 1024px) {
+@media (min-width: 800px) and (max-width: 1024px) {
   .container-one, .container-two, .container-three, .container-four {
     width: 35%;
   }
@@ -592,14 +595,14 @@ ul.social-media li {
   .design-header {
     text-transform: uppercase;
     font-weight: bolder;
-    font-size: 1.5em;
+    font-size: 1.25em;
     margin-bottom: 1em;
   }
 
   .design-header-two {
     text-transform: uppercase;
     font-weight: bolder;
-    font-size: 1.5em;
+    font-size: 1.25em;
     margin-bottom: 5em;
   }
 
@@ -666,7 +669,7 @@ ul.social-media li {
 
 
 /**TABLET*/
-@media (min-width: 580px) and (max-width: 900px) {
+@media (min-width: 576px) and (max-width: 800px) {
   .container-one, .container-two, .container-three, .container-four {
     display: block;
     width: 100%;
@@ -723,14 +726,14 @@ ul.social-media li {
   .design-header {
     text-transform: uppercase;
     font-weight: bolder;
-    font-size: 1.5em;
+    font-size: 1.125em;
     margin-bottom: 1em;
   }
 
   .design-header-two {
     text-transform: uppercase;
     font-weight: bolder;
-    font-size: 1.5em;
+    font-size: 1.125em;
     margin-bottom: 5em;
   }
 
