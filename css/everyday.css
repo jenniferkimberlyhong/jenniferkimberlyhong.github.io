@@ -213,7 +213,7 @@ body {
   padding-top: 2em;
   padding-bottom: 2em;
   width: 50%;
-  height: auto;
+  height: 420px;
   float: left;
   background-color: rgba(201, 175, 152, 0.1);
 }
@@ -222,7 +222,7 @@ body {
   padding-top: 2em;
   padding-bottom: 2em;
   width: 50%;
-  height: auto;
+  height: 420px;
   float: right;
   background-color: rgba(201, 175, 152, 0.1);
 }
