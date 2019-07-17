@@ -558,7 +558,8 @@ body {
 /** LESSONS **/
 #lessons-section {
   height: auto;
-  margin-bottom: 5em;
+  margin-bottom: 6em;
+  overflow: hidden;
 }
 
 .lessons-one-title, .lessons-two-title, .lessons-three-title, .changes-title {
