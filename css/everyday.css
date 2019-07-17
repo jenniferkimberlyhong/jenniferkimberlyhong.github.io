@@ -451,7 +451,7 @@ body {
 }
 
 .MVP-items li {
-  width: 25%;
+  width: 35%;
   text-align: left;
   list-style: initial;
   margin-left: auto;
@@ -475,6 +475,17 @@ body {
 }
 
 .contact-btns1 a:hover {
+  color: #FECB5E;
+  text-decoration: underline;
+}
+
+.contact-btns-2 {
+  margin-top: .5em;
+  margin-bottom: 2em;
+  text-align: center;
+}
+
+.contact-btns-2 a:hover {
   color: #FECB5E;
   text-decoration: underline;
 }
@@ -525,11 +536,11 @@ body {
 }
 
 .logo-image-one, .logo-image-two, .logo-image-three, .logo-image-four {
-  border: 1px solid black;
   display: inline-block;
   width: auto;
   margin-left: auto;
   margin-right: auto;
+  padding: 0.5em;
 }
 
 .color-subsection-header {
@@ -594,6 +605,14 @@ body {
 
 .typo-subsection-header {
   background-color: rgba(201, 175, 152, 0.1);
+  padding-bottom: 2em;
+}
+
+.text {
+  width: 25%;
+  display: block;
+  margin-left: auto;
+  margin-right: auto;
 }
 
 .hifi-subsection-header {
@@ -603,7 +622,36 @@ body {
 
 .final-subsection-header {
   background-color: rgba(201, 175, 152, 0.1);
+  padding-bottom: 2em;
 }
+
+.pref-subsection-header {
+  padding-bottom: 2em;
+}
+
+.pref-one {
+  display: block;
+  margin-left: auto;
+  margin-right: auto;
+  margin-bottom: 2em;
+  width: 80%;
+}
+
+.pref-two {
+  display: block;
+  margin-left: auto;
+  margin-right: auto;
+  margin-bottom: 2em;
+  width: 80%;
+}
+
+.pref-three {
+  display: block;
+  margin-left: auto;
+  margin-right: auto;
+  width: 80%;
+}
+
 /** END VISUAL DESIGN **/
 
 /** LESSONS **/
