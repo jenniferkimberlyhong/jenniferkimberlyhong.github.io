@@ -451,7 +451,7 @@ body {
 }
 
 .MVP-items li {
-  width: 50%;
+  width: 40%;
   text-align: left;
   list-style: initial;
   margin-left: auto;
@@ -527,7 +527,9 @@ body {
 .logo-image-one, .logo-image-two, .logo-image-three, .logo-image-four {
   border: 1px solid black;
   display: inline-block;
-  width: 40%;
+  width: auto;
+  margin-left: auto;
+  margin-right: auto;
 }
 
 .color-subsection-header {
