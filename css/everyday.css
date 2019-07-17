@@ -118,7 +118,6 @@ body {
 }
 
 #overview-section {
-  width: 100%;
   margin-top: 2em;
   margin-bottom: 2em;
   height: auto;
@@ -251,7 +250,10 @@ body {
 }
 
 .comp {
-  margin-left: 23em;
+  width: 50%;
+  margin-left: auto;
+  margin-right: auto;
+  display: block;
   margin-bottom: 2em;
 }
 
@@ -369,7 +371,6 @@ body {
 #information-section {
   overflow: hidden;
   height: auto;
-  width: 100%;
 }
 
 .info-subsection-header {
@@ -442,7 +443,6 @@ body {
 #wireframe-section {
   overflow: hidden;
   height: auto;
-  width: 100%;
 }
 
 .wireframe-image-one {
@@ -463,7 +463,6 @@ body {
 #visual-section {
   overflow: hidden;
   height: auto;
-  width: 100%;
 }
 
 .color-title {
@@ -558,7 +557,6 @@ body {
 
 /** LESSONS **/
 #lessons-section {
-  overflow: hidden;
   height: auto;
   margin-bottom: 5em;
 }
@@ -573,11 +571,6 @@ body {
   text-transform: lowercase;
   color: #758E85;
   margin-bottom: 0;
-}
-
-/** LESSONS **/
-#lessons-section {
-  height: auto;
 }
 
 .lessons-one {
