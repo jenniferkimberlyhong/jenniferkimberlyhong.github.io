@@ -58,7 +58,7 @@ p {
   font-size: 1em;
   text-align: left;
   line-height: 180%;
-  max-width: 624px;
+  width: 80%;
   padding-bottom: 2em;
 }
 
@@ -740,17 +740,32 @@ body {
     display: none;
   }
 
-  h2 {
+  h1 {
     font-family: "Montserrat";
-    margin-top: 2em;
-    margin-left: 3em;
-    margin-right: 3em;
+    margin-top: 1em;
+    margin-left: auto;
+    margin-right: auto;
     text-align: center;
     margin-bottom: 1em;
     font-weight: bold;
     color: #3A4660;
     text-transform: uppercase;
-    font-size: 1.25em;
+    font-size: 2em;
+    line-height: 1.25em;
+  }
+
+  h2 {
+    font-family: "Montserrat";
+    margin-top: 1em;
+    margin-left: auto;
+    margin-right: auto;
+    text-align: center;
+    margin-bottom: 1em;
+    font-weight: bold;
+    color: #3A4660;
+    text-transform: uppercase;
+    font-size: 1.625em;
+    line-height: 1.15em;
   }
 
   h3 {
@@ -758,21 +773,23 @@ body {
     text-align: center;
     text-transform: uppercase;
     color: #3A4660;
-    font-size: 1.25em;
+    font-size: 1.375em;
     padding-top: 1em;
     padding-bottom: 1em;
+    line-height: 1.14em;
   }
 
   h4 {
     font-family: "Sacramento";
     font-style: italic;
     padding-bottom: 1em;
-    font-size: 1.5em;
+    font-size: 1.625em;
     text-align: center;
     font-weight: bold;
     letter-spacing: 0.08em;
     color: #FECB5E;
     text-transform: lowercase;
+    line-height: 1.11em;
   }
 
   h5 {
@@ -780,27 +797,29 @@ body {
     font-style: normal;
     text-align: left;
     margin-bottom: 1em;
-    font-size: 0.938em;
+    font-size: 1.125em;
+    line-height: 1.11em;
   }
 
   h6 {
     font-family: "Montserrat";
     font-style: normal;
     margin-bottom: 1em;
-    font-size: .938em;
+    font-size: 1.11em;
     font-weight: bold;
     max-width: 624px;
     text-transform: uppercase;
     color: #3A4660;
+    line-height: 1.11em;
   }
 
   p {
     font-family: "Montserrat";
-    font-size: 0.875em;
+    font-size: 1em;
     text-align: left;
-    line-height: 150%;
+    line-height: 1.25em;
     padding-bottom: 1em;
-    max-width: 600px;
+    max-width: 500px;
     margin: 0 auto;
   }
   .highlight {
@@ -840,12 +859,12 @@ body {
   body {
     font-family: "Montserrat";
     font-size: 1em;
-    line-height: 150%;
+    line-height: 1.25em;
   }
 
   #overview-section {
-    margin-top: 2em;
-    margin-bottom: 2em;
+    margin-top: 1em;
+    margin-bottom: 1em;
     height: auto;
     text-align: center;
     overflow: hidden;
@@ -913,8 +932,8 @@ body {
 
   .project-details {
     font-size: 0.875em;
-    margin-top: 3rem;
-    margin-bottom: 5rem;
+    margin-top: 3em;
+    margin-bottom: 1em;
     text-align: center;
     margin-left: auto;
     margin-right: auto;
@@ -945,12 +964,20 @@ body {
   }
 
   .box-challenge {
+    margin-left: auto;
+    margin-right: auto;
+    display: block;
+    float: none;
     width: 100%;
     height: auto;
     background-color: rgba(201, 175, 152, 0.1);
   }
 
   .box-problem {
+    float: none;
+    margin-left: auto;
+    margin-right: auto;
+    display: block;
     width: 100%;
     height: auto;
     background-color: rgba(201, 175, 152, 0.1);
@@ -964,7 +991,7 @@ body {
 
   .challenge-desc, .problem-desc {
     text-align: left;
-    width: 100%;
+    width: 80%;
     margin-left: auto;
     margin-right: auto;
   }
@@ -975,7 +1002,7 @@ body {
   }
 
   .comp {
-    width: 50%;
+    width: 30%;
     margin-left: auto;
     margin-right: auto;
     display: block;
@@ -1134,7 +1161,7 @@ body {
 
   .example-mvp-image {
     margin: 0 auto;
-    width: 100%;
+    width: 80%;
     display: block;
     margin-top: 2em;
     margin-left: auto;
@@ -1144,6 +1171,7 @@ body {
 
   .MVP-title {
     text-align: center;
+    margin-bottom: 1em;
   }
 
   .MVP-subtitle {
@@ -1153,7 +1181,7 @@ body {
   }
 
   .MVP-items li {
-    width: 35%;
+    width: 40%;
     text-align: left;
     list-style: initial;
     margin-left: auto;
@@ -1375,7 +1403,11 @@ body {
   #lessons-section {
     height: auto;
     overflow: hidden;
-    margin-bottom: 3em;
+    margin-bottom: 2em;
+  }
+
+  #lessons-section p {
+    width: 80%;
   }
 
   .lessons-one-title, .lessons-two-title, .lessons-three-title, .changes-title {
