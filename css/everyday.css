@@ -1435,7 +1435,7 @@ body {
 
   /** END MOBILE VISUAL DESIGN **/
 
-  /** MOBILE LESSONS **/
+  /** BEGIN MOBILE LESSONS **/
   #lessons-section {
     height: auto;
     overflow: hidden;
@@ -1482,5 +1482,6 @@ body {
     width: 2em;
     height: auto;
   }
-  /** END LESSONS **/
+
+  /** END MOBILE LESSONS **/
 }
