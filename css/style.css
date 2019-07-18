@@ -538,7 +538,7 @@ ul.social-media li {
 @media (min-width: 320px) and (max-width: 575px) {
   .container-one, .container-two, .container-three, .container-four {
     display: block;
-    width: 90%;
+    width: 80%;
     margin-left: auto;
     margin-right: auto;
     float: none;
@@ -546,7 +546,7 @@ ul.social-media li {
 
   .grid-hero {
     margin: 0 auto;
-    width: 80%;
+    width: 78%;
   }
 
   .hello {
@@ -557,7 +557,7 @@ ul.social-media li {
   .headline, .tagline-one {
     text-align: left;
     font-size: 1em;
-    line-height: 1.25em;
+    line-height: 150%;
     width: auto;
   }
 
@@ -575,7 +575,7 @@ ul.social-media li {
   .content-details p{
     color: white;
     font-weight: bold;
-    font-size: 1em;
+    font-size: .875em;
     line-height: 1.25em;
     text-transform: uppercase;
     font-family: "Montserrat";
@@ -610,7 +610,7 @@ ul.social-media li {
     margin-left: auto;
     margin-right: auto;
   }
-  
+
   .design-left {
     width: auto;
     text-align: center;
@@ -777,7 +777,7 @@ ul.social-media li {
   .get-in-touch-primary-btn {
     margin: 0 auto;
     margin-bottom: 1em;
-    width: 200px;
+    width: 220px;
     display: block;
     font-size: 0.750em;
   }
@@ -785,7 +785,7 @@ ul.social-media li {
   .download-resume-primary-btn {
     margin: 0 auto;
     margin-bottom: 1em;
-    width: 200px;
+    width: 220px;
     display: block;
     font-size: 0.750em;
   }
