@@ -291,6 +291,7 @@ a {
 #testimonial {
   height: auto;
   margin-top: 10em;
+  display: none;
 }
 .testimonial-section {
   font-family: 'Montserrat', sans-serif;
@@ -319,6 +320,7 @@ a {
 /**BOTTOM CONTACT INFO**/
 #contact {
   margin-bottom: 2em;
+  margin-top: 4em;
 }
 
 #footer {
