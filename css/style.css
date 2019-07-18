@@ -793,3 +793,80 @@ ul.social-media li {
     font-family: "Montserrat";
     color: #758E85;
 }
+}
+
+/**ABOUT CSS - DESKTOP**/
+#about {
+  width: auto;
+  font-size: 1em;
+  font-family: 'Montserrat', sans-serif;
+  text-align: left;
+}
+
+.me {
+  margin-top: 5em;
+  margin-left: auto;
+  margin-right: auto;
+  display: block;
+  height: auto;
+  width: 12em;
+  border-radius: 0%;
+}
+
+.my-name {
+  margin-top: 1em;
+  margin-bottom: 1em;
+  font-size: 2.5em;
+  text-align: center;
+  font-weight: bold;
+}
+
+.bio, .bio-two, .bio-three {
+  font-size: 1em;
+  margin-bottom: 2em;
+  line-height: 180%;
+  max-width: 624px;
+  margin-left: auto;
+  margin-right: auto;
+  text-align: left;
+  display: block;
+}
+
+@media (min-width: 320px) and (max-width: 575px) {
+  #about {
+    width: auto;
+    font-size: 1em;
+    font-family: 'Montserrat', sans-serif;
+    text-align: left;
+  }
+
+  .me {
+    margin-top: 2em;
+    margin-left: auto;
+    margin-right: auto;
+    display: block;
+    height: auto;
+    width: 8em;
+    border-radius: 0%;
+  }
+
+  .my-name {
+    margin-top: 1em;
+    margin-bottom: 1em;
+    font-size: 2em;
+    text-align: center;
+    font-weight: bold;
+  }
+
+  .bio, .bio-two, .bio-three {
+    font-size: 1em;
+    margin-bottom: 2em;
+    line-height: 1.25em;
+    width: 70%;
+    margin-left: auto;
+    margin-right: auto;
+    text-align: left;
+    display: block;
+  }
+}
+/**ABOUT CSS**/
