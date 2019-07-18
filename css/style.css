@@ -136,6 +136,7 @@ a {
   margin-top: 1em;
   float: right;
   margin-right: 8em;
+  display: none;
 }
 
 .content {
