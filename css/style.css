@@ -609,7 +609,7 @@ ul.social-media li {
     margin-left: 1em;
     text-transform: uppercase;
     font-weight: bolder;
-    font-size: 1.375em;
+    font-size: 1.25em;
     margin-bottom: 0.5em;
   }
 
@@ -617,41 +617,25 @@ ul.social-media li {
     margin-right: 1em;
     text-transform: uppercase;
     font-weight: bolder;
-    font-size: 1.375em;
-    margin-bottom: 5em;
+    font-size: 1.25em;
+    margin-bottom: 4em;
+  }
+
+  .process-name {
+    font-size: 1.125em;
   }
 
   .gif-image {
+    margin-top: 1em;
     display: block;
     margin-left: auto;
     margin-right: auto;
   }
 
-  .design-left {
-    width: auto;
-    text-align: center;
-    margin-bottom: 2em;
-    margin-left: 2em;
-    margin-right: 2em;
-  }
-
-  .design-center {
-    display: block;
-    text-align: center;
-    width: auto;
-    margin-bottom: 2em;
-  }
-
-  .design-right {
-    text-align: center;
-    width: auto;
-    margin-left: 2em;
-    margin-right: 2em;
-  }
-
   p {
-    width: 50%;
+    width: 80%;
     margin: 0 auto;
+    margin-bottom: 2em;
   }
 
   .testimonial-section {
@@ -749,45 +733,30 @@ ul.social-media li {
     width: auto;
   }
 
+  .process-name {
+    font-size: 1em;
+  }
+
   .design-header {
     text-transform: uppercase;
     font-weight: bolder;
-    font-size: 1.125em;
+    font-size: 1em;
     margin-bottom: 1em;
+    margin-left: 1em;
   }
 
   .design-header-two {
     text-transform: uppercase;
     font-weight: bolder;
-    font-size: 1.125em;
-    margin-bottom: 5em;
-  }
-
-  .design-left {
-    width: auto;
-    text-align: center;
-    margin-bottom: 2em;
-    margin-left: 2em;
-    margin-right: 2em;
-  }
-
-  .design-center {
-    display: inline-block;
-    text-align: center;
-    width: auto;
-    margin-bottom: 2em;
-  }
-
-  .design-right {
-    text-align: center;
-    width: auto;
-    margin-left: 2em;
-    margin-right: 2em;
+    font-size: 1em;
+    margin-bottom: 3em;
+    margin-right: 1em;
   }
 
   p {
-    width: 50%;
-    margin: 0 auto;
+    width: 80;
+    margin-left: auto;
+    margin-right: auto;
   }
 
   .testimonial-section {
@@ -900,6 +869,7 @@ ul.social-media li {
 
   .flex-grid {
   display: block;
+  margin: 0 auto;
 }
 }
 }
