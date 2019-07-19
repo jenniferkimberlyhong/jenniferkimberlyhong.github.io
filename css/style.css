@@ -70,6 +70,11 @@ li.main-header li {
   color: #758E85;
 }
 
+a:hover {
+  color: #758E85;
+  background: white;
+}
+
 a {
   color: black;
   text-transform: uppercase;
@@ -396,6 +401,16 @@ ul.social-media li {
 .fa-envelope, .fa-linkedin, .fa-github {
   color: #758E85;
   text-align: center;
+}
+
+.fa-envelope:hover {
+  color: rgba(201, 175, 152, .6);
+}
+.fa-github:hover {
+  color: rgba(201, 175, 152, .6);
+}
+.fa-linkedin:hover {
+  color: rgba(201, 175, 152, .6);
 }
 
 .return-link {
