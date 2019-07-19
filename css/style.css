@@ -113,7 +113,7 @@ a {
   margin-left: auto;
   margin-right: auto;
   display: block;
-  margin-bottom: 1em;
+  margin-bottom: 1.5em;
 }
 
 .hello {
@@ -138,29 +138,19 @@ a {
   overflow: hidden;
 }
 
-.container-one {
-  margin-top: 1em;
-  float: left;
-  margin-left: 8em;
+.project-row-one {
+  display: flex;
 }
 
-.container-two {
-  margin-top: 1em;
-  float: right;
-  margin-right: 8em;
+.project-row-two {
+  display: flex;
 }
 
-.container-three {
-  margin-top: 1em;
-  float: left;
-  margin-left: 8em;
-}
-
-.container-four {
-  margin-top: 1em;
-  float: right;
-  margin-right: 8em;
-  display: none;
+.project-column {
+  flex: 50%;
+  padding: 10px;
+  margin-left: 2em;
+  margin-right: 2em;
 }
 
 .content {
@@ -203,7 +193,6 @@ a {
   opacity: 1;
 }
 
-
 .content {
   text-align: center;
   color: black;
@@ -212,7 +201,7 @@ a {
 .content-details h3{
   color: black;
   font-weight: bolder;
-  font-size: 1.875em;
+  font-size: 2.25em;
   letter-spacing: 0.15em;
   margin-bottom: 0.5em;
   text-transform: lowercase;
@@ -223,7 +212,7 @@ a {
 .content-details p{
   color: black;
   font-weight: bolder;
-  font-size: 0.75em;
+  font-size: 1em;
   line-height: 180%;
   text-transform: uppercase;
   font-family: "Montserrat";
@@ -568,6 +557,20 @@ ul.social-media li {
     float: none;
   }
 
+  .project-row-one {
+    display: block;
+  }
+
+  .project-row-two {
+    display: block;
+  }
+
+  .project-column {
+    flex: 100%;
+    padding: 10px;
+    margin-left: 2em;
+    margin-right: 2em;
+  }
 
   .content-details h3{
     color: black;
@@ -684,17 +687,19 @@ ul.social-media li {
 
 /**TABLET*/
 @media (min-width: 576px) and (max-width: 800px) {
-  .container-one, .container-two, .container-three {
+  .project-row-one {
     display: block;
-    width: 100%;
-    margin-left: auto;
-    margin-right: auto;
-    padding-left: 3em;
-    padding-right: 3em;
   }
 
-  .container-four {
-    display: none;
+  .project-row-two {
+    display: block;
+  }
+
+  .project-column {
+    flex: 100%;
+    padding: 10px;
+    margin-left: 2em;
+    margin-right: 2em;
   }
 
   .grid-hero {
