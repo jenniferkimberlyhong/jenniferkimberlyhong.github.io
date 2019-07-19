@@ -170,27 +170,16 @@ a {
   overflow: hidden;
 }
 
-.content .content-overlay {
-  background: rgb(173, 186, 183, 1);
-  position: absolute;
-  height: auto;
-  width: auto;
-  left: 0;
-  top: 0;
-  bottom: 0;
-  right: 0;
-  opacity: 0;
-  -webkit-transition: all 0.4s ease-in-out 0s;
-  -moz-transition: all 0.4s ease-in-out 0s;
-  transition: all 0.4s ease-in-out 0s;
-}
-
 .content:hover .content-overlay{
-  opacity: 1;
 }
 
 .content-image{
   width: 100%;
+  opacity: 0.5;
+}
+
+.content-image:hover {
+  opacity: 1.0;
 }
 
 .content-details {
@@ -200,8 +189,8 @@ a {
   padding-right: 1em;
   width: 100%;
   top: 50%;
-  left: 40%;
-  opacity: 0;
+  left: 50%;
+  opacity: .6;
   -webkit-transform: translate(-50%, -50%);
   -moz-transform: translate(-50%, -50%);
   transform: translate(-50%, -50%);
@@ -211,14 +200,17 @@ a {
 }
 
 .content:hover .content-details{
-  top: 50%;
-  left: 50%;
   opacity: 1;
 }
 
+.content {
+  text-align: center;
+  color: black;
+}
+
 .content-details h3{
-  color: white;
-  font-weight: bold;
+  color: black;
+  font-weight: bolder;
   font-size: 1.875em;
   letter-spacing: 0.15em;
   margin-bottom: 0.5em;
@@ -228,10 +220,10 @@ a {
 }
 
 .content-details p{
-  color: white;
-  font-weight: bold;
+  color: black;
+  font-weight: bolder;
   font-size: 0.75em;
-  line-height: 150%;
+  line-height: 180%;
   text-transform: uppercase;
   font-family: "Montserrat";
   text-align: center;
@@ -239,7 +231,7 @@ a {
 }
 
 .fadeIn-top{
-  top: 20%;
+  top: 50%;
 }
 
 /**DESIGN PROCESS**/
@@ -592,28 +584,6 @@ ul.social-media li {
     width: auto;
   }
 
-  .content-details h3{
-    color: white;
-    font-weight: bold;
-    font-size: 1.875em;
-    letter-spacing: 0.15em;
-    margin-bottom: 0.5em;
-    text-transform: lowercase;
-    font-family: "Montserrat";
-    text-align: center;
-  }
-
-  .content-details p{
-    color: white;
-    font-weight: bold;
-    font-size: .875em;
-    line-height: 1.25em;
-    text-transform: uppercase;
-    font-family: "Montserrat";
-    text-align: center;
-    width: 100%;
-  }
-
   #design {
     font-family: 'Montserrat', sans-serif;
     font-size: 1em;
@@ -718,28 +688,6 @@ ul.social-media li {
     text-align: center;
     font-size: 0.875em;
     width: auto;
-  }
-
-  .content-details h3{
-    color: white;
-    font-weight: bold;
-    font-size: 1.5em;
-    letter-spacing: 0.15em;
-    margin-bottom: 0.5em;
-    text-transform: lowercase;
-    font-family: "Montserrat";
-    text-align: center;
-  }
-
-  .content-details p{
-    color: white;
-    font-weight: bold;
-    font-size: 0.875em;
-    line-height: 150%;
-    text-transform: uppercase;
-    font-family: "Montserrat";
-    text-align: center;
-    width: 100%;
   }
 
   #design {
