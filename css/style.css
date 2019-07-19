@@ -248,6 +248,8 @@ a {
 
 .flex-grid {
   display: flex;
+  margin-left: 4em;
+  margin-right: 4em;
 }
 
 .col {
