@@ -377,7 +377,7 @@ body {
 
 .persona-one {
   text-align: center;
-  width: 30%;
+  max-width: 30%;
   float: left;
   display: block;
   margin-left: 8em;
@@ -410,7 +410,7 @@ body {
   margin-left: auto;
   display: block;
   text-align: center;
-  width: 30%;
+  max-width: 30%;
   float: right;
 }
 
@@ -420,14 +420,14 @@ body {
 }
 
 .emma {
-  width: 10em;
+  width: auto;
   height: 10em;
   border-radius: 50%;
   margin-bottom: 1em;
 }
 
 .derek {
-  width: 10em;
+  width: auto;
   height: 10em;
   border-radius: 50%;
   margin-bottom: 1em;
@@ -718,6 +718,13 @@ body {
 
 .lessons-one-title, .lessons-two-title, .lessons-three-title, .changes-title {
   margin: 0 auto;
+  text-align: center;
+  margin-bottom: 1em;
+}
+
+.lesson-one, .lesson-two, .lesson-three, .lesson-four p {
+  margin-left: 8em;
+  margin-right: 8em;
 }
 
 .contact-header {
@@ -727,36 +734,24 @@ body {
   color: #758E85;
   margin-bottom: 0;
 }
-
-.lessons-one {
-  margin-left: 8em;
-  width: 38%;
-  float: left;
-  text-align: center;
-  padding: 2em;
+.flex-grid-two {
+  display: flex;
 }
 
-.lessons-one p {
-  margin-top: 1em;
-  height: 300px;
-}
-
-.lessons-two {
-  margin-right: 8em;
-  width: 38%;
-  float: right;
-  text-align: center;
-  padding: 2em;
-}
-
-.lessons-two p {
-  margin-top: 1em;
-  height: 300px;
+.row {
+  display: flex;
+  flex-direction: row;
+  flex-wrap: wrap;
+  width: 100%;
 }
 
 .lessons-image {
   width: 2em;
   height: auto;
+  display: block;
+  margin-left: auto;
+  margin-right: auto;
+  margin-bottom: 1em;
 }
 
 /** END LESSONS **/
@@ -1440,48 +1435,12 @@ body {
     height: auto;
     overflow: hidden;
   }
-
-  .lessons-one-title, .lessons-two-title, .lessons-three-title, .changes-title {
-    margin: 0 auto;
-  }
-
-  .contact-header {
-    text-align: center;
-    font-weight: bold;
-    text-transform: lowercase;
-    color: #758E85;
-    margin-bottom: 0;
-  }
-
-  .lessons-one {
-    margin-left: auto;
-    margin-right: auto;
-    width: 100%;
-    text-align: center;
-    margin-top: 0;
-    height: auto;
-  }
-
-  .lessons-one p {
-    height: auto;
-  }
-
-  .lessons-two {
-    margin-left: auto;
-    margin-right: auto;
-    width: 100%;
-    text-align: center;
-    margin-top: 0;
-  }
-
-  .lessons-two p {
-    height: auto;
-  }
-
-  .lessons-image {
-    width: 2em;
-    height: auto;
-  }
-
+  .flex-grid-two {
+  display: block;
+}
+.lesson-one, .lesson-two, .lesson-three, .lesson-four {
+  margin: 0 auto;
+  margin-left: auto;
+}
   /** END MOBILE LESSONS **/
 }
