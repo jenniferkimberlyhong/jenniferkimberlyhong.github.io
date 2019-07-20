@@ -719,7 +719,7 @@ body {
   margin-bottom: 2em;
 }
 
-.lessons-one-title, .lessons-two-title, .lessons-three-title, .changes-title {
+.lessons-one-title, .lessons-two-title, .lessons-three-title, .lessons-four-title {
   margin: 0 auto;
   text-align: center;
   margin-bottom: 1em;
@@ -728,7 +728,6 @@ body {
 .lesson-one, .lesson-two, .lesson-three, .lesson-four p {
   margin-left: auto;
   margin-right: auto;
-  width: 80%;
 }
 
 .contact-header {
@@ -820,10 +819,10 @@ body {
     font-size: 1.625em;
     text-align: center;
     font-weight: bold;
-    letter-spacing: 0.05em;
     color: #FECB5E;
     text-transform: lowercase;
     line-height: 1.11em;
+    max-width: auto;
   }
 
   h5 {
@@ -935,7 +934,7 @@ body {
     display: inline-block;
     font-family: 'Montserrat', sans-serif;
     text-transform: uppercase;
-    font-size: 1em;
+    font-size: 0.875em;
     text-align: center;
     background-color: #3A4660;
     padding: 10px 20px;
@@ -944,14 +943,14 @@ body {
     color: white;
     border-radius: 8px;
     font-weight: bold;
-    width: 300px;
+    width: 280px;
   }
 
   .mobile-prototype-primary-btn {
     display: inline-block;
     font-family: 'Montserrat', sans-serif;
     text-transform: uppercase;
-    font-size: 1em;
+    font-size: 0.875em;
     text-align: center;
     background-color: #3A4660;
     padding: 10px 20px;
@@ -960,7 +959,7 @@ body {
     color: white;
     border-radius: 8px;
     font-weight: bold;
-    width: 300px;
+    width: 280px;
     margin-top: 1em;
   }
 
@@ -1442,9 +1441,11 @@ body {
 .lesson-one, .lesson-two, .lesson-three, .lesson-four {
   margin: 0 auto;
 }
+
 .lesson-one, .lesson-two, .lesson-three, .lesson-four p {
-  margin: 0 auto;
+  margin-left: auto;
+  margin-right: auto;
 }
 
-  /** END MOBILE LESSONS **/
 }
+  /** END MOBILE LESSONS **/
