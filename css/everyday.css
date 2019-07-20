@@ -728,6 +728,7 @@ body {
 .lesson-one, .lesson-two, .lesson-three, .lesson-four p {
   margin-left: auto;
   margin-right: auto;
+  width: 80%;
 }
 
 .contact-header {
