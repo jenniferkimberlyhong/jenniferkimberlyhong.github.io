@@ -5,12 +5,8 @@
 h2 {
   font-size: 2.25em;
   font-family: "Montserrat";
-}
-
-p {
-  font-size: 1em;
-  font-family: "Montserrat";
-  padding: 20px;
+  text-transform: lowercase;
+  font-weight: bold;
 }
 
 label {
@@ -18,28 +14,45 @@ label {
 }
 
 /* Style inputs */
-input[type=text], select, textarea {
+
+form input,
+form textarea {
   width: 100%;
-  padding: 12px;
-  border: 1px solid #ccc;
-  margin-top: 6px;
-  margin-bottom: 16px;
-  resize: vertical;
+  margin: 0.5rem 0;
+  padding: 0.5rem;
+  border: 1px solid rgb(220,220,220);
   font-family: "Montserrat";
 }
 
-input[type=submit] {
-  background-color: #758E85;
-  color: white;
-  padding: 12px 20px;
+textarea {
+  min-height: 4rem;
+}
+
+form label {
+  margin: 1rem 0 0;
+  display: inline-block;
+  color: #758E85;
+  font-weight: bold;
+}
+
+form input[type="submit"] {
+  background-color:#758E85;
+  color:white;
   border: none;
-  cursor: pointer;
-  font-family: "Montserrat";
 }
 
-input[type=submit]:hover {
-  background-color: #000000;
+input[type="text"] {
+  background: #ffffff;
+  padding: 1em;
+  border-radius: 8px;
 }
+
+input[type="email"]{
+  background: #ffffff;
+  padding: 1em;
+  border-radius: 8px;
+}
+
 
 /* Style the container/contact section */
 .container {
