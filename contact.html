@@ -1,22 +1,62 @@
-<div class="container">
-  <form action="action_page.php">
+<!DOCTYPE html>
+<html>
+<head>
+  <meta charset="utf-8">
+  <meta name ="viewport" content="width=device-width, initial-scale=1">
+  <title>Jennifer Hong | UX Designer</title>
 
-    <label for="fname">First Name</label>
-    <input type="text" id="fname" name="firstname" placeholder="Your name..">
+  <!--- CSS STYLESHEETS --->
+  <link rel="stylesheet" href="css/reset.css">
+  <link rel="stylesheet" href="css/animate.css">
+  <link rel="stylesheet" href="https://use.fontawesome.com/releases/v5.3.1/css/all.css" integrity="sha384-mzrmE5qonljUremFsqc01SB46JvROS7bZs3IO2EmfFsd15uHvIt+Y8vEf7N7fWAU" crossorigin="anonymous">
+  <link rel="shortcut icon" type="img/png" href="images/logo.png"/>
+  <link rel="stylesheet" href="css/style.css">
+  <link rel="stylesheet" href="css/contact.css">
 
-    <label for="lname">Last Name</label>
-    <input type="text" id="lname" name="lastname" placeholder="Your last name..">
+  <!--- FONT --->
+  <link href="https://fonts.googleapis.com/css?family=Sacramento&display=swap" rel="stylesheet">
+  <link href="https://fonts.googleapis.com/css?family=Montserrat&display=swap" rel="stylesheet">
+</head>
 
-    <label for="country">Country</label>
-    <select id="country" name="country">
-      <option value="canada">Canada</option>
-      <option value="usa">USA</option>
-    </select>
+<body>
+  <div class="container">
+  <!--- HEADER --->
+  <!--- NAV --->
+  <header>
+    <nav class="nav-bar">
+      <a href="index.html"><img class="logo-size" src="images/jh.png" alt="JH logo"></a>
+      <ul class="main-header">
+        <li><a href="about.html">about</a></li>
+        <li><a href="https://drive.google.com/file/d/1TpZqNhZSekLYC8gNJfnmr6oJCKcrs7U0/view?usp=sharing" target="_blank">resume</a></li>
+        <li><a href="#projects"><font color="#758E85">work</font></a></li>
+        <li><a href="#footer">contact</a></li>
+      </ul>
+    </nav>
 
-    <label for="subject">Subject</label>
-    <textarea id="subject" name="subject" placeholder="Write something.." style="height:200px"></textarea>
-
-    <input type="submit" value="Submit">
-
-  </form>
-</div>
+    <div class="container">
+      <div style="text-align:center">
+        <h2>Let's Chat!</h2>
+        <p>Swing by for a cup of coffee, or leave me a message below:</p>
+      </div>
+      <div class="row">
+        <div class="column">
+          <img src="images/JHong.png" style="width:50%">
+        </div>
+        <div class="column">
+          <form action="mailto:jennifer.hong13@gmail.com" method="post" enctype="text/plain">
+            <label for="fname">First Name</label>
+            <input type="text" id="fname" name="firstname" placeholder="Your name..">
+            <label for="lname">Last Name</label>
+            <input type="text" id="lname" name="lastname" placeholder="Your last name..">
+            <label for="country">Country</label>
+            <select id="country" name="country">
+              <option value="canada">Canada</option>
+              <option value="usa">USA</option>
+            </select>
+            <label for="subject">Subject</label>
+            <textarea id="subject" name="subject" placeholder="Write something.." style="height:170px"></textarea>
+              <input type="submit" value="Submit">
+          </form>
+        </div>
+      </div>
+    </div>
