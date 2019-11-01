@@ -35,28 +35,61 @@
 
     <div class="container">
       <div style="text-align:center">
-        <h2>Let's Chat!</h2>
-        <p>Please leave your message below:</p>
+        <h2>Let's <span class="highlight"> Chat</span> !</h2>
       </div>
       <div class="row">
         <div class="column">
           <img src="images/JHong.png" style="width:50%">
         </div>
         <div class="column">
-          <form action="mailto:jennifer.hong13@gmail.com" method="post" enctype="text/plain">
-            <label for="fname">First Name</label>
-            <input type="text" id="fname" name="firstname" placeholder="Your name..">
-            <label for="lname">Last Name</label>
-            <input type="text" id="lname" name="lastname" placeholder="Your last name..">
-            <label for="country">Country</label>
-            <select id="country" name="country">
-              <option value="canada">Canada</option>
-              <option value="usa">USA</option>
-            </select>
-            <label for="subject">Subject</label>
-            <textarea id="subject" name="subject" placeholder="Write something.." style="height:170px"></textarea>
-              <input type="submit" value="Submit">
+          <form action="https://formspree.io/mqkzwrak" method="POST">
+            <label for="name">Name</label>
+            <input type="text" name="name">
+            <label for="name">Email</label>
+            <input type="email" name="_replyto">
+            <label for="name">Message</label>
+            <textarea name="message" placeholder="Your message"></textarea>
+            <input type="submit" value="Send Message">
           </form>
         </div>
       </div>
     </div>
+
+    <!--- FOOTER --->
+
+    <!--- SOCIAL MEDIA --->
+    <footer id="footer">
+      <ul class="social-media">
+        <li><a href="https://www.linkedin.com/in/jenniferkimberlyhong/"><i class="fab fa-linkedin fa-2x"></i></a></li>
+        <li><a href="contact.html"><i class="far fa-envelope fa-2x"></i></a></li>
+        <li><a href="https://github.com/jenniferkimberlyhong"><i class="fab fa-github fa-2x"></i></a></li>
+      </ul>
+      <div class="copyright">
+        <i class="far fa-copyright fa-sm"></i> 2019 JENNIFER HONG | Designed and Developed by Jennifer Hong
+      </div>
+    </footer>
+
+    <script>
+    function myFunction() {
+      var x = document.getElementById("myLinks");
+      if (x.style.display === "block") {
+        x.style.display = "none";
+      } else {
+        x.style.display = "block";
+      }
+    }
+    </script>
+
+
+    <!-- Global site tag (gtag.js) - Google Analytics -->
+    <script async src="https://www.googletagmanager.com/gtag/js?id=UA-144108703-1"></script>
+    <script>
+      window.dataLayer = window.dataLayer || [];
+      function gtag(){dataLayer.push(arguments);}
+      gtag('js', new Date());
+
+      gtag('config', 'UA-144108703-1');
+    </script>
+
+    </body>
+    </html>
