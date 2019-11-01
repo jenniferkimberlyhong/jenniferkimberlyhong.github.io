@@ -13,6 +13,8 @@ label {
   font-family: "Montserrat";
 }
 
+form { max-width:600px; margin:50px auto; }
+
 /* Style inputs */
 
 form input,
@@ -20,12 +22,9 @@ form textarea {
   width: 100%;
   margin: 0.5rem 0;
   padding: 0.5rem;
-  border: 1px solid rgb(220,220,220);
+  border: 1.5px solid #758E85;
+  border-radius: 5px;
   font-family: "Montserrat";
-}
-
-textarea {
-  min-height: 4rem;
 }
 
 form label {
@@ -35,24 +34,48 @@ form label {
   font-weight: bold;
 }
 
-form input[type="submit"] {
-  background-color:#758E85;
+.feedback-input {
+  color: black;
+  font-family: "Montserrat";
+  font-weight:500;
+  font-size: 16px;
+  border-radius: 5px;
+  line-height: 22px;
+  background-color: transparent;
+  border:1.5px solid #758E85;
+  transition: all 0.3s;
+  padding: 13px;
+  margin-bottom: 15px;
+  width:100%;
+  box-sizing: border-box;
+  outline:0;
+}
+
+.feedback-input:focus { border:1.5px solid #758E85; }
+
+textarea {
+  height: 150px;
+  line-height: 150%;
+  resize: vertical;
+}
+
+[type="submit"] {
+  font-family: "Montserrat";
+  width: 100%;
+  background:#758E85;
+  border-radius:5px;
+  border:0;
+  cursor:pointer;
   color:white;
-  border: none;
+  font-size:18px;
+  padding-top:10px;
+  padding-bottom:10px;
+  transition: all 0.3s;
+  margin-top:-4px;
+  font-weight:700;
+  text-transform: uppercase;
 }
-
-input[type="text"] {
-  background: #ffffff;
-  padding: 1em;
-  border-radius: 8px;
-}
-
-input[type="email"]{
-  background: #ffffff;
-  padding: 1em;
-  border-radius: 8px;
-}
-
+[type="submit"]:hover { background:#758E85; }
 
 /* Style the container/contact section */
 .container {
@@ -63,10 +86,10 @@ input[type="email"]{
 
 /* Create two columns that float next to eachother */
 .column {
-  float: left;
   width: 50%;
   margin-top: 6px;
   padding: 20px;
+  text-align: left;
 }
 
 /* Clear floats after the columns */
