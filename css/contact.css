@@ -75,7 +75,7 @@ textarea {
   font-weight:700;
   text-transform: uppercase;
 }
-[type="submit"]:hover { background:#758E85; }
+[type="submit"]:hover { background: rgba(117, 142, 133, 0.4) 45% }
 
 /* Style the container/contact section */
 .container {
