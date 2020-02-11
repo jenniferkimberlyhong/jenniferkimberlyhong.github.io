@@ -289,6 +289,14 @@ body {
   margin-bottom: 2em;
 }
 
+.pet-comp {
+  width: 50%;
+  margin-left: auto;
+  margin-right: auto;
+  display: block;
+  margin-bottom: 2em;
+}
+
 .swot-primary-btn {
   display: block;
   width: 250px;
