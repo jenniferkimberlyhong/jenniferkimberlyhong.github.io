@@ -1,39 +1,36 @@
-/* Template Name: Glen - Personal Portfolio Template
-   Author: Themeslelo
-   Email: themeslelo@gmail.com
-   Version: 1.0.0
-   Created: February 2020
+/* Template Name: Cristino - Responsive Personal Template
+   Author: Shreethemes
+   Email: shreethemes@gmail.com
+   Website: http://www.shreethemes.in
+   Version: 1.4.0
+   Created: Sep 2019
    File Description: Main JS file of the template
 */
 
+/************************/
+/*       INDEX          */
+/*=======================
+ *  01.  Loader         *
+ *  02.  Menu           *
+ *  03.  Scrollspy      *
+ *  04.  Magnific Popup *
+ *  05.  Owl Carousel   *
+ *  06.  Back to top    *
+ *  07.  Feather Icon   *
+ =======================*/
 
-(function ($) {
+! function($) {
+    "use strict";
+    // Loader 
+    $(window).on('load', function() {
+        $('#status').fadeOut();
+        $('#preloader').delay(350).fadeOut('slow');
+        $('body').delay(350).css({
+            'overflow': 'visible'
+        });
+    }); 
 
-    'use strict';
-    //Menu
-    $('.navbar-toggle').on('click', function (event) {
-        $(this).toggleClass('open');
-        $('#navigation').slideToggle(400);
-    });
-    
-    $('.navigation-menu>li').slice(-2).addClass('last-elements');
-    
-    $('.menu-arrow,.submenu-arrow').on('click', function (e) {
-        if ($(window).width() < 992) {
-            e.preventDefault();
-            $(this).parent('li').toggleClass('open').find('.submenu:first').toggleClass('open');
-        }
-    });
-    
-    // Smooth scroll 
-    $('.navbar-nav a').on('click', function(event) {
-        var $anchor = $(this);
-        $('html, body').stop().animate({
-            scrollTop: $($anchor.attr('href')).offset().top - 0
-        }, 3000, 'easeInOutExpo');
-        event.preventDefault();
-    });
-	// Add scroll class
+    // Menu
     $(window).scroll(function() {
         var scroll = $(window).scrollTop();
 
@@ -43,17 +40,53 @@
             $(".sticky").removeClass("nav-sticky");
         }
     });
-    //ScrollBtn
-    $('.scrollbtn').on('click', function(event) {
+
+    $('.navbar-nav a, .mouse-down').on('click', function(event) {
         var $anchor = $(this);
         $('html, body').stop().animate({
-            scrollTop: $($anchor.attr('href')).offset().top - 72
+            scrollTop: $($anchor.attr('href')).offset().top - 0
         }, 1500, 'easeInOutExpo');
         event.preventDefault();
     });
-
-	//Scrollspy
-    $(".navbar-nav").scrollspy({
-        offset: 20
+    
+    // Scrollspy
+    $(".navbar-nav").scrollspy({ offset: 70 });
+    
+    // Magnific Popup
+    $('.mfp-image').magnificPopup({
+        type: 'image',
+        closeOnContentClick: true,
+        mainClass: 'mfp-fade',
+        gallery: {
+            enabled: true,
+            navigateByImgClick: true,
+            preload: [0, 1]
+        }
     });
-})(jQuery)
+
+    //Owl Carousel
+    $("#clients-testi").owlCarousel({
+        autoPlay: 3000,
+        items: 2,
+        itemsDesktop : [1024,2],
+        itemsDesktopSmall : [900,2],
+        itemsTablet: [600,1],
+    });
+
+    // BACK TO TOP
+    $(window).scroll(function(){
+        if ($(this).scrollTop() > 100) {
+            $('.back-to-top').fadeIn();
+        } else {
+            $('.back-to-top').fadeOut();
+        }
+    }); 
+
+    $(".back-to-top").on("click", function() {
+        $("html, body").animate({ scrollTop: 0 }, 3000);
+        return false;
+    });
+    
+    //Feather icon
+    feather.replace()
+}(jQuery)
