@@ -28,7 +28,10 @@ h5 {
 h6 {
   font-size: 16px !important;
 }
-
+p {
+  font-size: 16px !important;
+  max-width: 75ch;
+}
 /**NAV BAR**/
 .nav-pills .nav-link {
   color: #161c2d !important;
@@ -250,24 +253,15 @@ h6 {
           box-shadow: -3px 1px 3px 0px rgba(0, 0, 0, 0.06) !important;
 }
 
-
-a:hover {
-  color: white;
-  background: white;
-}
-
-a {
-  color: black;
+.navbar-brand {
   text-transform: uppercase;
-  text-decoration: none;
-  letter-spacing: 0.15em;
-  margin: 0 20px;
+  letter-spacing: 0.1em;
 }
 
 /**NAV BAR ENDS**/
 
-/** HOME **/
 
+/** HOME **/
 .hello {
   margin-bottom: .5em;
   font-size: 14px;
@@ -442,29 +436,11 @@ a {
   margin-top: 4em;
 }
 
-.social-media li a:hover {
-  color: black;
-}
-
 .fa-envelope, .fa-linkedin, .fa-github, .fa-download {
-  color: #161c2d;
-  text-align: center;
+  margin: 0 20px
 }
 
-.fa-download:hover {
-  color: #ffaf12;
-}
-
-.fa-envelope:hover {
-  color: #ffaf12;
-}
-
-.fa-linkedin:hover {
-  color: #ffaf12;
-}
-
-.fa-github:hover {
-  color: #ffaf12;
+.fa-envelope:hover, .fa-linkedin:hover, .fa-github:hover, .fa-download:hover {
 }
 
 /**END FEATURED PROJECTS**/
@@ -757,16 +733,13 @@ a {
 }
 
 .back-to-top i {
-  font-size: 16px;
+  font-size: 14px;
 }
 
 .back-to-top:hover {
   background-color: #e54b4b;
   color: #ffffff;
 }
-
-
-
 
 .btn {
   padding: 8px 20px;

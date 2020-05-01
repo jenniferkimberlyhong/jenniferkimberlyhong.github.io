@@ -68,11 +68,15 @@
 .section-title .titles span:after,
 .owl-theme .owl-controls .owl-page span {
     border-color: #ffaf12 !important;
+    background-color: #ffaf12 !important;
+    color: #ffffff !important;
 }
 
 a.text-primary:hover,
 a.text-primary:focus {
     color: #ffaf12 !important;
+    border-color: transparent !important;
+    background-color: transparent !important;
 }
 
 .btn-primary,
@@ -83,6 +87,9 @@ a.text-primary:focus {
 .btn-outline-primary.focus,
 .btn-outline-primary:not(:disabled):not(.disabled):active {
     box-shadow: 0;
+    color: #ffaf12 !important;
+    background-color: transparent !important;
+    border-color: #ffaf12 !important;
 }
 
 .btn-primary:hover,
@@ -90,7 +97,6 @@ a.text-primary:focus {
 .btn-primary:active,
 .btn-primary.active,
 .btn-primary.focus {
-    background-color: #ffaf12 !important;
-    color: #ffffff !important;
+    background-color: transparent !important;
     border-color: #ffaf12 !important;
 }
