@@ -40,9 +40,9 @@ p {
 }
 
 .nav-pills .nav-link.active {
-  background-color: #e54b4b;
+  background-color: #ffaf12;
   color: #ffffff !important;
-  border-color: #e54b4b !important;
+  border-color: #ffaf12 !important;
   -webkit-box-shadow: 0 0 3px rgba(60, 72, 88, 0.15);
           box-shadow: 0 0 3px rgba(60, 72, 88, 0.15);
 }
@@ -94,11 +94,11 @@ p {
 }
 
 .navbar-custom .navbar-nav .nav-item .nav-link:hover, .navbar-custom .navbar-nav .nav-item .nav-link:active {
-  color: #e54b4b;
+  color: #ffaf12;
 }
 
 .navbar-custom .navbar-nav .nav-item.active .nav-link {
-  color: #e54b4b !important;
+  color: #ffaf12 !important;
 }
 
 .navbar-custom .navbar-nav .dropdown-toggle::after {
@@ -152,7 +152,7 @@ p {
 
 .navbar-custom .navbar-nav .dropdown .dropdown-item:hover, .navbar-custom .navbar-nav .dropdown .dropdown-item:focus {
   background-color: transparent;
-  color: #e54b4b;
+  color: #ffaf12;
 }
 
 .navbar-custom .navbar-nav .dropdown:hover .dropdown-menu, .navbar-custom .navbar-nav .dropdown:focus .dropdown-menu {
@@ -164,11 +164,11 @@ p {
 }
 
 .navbar-custom .navbar-nav.navbar-nav-link .nav-item .nav-link:hover, .navbar-custom .navbar-nav.navbar-nav-link .nav-item .nav-link:active {
-  color: #e54b4b;
+  color: #ffaf12;
 }
 
 .navbar-custom .navbar-nav.navbar-nav-link.active .nav-link {
-  color: #e54b4b !important;
+  color: #ffaf12 !important;
 }
 
 .navbar-custom .navbar-nav .nav-item:last-child .nav-link {
@@ -224,11 +224,11 @@ p {
 }
 
 .nav-sticky.navbar-custom .navbar-nav .nav-item .nav-link:hover, .nav-sticky.navbar-custom .navbar-nav .nav-item .nav-link:active {
-  color: #e54b4b !important;
+  color: #ffaf12 !important;
 }
 
 .nav-sticky.navbar-custom .navbar-nav .nav-item.active .nav-link .nav-link {
-  color: #e54b4b !important;
+  color: #ffaf12 !important;
 }
 
 .nav-sticky.navbar-custom.sticky-light {
@@ -262,6 +262,15 @@ p {
 
 
 /** HOME **/
+
+.text-muted {
+  color: #6c757d !important;
+}
+
+a.text-muted:hover, a.text-muted:focus {
+  color: #68788f !important;
+}
+
 .hello {
   margin-bottom: .5em;
   font-size: 14px;
@@ -315,7 +324,7 @@ p {
 }
 
 .fa-chevron-down {
-  color: #ffaf12;
+  color: #6c757d;
   text-align: center;
   position: absolute;
   left: 0;
@@ -328,6 +337,12 @@ p {
   height: 8px;
   margin-left: auto;
   margin-right: auto;
+}
+
+.fa-chevron-down:hover {
+  background-color: transparent;
+  color: #ffaf12;
+  text-decoration: none;
 }
 
 .mover {
@@ -434,6 +449,7 @@ p {
   text-align: center;
   width: 100%;
   margin-top: 4em;
+  margin-bottom: 1em;
 }
 
 .fa-envelope, .fa-linkedin, .fa-github, .fa-download {
@@ -644,8 +660,16 @@ p {
   line-height: 1.2;
 }
 
+.btn-custom:hover {
+  border-color: #ffaf12;
+}
 
+.btn-custom:hover {
+  color: #ffaf12;
+  text-decoration: none;
+}
 
+/**DESIGN PROCESS**/
 
 .service-wrapper {
   -webkit-transition: all 0.2s ease;
@@ -697,11 +721,11 @@ p {
 
 .service-wrapper:hover:after {
   width: 95%;
-  background-color: #e54b4b;
+  background-color: #ffaf12;
 }
 
 .service-wrapper:hover .content .title {
-  color: #e54b4b;
+  color: #ffaf12;
 }
 
 .service-wrapper:hover .big-icon {
@@ -712,7 +736,7 @@ p {
 .service-wrapper:hover .big-icon .icons {
   height: 200px;
   width: 200px;
-  color: #e54b4b;
+  color: #ffaf12;
 }
 
 .back-to-top {
@@ -737,7 +761,7 @@ p {
 }
 
 .back-to-top:hover {
-  background-color: #e54b4b;
+  background-color: #ffaf12;
   color: #ffffff;
 }
 
@@ -811,6 +835,39 @@ button:not(:disabled) {
   border: 0;
 }
 
+.btn-outline-nonprimary{
+   border-color: #798fa8;
+   background-color: transparent;
+   color: #798fa8;
+   width: 14em;
+   border-radius: 5px;
+   border-width: 1px;
+   display: inline-block;
+   margin: 5px;
+ }
+
+ .btn-outline-nonprimary:hover {
+    border-color: #798fa8;
+    background-color: #798fa8;
+    color: #ffffff;
+  }
+
+  .btn-outline-nonprimarytwo{
+     border-color: #798fa8;
+     background-color: #798fa8;
+     color: #ffffff;
+     width: 14em;
+     border-radius: 5px;
+     border-width: 1px;
+     display: inline-block;
+     margin: 5px;
+   }
+
+   .btn-outline-nonprimarytwo:hover {
+      border-color: #798fa8;
+      background-color: #ffffff;
+      color: #798fa8;
+    }
 
 /**PAGE SECTIONS**/
 .section {
@@ -821,7 +878,6 @@ button:not(:disabled) {
 
 .section-title {
   padding-bottom: 0px;
-  position: relative;
 }
 /**PAGE SECTIONS**/
 
