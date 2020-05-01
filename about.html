@@ -1,5 +1,5 @@
 <!DOCTYPE html>
-<html>
+<html lang="en">
 <head>
   <meta charset="utf-8">
   <meta name ="viewport" content="width=device-width, initial-scale=1">
@@ -10,98 +10,152 @@
   <link rel="stylesheet" href="css/animate.css">
   <link rel="stylesheet" href="https://use.fontawesome.com/releases/v5.3.1/css/all.css" integrity="sha384-mzrmE5qonljUremFsqc01SB46JvROS7bZs3IO2EmfFsd15uHvIt+Y8vEf7N7fWAU" crossorigin="anonymous">
   <link rel="shortcut icon" type="img/png" href="images/logo.png"/>
-  <link rel="stylesheet" href="css/style.css">
-
+  <!-- favicon -->
+  <link rel="shortcut icon" href="images/favicon.ico">
+  <!-- Bootstrap -->
+  <link href="css/bootstrap.min.css" rel="stylesheet" type="text/css" />
+  <!-- Magnific -->
+  <link href="css/magnific-popup.css" rel="stylesheet" type="text/css" />
+  <!-- Icon -->
+  <link href="css/materialdesignicons.min.css" rel="stylesheet" type="text/css" />
+  <!-- SLICK SLIDER -->
+  <link rel="stylesheet" href="css/owl.carousel.min.css"/>
+  <link rel="stylesheet" href="css/owl.theme.css"/>
+  <link rel="stylesheet" href="css/owl.transitions.css"/>
+  <!-- Custom CSS -->
+  <link href="css/style.css" rel="stylesheet" type="text/css" />
+  <link href="css/colors/default.css" rel="stylesheet" id="color-opt">
   <!--- FONT --->
   <link href="https://fonts.googleapis.com/css?family=Sacramento&display=swap" rel="stylesheet">
   <link href="https://fonts.googleapis.com/css?family=Montserrat&display=swap" rel="stylesheet">
 </head>
 
 <body>
-  <div class="container">
-  <!--- HEADER --->
-  <!--- NAV --->
-  <header>
-    <nav class="nav-bar">
-      <a href="index.html"><img class="logo-size" src="images/jh.png" alt="JH logo"></a>
-      <ul class="main-header">
-        <li><a href="about.html">about</a></li>
-        <li><a href="https://drive.google.com/file/d/1ujQOi03wYzsz7secvhZ97_Bobd_harbI/view?usp=sharing" target="_blank">resume</a></li>
-        <li><a href="index.html">work</a></li>
-        <li><a href="contact.html">contact</a></li>
-      </ul>
-    </nav>
-    <div class="mobile-container">
-      <div class="mobile">
-        <a href="index.html"><img class="logo-size" src="images/jh.png">
-        <div id="myLinks">
-        <a href="about.html">about</a>
-        <a href="https://drive.google.com/file/d/1ujQOi03wYzsz7secvhZ97_Bobd_harbI/view?usp=sharing" target="_blank">resume</a>
-        <a href="#projects">work</a>
-        <a href="contact.html">contact</a>
+  <!-- Navbar Start -->
+  <nav class="navbar navbar-expand-lg fixed-top navbar-custom navbar-light sticky">
+    <div class="container">
+      <a class="navbar-brand" href="index.html">Jennifer Hong</a>
+      <button class="navbar-toggler" type="button" data-toggle="collapse" data-target="#navbarCollapse" aria-controls="navbarCollapse" aria-expanded="false" aria-label="Toggle navigation">
+        <span data-feather="menu" class="fea icon-md"></span>
+      </button><!--end button-->
+      <div class="collapse navbar-collapse" id="navbarCollapse">
+        <ul class="navbar-nav navbar-nav-link mx-auto">
+          <li class="nav-item">
+            <a class="nav-link" href=#home>Home</a>
+          </li><!--end nav item-->
+          <li class="nav-item active">
+            <a class="nav-link" href="#blog">Work</a>
+          </li><!--end nav item-->
+          <li class="nav-item">
+            <a class="nav-link" href=about.html>About</a>
+          </li><!--end nav item-->
+          <li class="nav-item">
+            <a class="nav-link" href=contact.html>Contact</a>
+          </li><!--end nav item-->
+          <li class="nav-item dropdown">
+            <div class="dropdown-menu rounded m-0" aria-labelledby="navbarDropdown">
+              <div class="container ml-0 ml-md-0">
+                <div class="row">
+                  <div class="col-md-12">
+                    <a class="dropdown-item" href="buddy.html">Buddy</a>
+                    <a class="dropdown-item" href="everyday.html">Everyday</a>
+                  </div><!--end col-->
+                </div><!--end row-->
+              </div><!--end container-->
+            </div>
+          </li><!--end nav item-->
+        </ul>
+        <ul class="list-unstyled social-icon">
+          <li class="list-inline-item"><a href="https://www.linkedin.com/in/jenniferkimberlyhong"><i class="fab fa-linkedin fa-1x"></i></a></li>
+          <li class="list-inline-item"><a href="contact.html"><i class="far fa-envelope fa-1x"></i></a></li>
+          <li class="list-inline-item"><a href="https://github.com/jenniferkimberlyhong"><i class="fab fa-github fa-1x"></i></a></li>
+        </ul>
       </div>
-      <a href="javascript:void(0);" class="icon" onclick="myFunction()">
-        <i class="fa fa-bars fa-lg"></i>
-      </a>
+    </div><!--end container-->
+  </nav><!--end navbar-->
+  <!-- Navbar End -->
+
+  <!-- ABOUT -->
+  <section class="section pb-3" id="about">
+    <div class="container">
+      <div class="row mb-50">
+        <div class="col-lg-5">
+          <div class="hero">
+            <img class="me" src="images/profile-pic.jpg" alt="">
+          </div>
+        </div>
+        <div class="col-lg-7 d-flex align-items-center">
+          <div class="details">
+            <h2 style = "color: #ffaf12">Hi, I'm Jen!</h2>
+            <p class="text-dark">
+              I'm a Korean-American UX Designer and Technology Consultant based in New York City. I'm currently a senior consultant in product and technology at a Multinational Information Technology firm. For the past 6 years, I have been working on client-facing projects in various roles from Product Lead Analyst, Test Lead, to Learning Experience Lead in the Investment Banking, Insurance, and Retail industry.
+              I work daily with clients to understand their business requirements and challenges to develop innovative solutions to provide an engaging and seamless user experiences.
+              I enjoy collaborating and working to improve the lives of others through creative designs.
+            </p>
+            <div class="mt-1">
+              <a href="https://drive.google.com/file/d/1ujQOi03wYzsz7secvhZ97_Bobd_harbI/view?usp=sharing" class="btn btn-outline-primary rounded">Resume</a>
+            </div>
+        </div>
+      </div>
     </div>
   </div>
-  </header>
+</section>
 
-  <section id="about">
-    <div class="about-section">
-      <img class="me" src="images/profile-pic.jpg" alt="me">
-      <h3 class="my-name"><span class="highlight">Hi! I'm Jen.</span></h3>
-      <p class="bio">I'm a Korean-American Instructional Content/UX designer and Technology Consultant based in New York city area.</p>
-      <p class="bio-two"></p>
-    </div>
-  </section>
+<!--- FOOTER COPYRIGHT --->
+<footer id="footer">
+  <div class="copyright">
+    <i class="far fa-copyright fa-sm"></i> 2020 JENNIFER HONG | Portfolio Designed and Developed by Jennifer Hong
+  </div>
+</footer>
+<!--- FOOTER COPYRIGHT --->
 
-  <!--- FOOTER --->
-  <!--- CONTACT --->
-  <section id="contact">
-      <div class="contact-section">
-          <h2 class="contact-header">Let's Connect!</h2>
-        </div>
-        <div class="return-top-bounce">
-          <a class="return-link" href="#top">Return to Top</a>
-        </div>
-        <div class="contact-btns">
-          <a class="download-resume-primary-btn" href="https://drive.google.com/file/d/1ujQOi03wYzsz7secvhZ97_Bobd_harbI/view?usp=sharing" target="_blank">Download Resume</a>
-        </div>
-  </section>
-
-  <!--- SOCIAL MEDIA --->
-  <footer id="footer">
-    <ul class="social-media">
-      <li><a href="https://www.linkedin.com/in/jenniferkimberlyhong/"><i class="fab fa-linkedin fa-2x"></i></a></li>
-      <li><a href="contact.html"><i class="far fa-envelope fa-2x"></i></a></li>
-      <li><a href="https://github.com/jenniferkimberlyhong"><i class="fab fa-github fa-2x"></i></a></li>
-    </ul>
-    <div class="copyright">
-      <i class="far fa-copyright fa-sm"></i> 2019 JENNIFER HONG | Designed and Developed by Jennifer Hong
-    </div>
-  </footer>
-
-  <script>
-  function myFunction() {
-    var x = document.getElementById("myLinks");
-    if (x.style.display === "block") {
-      x.style.display = "none";
-    } else {
-      x.style.display = "block";
-    }
-  }
-  </script>
-
-  <!-- Global site tag (gtag.js) - Google Analytics -->
-<script async src="https://www.googletagmanager.com/gtag/js?id=UA-144108703-1"></script>
 <script>
-  window.dataLayer = window.dataLayer || [];
-  function gtag(){dataLayer.push(arguments);}
-  gtag('js', new Date());
-
-  gtag('config', 'UA-144108703-1');
+function myFunction() {
+  var x = document.getElementById("myLinks");
+  if (x.style.display === "block") {
+    x.style.display = "none";
+  } else {
+    x.style.display = "block";
+  }
+}
 </script>
 
-  </body>
-  </html>
+<!-- Global site tag (gtag.js) - Google Analytics -->
+<script async src="https://www.googletagmanager.com/gtag/js?id=UA-144108703-1"></script>
+<script>
+window.dataLayer = window.dataLayer || [];
+function gtag(){dataLayer.push(arguments);}
+gtag('js', new Date());
+gtag('config', 'UA-144108703-1');
+</script>
+
+<!-- javascript -->
+<script src="js/jquery.min.js"></script>
+<script src="js/bootstrap.bundle.min.js"></script>
+<script src="js/jquery.easing.min.js"></script>
+<script src="js/scrollspy.min.js"></script>
+<!-- SLIDER -->
+<script src="js/owl.carousel.min.js "></script>
+<!-- Magnific Popup -->
+<script src="js/jquery.magnific-popup.min.js"></script>
+<script src="js/isotope.js"></script>
+<script src="js/portfolio-filter.js"></script>
+<script src="js/magnific.init.js"></script>
+<!-- Contact -->
+<script src="js/contact.js"></script>
+<!-- Counter -->
+<script src="js/counter.init.js"></script>
+<!-- Tweenmax Js -->
+<script src="js/jquery-twennmax.js"></script>
+<script src="js/TweenMax.min.js"></script>
+<script src="js/jquery-twennmax.init.js"></script>
+<!-- Feather icon -->
+<script src="js/feather.min.js"></script>
+<!-- Typed -->
+<script src="js/typed.js"></script>
+<script src="js/typed.init.js"></script>
+<!-- Main Js -->
+<script src="js/app.js"></script>
+
+</body>
+</html>
