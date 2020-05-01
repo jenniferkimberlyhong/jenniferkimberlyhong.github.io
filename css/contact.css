@@ -2,18 +2,12 @@
   box-sizing: border-box;
 }
 
-h2 {
-  font-size: 2.25em;
-  font-family: "Montserrat";
-  text-transform: lowercase;
-  font-weight: bold;
-}
-
 label {
-  font-family: "Montserrat";
+  text-transform: uppercase;
+  font-size: 14px;
 }
 
-form { max-width:600px; margin:50px auto; }
+form {max-width:65ch; margin:50px auto;}
 
 /* Style inputs */
 
@@ -22,27 +16,25 @@ form textarea {
   width: 100%;
   margin: 0.5rem 0;
   padding: 0.5rem;
-  border: 1.5px solid #758E85;
+  border: 1px solid #6c757d;
   border-radius: 5px;
-  font-family: "Montserrat";
 }
 
 form label {
   margin: 1rem 0 0;
   display: inline-block;
-  color: #758E85;
+  color: #ffaf12;
   font-weight: bold;
 }
 
 .feedback-input {
   color: black;
-  font-family: "Montserrat";
   font-weight:500;
   font-size: 16px;
   border-radius: 5px;
   line-height: 22px;
   background-color: transparent;
-  border:1.5px solid #758E85;
+  border:1px solid #6c757d;
   transition: all 0.3s;
   padding: 13px;
   margin-bottom: 15px;
@@ -51,7 +43,7 @@ form label {
   outline:0;
 }
 
-.feedback-input:focus { border:1.5px solid #758E85; }
+.feedback-input:focus {border:1px solid #6c757d;}
 
 textarea {
   height: 150px;
@@ -60,35 +52,26 @@ textarea {
 }
 
 [type="submit"] {
-  font-family: "Montserrat";
-  width: 100%;
-  background:#758E85;
-  border-radius:5px;
-  border:0;
-  cursor:pointer;
-  color:white;
-  font-size:18px;
-  padding-top:10px;
-  padding-bottom:10px;
-  transition: all 0.3s;
-  margin-top:-4px;
-  font-weight:700;
+  width: auto;
   text-transform: uppercase;
-}
-[type="submit"]:hover { background: rgba(117, 142, 133, 0.4) 45% }
-
-/* Style the container/contact section */
-.container {
+  background: transparent;
+  border-color: #ffaf12;
   border-radius: 5px;
-  background-color: #ffffff;
-  padding: 50px;
+  cursor:pointer;
+  color: #ffaf12;
+  transition: all 0.3s;
+  margin-top:5px;
+}
+[type="submit"]:hover {
+  background:#ffaf12;
+  color: white;
 }
 
 /* Create two columns that float next to eachother */
 .column {
   width: 50%;
   margin-top: 6px;
-  padding: 20px;
+  padding: 0px;
   text-align: left;
 }
 
