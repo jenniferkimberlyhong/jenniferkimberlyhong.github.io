@@ -71,9 +71,8 @@ p {
 
 /*HERO*/
 .project-hero-image {
-  width: 100%;
+  width: 1000px;
   margin-top: 45px;
-
 }
 
 .bg-light {
@@ -92,12 +91,13 @@ p {
 .project-section {
   padding-left: 100px;
   padding-right: 100px;
-  margin-top: 20px;
+  margin-top: 40px;
   margin-bottom: 40px;
 }
 
 .project-title {
   color: black;
+  margin-top: 20px;
   margin-bottom: 40px;
 }
 
