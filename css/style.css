@@ -853,7 +853,7 @@ button:not(:disabled) {
    border-color: #798fa8;
    background-color: transparent;
    color: #798fa8;
-   width: 14em;
+   width: 13.5em;
    border-radius: 5px;
    border-width: 1px;
    display: inline-block;
@@ -870,7 +870,7 @@ button:not(:disabled) {
      border-color: #798fa8;
      background-color: #798fa8;
      color: #ffffff;
-     width: 14em;
+     width: 13.5em;
      border-radius: 5px;
      border-width: 1px;
      display: inline-block;

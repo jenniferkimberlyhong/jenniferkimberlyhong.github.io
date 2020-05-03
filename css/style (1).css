@@ -2309,6 +2309,11 @@ p {
   margin-bottom: 30px;
 }
 
+.buddy-video {
+  margin-left: -200px;
+  margin-right: -200px;
+}
+
 .form-group .form-control {
   outline: none;
   -webkit-box-shadow: none;

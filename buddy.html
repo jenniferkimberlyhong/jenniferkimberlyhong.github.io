@@ -1,5 +1,5 @@
 <!DOCTYPE html>
-<html>
+<html lang="en">
 <head>
   <meta charset="utf-8">
   <meta name ="viewport" content="width=device-width, initial-scale=1">
@@ -9,164 +9,225 @@
   <link rel="stylesheet" href="css/reset.css">
   <link rel="stylesheet" href="css/animate.css">
   <link rel="stylesheet" href="https://use.fontawesome.com/releases/v5.3.1/css/all.css" integrity="sha384-mzrmE5qonljUremFsqc01SB46JvROS7bZs3IO2EmfFsd15uHvIt+Y8vEf7N7fWAU" crossorigin="anonymous">
-  <link rel="shortcut icon" type="img/png" href="images/logo.png">
-  <link rel="stylesheet" href="css/style.css">
-  <link rel="stylesheet" href="css/everyday.css">
-
+  <link rel="shortcut icon" type="img/png" href="images/logo.png"/>
+  <!-- favicon -->
+  <link rel="shortcut icon" href="images/favicon.ico">
+  <!-- Bootstrap -->
+  <link href="css/bootstrap.min.css" rel="stylesheet" type="text/css" />
+  <!-- Magnific -->
+  <link href="css/magnific-popup.css" rel="stylesheet" type="text/css" />
+  <!-- Icon -->
+  <link href="css/materialdesignicons.min.css" rel="stylesheet" type="text/css" />
+  <!-- SLICK SLIDER -->
+  <link rel="stylesheet" href="css/owl.carousel.min.css"/>
+  <link rel="stylesheet" href="css/owl.theme.css"/>
+  <link rel="stylesheet" href="css/owl.transitions.css"/>
+  <!-- Custom CSS -->
+  <link href="css/style.css" rel="stylesheet" type="text/css" />
+  <link href="css/everyday.css" rel="stylesheet" type="text/css" />
+  <link href="css/colors/default.css" rel="stylesheet" id="color-opt">
   <!--- FONT --->
   <link href="https://fonts.googleapis.com/css?family=Sacramento&display=swap" rel="stylesheet">
   <link href="https://fonts.googleapis.com/css?family=Montserrat&display=swap" rel="stylesheet">
-  <link href="https://fonts.googleapis.com/css?family=Quicksand&display=swap" rel="stylesheet">
-
 </head>
 
 <body>
-  <div class="container">
-  <!--- HEADER --->
-  <!--- NAV --->
-  <header>
-    <nav class="nav-bar">
-      <a href="index.html"><img class="logo-size" src="images/jh.png" alt="JH logo"></a>
-      <ul class="main-header">
-        <li><a href="about.html">about</a></li>
-        <li><a href="https://drive.google.com/file/d/1ujQOi03wYzsz7secvhZ97_Bobd_harbI/view?usp=sharing" target="_blank">resume</a></li>
-        <li><a href="index.html">work</a></li>
-        <li><a href="contact.html">contact</a></li>
+  <!-- Navbar Start -->
+  <nav class="navbar navbar-expand-lg fixed-top navbar-custom navbar-light sticky">
+    <div class="container">
+      <a class="navbar-brand" href="index.html">Jennifer Hong</a>
+      <button class="navbar-toggler" type="button" data-toggle="collapse" data-target="#navbarCollapse" aria-controls="navbarCollapse" aria-expanded="false" aria-label="Toggle navigation">
+        <span data-feather="menu" class="fea icon-md"></span>
+      </button><!--end button-->
+      <div class="collapse navbar-collapse" id="navbarCollapse">
+        <ul class="navbar-nav navbar-nav-link mx-auto">
+          <li class="nav-item">
+            <a class="nav-link" href=index.html>Home</a>
+          </li><!--end nav item-->
+          <li class="nav-item active">
+            <a class="nav-link" href=#blog>Work</a>
+          </li><!--end nav item-->
+          <li class="nav-item">
+            <a class="nav-link" href=about.html>About</a>
+          </li><!--end nav item-->
+          <li class="nav-item">
+            <a class="nav-link" href=contact.html>Contact</a>
+          </li><!--end nav item-->
+      </ul>
+        <ul class="list-unstyled social-icon">
+          <li class="list-inline-item"><a href="https://www.linkedin.com/in/jenniferkimberlyhong"><i class="fab fa-linkedin fa-1x"></i></a></li>
+          <li class="list-inline-item"><a href="contact.html"><i class="far fa-envelope fa-1x"></i></a></li>
+          <li class="list-inline-item"><a href="https://github.com/jenniferkimberlyhong"><i class="fab fa-github fa-1x"></i></a></li>
+        </ul>
+      </div>
+    </div><!--end container-->
+  </nav><!--end navbar-->
+  <!-- Navbar End -->
+
+  <!-- HERO STARTS -->
+  <section class="project-section hero" id="hero">
+    <img class="project-hero-image" src="images/Buddy-App-Mockup.png" alt="">
+  </section>
+  <!-- HERO ENDS -->
+
+  <!--- PROJECT NAVIGATION --->
+  <section class="project-section navigation" id="project navigation">
+    <nav id="project-menu" class="sticky">
+      <ul class="project-navbar">
+        <li><a class="scrollspy" href="#overview">Overview</a></li>
+        <li><a class="scrollspy" href="#discovery">Discovery & Research</a></li>
+        <li><a class="scrollspy" href="#information">Information Architecture</a></li>
+        <li><a class="scrollspy" href="#wireframe">Wireframes & Testing</a></li>
+        <li><a class="scrollspy" href="#visual">Visual Design</a></li>
+        <li><a class="scrollspy" href="#lessons">Lessons Learned</a></li>
       </ul>
     </nav>
-    <div class="mobile-container">
-      <div class="mobile">
-        <a href="index.html"><img class="logo-size" src="images/jh.png">
-        <div id="myLinks">
-        <a href="about.html">about</a>
-        <a href="https://drive.google.com/file/d/1ujQOi03wYzsz7secvhZ97_Bobd_harbI/view?usp=sharing" target="_blank">resume</a>
-        <a href="index.html">work</a>
-        <a href="contact.html">contact</a>
-      </div>
-      <a href="javascript:void(0);" class="icon" onclick="myFunction()">
-        <i class="fa fa-bars fa-lg"></i>
-      </a>
-    </div>
-  </div>
-  </header>
-
-  <!--- HERO UNIT --->
-  <section id="everyday-hero">
-    <div class="cloud-hero">
-      <img class="everyday-hero" src="images/buddymockup.png" alt="everyday">
-    </div>
   </section>
-
-<!--- PROJECT NAVIGATION --->
-<section id="project-navigation">
-  <nav id="project-menu" class="sticky">
-    <ul class="project-navbar">
-      <li><a class="scrollspy" href="#overview-section">Overview</a></li>
-      <li><a class="scrollspy" href="#discovery-section">Discovery & Research</a></li>
-      <li><a class="scrollspy" href="#information-section">Information Architecture</a></li>
-      <li><a class="scrollspy" href="#wireframe-section">Wireframes & Testing</a></li>
-      <li><a class="scrollspy" href="#visual-section">Visual Design</a></li>
-      <li><a class="scrollspy" href="#lessons-section">Lessons Learned</a></li>
-    </ul>
-  </nav>
-</section>
+  <!--- PROJECT NAVIGATION --->
 
   <!--- OVERVIEW --->
-  <section id="overview-section">
-    <div class="overview">
-      <h1 class="overview-header">buddy</h1>
-      <h2 class="overview-summary">Buddy is a mobile pet adoption application that connects users with adoptable pets in need of a home.</h2>
-      <div class="contact-btns1">
-        <a class="desktop-prototype-primary-btn" href="" target ="_blank">Desktop Prototype</a>
-        <a class="mobile-prototype-primary-btn" href="https://invis.io/5EUCQ7ZZB8C#/388402878_Splash_Screen_-_Sign_In" target ="_blank">Mobile Prototype</a>
+  <section class="project-section" id="overview">
+    <div class="container">
+      <div class="row justify-content-center">
+        <div class="col-12 text-center">
+          <div class="project-title">
+            <div class="project">
+              <h4 class="title title-line mb-2 pb-0">buddy</h4>
+              <span></span>
+            </div>
+            <p class="text-muted mx-auto para-desc mb-0">Buddy is a mobile pet adoption application that connects users with adoptable pets in need of a home.</p>
+            <div class="contact-detail text-center">
+                <a href="https://invis.io/5EUCQ7ZZB8C#/388402878_Splash_Screen_-_Sign_In" target ="_blank" class="btn btn-outline-project">Desktop Prototype</a>
+                <a href="https://invis.io/5EUCQ7ZZB8C#/388402878_Splash_Screen_-_Sign_In" target ="_blank" class="btn btn-outline-project">Mobile Prototype</a>
+            </div>
+          </div>
+        </div>
       </div>
     </div>
-    <article class="project-details">
-      <div class="roles">
-        <img class="role-icon" src="images/roles.png" alt="role icon">
-        <h6>Role</h6>
-        <ul class="listing">
-          <li>UX Design</li>
-          <li>UI Design</li>
-          <li>Branding</li>
-        </ul>
-      </div>
-      <div class="deliverable">
-        <img class="deliverable-icon" src="images/deliverable.svg" alt="deliverable icon">
-        <h6>Deliverables</h6>
-        <ul class="listing">
-          <li>Competitive Analysis</li>
-          <li>User Survey</li>
-          <li>User Personas</li>
-          <li>User Stories and Flows</li>
-          <li>Content Strategy</li>
-          <li>Wireframes</li>
-          <li>Usability Testing</li>
-          <li>Style Guide</li>
-          <li>Preference Testing</li>
-          <li>Clickable Protoype</li>
-          <li>Visual Design</li>
-        </ul>
-      </div>
-      <div class="design-tools">
-        <img class="design-icon" src="images/tools.svg" alt="tools icon">
-        <h6>Tools & Softwares</h6>
-        <ul class="listing">
-          <li>Figma</li>
-          <li>Balsamiq</li>
-          <li>Google Forms</li>
-          <li>GitHub</li>
-          <li>Atom</li>
-          <li>Adobe XD</li>
-          <li>Adobe Photoshop</li>
-          <li>InVision</li>
-          <li>Maze</li>
-          <li>UsabilityHub</li>
-        </ul>
-      </div>
-      </article>
-<div class="box-challenge">
-        <div class="challenge">
-        <h3 class="challenge-title">The Challenge</h3>
-        <h4 class="challenge-subtitle">Understanding the Problem</h4>
-        <p class="challenge-desc">Adopting pets can be a long and frustrating process. Majority of pet adoption websites and mobile applications are outdated and don’t provide all the necessary information for potential adopters.</p>
-</div>
-</div>
-<div class="box-problem">
-  <div class="problem">
-  <h3 class="problem-title">The Solution</h3>
-  <h4 class="problem-subtitle">Modern and Engaging Experience</h4>
-  <p class="problem-desc"> Buddy is a modern and fun experience to adopt a pet that will match users to their perfect pets through a streamlined process. The mobile application will provide potential adopters ease in viewing the pet's information, adoption details, and updates.</p>
-</div>
-</div>
-</section>
 
-<!--- DISCOVERY & RESEARCH --->
-<section id="discovery-section">
-  <div class="section-header">
-    <h2 class="discovery-title-chapter"><span class="highlight">SECTION I | DISCOVERY & RESEARCH</span></h2>
-  </div>
-  <div class="competitive">
-    <h3 class="subsection-header">Competitive Analysis</h3>
-    <h4 class="competitive-subtitle">Turning weaknesses into strengths</h4>
-    <p class="competitive-desc">When adopting pets, potential adopters seek local shelters or search online through the various pet adoption websites. To understand this market and its competitors, I researched 4 of the top and well rated pet adoption websites and mobile applications that are vastly different but have unique characteristics that make it successful: PetFinder, Adopt a Pet, We Rescue, and Furry Friend Finder Pet Rescue.</p>
-    <p>All 4 of these pet adoption services offer unique qualities that prove as strengths if bringing in a new competitor into the market. This includes the basic filters available to narrow down the search preference and informational details about the shetlers for available pets. After reviewing several websites for both local and large corporations aside from these selected 4, one word came to mind: outdated. Many of these websites appeared to have an old look and feel in addition to having an overwhelming amount of adoptable pets to sift through. Taking into account the strengths and weaknesses of the competitors, a successful pet adoption service will be a combination of the following abilities:
-    </p>
-    <ul class="MVP-items">
-      <li>Provide last update visibility for users</li>
-      <li>Advanced filter options (personality, temperament, compatibility)</li>
-      <li>Location range (distance)</li>
-      <li>Update saved pets information if there are changes to the pet - remove adopted pet</li>
-      <li>Provide pets personality / health info along with basic details</li>
-      <li>Ability to select multiple options for 1 filter (ie. size, age)</li>
-      <li>Picture availability (good quality, not panning or large frame option)</li>
-      <li>Provide tips and techniques on newly adopted pet</li>
-    </ul>
-    <img class="pet-comp" src="images/pet comp.png">
-  <div class="contact-btns1">
-    <a class="swot-primary-btn" href="https://docs.google.com/document/d/1H4U8vDQIF8clF6ACYET-kZNEOdNeGOQ2gwlp8-sJRHo/edit?usp=sharing" target ="_blank">SWOT Analysis</a>
-  </div>
-</div>
+    <!--- OVERVIEW - BACKGROUND --->
+      <div class="project-row">
+        <div class="project-column">
+          <video class="Buddy-Video" width="160px" autoplay>
+            <source src="images/Buddy-Video.mp4" type="video/mp4">
+          <p class="overview-details">x</p>
+        </div>
+        <div class="project-column">
+          <h6 class="overview-title title-line mt-50 pb-2">My Role</h6>
+          <p class="overview-details">x</p>
+          <h6 class="overview-title title-line mt-50 pb-2">Timeline</h6>
+          <p class="overview-details">3 weeks</p>
+        </div>
+      </div>
+
+    <!--- OVERVIEW - TOOLS --->
+      <div class="row overview-deliverables">
+        <div class="col-6 mt-5">
+          <div class="text-center">
+            <img class="deliverable-icon" src="images/deliverable.svg" alt="deliverable icon">
+            <h6>DELIVERABLES</h6>
+            <ul class="listing">
+              <li>Competitive Analysis</li>
+              <li>User Survey</li>
+              <li>User Personas</li>
+              <li>User Stories and Flows</li>
+              <li>Content Strategy</li>
+              <li>Wireframes</li>
+              <li>Usability Testing</li>
+              <li>Style Guide</li>
+              <li>Preference Testing</li>
+              <li>Clickable Protoype</li>
+              <li>Visual Design</li>
+            </ul>
+          </div>
+        </div>
+        <div class="col-6 mt-5">
+          <div class="text-center">
+            <img class="design-icon" src="images/tools.svg" alt="tools icon">
+            <h6>TOOLS & SOFTWARES</h6>
+            <ul class="listing">
+              <li>Figma</li>
+              <li>Balsamiq</li>
+              <li>Google Forms</li>
+              <li>GitHub</li>
+              <li>Atom</li>
+              <li>Adobe XD</li>
+              <li>Adobe Photoshop</li>
+              <li>InVision</li>
+              <li>Maze</li>
+              <li>UsabilityHub</li>
+            </ul>
+          </div>
+        </div>
+      </div>
+
+    <!--- CHALLENGE & SOLUTION --->
+      <div class="container">
+        <div class="row justify-content-center">
+          <div class="col-12 text-center">
+          </div><!--end row-->
+          <div class="col-lg-6 col-md-6 col-12 mt-4 pt-1">
+            <div class="rounded position-relative border border-footer p-4 pt-5 pb-5">
+              <div class="icon text-secondary">
+                <i data-feather="airplay" class="fea icon-md"></i>
+              </div>
+              <div class="content mt-1">
+                <h5 class="title">Challenge</h5>
+                <p class="text-muted text-uppercase project-subtitle">Understanding the Problem</h6>
+                <p class="mt-3 text-left mb-0">Adopting pets can be a long and frustrating process. Majority of pet adoption websites and mobile applications are outdated and don’t provide all the necessary information for potential adopters. Sample Sample Sample</p>
+              </div>
+            </div>
+          </div><!--end col-->
+          <div class="col-lg-6 col-md-6 col-12 mt-4 pt-1">
+            <div class="rounded position-relative border border-footer p-4 pt-5 pb-5">
+              <div class="icon text-secondary">
+                <i data-feather="aperture" class="fea icon-md"></i>
+              </div>
+              <div class="content mt-1">
+                <h5 class="title">Solution</h5>
+                <p class="text-muted text-uppercase project-subtitle">Modern and Engaging Experience</h6>
+                <p class="mt-3 text-left mb-0">Buddy is a modern and fun experience to adopt a pet that will match users to their perfect pets through a streamlined process. The mobile application will provide potential adopters ease in viewing the pet's information, adoption details, and updates.</p>
+              </div>
+            </div>
+          </div><!--end col-->
+        </div><!--end container-->
+      </section>
+      <!--- CHALLENGE & SOLUTION --->
+
+      <!--- DISCOVERY & RESEARCH --->
+      <section class= "project-section" id="discovery">
+        <div class="container">
+          <div class="row justify-content-center">
+            <div class="col-12 text-center">
+            </div><!--end row-->
+            <div class="section-header">
+              <h6 class="project-title text-center">DISCOVERY & RESEARCH</h6>
+            </div>
+            <div class="competitive">
+              <h5 class="subsection-header">Competitive Analysis</h5>
+              <p class="text-muted text-uppercase competitive-subtitle">Turning weaknesses into strengths</h4>
+                <p class="competitive-desc">When adopting pets, potential adopters seek local shelters or search online through the various pet adoption websites. To understand this market and its competitors, I researched 4 of the top and well rated pet adoption websites and mobile applications that are vastly different but have unique characteristics that make it successful: <strong> PetFinder</strong>, <strong> Adopt a Pet</strong>, <strong> We Rescue</strong>, and <strong> Furry Friend Finder Pet Rescue</strong>.</p>
+                <p>All 4 of these pet adoption services offer unique qualities that prove as strengths if bringing in a new competitor into the market. This includes the basic filters available to narrow down the search preference and informational details about the shetlers for available pets. After reviewing several websites for both local and large corporations aside from these selected 4, one word came to mind: outdated. Many of these websites appeared to have an old look and feel in addition to having an overwhelming amount of adoptable pets to sift through. Taking into account the strengths and weaknesses of the competitors, a successful pet adoption service will be a combination of the following abilities:
+                </p>
+                <ul class="MVP-items">
+                  <li>Provide last update visibility for users</li>
+                  <li>Advanced filter options (personality, temperament, compatibility)</li>
+                  <li>Location range (distance)</li>
+                  <li>Update saved pets information if there are changes to the pet - remove adopted pet</li>
+                  <li>Provide pets personality / health info along with basic details</li>
+                  <li>Ability to select multiple options for 1 filter (ie. size, age)</li>
+                  <li>Picture availability (good quality, not panning or large frame option)</li>
+                  <li>Provide tips and techniques on newly adopted pet</li>
+                </ul>
+              </div>
+            </div>
+            <img class="project-images" src="images/pet-comp.png">
+            <div class="contact-btns1">
+              <a class="swot-primary-btn" href="https://docs.google.com/document/d/1H4U8vDQIF8clF6ACYET-kZNEOdNeGOQ2gwlp8-sJRHo/edit?usp=sharing" target ="_blank">SWOT Analysis</a>
+            </div>
+          </div>
+        </section>
+
   <div class="user-survey">
     <h3 class="subsection-header">User Surveys</h3>
     <h4 class="survey-subtitle">Who are the pet adoption users</h4>
@@ -221,7 +282,7 @@
   </section>
 
   <!--- INFORMATION ARCHITECTURE --->
-  <section id="information-section">
+  <section class= "project-section" id="information">
     <div class="section-header">
       <h2 class="information-title-chapter"> <span class="highlight">SECTION II | INFORMATION ARCHITECTURE</span></h2>
     </div>
@@ -250,7 +311,7 @@
     </section>
 
     <!--- WIREFRAMES & TESTING --->
-    <section id="wireframe-section">
+    <section class= "project-section" id="wireframe">
       <div class="section-header">
         <h2 class="wireframe-title-chapter"> <span class="highlight">SECTION III | WIREFRAMES & TESTING</span></h2>
       </div>
@@ -269,7 +330,7 @@
         </section>
 
 <!--- VISUAL DESIGN & BRANDING --->
-<section id="visual-section">
+<section class= "project-section" id="visual">
   <div class="section-header">
     <h2 class="visual-title-chapter"> <span class="highlight">SECTION IV | VISUAL DESIGN</span></h2>
   </div>
@@ -330,7 +391,7 @@
 </section>
 
 <!--- LESSONS LEARNED --->
-<section id="lessons-section">
+<section class= "project-section" id="lessons">
   <div class="section-header">
     <h2 class="lessons-title-chapter"> <span class="highlight">SECTION V | LESSONS LEARNED</span></h2>
   </div>
@@ -363,53 +424,92 @@
 </div>
 </div>
 </section>
+<!-- Back to top Starts-->
+<a href="#top" class="back-to-top rounded text-center" id="back-to-top">
+  <i class="fas fa-chevron-up fa-2x"></i>
+</a>
+<!-- Back to top Ends-->
 
-        <!--- FOOTER --->
-        <!--- CONTACT --->
-        <section id="contact">
-            <div class="contact-section">
-                <h2 class="contact-header">Let's Connect!</h2>
-              </div>
-              <div class="return-top-bounce">
-                <a class="return-link" href="#top">Return to Top</a>
-              </div>
-              <div class="contact-btns">
-                <a class="download-resume-primary-btn" href="https://drive.google.com/file/d/1ujQOi03wYzsz7secvhZ97_Bobd_harbI/view?usp=sharing" target="_blank">Download Resume</a>
-              </div>
-        </section>
-
-        <!--- SOCIAL MEDIA --->
-        <footer id="footer">
-          <ul class="social-media">
-            <li><a href="https://www.linkedin.com/in/jenniferkimberlyhong/"><i class="fab fa-linkedin fa-2x"></i></a></li>
-            <li><a href="contact.html"><i class="far fa-envelope fa-2x"></i></a></li>
-            <li><a href="https://github.com/jenniferkimberlyhong"><i class="fab fa-github fa-2x"></i></a></li>
-          </ul>
-          <div class="copyright">
-            <i class="far fa-copyright fa-sm"></i> 2019 JENNIFER HONG | Designed and Developed by Jennifer Hong
+<!-- CONTACT Start -->
+<section class="section pb-0" id="contact">
+  <div class="container">
+    <div class="row justify-content-center">
+      <div class="col-12 text-center">
+        <div class="section-title">
+          <div class="titles">
+            <h4 class="title title-line text-uppercase mb-4 pb-0"><span class="highlight">Let's Connect!</span></h4>
+            <span></span>
           </div>
-        </footer>
+        </div>
+      </div><!--end col-->
+    </div><!--end row-->
+    <div class="row">
+      <div class="col-lg-12 text-center">
+        <div class="contact-detail text-center">
+            <a href="https://www.linkedin.com/in/jenniferkimberlyhong" class="btn btn-outline-nonprimary">FIND ME ON LINKEDIN</a>
+            <a href="https://drive.google.com/file/d/1ujQOi03wYzsz7secvhZ97_Bobd_harbI/view?usp=sharing" class="btn btn-outline-nonprimarytwo">DOWNLOAD RESUME</a>
+        </div>
+      </div><!--end col-->
+    </div><!--end row-->
+  </div><!--end container-->
+</section><!--end section-->
 
-        <script>
-        function myFunction() {
-          var x = document.getElementById("myLinks");
-          if (x.style.display === "block") {
-            x.style.display = "none";
-          } else {
-            x.style.display = "block";
-          }
-        }
-        </script>
 
-        <!-- Global site tag (gtag.js) - Google Analytics -->
-<script async src="https://www.googletagmanager.com/gtag/js?id=UA-144108703-1"></script>
+
+<!--- FOOTER COPYRIGHT --->
+<footer id="footer">
+  <div class="copyright">
+    <i class="far fa-copyright fa-sm"></i> 2020 JENNIFER HONG | Portfolio Designed and Developed by Jennifer Hong
+  </div>
+</footer>
+<!--- FOOTER COPYRIGHT --->
+
 <script>
-  window.dataLayer = window.dataLayer || [];
-  function gtag(){dataLayer.push(arguments);}
-  gtag('js', new Date());
-
-  gtag('config', 'UA-144108703-1');
+function myFunction() {
+  var x = document.getElementById("myLinks");
+  if (x.style.display === "block") {
+    x.style.display = "none";
+  } else {
+    x.style.display = "block";
+  }
+}
 </script>
 
-        </body>
-        </html>
+<!-- Global site tag (gtag.js) - Google Analytics -->
+<script async src="https://www.googletagmanager.com/gtag/js?id=UA-144108703-1"></script>
+<script>
+window.dataLayer = window.dataLayer || [];
+function gtag(){dataLayer.push(arguments);}
+gtag('js', new Date());
+gtag('config', 'UA-144108703-1');
+</script>
+
+<!-- javascript -->
+<script src="js/jquery.min.js"></script>
+<script src="js/bootstrap.bundle.min.js"></script>
+<script src="js/jquery.easing.min.js"></script>
+<script src="js/scrollspy.min.js"></script>
+<!-- SLIDER -->
+<script src="js/owl.carousel.min.js "></script>
+<!-- Magnific Popup -->
+<script src="js/jquery.magnific-popup.min.js"></script>
+<script src="js/isotope.js"></script>
+<script src="js/portfolio-filter.js"></script>
+<script src="js/magnific.init.js"></script>
+<!-- Contact -->
+<script src="js/contact.js"></script>
+<!-- Counter -->
+<script src="js/counter.init.js"></script>
+<!-- Tweenmax Js -->
+<script src="js/jquery-twennmax.js"></script>
+<script src="js/TweenMax.min.js"></script>
+<script src="js/jquery-twennmax.init.js"></script>
+<!-- Feather icon -->
+<script src="js/feather.min.js"></script>
+<!-- Typed -->
+<script src="js/typed.js"></script>
+<script src="js/typed.init.js"></script>
+<!-- Main Js -->
+<script src="js/app.js"></script>
+</body>
+</html>
