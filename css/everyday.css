@@ -27,8 +27,8 @@ h5 {
   font-size: 18px !important;
   font-family: "Montserrat";
   font-weight: bolder;
-  letter-spacing: .25em;
-  color: #4ec5a5;
+  letter-spacing: .15em;
+  color: #565d47;
 }
 
 h6 {
@@ -78,12 +78,17 @@ p {
   margin-top: 3.5em;
 }
 
+.overview-details {
+  margin-left: auto;
+  margin-right: auto;
+}
+
 .bg-light {
   background-color: #eff0f1 !important;
 }
 
 .text-secondary {
-  color: #4ec5a5;
+  color: #565d47;
 }
 
 #overview-three {
@@ -102,28 +107,31 @@ p {
   color: black;
   margin-top: 30px;
   margin-bottom: 50px;
+  border: 1px solid #565d47;
+  background-color: #565d47;
+  color: white;
+  padding: 10px;
 }
 
 .project {
-  color: #4ec5a5;
+  color: #565d47;
   font-size: 14px;
 }
 
 .btn-outline-project{
-   border-color: #4ec5a5;
-   background-color: #4ec5a5;
+   border-color: #565d47;
+   background-color: #565d47;
    color: #ffffff;
    width: 13.5em;
    border-radius: 5px;
    border-width: 1px;
-   display: inline-block;
-   margin: 5px;
  }
 
+
  .btn-outline-project:hover {
-    border-color: #4ec5a5;
-    background-color:rgba(78,196,164,0.3);
-    color: #4ec5a5;
+    border-color: #565d47;
+    background-color:rgba(86, 92, 70,0.5);
+    color: #565d47;
   }
 
 
@@ -151,8 +159,8 @@ p {
   }
 
   .project-navbar li a:hover {
-    text-decoration: none;
-    color:#4ec5a5;
+    text-decoration: underline;
+    color:#565d47;
   }
 
 
