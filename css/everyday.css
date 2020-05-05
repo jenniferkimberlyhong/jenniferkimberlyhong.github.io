@@ -107,8 +107,8 @@ p {
 }
 
 .project-section {
-  padding-left: 100px;
-  padding-right: 100px;
+  padding-left: auto;
+  padding-right: auto;
   margin-top: 40px;
   margin-bottom: 40px;
 }
@@ -178,8 +178,8 @@ p {
 /**OVERVIEW**/
 
 .overview-deliverables {
-  padding-left: 60px;
-  padding-right: 60px;
+  padding-left: 200px;
+  padding-right: 200px;
 }
 
 ul.listing {
@@ -253,14 +253,6 @@ ul.listing {
   font-weight: bold;
 }
 
-.project-details {
-  font-size: 1em;
-  margin-top: 3rem;
-  margin-bottom: 5rem;
-  text-align: center;
-  margin-left: auto;
-  margin-right: auto;
-}
 
 .role-icon, .deliverable-icon, .design-icon {
   align-items: center;
@@ -394,18 +386,8 @@ ul.listing {
   margin: 0 auto;
 }
 
-.percentage {
-  font-size: 0.875em;
-  width: 60%;
-  text-align: center;
-}
 
-.percentages {
-  margin-left: auto;
-  margin-right: auto;
-  margin: 0 auto;
-  margin-bottom: .5em;
-}
+
 
 .results {
   column-count: 4;
@@ -415,29 +397,8 @@ ul.listing {
   column-width: 100%;
 }
 
-.user-personas {
-  margin-top: 2em;
-  margin-bottom: 2em;
-}
 
-.content-wrapper {
-  max-width: 1024px;
-  margin: 0 auto;
-}
 
-.persona-one {
-  text-align: center;
-  max-width: 30%;
-  float: left;
-  display: block;
-  margin-left: 8em;
-  margin-right: auto;
-}
-
-.persona-one h5 {
-  text-align: center;
-  margin-bottom: 1em;
-}
 
 .motivations {
   text-align: left;
@@ -449,39 +410,7 @@ ul.listing {
   height: 190px;
 }
 
-.name {
-  font-size: 1.5em;
-  margin-bottom: 0;
-  color: #FECB5E;
-}
 
-.persona-two {
-  margin-right: 8em;
-  margin-left: auto;
-  display: block;
-  text-align: center;
-  max-width: 30%;
-  float: right;
-}
-
-.persona-two h5 {
-  text-align: center;
-  margin-bottom: 1em;
-}
-
-.emma {
-  width: auto;
-  height: 10em;
-  border-radius: 50%;
-  margin-bottom: 1em;
-}
-
-.derek {
-  width: auto;
-  height: 10em;
-  border-radius: 50%;
-  margin-bottom: 1em;
-}
 
 /**BEGIN INFORMATION**/
 
@@ -763,7 +692,7 @@ ul.listing {
 .lesson-one, .lesson-two, .lesson-three, .lesson-four p {
   margin-left: auto;
   margin-right: auto;
-  width: 80%;
+  width: 60%;
 }
 
 .contact-header {
