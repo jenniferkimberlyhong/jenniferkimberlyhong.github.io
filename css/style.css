@@ -480,7 +480,7 @@ a.text-muted:hover, a.text-muted:focus {
 }
 
 .details {
-  max-width: 60ch;
+  max-width: 65ch;
   line-height: 2em;
   margin-top: 80px;
   margin-right: 50px;
@@ -870,7 +870,7 @@ button:not(:disabled) {
      border-color: #798fa8;
      background-color: #798fa8;
      color: #ffffff;
-     width: 13.5em;
+     width: 14em;
      border-radius: 5px;
      border-width: 1px;
      display: inline-block;
@@ -882,6 +882,23 @@ button:not(:disabled) {
       background-color:rgba(121,143,167,0.3);
       color: #798fa8;
     }
+
+    .btn-outline-yellow{
+       background-color: transparent;
+       color: #ffaf12;
+       border-color: #ffaf12;
+       width: 14em;
+       border-radius: 5px;
+       border-width: 1px;
+       display: inline-block;
+       margin: 5px;
+     }
+
+     .btn-outline-yellow:hover {
+        background: rgba(254, 175, 18, 0.5);
+        color: white;
+        border: none;
+      }
 
 /**PAGE SECTIONS**/
 .section {

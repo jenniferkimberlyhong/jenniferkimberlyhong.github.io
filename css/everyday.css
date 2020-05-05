@@ -1,19 +1,23 @@
 
-.highlight {
-  background: linear-gradient(180deg,rgba(255,255,255,0) 55%, rgba(145, 172, 200, 0.5) 45%);
-}
 
 ::selection {
-    background-color: #FECB5E;
-    color: #3A4660;
+    background-color: #f0daa4;
+    color: black;
 }
 
 .subsection-header {
   margin-bottom: 5px;
 }
 
+.subsection {
+  margin-left: 100px;
+  margin-right: 100px;
+  margin-top: 20px;
+  margin-bottom: 10px;
+}
+
 .project-images {
-  width: 80%;
+  width: 60%;
   margin-left: auto;
   margin-right: auto;
   display: block;
@@ -85,6 +89,11 @@ p {
 
 .bg-light {
   background-color: #eff0f1 !important;
+}
+
+.bg-chive {
+  border: #565d47;
+  background-color: rgba(86, 92, 70, 0.4);
 }
 
 .text-secondary {
@@ -499,7 +508,7 @@ ul.listing {
 
 
 .MVP-items li {
-  width: 85%;
+  width: 90%;
   text-align: left;
   list-style: initial;
   margin-left: auto;
@@ -876,14 +885,12 @@ ul.listing {
     width: 80%;
     margin: 0 auto;
   }
+
   .highlight {
-    background: linear-gradient(180deg,rgba(255,255,255,0) 55%, rgba(145, 172, 200, 0.5) 45%);
+    background: linear-gradient(180deg,rgba(255,255,255,0) 55%, rgba(86, 92, 70, 0.5) 45%);
   }
 
-  ::selection {
-      background-color: #FECB5E;
-      color: #3A4660;
-  }
+
 
   /**HERO**/
   #everyday-hero {
