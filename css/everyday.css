@@ -1,3 +1,4 @@
+/**OVERALL PAGE**/
 ::selection {
     background-color: #f0daa4;
     color: black;
@@ -26,11 +27,19 @@
   margin-bottom: 2em;
 }
 
-.overview-summary {
-  max-width: 46ch;
+.image-section {
+  margin-bottom: 40px;
+  width: 100%;
+}
+
+.comp-desc {
+  border-left: 3px solid #565d47;
+  padding: 15px;
+  margin-top: 2em;
 }
 
 /*PROJECT FONT*/
+
 
 h5 {
   font-size: 24px !important;
@@ -57,6 +66,12 @@ p {
   margin-right: auto;
 }
 
+/**HERO**/
+.overview-summary {
+  max-width: 46ch;
+}
+
+
 .project-row {
   display: flex;
 }
@@ -71,8 +86,6 @@ p {
   padding-top: 25px;
   padding-left: 25px;
 }
-
-/*PROJECT FONT*/
 
 /*HERO*/
 .project-hero-image {
@@ -416,36 +429,20 @@ ul.listing {
 
 /**BEGIN INFORMATION**/
 
-.info-subsection-header {
-}
-
-.user-flows {
-  background-color: rgba(201, 175, 152, 0.1);
-}
 .example-mvp {
-  padding-top: 2em;
-  margin: 0 auto;
-  text-align: left;
-  font-style: italic;
-  color: #3A4660;
+  margin-bottom: 40px;
+  font-size: 20px !important;
+  width: 70%;
+  line-height: 40px;
 }
 
-.example-mvp-image {
-  margin: 0 auto;
-  width: 65%;
-  display: block;
-  margin-top: 2em;
-  margin-left: auto;
-  margin-right: auto;
-  margin-bottom: 2em;
-}
 
 
 
 
 
 .MVP-items li {
-  width: 100%;
+  width: 98%;
   text-align: left;
   list-style: initial;
   margin-left: auto;
@@ -507,14 +504,7 @@ ul.listing {
 /**END WIREFRAME**/
 
 /** VISUAL DESIGN **/
-#visual-section {
-  overflow: hidden;
-  height: auto;
-}
 
-.color-title {
-  margin: 0 auto;
-}
 
 .logo-designs {
   margin-left: auto;
@@ -731,10 +721,7 @@ ul.listing {
 /**MOBILE**/
 
 @media (min-width: 320px) and (max-width: 575px) {
-  .everyday-hero {
-    margin: 0 auto;
-    width: 100%;
-  }
+
 
   #project-navigation {
     display: none;
@@ -830,15 +817,7 @@ ul.listing {
 
 
   /**HERO**/
-  #everyday-hero {
-    width: 100%;
-    height: auto;
-  }
 
-  .everyday-hero {
-    width: 100%;
-    height: 10%;
-  }
 
   /**MOBILE OVERVIEW**/
 
