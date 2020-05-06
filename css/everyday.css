@@ -12,7 +12,7 @@
 
 .subsection-header {
   margin-top: 10px;
-  margin-bottom: 10px;
+  margin-bottom: 15px;
   margin-left: auto;
   margin-right: auto;
 }
@@ -72,21 +72,23 @@ p {
   padding-left: 25px;
 }
 
-/* Create two equal columns that sits next to each other */
-.project-column {
-  flex: 50%;
-  padding: 20px;
-  height: 350px;
-}
 /*PROJECT FONT*/
 
 /*HERO*/
 .project-hero-image {
-  width: 90%;
+  width: 76%;
   margin-left: auto;
   margin-right: auto;
   display: block;
-  margin-top: 3.5em;
+  margin-top: 4em;
+}
+
+.navigation {
+  margin-left: auto;
+  margin-right: auto;
+  display: block;
+  width: 74%;
+  margin-top: 1em;
 }
 
 .overview-details {
@@ -99,7 +101,7 @@ p {
 }
 
 .bg-chive {
-  background-color: #565d47;
+  background-color: RGB(86, 92, 70, 0.7);
 }
 
 .text-secondary {
@@ -443,7 +445,7 @@ ul.listing {
 
 
 .MVP-items li {
-  width: 60%;
+  width: 100%;
   text-align: left;
   list-style: initial;
   margin-left: auto;
@@ -1174,7 +1176,7 @@ ul.listing {
   }
 
   .MVP-items li {
-    width: 60%;
+    width: 80%;
     text-align: left;
     list-style: initial;
     margin-left: auto;
@@ -1213,10 +1215,6 @@ ul.listing {
   /**END INFORMATION**/
 
   /**BEGIN WIREFRAME**/
-  #wireframe-section {
-    overflow: hidden;
-    height: auto;
-  }
 
   .wireframe-image-one {
     margin: 0 auto;
@@ -1227,9 +1225,7 @@ ul.listing {
     margin-bottom: 2em;
   }
 
-  .usability-subsection-header {
-    background-color: rgba(201, 175, 152, 0.1);
-  }
+
   /**END WIREFRAME**/
 
   /** VISUAL DESIGN **/
