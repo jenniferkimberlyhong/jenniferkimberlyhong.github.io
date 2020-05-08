@@ -33,7 +33,7 @@
 }
 
 .comp-desc {
-  border-left: 3px solid #565d47;
+  border-left: 3px solid #34558b;
   padding: 15px;
   margin-top: 2em;
 }
@@ -46,7 +46,7 @@ h5 {
   font-family: "Montserrat";
   font-weight: bolder;
   letter-spacing: .20em;
-  color: #565d47;
+  color: #34558b;
 }
 
 h6 {
@@ -67,7 +67,7 @@ p {
 }
 
 .fa-hand-holding-heart, .fa-filter, .fa-paw, .fa-city {
-  color: #565d47;
+  color: #34558b;
 }
 
 /**HERO**/
@@ -123,7 +123,7 @@ p {
 }
 
 .text-secondary {
-  color: #565d47;
+  color: #34558b;
 }
 
 .project-section {
@@ -137,20 +137,20 @@ p {
   color: black;
   margin-top: 30px;
   margin-bottom: 50px;
-  border: 1px solid #565d47;
-  background-color: #565d47;
+  border: 1px solid #34558b;
+  background-color: #34558b;
   color: white;
   padding: 10px;
 }
 
 .project {
-  color: #565d47;
+  color: #34558b;
   font-size: 14px;
 }
 
 .btn-outline-project{
-   border-color: #565d47;
-   background-color: #565d47;
+   border-color: #798fa8;
+   background-color: #798fa8;
    color: #ffffff;
    width: 13.5em;
    border-radius: 5px;
@@ -159,9 +159,9 @@ p {
 
 
  .btn-outline-project:hover {
-    border-color: #565d47;
-    background-color:rgba(86, 92, 70,0.5);
-    color: #565d47;
+   border-color: #798fa8;
+   background-color:rgba(121,143,167,0.3);
+   color: #798fa8;
   }
 
 
@@ -190,7 +190,7 @@ p {
 
   .project-navbar li a:hover {
     text-decoration: underline;
-    color:#565d47;
+    color:#34558b;
   }
 
 
@@ -331,8 +331,8 @@ ul.listing {
 }
 
 .user-flow-primary-btn {
-  border-color: #798fa8;
-  background-color: #798fa8;
+  border-color: ##798fa8;
+  background-color: #34558b;
   color: #ffffff;
   border-width: 1px;
   display: inline-block;
