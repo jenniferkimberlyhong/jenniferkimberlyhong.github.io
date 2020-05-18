@@ -452,11 +452,15 @@ a.text-muted:hover, a.text-muted:focus {
   margin-bottom: 1em;
 }
 
-.fa-envelope, .fa-linkedin, .fa-github, .fa-download {
-  margin: 0 20px
+
+.list-inline-item:not(:last-child) {
+  margin-right: 40px;
+  margin-bottom: 10px;
 }
 
 .fa-envelope:hover, .fa-linkedin:hover, .fa-github:hover, .fa-download:hover {
+  color: #ffaf12 !important;
+  background-color: white;
 }
 
 /**END FEATURED PROJECTS**/
