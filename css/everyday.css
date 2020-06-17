@@ -5,11 +5,11 @@
 }
 
 .subsection {
-  margin-top: 30px;
-  margin-bottom: 10px;
   margin-left: auto;
   margin-right: auto;
+  padding: 10px;
 }
+
 
 .subsection-header {
   margin-top: 10px;
@@ -19,7 +19,16 @@
 }
 
 .project-images {
-  width: 65%;
+  width: 50%;
+  margin-left: auto;
+  margin-right: auto;
+  display: inline-block;
+  margin-top: 1em;
+  margin-bottom: 1em;
+}
+
+.persona-images {
+  width: 45%;
   margin-left: auto;
   margin-right: auto;
   display: inline-block;
@@ -33,13 +42,13 @@
 }
 
 .comp-desc {
-  border-left: 3px solid #ffaf12;
-  padding: 15px;
-  margin-top: 2em;
+  border-left: 2px solid #b8c1ec;
+  padding-left: 20px;
+  margin-top: 1em;
+  margin-bottom: 0;
 }
 
 /*PROJECT FONT*/
-
 
 h5 {
   font-size: 18px !important;
@@ -57,16 +66,17 @@ h6 {
 }
 
 p {
-  font-size: 16px !important;
+  font-size: 14px !important;
   max-width: 75ch;
   line-height: 28px;
   font-family: "Roboto";
   margin-left: auto;
   margin-right: auto;
+  color: #121629;
 }
 
 .fa-hand-holding-heart, .fa-filter, .fa-paw, .fa-city {
-  color: #ffaf12;
+  color: #121629;
 }
 
 /**HERO**/
@@ -96,7 +106,7 @@ p {
 
 /*HERO*/
 .project-hero-image {
-  width: 76%;
+  width: 72%;
   margin-left: auto;
   margin-right: auto;
   display: block;
@@ -111,14 +121,12 @@ p {
   margin-top: 1em;
 }
 
-
-
 .bg-light {
-  background-color: #eff0f1 !important;
+  background-color: #d4d8f0 !important;
 }
 
-.bg-chive {
-  background-color: RGB(86, 92, 70, 0.7);
+.bg-results {
+  background-color:#d4d8f0;
 }
 
 .text-secondary {
@@ -126,18 +134,19 @@ p {
 }
 
 .project-section {
-  padding-left: auto;
-  padding-right: auto;
-  margin-top: 40px;
-  margin-bottom: 40px;
+  margin-left: auto;
+  margin-right: auto;
+  padding: auto;
+  margin-top: 20px;
+  margin-bottom: 20px;
 }
 
 .project-title {
   color: black;
   margin-top: 30px;
-  margin-bottom: 50px;
-  border: 1px solid #ffaf12;
-  background-color: #ffaf12;
+  margin-bottom: 30px;
+  border: 1px solid #232946;
+  background-color: #232946;
   color: white;
   padding: 10px;
 }
@@ -155,7 +164,6 @@ p {
    border-width: 1px;
    border-radius: 0;
  }
-
 
  .btn-outline-project:hover {
    border-color: #ffaf12;
@@ -188,18 +196,13 @@ p {
   }
 
   .project-navbar li a:hover {
-    text-decoration: underline;
+    text-decoration: none;
     color:#ffaf12;
   }
 
 
 
 /**OVERVIEW**/
-
-.overview-deliverables {
-  padding-left: 200px;
-  padding-right: 200px;
-}
 
 ul.listing {
   text-align: center;
@@ -211,12 +214,12 @@ ul.listing {
   text-align: center;
   list-style-type: none;
   line-height: 180%;
-  font-size: 14px;
+  font-size: 12px;
 }
 
 .role-icon, .deliverable-icon, .design-icon {
   align-items: center;
-  width: 2em;
+  width: 1em;
   margin-bottom: 1em;
 }
 
@@ -305,6 +308,8 @@ ul.listing {
   margin-left: auto;
   margin-right: auto;
   margin-bottom: 1em;
+  margin-top: 1em;
+  font-size: 14px;
 
 }
 
@@ -544,6 +549,9 @@ ul.listing {
   flex-direction: row;
   flex-wrap: wrap;
   width: 100%;
+  margin-left: auto;
+  margin-right: auto;
+  padding: 20px;
 }
 
 .lessons-image {
