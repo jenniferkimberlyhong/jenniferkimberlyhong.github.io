@@ -1,6 +1,6 @@
 /**OVERALL PAGE**/
 ::selection {
-    background-color: #f0daa4;
+    background-color: #eebbc3;
     color: black;
 }
 
@@ -37,8 +37,9 @@
 }
 
 .image-section {
-  margin-bottom: 40px;
-  width: 100%;
+  margin-top: 10px;
+  margin-bottom: 20px;
+  width: 90%;
 }
 
 .comp-desc {
@@ -240,12 +241,6 @@ ul.listing {
   text-align: center;
   width: 33%;
 }
-
-
-
-
-
-
 
 .daily {
   width: 2.5em;
@@ -1003,13 +998,15 @@ ul.listing {
     font-weight: bold;
   }
 
-  .MVP-items li {
-    width: 80%;
-    text-align: left;
-    list-style: initial;
-    margin-left: auto;
-    margin-right: auto;
-    margin-bottom: 1em;
+.MVP-items li {
+      width: 90%;
+      text-align: left;
+      list-style: initial;
+      margin-left: auto;
+      margin-right: auto;
+      margin-bottom: 1em;
+      margin-top: 1em;
+      font-size: 14px;
   }
 
   .user-flow-primary-btn {

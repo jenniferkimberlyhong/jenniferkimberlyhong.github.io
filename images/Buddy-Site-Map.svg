@@ -1,0 +1,1755 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 2610 850" width="2610" height="850"><defs><style type="text/css">@import url('https://fonts.googleapis.com/css?family=Roboto+Mono:400|Roboto:400,&amp;subset=cyrillic,cyrillic-ext,greek,greek-ext,latin-ext')</style></defs><g transform="translate(5,5)"><g><g><g transform="translate(10, 586)"><rect x="0" y="0" rx="2" ry="2" width="180" height="228" fill="#ffffff"/><g><g><g transform="translate( 0, 0 )"><svg xmlns="http://www.w3.org/2000/svg" width="180" height="185" viewBox="0 0 180 185">
+  <g fill="none" fill-rule="evenodd">
+    <path fill="#58A8F7" d="M0,2.99971296 C0,1.34301724 1.34537458,0 2.99263929,0 L177.007361,0 C178.66015,0 180,1.34382565 180,2.99971296 L180,185 L0,185 L0,2.99971296 Z" opacity=".097"/>
+    <path fill="#58A8F7" d="M0,3.00947762 C0,1.34738902 1.34537458,0 2.99263929,0 L177.007361,0 C178.66015,0 180,1.33663106 180,3.00947762 L180,16 L0,16 L0,3.00947762 Z" opacity=".197"/>
+    <path fill="#0D87FF" d="M2.5,5 C1.11928813,5 0,3.88071187 0,2.5 C0,1.11928813 1.11928813,0 2.5,0 C3.88071187,0 5,1.11928813 5,2.5 C5,3.88071187 3.88071187,5 2.5,5 Z M10.5,5 C9.11928813,5 8,3.88071187 8,2.5 C8,1.11928813 9.11928813,0 10.5,0 C11.8807119,0 13,1.11928813 13,2.5 C13,3.88071187 11.8807119,5 10.5,5 Z M18.5,5 C17.1192881,5 16,3.88071187 16,2.5 C16,1.11928813 17.1192881,0 18.5,0 C19.8807119,0 21,1.11928813 21,2.5 C21,3.88071187 19.8807119,5 18.5,5 Z" opacity=".499" transform="translate(5 6)"/>
+    <path fill="#58A8F7" d="M3.8458278,-1.55376046e-16 L107.154172,1.55376046e-16 C108.49145,-9.02779573e-17 108.97638,0.139238417 109.465269,0.400699056 C109.954157,0.662159695 110.33784,1.04584256 110.599301,1.53473144 C110.860762,2.02362033 111,2.50854969 111,3.8458278 L111,108.154172 C111,109.49145 110.860762,109.97638 110.599301,110.465269 C110.33784,110.954157 109.954157,111.33784 109.465269,111.599301 C108.97638,111.860762 108.49145,112 107.154172,112 L3.8458278,112 C2.50854969,112 2.02362033,111.860762 1.53473144,111.599301 C1.04584256,111.33784 0.662159695,110.954157 0.400699056,110.465269 C0.139238417,109.97638 6.01853049e-17,109.49145 -1.03584031e-16,108.154172 L1.03584031e-16,3.8458278 C-6.01853049e-17,2.50854969 0.139238417,2.02362033 0.400699056,1.53473144 C0.662159695,1.04584256 1.04584256,0.662159695 1.53473144,0.400699056 C2.02362033,0.139238417 2.50854969,9.02779573e-17 3.8458278,-1.55376046e-16 Z" opacity=".197" transform="translate(35 54)"/>
+    <g transform="translate(45 64)">
+      <g transform="translate(0 6)">
+        <rect width="91" height="11" fill="#58A8F7" opacity=".499" rx="2"/>
+        <rect width="89" height="9" x="1" y="1" fill="#FFF" rx="1"/>
+        <polygon fill="#58A8F7" points="0 0 53 0 53 3 0 3" opacity=".197" transform="translate(4 4)"/>
+        <polygon fill="#0D87FF" points="2.5 3 0 0 5 0" transform="translate(81 4)"/>
+      </g>
+      <polygon fill="#58A8F7" points="0 0 32 0 32 3 0 3" opacity=".197"/>
+    </g>
+    <g transform="translate(45 91)">
+      <g transform="translate(0 6)">
+        <rect width="91" height="11" fill="#58A8F7" opacity=".499" rx="2"/>
+        <rect width="89" height="9" x="1" y="1" fill="#FFF" rx="1"/>
+      </g>
+      <polygon fill="#58A8F7" points="0 0 20 0 20 3 0 3" opacity=".197"/>
+    </g>
+    <g transform="translate(45 118)">
+      <g transform="translate(0 6)">
+        <rect width="91" height="11" fill="#58A8F7" opacity=".499" rx="2"/>
+        <rect width="89" height="9" x="1" y="1" fill="#FFF" rx="1"/>
+      </g>
+      <polygon fill="#58A8F7" points="0 0 20 0 20 3 0 3" opacity=".197"/>
+    </g>
+    <rect width="31" height="11" fill="#58A8F7" opacity=".197" rx="2" transform="translate(105 145)"/>
+    <path fill="#0D87FF" d="M0,1.99201702 C0,0.891856397 0.886195535,0 2.00630931,0 L52.9936907,0 C54.1017447,0 55,0.900176167 55,1.99201702 L55,9.00798298 C55,10.1081436 54.1138045,11 52.9936907,11 L2.00630931,11 C0.898255275,11 0,10.0998238 0,9.00798298 L0,1.99201702 Z" opacity=".499" transform="translate(45 145)"/>
+    <polygon fill="#58A8F7" points="0 0 50 0 50 8 0 8" opacity=".499" transform="translate(65 36)"/>
+  </g>
+</svg></g></g></g><rect x="-1" y="-1" rx="3" ry="3" width="182" height="230" fill="none" stroke="#A2CEF9" stroke-width="2"/><g transform="translate(0,206)"><g><text x="90" y="4" text-anchor="middle" font-family="Roboto,sans-serif" font-size="14px" fill="#52565f">User Profile (Edit)</text></g></g></g><g transform="translate(210, 586)"><rect x="0" y="0" rx="2" ry="2" width="180" height="228" fill="#ffffff"/><g><g><g transform="translate( 0, 0 )"><svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" width="180" height="185" viewBox="0 0 180 185">
+  <defs>
+    <path id="jedy6xl1i8q-blog-a" d="M0,2.99971296 C0,1.34301724 1.34537458,0 2.99263929,0 L177.007361,0 C178.66015,0 180,1.34382565 180,2.99971296 L180,185 L0,185 L0,2.99971296 Z"/>
+    <rect id="jedy6xl1i8q-blog-c" width="70" height="42" rx="2"/>
+    <rect id="jedy6xl1i8q-blog-e" width="70" height="42" rx="2"/>
+    <rect id="jedy6xl1i8q-blog-g" width="70" height="42" rx="2"/>
+    <rect id="jedy6xl1i8q-blog-i" width="70" height="42" rx="2"/>
+  </defs>
+  <g fill="none" fill-rule="evenodd">
+    <path fill="#58A8F7" d="M0,2.99971296 C0,1.34301724 1.34537458,0 2.99263929,0 L177.007361,0 C178.66015,0 180,1.34382565 180,2.99971296 L180,185 L0,185 L0,2.99971296 Z" opacity=".097"/>
+    <mask id="jedy6xl1i8q-blog-b" fill="#fff">
+      <use xlink:href="#jedy6xl1i8q-blog-a"/>
+    </mask>
+    <g mask="url(#jedy6xl1i8q-blog-b)">
+      <path fill="#58A8F7" d="M0,3.00947762 C0,1.34738902 1.34537458,0 2.99263929,0 L177.007361,0 C178.66015,0 180,1.33663106 180,3.00947762 L180,16 L0,16 L0,3.00947762 Z" opacity=".197"/>
+      <path fill="#0D87FF" d="M2.5,5 C1.11928813,5 0,3.88071187 0,2.5 C0,1.11928813 1.11928813,0 2.5,0 C3.88071187,0 5,1.11928813 5,2.5 C5,3.88071187 3.88071187,5 2.5,5 Z M10.5,5 C9.11928813,5 8,3.88071187 8,2.5 C8,1.11928813 9.11928813,0 10.5,0 C11.8807119,0 13,1.11928813 13,2.5 C13,3.88071187 11.8807119,5 10.5,5 Z M18.5,5 C17.1192881,5 16,3.88071187 16,2.5 C16,1.11928813 17.1192881,0 18.5,0 C19.8807119,0 21,1.11928813 21,2.5 C21,3.88071187 19.8807119,5 18.5,5 Z" opacity=".499" transform="translate(5 6)"/>
+    </g>
+    <g fill="#58A8F7" mask="url(#jedy6xl1i8q-blog-b)" opacity=".197">
+      <polygon points="0 0 12 0 12 3 0 3" transform="translate(10 71)"/>
+    </g>
+    <g fill="#58A8F7" mask="url(#jedy6xl1i8q-blog-b)" opacity=".197">
+      <polygon points="0 0 12 0 12 3 0 3" transform="translate(10 155)"/>
+    </g>
+    <g fill="#58A8F7" mask="url(#jedy6xl1i8q-blog-b)" opacity=".197">
+      <polygon points="0 0 12 0 12 3 0 3" transform="translate(100 113)"/>
+    </g>
+    <g fill="#58A8F7" mask="url(#jedy6xl1i8q-blog-b)" opacity=".499">
+      <polygon points="0 0 50 0 50 5 0 5" transform="translate(10 77)"/>
+    </g>
+    <g fill="#58A8F7" mask="url(#jedy6xl1i8q-blog-b)" opacity=".499">
+      <polygon points="0 0 50 0 50 5 0 5" transform="translate(10 161)"/>
+    </g>
+    <g fill="#58A8F7" mask="url(#jedy6xl1i8q-blog-b)" opacity=".499">
+      <polygon points="0 0 50 0 50 5 0 5" transform="translate(100 119)"/>
+    </g>
+    <g mask="url(#jedy6xl1i8q-blog-b)">
+      <g transform="translate(10 26)">
+        <rect width="70" height="42" fill="#58A8F7" opacity=".197" rx="2"/>
+        <mask id="jedy6xl1i8q-blog-d" fill="#fff">
+          <use xlink:href="#jedy6xl1i8q-blog-c"/>
+        </mask>
+        <path fill="#58A8F7" d="M56,20 C67.970297,20 74.3366337,29.3932584 86,42 L24,42 C34.1287129,31.6179775 44.029703,20 56,20 Z" mask="url(#jedy6xl1i8q-blog-d)" opacity=".197"/>
+        <path fill="#0D87FF" d="M16,16 C28.7897146,16 37.5648148,28.3975087 49,42 L-16,42 C-4.95433742,28.3975087 3.21028543,16 16,16 Z" mask="url(#jedy6xl1i8q-blog-d)" opacity=".198"/>
+        <circle cx="38" cy="11" r="5" fill="#58A8F7" mask="url(#jedy6xl1i8q-blog-d)" opacity=".499"/>
+      </g>
+    </g>
+    <g mask="url(#jedy6xl1i8q-blog-b)">
+      <g transform="translate(10 110)">
+        <rect width="70" height="42" fill="#58A8F7" opacity=".197" rx="2"/>
+        <mask id="jedy6xl1i8q-blog-f" fill="#fff">
+          <use xlink:href="#jedy6xl1i8q-blog-e"/>
+        </mask>
+        <path fill="#58A8F7" d="M56,20 C67.970297,20 74.3366337,29.3932584 86,42 L24,42 C34.1287129,31.6179775 44.029703,20 56,20 Z" mask="url(#jedy6xl1i8q-blog-f)" opacity=".197"/>
+        <path fill="#0D87FF" d="M16,16 C28.7897146,16 37.5648148,28.3975087 49,42 L-16,42 C-4.95433742,28.3975087 3.21028543,16 16,16 Z" mask="url(#jedy6xl1i8q-blog-f)" opacity=".198"/>
+        <circle cx="38" cy="11" r="5" fill="#58A8F7" mask="url(#jedy6xl1i8q-blog-f)" opacity=".499"/>
+      </g>
+    </g>
+    <g mask="url(#jedy6xl1i8q-blog-b)">
+      <g transform="translate(100 68)">
+        <rect width="70" height="42" fill="#58A8F7" opacity=".197" rx="2"/>
+        <mask id="jedy6xl1i8q-blog-h" fill="#fff">
+          <use xlink:href="#jedy6xl1i8q-blog-g"/>
+        </mask>
+        <path fill="#58A8F7" d="M56,20 C67.970297,20 74.3366337,29.3932584 86,42 L24,42 C34.1287129,31.6179775 44.029703,20 56,20 Z" mask="url(#jedy6xl1i8q-blog-h)" opacity=".197"/>
+        <path fill="#0D87FF" d="M16,16 C28.7897146,16 37.5648148,28.3975087 49,42 L-16,42 C-4.95433742,28.3975087 3.21028543,16 16,16 Z" mask="url(#jedy6xl1i8q-blog-h)" opacity=".198"/>
+        <circle cx="38" cy="11" r="5" fill="#58A8F7" mask="url(#jedy6xl1i8q-blog-h)" opacity=".499"/>
+      </g>
+    </g>
+    <g mask="url(#jedy6xl1i8q-blog-b)">
+      <g transform="translate(100 152)">
+        <rect width="70" height="42" fill="#58A8F7" opacity=".197" rx="2"/>
+        <mask id="jedy6xl1i8q-blog-j" fill="#fff">
+          <use xlink:href="#jedy6xl1i8q-blog-i"/>
+        </mask>
+        <path fill="#58A8F7" d="M56,20 C67.970297,20 74.3366337,29.3932584 86,42 L24,42 C34.1287129,31.6179775 44.029703,20 56,20 Z" mask="url(#jedy6xl1i8q-blog-j)" opacity=".197"/>
+        <path fill="#0D87FF" d="M16,16 C28.7897146,16 37.5648148,28.3975087 49,42 L-16,42 C-4.95433742,28.3975087 3.21028543,16 16,16 Z" mask="url(#jedy6xl1i8q-blog-j)" opacity=".198"/>
+        <circle cx="38" cy="11" r="5" fill="#58A8F7" mask="url(#jedy6xl1i8q-blog-j)" opacity=".499"/>
+      </g>
+    </g>
+    <g mask="url(#jedy6xl1i8q-blog-b)" opacity=".197">
+      <g transform="translate(10 87)">
+        <polygon fill="#58A8F7" points="0 0 64 0 64 3 0 3"/>
+        <polygon fill="#58A8F7" points="0 0 38 0 38 3 0 3" transform="translate(0 7)"/>
+      </g>
+    </g>
+    <g mask="url(#jedy6xl1i8q-blog-b)" opacity=".197">
+      <g transform="translate(10 171)">
+        <polygon fill="#58A8F7" points="0 0 64 0 64 3 0 3"/>
+        <polygon fill="#58A8F7" points="0 0 38 0 38 3 0 3" transform="translate(0 7)"/>
+      </g>
+    </g>
+    <g mask="url(#jedy6xl1i8q-blog-b)" opacity=".197">
+      <g transform="translate(100 129)">
+        <polygon fill="#58A8F7" points="0 0 64 0 64 3 0 3"/>
+        <polygon fill="#58A8F7" points="0 0 38 0 38 3 0 3" transform="translate(0 7)"/>
+      </g>
+    </g>
+  </g>
+</svg></g></g></g><rect x="-1" y="-1" rx="3" ry="3" width="182" height="230" fill="none" stroke="#A2CEF9" stroke-width="2"/><g transform="translate(0,206)"><g><text x="90" y="4" text-anchor="middle" font-family="Roboto,sans-serif" font-size="14px" fill="#52565f">Pet Adoption Resources</text></g></g></g><g transform="translate(410, 586)"><rect x="0" y="0" rx="2" ry="2" width="180" height="228" fill="#ffffff"/><g><g><g transform="translate( 0, 0 )"><svg xmlns="http://www.w3.org/2000/svg" width="180" height="184" viewBox="0 0 180 184" fill="none">
+<path d="M0 3C0 1.34315 1.34315 0 3 0H177C178.657 0 180 1.34315 180 3V184H0V3Z" fill="#EFF7FF"/>
+<path opacity="0.2" d="M0 3C0 1.34315 1.34315 0 3 0H177C178.657 0 180 1.34315 180 3V15H0V3Z" fill="#58A8F7"/>
+<path opacity="0.5" fill-rule="evenodd" clip-rule="evenodd" d="M7.5 10C8.88071 10 10 8.88071 10 7.5C10 6.11929 8.88071 5 7.5 5C6.11929 5 5 6.11929 5 7.5C5 8.88071 6.11929 10 7.5 10ZM15.5 10C16.8807 10 18 8.88071 18 7.5C18 6.11929 16.8807 5 15.5 5C14.1193 5 13 6.11929 13 7.5C13 8.88071 14.1193 10 15.5 10ZM26 7.5C26 8.88071 24.8807 10 23.5 10C22.1193 10 21 8.88071 21 7.5C21 6.11929 22.1193 5 23.5 5C24.8807 5 26 6.11929 26 7.5Z" fill="#0D87FF"/>
+<rect x="64" y="25" width="32" height="38" rx="3" fill="white"/>
+<rect opacity="0.2" x="66" y="52" width="28" height="3" fill="#58A8F7"/>
+<rect opacity="0.2" x="73" y="58" width="14" height="3" fill="#58A8F7"/>
+<rect opacity="0.2" x="66" y="27" width="28" height="22" rx="2" fill="#58A8F7"/>
+<mask id="pjvzdqq8gg-mask0" mask-type="alpha" maskUnits="userSpaceOnUse" x="66" y="27" width="28" height="22">
+<rect x="66" y="27" width="28" height="22" rx="2" fill="white"/>
+</mask>
+<g mask="url(#pjvzdqq8gg-mask0)">
+<path opacity="0.2" fill-rule="evenodd" clip-rule="evenodd" d="M90 39C95.4059 39 98.7327 43.2697 104 49C99.703 49 81.3071 49 76 49C80.5743 44.2809 84.5941 39 90 39Z" fill="#58A8F7"/>
+<path opacity="0.2" fill-rule="evenodd" clip-rule="evenodd" d="M70 37C75.7062 37 79.8981 42.7219 85 49C78.306 49 62.0952 49 56 49C60.9281 42.7219 64.2938 37 70 37Z" fill="#0D87FF"/>
+<path opacity="0.5" fill-rule="evenodd" clip-rule="evenodd" d="M81 37C82.6569 37 84 35.6569 84 34C84 32.3431 82.6569 31 81 31C79.3431 31 78 32.3431 78 34C78 35.6569 79.3431 37 81 37Z" fill="#58A8F7"/>
+</g>
+<rect x="64" y="68" width="32" height="38" rx="3" fill="white"/>
+<rect opacity="0.2" x="66" y="95" width="28" height="3" fill="#58A8F7"/>
+<rect opacity="0.2" x="73" y="101" width="14" height="3" fill="#58A8F7"/>
+<rect opacity="0.2" x="66" y="70" width="28" height="22" rx="2" fill="#58A8F7"/>
+<mask id="pjvzdqq8gg-mask1" mask-type="alpha" maskUnits="userSpaceOnUse" x="66" y="70" width="28" height="22">
+<rect x="66" y="70" width="28" height="22" rx="2" fill="white"/>
+</mask>
+<g mask="url(#pjvzdqq8gg-mask1)">
+<path opacity="0.2" fill-rule="evenodd" clip-rule="evenodd" d="M90 82C95.4059 82 98.7327 86.2697 104 92C99.703 92 81.3071 92 76 92C80.5743 87.2809 84.5941 82 90 82Z" fill="#58A8F7"/>
+<path opacity="0.2" fill-rule="evenodd" clip-rule="evenodd" d="M70 80C75.7062 80 79.8981 85.7219 85 92C78.306 92 62.0952 92 56 92C60.9281 85.7219 64.2938 80 70 80Z" fill="#0D87FF"/>
+<path opacity="0.5" fill-rule="evenodd" clip-rule="evenodd" d="M81 80C82.6569 80 84 78.6569 84 77C84 75.3431 82.6569 74 81 74C79.3431 74 78 75.3431 78 77C78 78.6569 79.3431 80 81 80Z" fill="#58A8F7"/>
+</g>
+<rect x="101" y="25" width="32" height="38" rx="3" fill="white"/>
+<rect opacity="0.2" x="103" y="52" width="28" height="3" fill="#58A8F7"/>
+<rect opacity="0.2" x="110" y="58" width="14" height="3" fill="#58A8F7"/>
+<rect opacity="0.2" x="103" y="27" width="28" height="22" rx="2" fill="#58A8F7"/>
+<mask id="pjvzdqq8gg-mask2" mask-type="alpha" maskUnits="userSpaceOnUse" x="103" y="27" width="28" height="22">
+<rect x="103" y="27" width="28" height="22" rx="2" fill="white"/>
+</mask>
+<g mask="url(#pjvzdqq8gg-mask2)">
+<path opacity="0.2" fill-rule="evenodd" clip-rule="evenodd" d="M127 39C132.406 39 135.733 43.2697 141 49C136.703 49 118.307 49 113 49C117.574 44.2809 121.594 39 127 39Z" fill="#58A8F7"/>
+<path opacity="0.2" fill-rule="evenodd" clip-rule="evenodd" d="M107 37C112.706 37 116.898 42.7219 122 49C115.306 49 99.0952 49 93 49C97.9281 42.7219 101.294 37 107 37Z" fill="#0D87FF"/>
+<path opacity="0.5" fill-rule="evenodd" clip-rule="evenodd" d="M118 37C119.657 37 121 35.6569 121 34C121 32.3431 119.657 31 118 31C116.343 31 115 32.3431 115 34C115 35.6569 116.343 37 118 37Z" fill="#58A8F7"/>
+</g>
+<rect x="101" y="68" width="32" height="38" rx="3" fill="white"/>
+<rect opacity="0.2" x="103" y="95" width="28" height="3" fill="#58A8F7"/>
+<rect opacity="0.2" x="110" y="101" width="14" height="3" fill="#58A8F7"/>
+<rect opacity="0.2" x="103" y="70" width="28" height="22" rx="2" fill="#58A8F7"/>
+<mask id="pjvzdqq8gg-mask3" mask-type="alpha" maskUnits="userSpaceOnUse" x="103" y="70" width="28" height="22">
+<rect x="103" y="70" width="28" height="22" rx="2" fill="white"/>
+</mask>
+<g mask="url(#pjvzdqq8gg-mask3)">
+<path opacity="0.2" fill-rule="evenodd" clip-rule="evenodd" d="M127 82C132.406 82 135.733 86.2697 141 92C136.703 92 118.307 92 113 92C117.574 87.2809 121.594 82 127 82Z" fill="#58A8F7"/>
+<path opacity="0.2" fill-rule="evenodd" clip-rule="evenodd" d="M107 80C112.706 80 116.898 85.7219 122 92C115.306 92 99.0952 92 93 92C97.9281 85.7219 101.294 80 107 80Z" fill="#0D87FF"/>
+<path opacity="0.5" fill-rule="evenodd" clip-rule="evenodd" d="M118 80C119.657 80 121 78.6569 121 77C121 75.3431 119.657 74 118 74C116.343 74 115 75.3431 115 77C115 78.6569 116.343 80 118 80Z" fill="#58A8F7"/>
+</g>
+<rect x="138" y="25" width="32" height="38" rx="3" fill="white"/>
+<rect opacity="0.2" x="140" y="52" width="28" height="3" fill="#58A8F7"/>
+<rect opacity="0.2" x="147" y="58" width="14" height="3" fill="#58A8F7"/>
+<rect opacity="0.2" x="140" y="27" width="28" height="22" rx="2" fill="#58A8F7"/>
+<mask id="pjvzdqq8gg-mask4" mask-type="alpha" maskUnits="userSpaceOnUse" x="140" y="27" width="28" height="22">
+<rect x="140" y="27" width="28" height="22" rx="2" fill="white"/>
+</mask>
+<g mask="url(#pjvzdqq8gg-mask4)">
+<path opacity="0.2" fill-rule="evenodd" clip-rule="evenodd" d="M164 39C169.406 39 172.733 43.2697 178 49C173.703 49 155.307 49 150 49C154.574 44.2809 158.594 39 164 39Z" fill="#58A8F7"/>
+<path opacity="0.2" fill-rule="evenodd" clip-rule="evenodd" d="M144 37C149.706 37 153.898 42.7219 159 49C152.306 49 136.095 49 130 49C134.928 42.7219 138.294 37 144 37Z" fill="#0D87FF"/>
+<path opacity="0.5" fill-rule="evenodd" clip-rule="evenodd" d="M155 37C156.657 37 158 35.6569 158 34C158 32.3431 156.657 31 155 31C153.343 31 152 32.3431 152 34C152 35.6569 153.343 37 155 37Z" fill="#58A8F7"/>
+</g>
+<rect x="138" y="68" width="32" height="38" rx="3" fill="white"/>
+<rect opacity="0.2" x="140" y="95" width="28" height="3" fill="#58A8F7"/>
+<rect opacity="0.2" x="147" y="101" width="14" height="3" fill="#58A8F7"/>
+<rect opacity="0.2" x="140" y="70" width="28" height="22" rx="2" fill="#58A8F7"/>
+<mask id="pjvzdqq8gg-mask5" mask-type="alpha" maskUnits="userSpaceOnUse" x="140" y="70" width="28" height="22">
+<rect x="140" y="70" width="28" height="22" rx="2" fill="white"/>
+</mask>
+<g mask="url(#pjvzdqq8gg-mask5)">
+<path opacity="0.2" fill-rule="evenodd" clip-rule="evenodd" d="M164 82C169.406 82 172.733 86.2697 178 92C173.703 92 155.307 92 150 92C154.574 87.2809 158.594 82 164 82Z" fill="#58A8F7"/>
+<path opacity="0.2" fill-rule="evenodd" clip-rule="evenodd" d="M144 80C149.706 80 153.898 85.7219 159 92C152.306 92 136.095 92 130 92C134.928 85.7219 138.294 80 144 80Z" fill="#0D87FF"/>
+<path opacity="0.5" fill-rule="evenodd" clip-rule="evenodd" d="M155 80C156.657 80 158 78.6569 158 77C158 75.3431 156.657 74 155 74C153.343 74 152 75.3431 152 77C152 78.6569 153.343 80 155 80Z" fill="#58A8F7"/>
+</g>
+<rect x="64" y="111" width="32" height="38" rx="3" fill="white"/>
+<rect opacity="0.2" x="66" y="138" width="28" height="3" fill="#58A8F7"/>
+<rect opacity="0.2" x="73" y="144" width="14" height="3" fill="#58A8F7"/>
+<rect opacity="0.2" x="66" y="113" width="28" height="22" rx="2" fill="#58A8F7"/>
+<mask id="pjvzdqq8gg-mask6" mask-type="alpha" maskUnits="userSpaceOnUse" x="66" y="113" width="28" height="22">
+<rect x="66" y="113" width="28" height="22" rx="2" fill="white"/>
+</mask>
+<g mask="url(#pjvzdqq8gg-mask6)">
+<path opacity="0.2" fill-rule="evenodd" clip-rule="evenodd" d="M90 125C95.4059 125 98.7327 129.27 104 135C99.703 135 81.3071 135 76 135C80.5743 130.281 84.5941 125 90 125Z" fill="#58A8F7"/>
+<path opacity="0.2" fill-rule="evenodd" clip-rule="evenodd" d="M70 123C75.7062 123 79.8981 128.722 85 135C78.306 135 62.0952 135 56 135C60.9281 128.722 64.2938 123 70 123Z" fill="#0D87FF"/>
+<path opacity="0.5" fill-rule="evenodd" clip-rule="evenodd" d="M81 123C82.6569 123 84 121.657 84 120C84 118.343 82.6569 117 81 117C79.3431 117 78 118.343 78 120C78 121.657 79.3431 123 81 123Z" fill="#58A8F7"/>
+</g>
+<rect x="101" y="111" width="32" height="38" rx="3" fill="white"/>
+<rect opacity="0.2" x="103" y="138" width="28" height="3" fill="#58A8F7"/>
+<rect opacity="0.2" x="110" y="144" width="14" height="3" fill="#58A8F7"/>
+<rect opacity="0.2" x="103" y="113" width="28" height="22" rx="2" fill="#58A8F7"/>
+<mask id="pjvzdqq8gg-mask7" mask-type="alpha" maskUnits="userSpaceOnUse" x="103" y="113" width="28" height="22">
+<rect x="103" y="113" width="28" height="22" rx="2" fill="white"/>
+</mask>
+<g mask="url(#pjvzdqq8gg-mask7)">
+<path opacity="0.2" fill-rule="evenodd" clip-rule="evenodd" d="M127 125C132.406 125 135.733 129.27 141 135C136.703 135 118.307 135 113 135C117.574 130.281 121.594 125 127 125Z" fill="#58A8F7"/>
+<path opacity="0.2" fill-rule="evenodd" clip-rule="evenodd" d="M107 123C112.706 123 116.898 128.722 122 135C115.306 135 99.0952 135 93 135C97.9281 128.722 101.294 123 107 123Z" fill="#0D87FF"/>
+<path opacity="0.5" fill-rule="evenodd" clip-rule="evenodd" d="M118 123C119.657 123 121 121.657 121 120C121 118.343 119.657 117 118 117C116.343 117 115 118.343 115 120C115 121.657 116.343 123 118 123Z" fill="#58A8F7"/>
+</g>
+<rect x="138" y="111" width="32" height="38" rx="3" fill="white"/>
+<rect opacity="0.2" x="140" y="138" width="28" height="3" fill="#58A8F7"/>
+<rect opacity="0.2" x="147" y="144" width="14" height="3" fill="#58A8F7"/>
+<rect opacity="0.2" x="140" y="113" width="28" height="22" rx="2" fill="#58A8F7"/>
+<mask id="pjvzdqq8gg-mask8" mask-type="alpha" maskUnits="userSpaceOnUse" x="140" y="113" width="28" height="22">
+<rect x="140" y="113" width="28" height="22" rx="2" fill="white"/>
+</mask>
+<g mask="url(#pjvzdqq8gg-mask8)">
+<path opacity="0.2" fill-rule="evenodd" clip-rule="evenodd" d="M164 125C169.406 125 172.733 129.27 178 135C173.703 135 155.307 135 150 135C154.574 130.281 158.594 125 164 125Z" fill="#58A8F7"/>
+<path opacity="0.2" fill-rule="evenodd" clip-rule="evenodd" d="M144 123C149.706 123 153.898 128.722 159 135C152.306 135 136.095 135 130 135C134.928 128.722 138.294 123 144 123Z" fill="#0D87FF"/>
+<path opacity="0.5" fill-rule="evenodd" clip-rule="evenodd" d="M155 123C156.657 123 158 121.657 158 120C158 118.343 156.657 117 155 117C153.343 117 152 118.343 152 120C152 121.657 153.343 123 155 123Z" fill="#58A8F7"/>
+</g>
+<rect opacity="0.2" x="64" y="162" width="12" height="11.9999" rx="2" fill="#58A8F7"/>
+<rect opacity="0.2" x="83" y="162" width="12" height="11.9999" rx="2" fill="#58A8F7"/>
+<rect opacity="0.2" x="102" y="162" width="12" height="11.9999" rx="2" fill="#58A8F7"/>
+<rect opacity="0.2" x="121" y="162" width="12" height="11.9999" rx="2" fill="#58A8F7"/>
+<rect opacity="0.2" x="140" y="162" width="12" height="11.9999" rx="2" fill="#58A8F7"/>
+<rect opacity="0.2" x="158" y="162" width="12" height="11.9999" rx="2" fill="#58A8F7"/>
+<rect opacity="0.2" x="10" y="25" width="49" height="149" rx="3" fill="#58A8F7"/>
+<rect opacity="0.5" x="16" y="154" width="37" height="11" rx="2" fill="#0D87FF"/>
+<path opacity="0.2" fill-rule="evenodd" clip-rule="evenodd" d="M24 41L32 50V60L37 57V50L45 41H24Z" fill="#58A8F7"/>
+<rect opacity="0.5" x="16" y="72" width="37" height="11" rx="2" fill="#58A8F7"/>
+<rect x="17" y="73" width="35" height="9" rx="1" fill="white"/>
+<rect opacity="0.2" x="18.5965" y="76" width="20.7719" height="3" fill="#58A8F7"/>
+<path fill-rule="evenodd" clip-rule="evenodd" d="M45.5 79L43 76H48L45.5 79Z" fill="#0D87FF"/>
+<rect opacity="0.5" x="16" y="88" width="37" height="11" rx="2" fill="#58A8F7"/>
+<rect x="17" y="89" width="35" height="9" rx="1" fill="white"/>
+<rect opacity="0.2" x="18.5965" y="92" width="20.7719" height="3" fill="#58A8F7"/>
+<path fill-rule="evenodd" clip-rule="evenodd" d="M45.5 95L43 92H48L45.5 95Z" fill="#0D87FF"/>
+<rect opacity="0.5" x="16" y="104" width="37" height="11" rx="2" fill="#58A8F7"/>
+<rect x="17" y="105" width="35" height="9" rx="1" fill="white"/>
+<rect opacity="0.2" x="18.5965" y="108" width="20.7719" height="3" fill="#58A8F7"/>
+<path fill-rule="evenodd" clip-rule="evenodd" d="M45.5 111L43 108H48L45.5 111Z" fill="#0D87FF"/>
+<rect opacity="0.5" x="16" y="120" width="37" height="11" rx="2" fill="#58A8F7"/>
+<rect x="17" y="121" width="35" height="9" rx="1" fill="white"/>
+<rect opacity="0.2" x="18.5965" y="124" width="20.7719" height="3" fill="#58A8F7"/>
+<path fill-rule="evenodd" clip-rule="evenodd" d="M45.5 127L43 124H48L45.5 127Z" fill="#0D87FF"/>
+</svg></g></g></g><rect x="-1" y="-1" rx="3" ry="3" width="182" height="230" fill="none" stroke="#A2CEF9" stroke-width="2"/><g transform="translate(0,206)"><g><text x="90" y="4" text-anchor="middle" font-family="Roboto,sans-serif" font-size="14px" fill="#52565f">Pet Application Status</text></g></g></g><g transform="translate(610, 586)"><rect x="0" y="0" rx="2" ry="2" width="180" height="228" fill="#ffffff"/><g><g><g transform="translate( 0, 0 )"><svg xmlns="http://www.w3.org/2000/svg" width="180" height="185" viewBox="0 0 180 185">
+  <g fill="none" fill-rule="evenodd">
+    <path fill="#58A8F7" d="M0,2.99971296 C0,1.34301724 1.34537458,0 2.99263929,0 L177.007361,0 C178.66015,0 180,1.34382565 180,2.99971296 L180,185 L0,185 L0,2.99971296 Z" opacity=".097"/>
+    <path fill="#58A8F7" d="M0,3.00947762 C0,1.34738902 1.34537458,0 2.99263929,0 L177.007361,0 C178.66015,0 180,1.33663106 180,3.00947762 L180,16 L0,16 L0,3.00947762 Z" opacity=".197"/>
+    <path fill="#0D87FF" d="M2.5,5 C1.11928813,5 0,3.88071187 0,2.5 C0,1.11928813 1.11928813,0 2.5,0 C3.88071187,0 5,1.11928813 5,2.5 C5,3.88071187 3.88071187,5 2.5,5 Z M10.5,5 C9.11928813,5 8,3.88071187 8,2.5 C8,1.11928813 9.11928813,0 10.5,0 C11.8807119,0 13,1.11928813 13,2.5 C13,3.88071187 11.8807119,5 10.5,5 Z M18.5,5 C17.1192881,5 16,3.88071187 16,2.5 C16,1.11928813 17.1192881,0 18.5,0 C19.8807119,0 21,1.11928813 21,2.5 C21,3.88071187 19.8807119,5 18.5,5 Z" opacity=".499" transform="translate(5 6)"/>
+    <path fill="#58A8F7" d="M3.8458278,-1.55376046e-16 L136.154172,1.55376046e-16 C137.49145,-9.02779573e-17 137.97638,0.139238417 138.465269,0.400699056 C138.954157,0.662159695 139.33784,1.04584256 139.599301,1.53473144 C139.860762,2.02362033 140,2.50854969 140,3.8458278 L140,118.154172 C140,119.49145 139.860762,119.97638 139.599301,120.465269 C139.33784,120.954157 138.954157,121.33784 138.465269,121.599301 C137.97638,121.860762 137.49145,122 136.154172,122 L3.8458278,122 C2.50854969,122 2.02362033,121.860762 1.53473144,121.599301 C1.04584256,121.33784 0.662159695,120.954157 0.400699056,120.465269 C0.139238417,119.97638 6.01853049e-17,119.49145 -1.03584031e-16,118.154172 L1.03584031e-16,3.8458278 C-6.01853049e-17,2.50854969 0.139238417,2.02362033 0.400699056,1.53473144 C0.662159695,1.04584256 1.04584256,0.662159695 1.53473144,0.400699056 C2.02362033,0.139238417 2.50854969,9.02779573e-17 3.8458278,-1.55376046e-16 Z" opacity=".197" transform="translate(20 48)"/>
+    <g transform="translate(30 58)">
+      <g transform="translate(0 6)">
+        <rect width="120" height="11" fill="#58A8F7" opacity=".499" rx="2"/>
+        <rect width="118" height="9" x="1" y="1" fill="#FFF" rx="1"/>
+        <polygon fill="#58A8F7" points="0 0 70 0 70 3 0 3" opacity=".197" transform="translate(4 4)"/>
+        <polygon fill="#0D87FF" points="2.5 3 0 0 5 0" transform="translate(110 4)"/>
+      </g>
+      <polygon fill="#58A8F7" points="0 0 42 0 42 3 0 3" opacity=".197"/>
+    </g>
+    <g transform="translate(30 85)">
+      <g transform="translate(0 6)">
+        <rect width="120" height="11" fill="#58A8F7" opacity=".499" rx="2"/>
+        <rect width="118" height="9" x="1" y="1" fill="#FFF" rx="1"/>
+      </g>
+      <polygon fill="#58A8F7" points="0 0 20 0 20 3 0 3" opacity=".197"/>
+    </g>
+    <path fill="#0D87FF" d="M0,1.99201702 C0,0.891856397 0.894730389,0 1.99630737,0 L58.0036926,0 C59.1062227,0 60,0.900176167 60,1.99201702 L60,9.00798298 C60,10.1081436 59.1052696,11 58.0036926,11 L1.99630737,11 C0.893777255,11 0,10.0998238 0,9.00798298 L0,1.99201702 Z" opacity=".499" transform="translate(30 149)"/>
+    <polygon fill="#58A8F7" points="0 0 50 0 50 8 0 8" opacity=".499" transform="translate(65 30)"/>
+    <g transform="translate(30 118)">
+      <rect width="120" height="21" fill="#58A8F7" opacity=".499" rx="2"/>
+      <rect width="118" height="19" x="1" y="1" fill="#FFF" rx="1"/>
+    </g>
+    <polygon fill="#58A8F7" points="0 0 20 0 20 3 0 3" opacity=".197" transform="translate(30 112)"/>
+  </g>
+</svg></g></g></g><rect x="-1" y="-1" rx="3" ry="3" width="182" height="230" fill="none" stroke="#A2CEF9" stroke-width="2"/><g transform="translate(0,206)"><g><text x="90" y="4" text-anchor="middle" font-family="Roboto,sans-serif" font-size="14px" fill="#52565f">Contact Us</text></g></g></g><g transform="translate(810, 586)"><rect x="0" y="0" rx="2" ry="2" width="180" height="228" fill="#ffffff"/><g><g><g transform="translate( 0, 0 )"><svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" width="180" height="185" viewBox="0 0 180 185">
+  <defs>
+    <path id="tohcyxh0qv-about_us-a" d="M0,1.99729162 C0,0.894217919 0.899814069,0 1.99402962,0 L158.00597,0 C159.107243,0 160,0.891539827 160,1.99729162 L160,38.0027084 C160,39.1057821 159.100186,40 158.00597,40 L1.99402962,40 C0.89275747,40 0,39.1084602 0,38.0027084 L0,1.99729162 Z"/>
+    <circle id="tohcyxh0qv-about_us-c" cx="18" cy="18" r="18"/>
+    <circle id="tohcyxh0qv-about_us-e" cx="18" cy="18" r="18"/>
+    <circle id="tohcyxh0qv-about_us-g" cx="18" cy="18" r="18"/>
+  </defs>
+  <g fill="none" fill-rule="evenodd">
+    <path fill="#58A8F7" d="M0,2.99971296 C0,1.34301724 1.34537458,0 2.99263929,0 L177.007361,0 C178.66015,0 180,1.34382565 180,2.99971296 L180,185 L0,185 L0,2.99971296 Z" opacity=".097"/>
+    <path fill="#58A8F7" d="M0,3.00947762 C0,1.34738902 1.34537458,0 2.99263929,0 L177.007361,0 C178.66015,0 180,1.33663106 180,3.00947762 L180,16 L0,16 L0,3.00947762 Z" opacity=".197"/>
+    <path fill="#0D87FF" d="M2.5,5 C1.11928813,5 0,3.88071187 0,2.5 C0,1.11928813 1.11928813,0 2.5,0 C3.88071187,0 5,1.11928813 5,2.5 C5,3.88071187 3.88071187,5 2.5,5 Z M10.5,5 C9.11928813,5 8,3.88071187 8,2.5 C8,1.11928813 9.11928813,0 10.5,0 C11.8807119,0 13,1.11928813 13,2.5 C13,3.88071187 11.8807119,5 10.5,5 Z M18.5,5 C17.1192881,5 16,3.88071187 16,2.5 C16,1.11928813 17.1192881,0 18.5,0 C19.8807119,0 21,1.11928813 21,2.5 C21,3.88071187 19.8807119,5 18.5,5 Z" opacity=".499" transform="translate(5 6)"/>
+    <g transform="translate(10 26)">
+      <path fill="#58A8F7" d="M0,1.99729162 C0,0.894217919 0.899814069,0 1.99402962,0 L158.00597,0 C159.107243,0 160,0.891539827 160,1.99729162 L160,38.0027084 C160,39.1057821 159.100186,40 158.00597,40 L1.99402962,40 C0.89275747,40 0,39.1084602 0,38.0027084 L0,1.99729162 Z" opacity=".197"/>
+      <mask id="tohcyxh0qv-about_us-b" fill="#fff">
+        <use xlink:href="#tohcyxh0qv-about_us-a"/>
+      </mask>
+      <path fill="#58A8F7" d="M123.544554,22 C147.292079,22 158.861386,29.6853933 182,40 C163.123762,40 82.3134379,40 59,40 C79.0940594,31.505618 99.7970297,22 123.544554,22 Z" mask="url(#tohcyxh0qv-about_us-b)" opacity=".197"/>
+      <path fill="#0D87FF" d="M44.5,9 C69.8826643,9 86.3055556,23.781645 109,40 C79.2231422,40 7.11330049,40 -20,40 C1.92139189,23.781645 19.1173357,9 44.5,9 Z" mask="url(#tohcyxh0qv-about_us-b)" opacity=".198"/>
+      <circle cx="94" cy="11" r="7" fill="#58A8F7" mask="url(#tohcyxh0qv-about_us-b)" opacity=".499"/>
+    </g>
+    <g fill="#58A8F7" opacity=".197" transform="translate(10 86)">
+      <polygon points="0 0 160 0 160 3 0 3" transform="translate(0 14)"/>
+      <polygon points="0 0 160 0 160 3 0 3" transform="translate(0 7)"/>
+      <polygon points="0 0 160 0 160 3 0 3"/>
+      <polygon points="0 0 96 0 96 3 0 3" transform="translate(0 21)"/>
+    </g>
+    <polygon fill="#58A8F7" points="0 0 50 0 50 5 0 5" opacity=".499" transform="translate(10 76)"/>
+    <g transform="translate(12 120)">
+      <mask id="tohcyxh0qv-about_us-d" fill="#fff">
+        <use xlink:href="#tohcyxh0qv-about_us-c"/>
+      </mask>
+      <use fill="#58A8F7" opacity=".197" xlink:href="#tohcyxh0qv-about_us-c"/>
+      <path fill="#0D87FF" d="M18,50.4 C9.3843579,50.4 2.4,43.4156421 2.4,34.8 C2.4,26.1843579 9.3843579,19.2 18,19.2 C26.6156421,19.2 33.6,26.1843579 33.6,34.8 C33.6,43.4156421 26.6156421,50.4 18,50.4 Z M18,16.8 C14.6862915,16.8 12,14.1137085 12,10.8 C12,7.4862915 14.6862915,4.8 18,4.8 C21.3137085,4.8 24,7.4862915 24,10.8 C24,14.1137085 21.3137085,16.8 18,16.8 Z" mask="url(#tohcyxh0qv-about_us-d)" opacity=".499"/>
+    </g>
+    <g transform="translate(72 120)">
+      <mask id="tohcyxh0qv-about_us-f" fill="#fff">
+        <use xlink:href="#tohcyxh0qv-about_us-e"/>
+      </mask>
+      <use fill="#58A8F7" opacity=".197" xlink:href="#tohcyxh0qv-about_us-e"/>
+      <path fill="#0D87FF" d="M18,50.4 C9.3843579,50.4 2.4,43.4156421 2.4,34.8 C2.4,26.1843579 9.3843579,19.2 18,19.2 C26.6156421,19.2 33.6,26.1843579 33.6,34.8 C33.6,43.4156421 26.6156421,50.4 18,50.4 Z M18,16.8 C14.6862915,16.8 12,14.1137085 12,10.8 C12,7.4862915 14.6862915,4.8 18,4.8 C21.3137085,4.8 24,7.4862915 24,10.8 C24,14.1137085 21.3137085,16.8 18,16.8 Z" mask="url(#tohcyxh0qv-about_us-f)" opacity=".499"/>
+    </g>
+    <g fill="#58A8F7" opacity=".499" transform="translate(10 161)">
+      <polygon points="0 0 40 0 40 5 0 5"/>
+      <polygon points="0 0 24 0 24 5 0 5" transform="translate(8 9)"/>
+    </g>
+    <g fill="#58A8F7" opacity=".499" transform="translate(70 161)">
+      <polygon points="0 0 40 0 40 5 0 5"/>
+      <polygon points="0 0 24 0 24 5 0 5" transform="translate(8 9)"/>
+    </g>
+    <g fill="#58A8F7" opacity=".499" transform="translate(130 161)">
+      <polygon points="0 0 40 0 40 5 0 5"/>
+      <polygon points="0 0 24 0 24 5 0 5" transform="translate(8 9)"/>
+    </g>
+    <g transform="translate(132 120)">
+      <mask id="tohcyxh0qv-about_us-h" fill="#fff">
+        <use xlink:href="#tohcyxh0qv-about_us-g"/>
+      </mask>
+      <use fill="#58A8F7" opacity=".197" xlink:href="#tohcyxh0qv-about_us-g"/>
+      <path fill="#0D87FF" d="M18,50.4 C9.3843579,50.4 2.4,43.4156421 2.4,34.8 C2.4,26.1843579 9.3843579,19.2 18,19.2 C26.6156421,19.2 33.6,26.1843579 33.6,34.8 C33.6,43.4156421 26.6156421,50.4 18,50.4 Z M18,16.8 C14.6862915,16.8 12,14.1137085 12,10.8 C12,7.4862915 14.6862915,4.8 18,4.8 C21.3137085,4.8 24,7.4862915 24,10.8 C24,14.1137085 21.3137085,16.8 18,16.8 Z" mask="url(#tohcyxh0qv-about_us-h)" opacity=".499"/>
+    </g>
+  </g>
+</svg></g></g></g><rect x="-1" y="-1" rx="3" ry="3" width="182" height="230" fill="none" stroke="#A2CEF9" stroke-width="2"/><g transform="translate(0,206)"><g><text x="90" y="4" text-anchor="middle" font-family="Roboto,sans-serif" font-size="14px" fill="#52565f">About</text></g></g></g><g transform="translate(1010, 586)"><rect x="0" y="0" rx="2" ry="2" width="180" height="228" fill="#ffffff"/><g><g><g transform="translate( 0, 0 )"><svg xmlns="http://www.w3.org/2000/svg" width="180" height="185" viewBox="0 0 180 185">
+  <g fill="none" fill-rule="evenodd">
+    <path fill="#58A8F7" d="M0,2.99971296 C0,1.34301724 1.34537458,0 2.99263929,0 L177.007361,0 C178.66015,0 180,1.34382565 180,2.99971296 L180,185 L0,185 L0,2.99971296 Z" opacity=".097"/>
+    <path fill="#58A8F7" d="M0,3.00947762 C0,1.34738902 1.34537458,0 2.99263929,0 L177.007361,0 C178.66015,0 180,1.33663106 180,3.00947762 L180,16 L0,16 L0,3.00947762 Z" opacity=".197"/>
+    <path fill="#0D87FF" d="M2.5,5 C1.11928813,5 0,3.88071187 0,2.5 C0,1.11928813 1.11928813,0 2.5,0 C3.88071187,0 5,1.11928813 5,2.5 C5,3.88071187 3.88071187,5 2.5,5 Z M10.5,5 C9.11928813,5 8,3.88071187 8,2.5 C8,1.11928813 9.11928813,0 10.5,0 C11.8807119,0 13,1.11928813 13,2.5 C13,3.88071187 11.8807119,5 10.5,5 Z M18.5,5 C17.1192881,5 16,3.88071187 16,2.5 C16,1.11928813 17.1192881,0 18.5,0 C19.8807119,0 21,1.11928813 21,2.5 C21,3.88071187 19.8807119,5 18.5,5 Z" opacity=".499" transform="translate(5 6)"/>
+    <g fill="#58A8F7" opacity=".499" transform="translate(10 26)">
+      <polygon points="0 0 50 0 50 5 0 5"/>
+      <polygon points="0 0 30 0 30 5 0 5" transform="translate(0 9)"/>
+    </g>
+    <g transform="translate(10 47)">
+      <rect width="128" height="44" fill="#58A8F7" opacity=".499" rx="2"/>
+      <rect width="126" height="42" x="1" y="1" fill="#FFF" rx="1"/>
+      <polygon fill="#58A8F7" points="0 0 50 0 50 5 0 5" opacity=".499" transform="translate(5 5)"/>
+      <g fill="#58A8F7" opacity=".197" transform="translate(5 15)">
+        <polygon points="0 0 90 0 90 3 0 3" transform="translate(0 14)"/>
+        <polygon points="0 0 90 0 90 3 0 3" transform="translate(0 7)"/>
+        <polygon points="0 0 90 0 90 3 0 3"/>
+        <polygon points="0 0 54 0 54 3 0 3" transform="translate(0 21)"/>
+      </g>
+      <rect width="5" height="1" fill="#0D87FF" transform="translate(118 7)"/>
+    </g>
+    <g transform="translate(10 96)">
+      <rect width="128" height="15" fill="#58A8F7" opacity=".499" rx="2"/>
+      <rect width="126" height="13" x="1" y="1" fill="#FFF" rx="1"/>
+      <polygon fill="#58A8F7" points="0 0 50 0 50 5 0 5" opacity=".499" transform="translate(5 5)"/>
+      <path fill="#0D87FF" d="M2,2 L2,0 L3,0 L3,2 L5,2 L5,3 L3,3 L3,5 L2,5 L2,3 L0,3 L0,2 L2,2 Z" transform="translate(118 5)"/>
+    </g>
+    <g transform="translate(10 116)">
+      <rect width="128" height="15" fill="#58A8F7" opacity=".499" rx="2"/>
+      <rect width="126" height="13" x="1" y="1" fill="#FFF" rx="1"/>
+      <polygon fill="#58A8F7" points="0 0 50 0 50 5 0 5" opacity=".499" transform="translate(5 5)"/>
+      <path fill="#0D87FF" d="M2,2 L2,0 L3,0 L3,2 L5,2 L5,3 L3,3 L3,5 L2,5 L2,3 L0,3 L0,2 L2,2 Z" transform="translate(118 5)"/>
+    </g>
+    <g transform="translate(10 136)">
+      <rect width="128" height="15" fill="#58A8F7" opacity=".499" rx="2"/>
+      <rect width="126" height="13" x="1" y="1" fill="#FFF" rx="1"/>
+      <polygon fill="#58A8F7" points="0 0 50 0 50 5 0 5" opacity=".499" transform="translate(5 5)"/>
+      <path fill="#0D87FF" d="M2,2 L2,0 L3,0 L3,2 L5,2 L5,3 L3,3 L3,5 L2,5 L2,3 L0,3 L0,2 L2,2 Z" transform="translate(118 5)"/>
+    </g>
+    <g transform="translate(10 156)">
+      <rect width="128" height="15" fill="#58A8F7" opacity=".499" rx="2"/>
+      <rect width="126" height="13" x="1" y="1" fill="#FFF" rx="1"/>
+      <polygon fill="#58A8F7" points="0 0 50 0 50 5 0 5" opacity=".499" transform="translate(5 5)"/>
+      <path fill="#0D87FF" d="M2,2 L2,0 L3,0 L3,2 L5,2 L5,3 L3,3 L3,5 L2,5 L2,3 L0,3 L0,2 L2,2 Z" transform="translate(118 5)"/>
+    </g>
+  </g>
+</svg></g></g></g><rect x="-1" y="-1" rx="3" ry="3" width="182" height="230" fill="none" stroke="#A2CEF9" stroke-width="2"/><g transform="translate(0,206)"><g><text x="90" y="4" text-anchor="middle" font-family="Roboto,sans-serif" font-size="14px" fill="#52565f">FAQ</text></g></g></g><g transform="translate(410, 306)"><rect x="0" y="0" rx="2" ry="2" width="180" height="228" fill="#ffffff"/><g><g><g transform="translate( 0, 0 )"><svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" width="180" height="185" viewBox="0 0 180 185">
+  <defs>
+    <rect id="fsh976pnnte-main-a" width="160" height="82" rx="2"/>
+  </defs>
+  <g fill="none" fill-rule="evenodd">
+    <path fill="#58A8F7" d="M0,2.99971296 C0,1.34301724 1.34537458,0 2.99263929,0 L177.007361,0 C178.66015,0 180,1.34382565 180,2.99971296 L180,185 L0,185 L0,2.99971296 Z" opacity=".097"/>
+    <g transform="translate(10 26)">
+      <rect width="160" height="82" fill="#58A8F7" opacity=".197" rx="2"/>
+      <mask id="fsh976pnnte-main-b" fill="#fff">
+        <use xlink:href="#fsh976pnnte-main-a"/>
+      </mask>
+      <use fill="#58A8F7" opacity="0" xlink:href="#fsh976pnnte-main-a"/>
+      <path fill="#58A8F7" d="M123.544554,38 C147.292079,38 158.861386,56.7865169 182,82 C163.123762,82 82.3134379,82 59,82 C79.0940594,61.2359551 99.7970297,38 123.544554,38 Z" mask="url(#fsh976pnnte-main-b)" opacity=".197"/>
+      <path fill="#0D87FF" d="M44.5,31 C69.8826643,31 86.3055556,55.3181901 109,82 C79.2231422,82 7.11330049,82 -20,82 C1.92139189,55.3181901 19.1173357,31 44.5,31 Z" mask="url(#fsh976pnnte-main-b)" opacity=".198"/>
+      <circle cx="87" cy="22" r="9" fill="#58A8F7" mask="url(#fsh976pnnte-main-b)" opacity=".499"/>
+    </g>
+    <g transform="translate(26 118)">
+      <circle cx="7.5" cy="7.5" r="7.5" fill="#0D87FF" opacity=".499"/>
+      <polygon fill="#FFF" points="7.5 9.75 4.855 11.141 5.36 8.195 3.22 6.109 6.177 5.68 7.5 3 8.823 5.68 11.78 6.109 9.64 8.195 10.145 11.141"/>
+    </g>
+    <g transform="translate(140 118)">
+      <circle cx="7.5" cy="7.5" r="7.5" fill="#0D87FF" opacity=".499"/>
+      <polygon fill="#FFF" points="7.5 9.75 4.855 11.141 5.36 8.195 3.22 6.109 6.177 5.68 7.5 3 8.823 5.68 11.78 6.109 9.64 8.195 10.145 11.141"/>
+    </g>
+    <g transform="translate(83 118)">
+      <circle cx="7.5" cy="7.5" r="7.5" fill="#0D87FF" opacity=".499"/>
+      <polygon fill="#FFF" points="7.5 9.75 4.855 11.141 5.36 8.195 3.22 6.109 6.177 5.68 7.5 3 8.823 5.68 11.78 6.109 9.64 8.195 10.145 11.141"/>
+    </g>
+    <g fill="#58A8F7" transform="translate(10 139)">
+      <polygon points="0 0 26 0 26 5 0 5" opacity=".499" transform="translate(10)"/>
+      <polygon points="0 0 46 0 46 3 0 3" opacity=".197" transform="translate(0 17)"/>
+      <polygon points="0 0 46 0 46 3 0 3" opacity=".197" transform="translate(0 10)"/>
+      <polygon points="0 0 26 0 26 3 0 3" opacity=".197" transform="translate(10 24)"/>
+    </g>
+    <g fill="#58A8F7" transform="translate(124 139)">
+      <polygon points="0 0 26 0 26 5 0 5" opacity=".499" transform="translate(10)"/>
+      <polygon points="0 0 46 0 46 3 0 3" opacity=".197" transform="translate(0 17)"/>
+      <polygon points="0 0 46 0 46 3 0 3" opacity=".197" transform="translate(0 10)"/>
+      <polygon points="0 0 26 0 26 3 0 3" opacity=".197" transform="translate(10 24)"/>
+    </g>
+    <g fill="#58A8F7" transform="translate(67 139)">
+      <polygon points="0 0 26 0 26 5 0 5" opacity=".499" transform="translate(10)"/>
+      <polygon points="0 0 46 0 46 3 0 3" opacity=".197" transform="translate(0 17)"/>
+      <polygon points="0 0 46 0 46 3 0 3" opacity=".197" transform="translate(0 10)"/>
+      <polygon points="0 0 26 0 26 3 0 3" opacity=".197" transform="translate(10 24)"/>
+    </g>
+    <path fill="#58A8F7" d="M0,3.00947762 C0,1.34738902 1.34537458,0 2.99263929,0 L177.007361,0 C178.66015,0 180,1.33663106 180,3.00947762 L180,16 L0,16 L0,3.00947762 Z" opacity=".197"/>
+    <path fill="#0D87FF" d="M2.5,5 C1.11928813,5 0,3.88071187 0,2.5 C0,1.11928813 1.11928813,0 2.5,0 C3.88071187,0 5,1.11928813 5,2.5 C5,3.88071187 3.88071187,5 2.5,5 Z M10.5,5 C9.11928813,5 8,3.88071187 8,2.5 C8,1.11928813 9.11928813,0 10.5,0 C11.8807119,0 13,1.11928813 13,2.5 C13,3.88071187 11.8807119,5 10.5,5 Z M18.5,5 C17.1192881,5 16,3.88071187 16,2.5 C16,1.11928813 17.1192881,0 18.5,0 C19.8807119,0 21,1.11928813 21,2.5 C21,3.88071187 19.8807119,5 18.5,5 Z" opacity=".499" transform="translate(5 6)"/>
+  </g>
+</svg></g></g></g><rect x="-1" y="-1" rx="3" ry="3" width="182" height="230" fill="none" stroke="#A2CEF9" stroke-width="2"/><g transform="translate(0,206)"><g><text x="90" y="4" text-anchor="middle" font-family="Roboto,sans-serif" font-size="14px" fill="#52565f">Menu</text></g></g></g><g transform="translate(1210, 586)"><rect x="0" y="0" rx="2" ry="2" width="180" height="228" fill="#ffffff"/><g><g><g transform="translate( 0, 0 )"><svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" width="180" height="185" viewBox="0 0 180 185">
+  <defs>
+    <rect id="pbtn63p2l7-item-a" width="80" height="115" rx="2"/>
+    <path id="pbtn63p2l7-item-c" d="M0,1.99508929 C0,0.893231902 0.897026226,0 2.00494659,0 L21.9950534,0 C23.1023548,0 24,0.892622799 24,1.99508929 L24,16.0049107 C24,17.1067681 23.1029738,18 21.9950534,18 L2.00494659,18 C0.897645164,18 0,17.1073772 0,16.0049107 L0,1.99508929 Z"/>
+    <path id="pbtn63p2l7-item-e" d="M0,1.99508929 C0,0.893231902 0.897026226,0 2.00494659,0 L21.9950534,0 C23.1023548,0 24,0.892622799 24,1.99508929 L24,16.0049107 C24,17.1067681 23.1029738,18 21.9950534,18 L2.00494659,18 C0.897645164,18 0,17.1073772 0,16.0049107 L0,1.99508929 Z"/>
+    <path id="pbtn63p2l7-item-g" d="M0,1.99508929 C0,0.893231902 0.897026226,0 2.00494659,0 L21.9950534,0 C23.1023548,0 24,0.892622799 24,1.99508929 L24,16.0049107 C24,17.1067681 23.1029738,18 21.9950534,18 L2.00494659,18 C0.897645164,18 0,17.1073772 0,16.0049107 L0,1.99508929 Z"/>
+  </defs>
+  <g fill="none" fill-rule="evenodd">
+    <path fill="#58A8F7" d="M0,2.99971296 C0,1.34301724 1.34537458,0 2.99263929,0 L177.007361,0 C178.66015,0 180,1.34382565 180,2.99971296 L180,185 L0,185 L0,2.99971296 Z" opacity=".097"/>
+    <g transform="translate(10 26)">
+      <rect width="80" height="115" fill="#58A8F7" opacity=".197" rx="2"/>
+      <mask id="pbtn63p2l7-item-b" fill="#fff">
+        <use xlink:href="#pbtn63p2l7-item-a"/>
+      </mask>
+      <use fill="#58A8F7" opacity="0" xlink:href="#pbtn63p2l7-item-a"/>
+      <path fill="#58A8F7" d="M62.7821782,58 C76.6831683,58 83.4554455,82.3370787 97,115 C85.950495,115 38.6468905,115 25,115 C36.7623762,88.1011236 48.8811881,58 62.7821782,58 Z" mask="url(#pbtn63p2l7-item-b)" opacity=".197"/>
+      <path fill="#0D87FF" d="M18,47 C33.7411872,47 43.9259259,79.4242535 58,115 C39.5337316,115 -5.18555008,115 -22,115 C-8.40533836,79.4242535 2.25881284,47 18,47 Z" mask="url(#pbtn63p2l7-item-b)" opacity=".198"/>
+      <circle cx="44" cy="31" r="7" fill="#58A8F7" mask="url(#pbtn63p2l7-item-b)" opacity=".499"/>
+    </g>
+    <g transform="translate(10 151)">
+      <path fill="#58A8F7" d="M0,1.99508929 C0,0.893231902 0.897026226,0 2.00494659,0 L21.9950534,0 C23.1023548,0 24,0.892622799 24,1.99508929 L24,16.0049107 C24,17.1067681 23.1029738,18 21.9950534,18 L2.00494659,18 C0.897645164,18 0,17.1073772 0,16.0049107 L0,1.99508929 Z" opacity=".197"/>
+      <mask id="pbtn63p2l7-item-d" fill="#fff">
+        <use xlink:href="#pbtn63p2l7-item-c"/>
+      </mask>
+      <path fill="#58A8F7" d="M20.5714286,9.81818182 C25.2050919,9.81818182 28.0565771,13.3115424 32.5714286,18 C28.8882603,18 13.1203921,18 8.57142857,18 C12.4922207,14.1389173 15.9377652,9.81818182 20.5714286,9.81818182 Z" mask="url(#pbtn63p2l7-item-d)" opacity=".197"/>
+      <path fill="#0D87FF" d="M3.42857143,8.18181818 C8.31958315,8.18181818 11.9126984,12.8633949 16.2857143,18 C10.5479809,18 -3.34693878,18 -8.57142857,18 C-4.34737299,12.8633949 -1.4624403,8.18181818 3.42857143,8.18181818 Z" mask="url(#pbtn63p2l7-item-d)" opacity=".198"/>
+      <circle cx="12.857" cy="5.727" r="3" fill="#58A8F7" mask="url(#pbtn63p2l7-item-d)" opacity=".499"/>
+    </g>
+    <g transform="translate(38 151)">
+      <path fill="#58A8F7" d="M0,1.99508929 C0,0.893231902 0.897026226,0 2.00494659,0 L21.9950534,0 C23.1023548,0 24,0.892622799 24,1.99508929 L24,16.0049107 C24,17.1067681 23.1029738,18 21.9950534,18 L2.00494659,18 C0.897645164,18 0,17.1073772 0,16.0049107 L0,1.99508929 Z" opacity=".197"/>
+      <mask id="pbtn63p2l7-item-f" fill="#fff">
+        <use xlink:href="#pbtn63p2l7-item-e"/>
+      </mask>
+      <path fill="#58A8F7" d="M20.5714286,9.81818182 C25.2050919,9.81818182 28.0565771,13.3115424 32.5714286,18 C28.8882603,18 13.1203921,18 8.57142857,18 C12.4922207,14.1389173 15.9377652,9.81818182 20.5714286,9.81818182 Z" mask="url(#pbtn63p2l7-item-f)" opacity=".197"/>
+      <path fill="#0D87FF" d="M3.42857143,8.18181818 C8.31958315,8.18181818 11.9126984,12.8633949 16.2857143,18 C10.5479809,18 -3.34693878,18 -8.57142857,18 C-4.34737299,12.8633949 -1.4624403,8.18181818 3.42857143,8.18181818 Z" mask="url(#pbtn63p2l7-item-f)" opacity=".198"/>
+      <circle cx="12.857" cy="5.727" r="3" fill="#58A8F7" mask="url(#pbtn63p2l7-item-f)" opacity=".499"/>
+    </g>
+    <g transform="translate(66 151)">
+      <path fill="#58A8F7" d="M0,1.99508929 C0,0.893231902 0.897026226,0 2.00494659,0 L21.9950534,0 C23.1023548,0 24,0.892622799 24,1.99508929 L24,16.0049107 C24,17.1067681 23.1029738,18 21.9950534,18 L2.00494659,18 C0.897645164,18 0,17.1073772 0,16.0049107 L0,1.99508929 Z" opacity=".197"/>
+      <mask id="pbtn63p2l7-item-h" fill="#fff">
+        <use xlink:href="#pbtn63p2l7-item-g"/>
+      </mask>
+      <path fill="#58A8F7" d="M20.5714286,9.81818182 C25.2050919,9.81818182 28.0565771,13.3115424 32.5714286,18 C28.8882603,18 13.1203921,18 8.57142857,18 C12.4922207,14.1389173 15.9377652,9.81818182 20.5714286,9.81818182 Z" mask="url(#pbtn63p2l7-item-h)" opacity=".197"/>
+      <path fill="#0D87FF" d="M3.42857143,8.18181818 C8.31958315,8.18181818 11.9126984,12.8633949 16.2857143,18 C10.5479809,18 -3.34693878,18 -8.57142857,18 C-4.34737299,12.8633949 -1.4624403,8.18181818 3.42857143,8.18181818 Z" mask="url(#pbtn63p2l7-item-h)" opacity=".198"/>
+      <circle cx="12.857" cy="5.727" r="3" fill="#58A8F7" mask="url(#pbtn63p2l7-item-h)" opacity=".499"/>
+    </g>
+    <g fill="#58A8F7" opacity=".499" transform="translate(100 26)">
+      <polygon points="0 0 50 0 50 5 0 5"/>
+      <polygon points="0 0 30 0 30 5 0 5" transform="translate(0 9)"/>
+    </g>
+    <polygon fill="#58A8F7" points="0 0 27 0 27 9 0 9" opacity=".499" transform="translate(100 50)"/>
+    <g fill="#58A8F7" opacity=".197" transform="translate(100 99)">
+      <polygon points="0 0 70 0 70 3 0 3" transform="translate(0 14)"/>
+      <polygon points="0 0 70 0 70 3 0 3" transform="translate(0 7)"/>
+      <polygon points="0 0 70 0 70 3 0 3"/>
+      <polygon points="0 0 42 0 42 3 0 3" transform="translate(0 21)"/>
+    </g>
+    <circle cx="5" cy="5" r="5" fill="#58A8F7" opacity=".197" transform="translate(100 64)"/>
+    <circle cx="5" cy="5" r="5" fill="#58A8F7" opacity=".197" transform="translate(114 64)"/>
+    <circle cx="5" cy="5" r="5" fill="#58A8F7" opacity=".197" transform="translate(128 64)"/>
+    <circle cx="5" cy="5" r="5" fill="#58A8F7" opacity=".197" transform="translate(142 64)"/>
+    <g transform="translate(100 78)">
+      <rect width="57" height="11" fill="#58A8F7" opacity=".499" rx="2"/>
+      <rect width="55" height="9" x="1" y="1" fill="#FFF" rx="1"/>
+      <polygon fill="#58A8F7" points="0 0 32 0 32 3 0 3" opacity=".197" transform="translate(4 4)"/>
+      <polygon fill="#0D87FF" points="2.5 3 0 0 5 0" transform="translate(47 4)"/>
+    </g>
+    <path fill="#0D87FF" d="M0,1.99201702 C0,0.891856397 0.894337654,0 1.99821383,0 L29.0017862,0 C30.1053692,0 31,0.900176167 31,1.99201702 L31,9.00798298 C31,10.1081436 30.1056623,11 29.0017862,11 L1.99821383,11 C0.894630804,11 0,10.0998238 0,9.00798298 L0,1.99201702 Z" opacity=".499" transform="translate(100 130)"/>
+    <path fill="#58A8F7" d="M0,3.00947762 C0,1.34738902 1.34537458,0 2.99263929,0 L177.007361,0 C178.66015,0 180,1.33663106 180,3.00947762 L180,16 L0,16 L0,3.00947762 Z" opacity=".197"/>
+    <path fill="#0D87FF" d="M2.5,5 C1.11928813,5 0,3.88071187 0,2.5 C0,1.11928813 1.11928813,0 2.5,0 C3.88071187,0 5,1.11928813 5,2.5 C5,3.88071187 3.88071187,5 2.5,5 Z M10.5,5 C9.11928813,5 8,3.88071187 8,2.5 C8,1.11928813 9.11928813,0 10.5,0 C11.8807119,0 13,1.11928813 13,2.5 C13,3.88071187 11.8807119,5 10.5,5 Z M18.5,5 C17.1192881,5 16,3.88071187 16,2.5 C16,1.11928813 17.1192881,0 18.5,0 C19.8807119,0 21,1.11928813 21,2.5 C21,3.88071187 19.8807119,5 18.5,5 Z" opacity=".499" transform="translate(5 6)"/>
+  </g>
+</svg></g></g></g><rect x="-1" y="-1" rx="3" ry="3" width="182" height="230" fill="none" stroke="#A2CEF9" stroke-width="2"/><g transform="translate(0,206)"><g><text x="90" y="4" text-anchor="middle" font-family="Roboto,sans-serif" font-size="14px" fill="#52565f">Pet Profile</text></g></g></g><g transform="translate(1210, 306)"><rect x="0" y="0" rx="2" ry="2" width="180" height="228" fill="#ffffff"/><g><g><g transform="translate( 0, 0 )"><svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" width="180" height="185" viewBox="0 0 180 185">
+  <defs>
+    <path id="elssaxzbtkr-portfolio-a" d="M0,2.00359486 C0,0.897039974 0.894337654,0 1.99821383,0 L29.0017862,0 C30.1053692,0 31,0.889763236 31,2.00359486 L31,22.9964051 C31,24.10296 30.1056623,25 29.0017862,25 L1.99821383,25 C0.894630804,25 0,24.1102368 0,22.9964051 L0,2.00359486 Z"/>
+    <path id="elssaxzbtkr-portfolio-c" d="M0,2.00359486 C0,0.897039974 0.894337654,0 1.99821383,0 L29.0017862,0 C30.1053692,0 31,0.889763236 31,2.00359486 L31,22.9964051 C31,24.10296 30.1056623,25 29.0017862,25 L1.99821383,25 C0.894630804,25 0,24.1102368 0,22.9964051 L0,2.00359486 Z"/>
+    <path id="elssaxzbtkr-portfolio-e" d="M0,2.00359486 C0,0.897039974 0.894337654,0 1.99821383,0 L29.0017862,0 C30.1053692,0 31,0.889763236 31,2.00359486 L31,22.9964051 C31,24.10296 30.1056623,25 29.0017862,25 L1.99821383,25 C0.894630804,25 0,24.1102368 0,22.9964051 L0,2.00359486 Z"/>
+    <path id="elssaxzbtkr-portfolio-g" d="M0,2.00359486 C0,0.897039974 0.894337654,0 1.99821383,0 L29.0017862,0 C30.1053692,0 31,0.889763236 31,2.00359486 L31,22.9964051 C31,24.10296 30.1056623,25 29.0017862,25 L1.99821383,25 C0.894630804,25 0,24.1102368 0,22.9964051 L0,2.00359486 Z"/>
+    <path id="elssaxzbtkr-portfolio-i" d="M0,2.00359486 C0,0.897039974 0.894337654,0 1.99821383,0 L29.0017862,0 C30.1053692,0 31,0.889763236 31,2.00359486 L31,22.9964051 C31,24.10296 30.1056623,25 29.0017862,25 L1.99821383,25 C0.894630804,25 0,24.1102368 0,22.9964051 L0,2.00359486 Z"/>
+    <path id="elssaxzbtkr-portfolio-k" d="M0,2.00359486 C0,0.897039974 0.894337654,0 1.99821383,0 L29.0017862,0 C30.1053692,0 31,0.889763236 31,2.00359486 L31,22.9964051 C31,24.10296 30.1056623,25 29.0017862,25 L1.99821383,25 C0.894630804,25 0,24.1102368 0,22.9964051 L0,2.00359486 Z"/>
+    <path id="elssaxzbtkr-portfolio-m" d="M0,2.00359486 C0,0.897039974 0.894337654,0 1.99821383,0 L29.0017862,0 C30.1053692,0 31,0.889763236 31,2.00359486 L31,22.9964051 C31,24.10296 30.1056623,25 29.0017862,25 L1.99821383,25 C0.894630804,25 0,24.1102368 0,22.9964051 L0,2.00359486 Z"/>
+    <path id="elssaxzbtkr-portfolio-o" d="M0,2.00359486 C0,0.897039974 0.894337654,0 1.99821383,0 L29.0017862,0 C30.1053692,0 31,0.889763236 31,2.00359486 L31,22.9964051 C31,24.10296 30.1056623,25 29.0017862,25 L1.99821383,25 C0.894630804,25 0,24.1102368 0,22.9964051 L0,2.00359486 Z"/>
+    <path id="elssaxzbtkr-portfolio-q" d="M0,2.00359486 C0,0.897039974 0.894337654,0 1.99821383,0 L29.0017862,0 C30.1053692,0 31,0.889763236 31,2.00359486 L31,22.9964051 C31,24.10296 30.1056623,25 29.0017862,25 L1.99821383,25 C0.894630804,25 0,24.1102368 0,22.9964051 L0,2.00359486 Z"/>
+    <path id="elssaxzbtkr-portfolio-s" d="M0,2.00359486 C0,0.897039974 0.894337654,0 1.99821383,0 L29.0017862,0 C30.1053692,0 31,0.889763236 31,2.00359486 L31,22.9964051 C31,24.10296 30.1056623,25 29.0017862,25 L1.99821383,25 C0.894630804,25 0,24.1102368 0,22.9964051 L0,2.00359486 Z"/>
+    <path id="elssaxzbtkr-portfolio-u" d="M0,2.00359486 C0,0.897039974 0.894337654,0 1.99821383,0 L29.0017862,0 C30.1053692,0 31,0.889763236 31,2.00359486 L31,22.9964051 C31,24.10296 30.1056623,25 29.0017862,25 L1.99821383,25 C0.894630804,25 0,24.1102368 0,22.9964051 L0,2.00359486 Z"/>
+    <path id="elssaxzbtkr-portfolio-w" d="M0,2.00359486 C0,0.897039974 0.894337654,0 1.99821383,0 L29.0017862,0 C30.1053692,0 31,0.889763236 31,2.00359486 L31,22.9964051 C31,24.10296 30.1056623,25 29.0017862,25 L1.99821383,25 C0.894630804,25 0,24.1102368 0,22.9964051 L0,2.00359486 Z"/>
+  </defs>
+  <g fill="none" fill-rule="evenodd">
+    <path fill="#58A8F7" d="M0,2.99971296 C0,1.34301724 1.34537458,0 2.99263929,0 L177.007361,0 C178.66015,0 180,1.34382565 180,2.99971296 L180,185 L0,185 L0,2.99971296 Z" opacity=".097"/>
+    <path fill="#58A8F7" d="M0,3.00947762 C0,1.34738902 1.34537458,0 2.99263929,0 L177.007361,0 C178.66015,0 180,1.33663106 180,3.00947762 L180,16 L0,16 L0,3.00947762 Z" opacity=".197"/>
+    <path fill="#0D87FF" d="M2.5,5 C1.11928813,5 0,3.88071187 0,2.5 C0,1.11928813 1.11928813,0 2.5,0 C3.88071187,0 5,1.11928813 5,2.5 C5,3.88071187 3.88071187,5 2.5,5 Z M10.5,5 C9.11928813,5 8,3.88071187 8,2.5 C8,1.11928813 9.11928813,0 10.5,0 C11.8807119,0 13,1.11928813 13,2.5 C13,3.88071187 11.8807119,5 10.5,5 Z M18.5,5 C17.1192881,5 16,3.88071187 16,2.5 C16,1.11928813 17.1192881,0 18.5,0 C19.8807119,0 21,1.11928813 21,2.5 C21,3.88071187 19.8807119,5 18.5,5 Z" opacity=".499" transform="translate(5 6)"/>
+    <g transform="translate(10 50)">
+      <path fill="#58A8F7" d="M0,2.00359486 C0,0.897039974 0.894337654,0 1.99821383,0 L29.0017862,0 C30.1053692,0 31,0.889763236 31,2.00359486 L31,22.9964051 C31,24.10296 30.1056623,25 29.0017862,25 L1.99821383,25 C0.894630804,25 0,24.1102368 0,22.9964051 L0,2.00359486 Z" opacity=".197"/>
+      <mask id="elssaxzbtkr-portfolio-b" fill="#fff">
+        <use xlink:href="#elssaxzbtkr-portfolio-a"/>
+      </mask>
+      <path fill="#58A8F7" d="M26.5714286,13.6363636 C32.5565771,13.6363636 36.2397454,18.4882533 42.0714286,25 C37.3140028,25 16.9471731,25 11.0714286,25 C16.135785,19.6373851 20.5862801,13.6363636 26.5714286,13.6363636 Z" mask="url(#elssaxzbtkr-portfolio-b)" opacity=".197"/>
+      <path fill="#0D87FF" d="M4.42857143,11.3636364 C10.7461282,11.3636364 15.3872354,17.8658262 21.0357143,25 C13.6244753,25 -4.32312925,25 -11.0714286,25 C-5.61535678,17.8658262 -1.88898538,11.3636364 4.42857143,11.3636364 Z" mask="url(#elssaxzbtkr-portfolio-b)" opacity=".198"/>
+      <circle cx="16.607" cy="7.955" r="3" fill="#58A8F7" mask="url(#elssaxzbtkr-portfolio-b)" opacity=".499"/>
+    </g>
+    <g transform="translate(10 95)">
+      <path fill="#58A8F7" d="M0,2.00359486 C0,0.897039974 0.894337654,0 1.99821383,0 L29.0017862,0 C30.1053692,0 31,0.889763236 31,2.00359486 L31,22.9964051 C31,24.10296 30.1056623,25 29.0017862,25 L1.99821383,25 C0.894630804,25 0,24.1102368 0,22.9964051 L0,2.00359486 Z" opacity=".197"/>
+      <mask id="elssaxzbtkr-portfolio-d" fill="#fff">
+        <use xlink:href="#elssaxzbtkr-portfolio-c"/>
+      </mask>
+      <path fill="#58A8F7" d="M26.5714286,13.6363636 C32.5565771,13.6363636 36.2397454,18.4882533 42.0714286,25 C37.3140028,25 16.9471731,25 11.0714286,25 C16.135785,19.6373851 20.5862801,13.6363636 26.5714286,13.6363636 Z" mask="url(#elssaxzbtkr-portfolio-d)" opacity=".197"/>
+      <path fill="#0D87FF" d="M4.42857143,11.3636364 C10.7461282,11.3636364 15.3872354,17.8658262 21.0357143,25 C13.6244753,25 -4.32312925,25 -11.0714286,25 C-5.61535678,17.8658262 -1.88898538,11.3636364 4.42857143,11.3636364 Z" mask="url(#elssaxzbtkr-portfolio-d)" opacity=".198"/>
+      <circle cx="16.607" cy="7.955" r="3" fill="#58A8F7" mask="url(#elssaxzbtkr-portfolio-d)" opacity=".499"/>
+    </g>
+    <g transform="translate(53 50)">
+      <path fill="#58A8F7" d="M0,2.00359486 C0,0.897039974 0.894337654,0 1.99821383,0 L29.0017862,0 C30.1053692,0 31,0.889763236 31,2.00359486 L31,22.9964051 C31,24.10296 30.1056623,25 29.0017862,25 L1.99821383,25 C0.894630804,25 0,24.1102368 0,22.9964051 L0,2.00359486 Z" opacity=".197"/>
+      <mask id="elssaxzbtkr-portfolio-f" fill="#fff">
+        <use xlink:href="#elssaxzbtkr-portfolio-e"/>
+      </mask>
+      <path fill="#58A8F7" d="M26.5714286,13.6363636 C32.5565771,13.6363636 36.2397454,18.4882533 42.0714286,25 C37.3140028,25 16.9471731,25 11.0714286,25 C16.135785,19.6373851 20.5862801,13.6363636 26.5714286,13.6363636 Z" mask="url(#elssaxzbtkr-portfolio-f)" opacity=".197"/>
+      <path fill="#0D87FF" d="M4.42857143,11.3636364 C10.7461282,11.3636364 15.3872354,17.8658262 21.0357143,25 C13.6244753,25 -4.32312925,25 -11.0714286,25 C-5.61535678,17.8658262 -1.88898538,11.3636364 4.42857143,11.3636364 Z" mask="url(#elssaxzbtkr-portfolio-f)" opacity=".198"/>
+      <circle cx="16.607" cy="7.955" r="3" fill="#58A8F7" mask="url(#elssaxzbtkr-portfolio-f)" opacity=".499"/>
+    </g>
+    <g transform="translate(53 95)">
+      <path fill="#58A8F7" d="M0,2.00359486 C0,0.897039974 0.894337654,0 1.99821383,0 L29.0017862,0 C30.1053692,0 31,0.889763236 31,2.00359486 L31,22.9964051 C31,24.10296 30.1056623,25 29.0017862,25 L1.99821383,25 C0.894630804,25 0,24.1102368 0,22.9964051 L0,2.00359486 Z" opacity=".197"/>
+      <mask id="elssaxzbtkr-portfolio-h" fill="#fff">
+        <use xlink:href="#elssaxzbtkr-portfolio-g"/>
+      </mask>
+      <path fill="#58A8F7" d="M26.5714286,13.6363636 C32.5565771,13.6363636 36.2397454,18.4882533 42.0714286,25 C37.3140028,25 16.9471731,25 11.0714286,25 C16.135785,19.6373851 20.5862801,13.6363636 26.5714286,13.6363636 Z" mask="url(#elssaxzbtkr-portfolio-h)" opacity=".197"/>
+      <path fill="#0D87FF" d="M4.42857143,11.3636364 C10.7461282,11.3636364 15.3872354,17.8658262 21.0357143,25 C13.6244753,25 -4.32312925,25 -11.0714286,25 C-5.61535678,17.8658262 -1.88898538,11.3636364 4.42857143,11.3636364 Z" mask="url(#elssaxzbtkr-portfolio-h)" opacity=".198"/>
+      <circle cx="16.607" cy="7.955" r="3" fill="#58A8F7" mask="url(#elssaxzbtkr-portfolio-h)" opacity=".499"/>
+    </g>
+    <g transform="translate(96 50)">
+      <path fill="#58A8F7" d="M0,2.00359486 C0,0.897039974 0.894337654,0 1.99821383,0 L29.0017862,0 C30.1053692,0 31,0.889763236 31,2.00359486 L31,22.9964051 C31,24.10296 30.1056623,25 29.0017862,25 L1.99821383,25 C0.894630804,25 0,24.1102368 0,22.9964051 L0,2.00359486 Z" opacity=".197"/>
+      <mask id="elssaxzbtkr-portfolio-j" fill="#fff">
+        <use xlink:href="#elssaxzbtkr-portfolio-i"/>
+      </mask>
+      <path fill="#58A8F7" d="M26.5714286,13.6363636 C32.5565771,13.6363636 36.2397454,18.4882533 42.0714286,25 C37.3140028,25 16.9471731,25 11.0714286,25 C16.135785,19.6373851 20.5862801,13.6363636 26.5714286,13.6363636 Z" mask="url(#elssaxzbtkr-portfolio-j)" opacity=".197"/>
+      <path fill="#0D87FF" d="M4.42857143,11.3636364 C10.7461282,11.3636364 15.3872354,17.8658262 21.0357143,25 C13.6244753,25 -4.32312925,25 -11.0714286,25 C-5.61535678,17.8658262 -1.88898538,11.3636364 4.42857143,11.3636364 Z" mask="url(#elssaxzbtkr-portfolio-j)" opacity=".198"/>
+      <circle cx="16.607" cy="7.955" r="3" fill="#58A8F7" mask="url(#elssaxzbtkr-portfolio-j)" opacity=".499"/>
+    </g>
+    <g transform="translate(96 95)">
+      <path fill="#58A8F7" d="M0,2.00359486 C0,0.897039974 0.894337654,0 1.99821383,0 L29.0017862,0 C30.1053692,0 31,0.889763236 31,2.00359486 L31,22.9964051 C31,24.10296 30.1056623,25 29.0017862,25 L1.99821383,25 C0.894630804,25 0,24.1102368 0,22.9964051 L0,2.00359486 Z" opacity=".197"/>
+      <mask id="elssaxzbtkr-portfolio-l" fill="#fff">
+        <use xlink:href="#elssaxzbtkr-portfolio-k"/>
+      </mask>
+      <path fill="#58A8F7" d="M26.5714286,13.6363636 C32.5565771,13.6363636 36.2397454,18.4882533 42.0714286,25 C37.3140028,25 16.9471731,25 11.0714286,25 C16.135785,19.6373851 20.5862801,13.6363636 26.5714286,13.6363636 Z" mask="url(#elssaxzbtkr-portfolio-l)" opacity=".197"/>
+      <path fill="#0D87FF" d="M4.42857143,11.3636364 C10.7461282,11.3636364 15.3872354,17.8658262 21.0357143,25 C13.6244753,25 -4.32312925,25 -11.0714286,25 C-5.61535678,17.8658262 -1.88898538,11.3636364 4.42857143,11.3636364 Z" mask="url(#elssaxzbtkr-portfolio-l)" opacity=".198"/>
+      <circle cx="16.607" cy="7.955" r="3" fill="#58A8F7" mask="url(#elssaxzbtkr-portfolio-l)" opacity=".499"/>
+    </g>
+    <g transform="translate(139 50)">
+      <path fill="#58A8F7" d="M0,2.00359486 C0,0.897039974 0.894337654,0 1.99821383,0 L29.0017862,0 C30.1053692,0 31,0.889763236 31,2.00359486 L31,22.9964051 C31,24.10296 30.1056623,25 29.0017862,25 L1.99821383,25 C0.894630804,25 0,24.1102368 0,22.9964051 L0,2.00359486 Z" opacity=".197"/>
+      <mask id="elssaxzbtkr-portfolio-n" fill="#fff">
+        <use xlink:href="#elssaxzbtkr-portfolio-m"/>
+      </mask>
+      <path fill="#58A8F7" d="M26.5714286,13.6363636 C32.5565771,13.6363636 36.2397454,18.4882533 42.0714286,25 C37.3140028,25 16.9471731,25 11.0714286,25 C16.135785,19.6373851 20.5862801,13.6363636 26.5714286,13.6363636 Z" mask="url(#elssaxzbtkr-portfolio-n)" opacity=".197"/>
+      <path fill="#0D87FF" d="M4.42857143,11.3636364 C10.7461282,11.3636364 15.3872354,17.8658262 21.0357143,25 C13.6244753,25 -4.32312925,25 -11.0714286,25 C-5.61535678,17.8658262 -1.88898538,11.3636364 4.42857143,11.3636364 Z" mask="url(#elssaxzbtkr-portfolio-n)" opacity=".198"/>
+      <circle cx="16.607" cy="7.955" r="3" fill="#58A8F7" mask="url(#elssaxzbtkr-portfolio-n)" opacity=".499"/>
+    </g>
+    <g transform="translate(139 95)">
+      <path fill="#58A8F7" d="M0,2.00359486 C0,0.897039974 0.894337654,0 1.99821383,0 L29.0017862,0 C30.1053692,0 31,0.889763236 31,2.00359486 L31,22.9964051 C31,24.10296 30.1056623,25 29.0017862,25 L1.99821383,25 C0.894630804,25 0,24.1102368 0,22.9964051 L0,2.00359486 Z" opacity=".197"/>
+      <mask id="elssaxzbtkr-portfolio-p" fill="#fff">
+        <use xlink:href="#elssaxzbtkr-portfolio-o"/>
+      </mask>
+      <path fill="#58A8F7" d="M26.5714286,13.6363636 C32.5565771,13.6363636 36.2397454,18.4882533 42.0714286,25 C37.3140028,25 16.9471731,25 11.0714286,25 C16.135785,19.6373851 20.5862801,13.6363636 26.5714286,13.6363636 Z" mask="url(#elssaxzbtkr-portfolio-p)" opacity=".197"/>
+      <path fill="#0D87FF" d="M4.42857143,11.3636364 C10.7461282,11.3636364 15.3872354,17.8658262 21.0357143,25 C13.6244753,25 -4.32312925,25 -11.0714286,25 C-5.61535678,17.8658262 -1.88898538,11.3636364 4.42857143,11.3636364 Z" mask="url(#elssaxzbtkr-portfolio-p)" opacity=".198"/>
+      <circle cx="16.607" cy="7.955" r="3" fill="#58A8F7" mask="url(#elssaxzbtkr-portfolio-p)" opacity=".499"/>
+    </g>
+    <polygon fill="#58A8F7" points="0 0 31 0 31 5 0 5" opacity=".499" transform="translate(10 80)"/>
+    <polygon fill="#58A8F7" points="0 0 31 0 31 5 0 5" opacity=".499" transform="translate(10 125)"/>
+    <polygon fill="#58A8F7" points="0 0 31 0 31 5 0 5" opacity=".499" transform="translate(53 80)"/>
+    <polygon fill="#58A8F7" points="0 0 31 0 31 5 0 5" opacity=".499" transform="translate(53 125)"/>
+    <polygon fill="#58A8F7" points="0 0 31 0 31 5 0 5" opacity=".499" transform="translate(96 80)"/>
+    <polygon fill="#58A8F7" points="0 0 31 0 31 5 0 5" opacity=".499" transform="translate(96 125)"/>
+    <polygon fill="#58A8F7" points="0 0 31 0 31 5 0 5" opacity=".499" transform="translate(139 80)"/>
+    <polygon fill="#58A8F7" points="0 0 31 0 31 5 0 5" opacity=".499" transform="translate(139 125)"/>
+    <g transform="translate(10 140)">
+      <path fill="#58A8F7" d="M0,2.00359486 C0,0.897039974 0.894337654,0 1.99821383,0 L29.0017862,0 C30.1053692,0 31,0.889763236 31,2.00359486 L31,22.9964051 C31,24.10296 30.1056623,25 29.0017862,25 L1.99821383,25 C0.894630804,25 0,24.1102368 0,22.9964051 L0,2.00359486 Z" opacity=".197"/>
+      <mask id="elssaxzbtkr-portfolio-r" fill="#fff">
+        <use xlink:href="#elssaxzbtkr-portfolio-q"/>
+      </mask>
+      <path fill="#58A8F7" d="M26.5714286,13.6363636 C32.5565771,13.6363636 36.2397454,18.4882533 42.0714286,25 C37.3140028,25 16.9471731,25 11.0714286,25 C16.135785,19.6373851 20.5862801,13.6363636 26.5714286,13.6363636 Z" mask="url(#elssaxzbtkr-portfolio-r)" opacity=".197"/>
+      <path fill="#0D87FF" d="M4.42857143,11.3636364 C10.7461282,11.3636364 15.3872354,17.8658262 21.0357143,25 C13.6244753,25 -4.32312925,25 -11.0714286,25 C-5.61535678,17.8658262 -1.88898538,11.3636364 4.42857143,11.3636364 Z" mask="url(#elssaxzbtkr-portfolio-r)" opacity=".198"/>
+      <circle cx="16.607" cy="7.955" r="3" fill="#58A8F7" mask="url(#elssaxzbtkr-portfolio-r)" opacity=".499"/>
+    </g>
+    <g transform="translate(53 140)">
+      <path fill="#58A8F7" d="M0,2.00359486 C0,0.897039974 0.894337654,0 1.99821383,0 L29.0017862,0 C30.1053692,0 31,0.889763236 31,2.00359486 L31,22.9964051 C31,24.10296 30.1056623,25 29.0017862,25 L1.99821383,25 C0.894630804,25 0,24.1102368 0,22.9964051 L0,2.00359486 Z" opacity=".197"/>
+      <mask id="elssaxzbtkr-portfolio-t" fill="#fff">
+        <use xlink:href="#elssaxzbtkr-portfolio-s"/>
+      </mask>
+      <path fill="#58A8F7" d="M26.5714286,13.6363636 C32.5565771,13.6363636 36.2397454,18.4882533 42.0714286,25 C37.3140028,25 16.9471731,25 11.0714286,25 C16.135785,19.6373851 20.5862801,13.6363636 26.5714286,13.6363636 Z" mask="url(#elssaxzbtkr-portfolio-t)" opacity=".197"/>
+      <path fill="#0D87FF" d="M4.42857143,11.3636364 C10.7461282,11.3636364 15.3872354,17.8658262 21.0357143,25 C13.6244753,25 -4.32312925,25 -11.0714286,25 C-5.61535678,17.8658262 -1.88898538,11.3636364 4.42857143,11.3636364 Z" mask="url(#elssaxzbtkr-portfolio-t)" opacity=".198"/>
+      <circle cx="16.607" cy="7.955" r="3" fill="#58A8F7" mask="url(#elssaxzbtkr-portfolio-t)" opacity=".499"/>
+    </g>
+    <g transform="translate(96 140)">
+      <path fill="#58A8F7" d="M0,2.00359486 C0,0.897039974 0.894337654,0 1.99821383,0 L29.0017862,0 C30.1053692,0 31,0.889763236 31,2.00359486 L31,22.9964051 C31,24.10296 30.1056623,25 29.0017862,25 L1.99821383,25 C0.894630804,25 0,24.1102368 0,22.9964051 L0,2.00359486 Z" opacity=".197"/>
+      <mask id="elssaxzbtkr-portfolio-v" fill="#fff">
+        <use xlink:href="#elssaxzbtkr-portfolio-u"/>
+      </mask>
+      <path fill="#58A8F7" d="M26.5714286,13.6363636 C32.5565771,13.6363636 36.2397454,18.4882533 42.0714286,25 C37.3140028,25 16.9471731,25 11.0714286,25 C16.135785,19.6373851 20.5862801,13.6363636 26.5714286,13.6363636 Z" mask="url(#elssaxzbtkr-portfolio-v)" opacity=".197"/>
+      <path fill="#0D87FF" d="M4.42857143,11.3636364 C10.7461282,11.3636364 15.3872354,17.8658262 21.0357143,25 C13.6244753,25 -4.32312925,25 -11.0714286,25 C-5.61535678,17.8658262 -1.88898538,11.3636364 4.42857143,11.3636364 Z" mask="url(#elssaxzbtkr-portfolio-v)" opacity=".198"/>
+      <circle cx="16.607" cy="7.955" r="3" fill="#58A8F7" mask="url(#elssaxzbtkr-portfolio-v)" opacity=".499"/>
+    </g>
+    <g transform="translate(139 140)">
+      <path fill="#58A8F7" d="M0,2.00359486 C0,0.897039974 0.894337654,0 1.99821383,0 L29.0017862,0 C30.1053692,0 31,0.889763236 31,2.00359486 L31,22.9964051 C31,24.10296 30.1056623,25 29.0017862,25 L1.99821383,25 C0.894630804,25 0,24.1102368 0,22.9964051 L0,2.00359486 Z" opacity=".197"/>
+      <mask id="elssaxzbtkr-portfolio-x" fill="#fff">
+        <use xlink:href="#elssaxzbtkr-portfolio-w"/>
+      </mask>
+      <path fill="#58A8F7" d="M26.5714286,13.6363636 C32.5565771,13.6363636 36.2397454,18.4882533 42.0714286,25 C37.3140028,25 16.9471731,25 11.0714286,25 C16.135785,19.6373851 20.5862801,13.6363636 26.5714286,13.6363636 Z" mask="url(#elssaxzbtkr-portfolio-x)" opacity=".197"/>
+      <path fill="#0D87FF" d="M4.42857143,11.3636364 C10.7461282,11.3636364 15.3872354,17.8658262 21.0357143,25 C13.6244753,25 -4.32312925,25 -11.0714286,25 C-5.61535678,17.8658262 -1.88898538,11.3636364 4.42857143,11.3636364 Z" mask="url(#elssaxzbtkr-portfolio-x)" opacity=".198"/>
+      <circle cx="16.607" cy="7.955" r="3" fill="#58A8F7" mask="url(#elssaxzbtkr-portfolio-x)" opacity=".499"/>
+    </g>
+    <polygon fill="#58A8F7" points="0 0 31 0 31 5 0 5" opacity=".499" transform="translate(10 170)"/>
+    <polygon fill="#58A8F7" points="0 0 31 0 31 5 0 5" opacity=".499" transform="translate(53 170)"/>
+    <polygon fill="#58A8F7" points="0 0 31 0 31 5 0 5" opacity=".499" transform="translate(96 170)"/>
+    <polygon fill="#58A8F7" points="0 0 31 0 31 5 0 5" opacity=".499" transform="translate(139 170)"/>
+    <g fill="#58A8F7" opacity=".499" transform="translate(11 26)">
+      <polygon points="0 0 50 0 50 5 0 5"/>
+      <polygon points="0 0 30 0 30 5 0 5" transform="translate(0 9)"/>
+    </g>
+  </g>
+</svg></g></g></g><rect x="-1" y="-1" rx="3" ry="3" width="182" height="230" fill="none" stroke="#A2CEF9" stroke-width="2"/><g transform="translate(0,206)"><g><text x="90" y="4" text-anchor="middle" font-family="Roboto,sans-serif" font-size="14px" fill="#52565f">Pet Matches</text></g></g></g><g transform="translate(1410, 586)"><rect x="0" y="0" rx="2" ry="2" width="180" height="228" fill="#ffffff"/><g><g><g transform="translate( 0, 0 )"><svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" width="180" height="185" viewBox="0 0 180 185">
+  <defs>
+    <circle id="ppxe4t7fmh-feed-a" cx="7.5" cy="7.5" r="7.5"/>
+    <circle id="ppxe4t7fmh-feed-c" cx="7.5" cy="7.5" r="7.5"/>
+    <circle id="ppxe4t7fmh-feed-e" cx="7.5" cy="7.5" r="7.5"/>
+    <circle id="ppxe4t7fmh-feed-g" cx="7.5" cy="7.5" r="7.5"/>
+  </defs>
+  <g fill="none" fill-rule="evenodd">
+    <path fill="#58A8F7" d="M0,2.99971296 C0,1.34301724 1.34537458,0 2.99263929,0 L177.007361,0 C178.66015,0 180,1.34382565 180,2.99971296 L180,185 L0,185 L0,2.99971296 Z" opacity=".097"/>
+    <g transform="translate(69 135)">
+      <mask id="ppxe4t7fmh-feed-b" fill="#fff">
+        <use xlink:href="#ppxe4t7fmh-feed-a"/>
+      </mask>
+      <use fill="#58A8F7" opacity=".197" xlink:href="#ppxe4t7fmh-feed-a"/>
+      <path fill="#0D87FF" d="M7.5,21 C3.91014913,21 1,18.0898509 1,14.5 C1,10.9101491 3.91014913,8 7.5,8 C11.0898509,8 14,10.9101491 14,14.5 C14,18.0898509 11.0898509,21 7.5,21 Z M7.5,7 C6.11928813,7 5,5.88071187 5,4.5 C5,3.11928813 6.11928813,2 7.5,2 C8.88071187,2 10,3.11928813 10,4.5 C10,5.88071187 8.88071187,7 7.5,7 Z" mask="url(#ppxe4t7fmh-feed-b)" opacity=".499"/>
+    </g>
+    <g transform="translate(69 26)">
+      <mask id="ppxe4t7fmh-feed-d" fill="#fff">
+        <use xlink:href="#ppxe4t7fmh-feed-c"/>
+      </mask>
+      <use fill="#58A8F7" opacity=".197" xlink:href="#ppxe4t7fmh-feed-c"/>
+      <path fill="#0D87FF" d="M7.5,21 C3.91014913,21 1,18.0898509 1,14.5 C1,10.9101491 3.91014913,8 7.5,8 C11.0898509,8 14,10.9101491 14,14.5 C14,18.0898509 11.0898509,21 7.5,21 Z M7.5,7 C6.11928813,7 5,5.88071187 5,4.5 C5,3.11928813 6.11928813,2 7.5,2 C8.88071187,2 10,3.11928813 10,4.5 C10,5.88071187 8.88071187,7 7.5,7 Z" mask="url(#ppxe4t7fmh-feed-d)" opacity=".499"/>
+    </g>
+    <g transform="translate(69 62)">
+      <mask id="ppxe4t7fmh-feed-f" fill="#fff">
+        <use xlink:href="#ppxe4t7fmh-feed-e"/>
+      </mask>
+      <use fill="#58A8F7" opacity=".197" xlink:href="#ppxe4t7fmh-feed-e"/>
+      <path fill="#0D87FF" d="M7.5,21 C3.91014913,21 1,18.0898509 1,14.5 C1,10.9101491 3.91014913,8 7.5,8 C11.0898509,8 14,10.9101491 14,14.5 C14,18.0898509 11.0898509,21 7.5,21 Z M7.5,7 C6.11928813,7 5,5.88071187 5,4.5 C5,3.11928813 6.11928813,2 7.5,2 C8.88071187,2 10,3.11928813 10,4.5 C10,5.88071187 8.88071187,7 7.5,7 Z" mask="url(#ppxe4t7fmh-feed-f)" opacity=".499"/>
+    </g>
+    <path fill="#0D87FF" d="M0,1.99201702 C0,0.891856397 0.894337654,0 1.99821383,0 L29.0017862,0 C30.1053692,0 31,0.900176167 31,1.99201702 L31,9.00798298 C31,10.1081436 30.1056623,11 29.0017862,11 L1.99821383,11 C0.894630804,11 0,10.0998238 0,9.00798298 L0,1.99201702 Z" opacity=".499" transform="translate(88 164)"/>
+    <g transform="translate(88 135)">
+      <rect width="82" height="24" fill="#58A8F7" opacity=".499" rx="2"/>
+      <rect width="80" height="22" x="1" y="1" fill="#FFF" rx="1"/>
+    </g>
+    <g fill="#58A8F7" transform="translate(88 26)">
+      <polygon points="0 0 50 0 50 5 0 5" opacity=".499"/>
+      <polygon points="0 0 82 0 82 3 0 3" opacity=".197" transform="translate(0 10)"/>
+      <polygon points="0 0 82 0 82 3 0 3" opacity=".197" transform="translate(0 17)"/>
+      <polygon points="0 0 62 0 62 3 0 3" opacity=".197" transform="translate(0 24)"/>
+    </g>
+    <g fill="#58A8F7" transform="translate(88 62)">
+      <polygon points="0 0 50 0 50 5 0 5" opacity=".499"/>
+      <polygon points="0 0 82 0 82 3 0 3" opacity=".197" transform="translate(0 10)"/>
+      <polygon points="0 0 82 0 82 3 0 3" opacity=".197" transform="translate(0 17)"/>
+      <polygon points="0 0 62 0 62 3 0 3" opacity=".197" transform="translate(0 24)"/>
+    </g>
+    <g transform="translate(69 98)">
+      <mask id="ppxe4t7fmh-feed-h" fill="#fff">
+        <use xlink:href="#ppxe4t7fmh-feed-g"/>
+      </mask>
+      <use fill="#58A8F7" opacity=".197" xlink:href="#ppxe4t7fmh-feed-g"/>
+      <path fill="#0D87FF" d="M7.5,21 C3.91014913,21 1,18.0898509 1,14.5 C1,10.9101491 3.91014913,8 7.5,8 C11.0898509,8 14,10.9101491 14,14.5 C14,18.0898509 11.0898509,21 7.5,21 Z M7.5,7 C6.11928813,7 5,5.88071187 5,4.5 C5,3.11928813 6.11928813,2 7.5,2 C8.88071187,2 10,3.11928813 10,4.5 C10,5.88071187 8.88071187,7 7.5,7 Z" mask="url(#ppxe4t7fmh-feed-h)" opacity=".499"/>
+    </g>
+    <g fill="#58A8F7" transform="translate(88 98)">
+      <polygon points="0 0 50 0 50 5 0 5" opacity=".499"/>
+      <polygon points="0 0 82 0 82 3 0 3" opacity=".197" transform="translate(0 10)"/>
+      <polygon points="0 0 82 0 82 3 0 3" opacity=".197" transform="translate(0 17)"/>
+      <polygon points="0 0 62 0 62 3 0 3" opacity=".197" transform="translate(0 24)"/>
+    </g>
+    <path fill="#58A8F7" d="M0,3.00947762 C0,1.34738902 1.34537458,0 2.99263929,0 L177.007361,0 C178.66015,0 180,1.33663106 180,3.00947762 L180,16 L0,16 L0,3.00947762 Z" opacity=".197"/>
+    <path fill="#0D87FF" d="M2.5,5 C1.11928813,5 0,3.88071187 0,2.5 C0,1.11928813 1.11928813,0 2.5,0 C3.88071187,0 5,1.11928813 5,2.5 C5,3.88071187 3.88071187,5 2.5,5 Z M10.5,5 C9.11928813,5 8,3.88071187 8,2.5 C8,1.11928813 9.11928813,0 10.5,0 C11.8807119,0 13,1.11928813 13,2.5 C13,3.88071187 11.8807119,5 10.5,5 Z M18.5,5 C17.1192881,5 16,3.88071187 16,2.5 C16,1.11928813 17.1192881,0 18.5,0 C19.8807119,0 21,1.11928813 21,2.5 C21,3.88071187 19.8807119,5 18.5,5 Z" opacity=".499" transform="translate(5 6)"/>
+    <g transform="translate(10 26)">
+      <path fill="#58A8F7" d="M3.8458278,-1.55376046e-16 L45.1541722,1.55376046e-16 C46.4914503,-9.02779573e-17 46.9763797,0.139238417 47.4652686,0.400699056 C47.9541574,0.662159695 48.3378403,1.04584256 48.5993009,1.53473144 C48.8607616,2.02362033 49,2.50854969 49,3.8458278 L49,145.154172 C49,146.49145 48.8607616,146.97638 48.5993009,147.465269 C48.3378403,147.954157 47.9541574,148.33784 47.4652686,148.599301 C46.9763797,148.860762 46.4914503,149 45.1541722,149 L3.8458278,149 C2.50854969,149 2.02362033,148.860762 1.53473144,148.599301 C1.04584256,148.33784 0.662159695,147.954157 0.400699056,147.465269 C0.139238417,146.97638 6.01853049e-17,146.49145 -1.03584031e-16,145.154172 L1.03584031e-16,3.8458278 C-6.01853049e-17,2.50854969 0.139238417,2.02362033 0.400699056,1.53473144 C0.662159695,1.04584256 1.04584256,0.662159695 1.53473144,0.400699056 C2.02362033,0.139238417 2.50854969,9.02779573e-17 3.8458278,-1.55376046e-16 Z" opacity=".197"/>
+      <path fill="#0D87FF" d="M0,1.99201702 C0,0.891856397 0.896278629,0 2.00239962,0 L34.9976004,0 C36.1034952,0 37,0.900176167 37,1.99201702 L37,9.00798298 C37,10.1081436 36.1037214,11 34.9976004,11 L2.00239962,11 C0.896504848,11 0,10.0998238 0,9.00798298 L0,1.99201702 Z" opacity=".499" transform="translate(6 129)"/>
+      <polygon fill="#58A8F7" points="0 0 8 9 8 19 13 16 13 9 21 0" opacity=".197" transform="translate(14 16)"/>
+      <g transform="translate(6 47)">
+        <rect width="37" height="11" fill="#58A8F7" opacity=".499" rx="2"/>
+        <rect width="35" height="9" x="1" y="1" fill="#FFF" rx="1"/>
+        <polygon fill="#58A8F7" points="0 0 20 0 20 3 0 3" opacity=".197" transform="translate(4 4)"/>
+        <polygon fill="#0D87FF" points="2.5 3 0 0 5 0" transform="translate(27 4)"/>
+      </g>
+      <g transform="translate(6 63)">
+        <rect width="37" height="11" fill="#58A8F7" opacity=".499" rx="2"/>
+        <rect width="35" height="9" x="1" y="1" fill="#FFF" rx="1"/>
+        <polygon fill="#58A8F7" points="0 0 20 0 20 3 0 3" opacity=".197" transform="translate(4 4)"/>
+        <polygon fill="#0D87FF" points="2.5 3 0 0 5 0" transform="translate(27 4)"/>
+      </g>
+      <g transform="translate(6 79)">
+        <rect width="37" height="11" fill="#58A8F7" opacity=".499" rx="2"/>
+        <rect width="35" height="9" x="1" y="1" fill="#FFF" rx="1"/>
+        <polygon fill="#58A8F7" points="0 0 20 0 20 3 0 3" opacity=".197" transform="translate(4 4)"/>
+        <polygon fill="#0D87FF" points="2.5 3 0 0 5 0" transform="translate(27 4)"/>
+      </g>
+      <g transform="translate(6 95)">
+        <rect width="37" height="11" fill="#58A8F7" opacity=".499" rx="2"/>
+        <rect width="35" height="9" x="1" y="1" fill="#FFF" rx="1"/>
+        <polygon fill="#58A8F7" points="0 0 20 0 20 3 0 3" opacity=".197" transform="translate(4 4)"/>
+        <polygon fill="#0D87FF" points="2.5 3 0 0 5 0" transform="translate(27 4)"/>
+      </g>
+    </g>
+  </g>
+</svg></g></g></g><rect x="-1" y="-1" rx="3" ry="3" width="182" height="230" fill="none" stroke="#A2CEF9" stroke-width="2"/><g transform="translate(0,206)"><g><text x="90" y="4" text-anchor="middle" font-family="Roboto,sans-serif" font-size="14px" fill="#52565f">New Pet Adoptions</text></g></g></g><g transform="translate(1610, 586)"><rect x="0" y="0" rx="2" ry="2" width="180" height="228" fill="#ffffff"/><g><g><g transform="translate( 0, 0 )"><svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" width="180" height="185" viewBox="0 0 180 185">
+  <defs>
+    <circle id="5feqmn6500x-feed-a" cx="7.5" cy="7.5" r="7.5"/>
+    <circle id="5feqmn6500x-feed-c" cx="7.5" cy="7.5" r="7.5"/>
+    <circle id="5feqmn6500x-feed-e" cx="7.5" cy="7.5" r="7.5"/>
+    <circle id="5feqmn6500x-feed-g" cx="7.5" cy="7.5" r="7.5"/>
+  </defs>
+  <g fill="none" fill-rule="evenodd">
+    <path fill="#58A8F7" d="M0,2.99971296 C0,1.34301724 1.34537458,0 2.99263929,0 L177.007361,0 C178.66015,0 180,1.34382565 180,2.99971296 L180,185 L0,185 L0,2.99971296 Z" opacity=".097"/>
+    <g transform="translate(69 135)">
+      <mask id="5feqmn6500x-feed-b" fill="#fff">
+        <use xlink:href="#5feqmn6500x-feed-a"/>
+      </mask>
+      <use fill="#58A8F7" opacity=".197" xlink:href="#5feqmn6500x-feed-a"/>
+      <path fill="#0D87FF" d="M7.5,21 C3.91014913,21 1,18.0898509 1,14.5 C1,10.9101491 3.91014913,8 7.5,8 C11.0898509,8 14,10.9101491 14,14.5 C14,18.0898509 11.0898509,21 7.5,21 Z M7.5,7 C6.11928813,7 5,5.88071187 5,4.5 C5,3.11928813 6.11928813,2 7.5,2 C8.88071187,2 10,3.11928813 10,4.5 C10,5.88071187 8.88071187,7 7.5,7 Z" mask="url(#5feqmn6500x-feed-b)" opacity=".499"/>
+    </g>
+    <g transform="translate(69 26)">
+      <mask id="5feqmn6500x-feed-d" fill="#fff">
+        <use xlink:href="#5feqmn6500x-feed-c"/>
+      </mask>
+      <use fill="#58A8F7" opacity=".197" xlink:href="#5feqmn6500x-feed-c"/>
+      <path fill="#0D87FF" d="M7.5,21 C3.91014913,21 1,18.0898509 1,14.5 C1,10.9101491 3.91014913,8 7.5,8 C11.0898509,8 14,10.9101491 14,14.5 C14,18.0898509 11.0898509,21 7.5,21 Z M7.5,7 C6.11928813,7 5,5.88071187 5,4.5 C5,3.11928813 6.11928813,2 7.5,2 C8.88071187,2 10,3.11928813 10,4.5 C10,5.88071187 8.88071187,7 7.5,7 Z" mask="url(#5feqmn6500x-feed-d)" opacity=".499"/>
+    </g>
+    <g transform="translate(69 62)">
+      <mask id="5feqmn6500x-feed-f" fill="#fff">
+        <use xlink:href="#5feqmn6500x-feed-e"/>
+      </mask>
+      <use fill="#58A8F7" opacity=".197" xlink:href="#5feqmn6500x-feed-e"/>
+      <path fill="#0D87FF" d="M7.5,21 C3.91014913,21 1,18.0898509 1,14.5 C1,10.9101491 3.91014913,8 7.5,8 C11.0898509,8 14,10.9101491 14,14.5 C14,18.0898509 11.0898509,21 7.5,21 Z M7.5,7 C6.11928813,7 5,5.88071187 5,4.5 C5,3.11928813 6.11928813,2 7.5,2 C8.88071187,2 10,3.11928813 10,4.5 C10,5.88071187 8.88071187,7 7.5,7 Z" mask="url(#5feqmn6500x-feed-f)" opacity=".499"/>
+    </g>
+    <path fill="#0D87FF" d="M0,1.99201702 C0,0.891856397 0.894337654,0 1.99821383,0 L29.0017862,0 C30.1053692,0 31,0.900176167 31,1.99201702 L31,9.00798298 C31,10.1081436 30.1056623,11 29.0017862,11 L1.99821383,11 C0.894630804,11 0,10.0998238 0,9.00798298 L0,1.99201702 Z" opacity=".499" transform="translate(88 164)"/>
+    <g transform="translate(88 135)">
+      <rect width="82" height="24" fill="#58A8F7" opacity=".499" rx="2"/>
+      <rect width="80" height="22" x="1" y="1" fill="#FFF" rx="1"/>
+    </g>
+    <g fill="#58A8F7" transform="translate(88 26)">
+      <polygon points="0 0 50 0 50 5 0 5" opacity=".499"/>
+      <polygon points="0 0 82 0 82 3 0 3" opacity=".197" transform="translate(0 10)"/>
+      <polygon points="0 0 82 0 82 3 0 3" opacity=".197" transform="translate(0 17)"/>
+      <polygon points="0 0 62 0 62 3 0 3" opacity=".197" transform="translate(0 24)"/>
+    </g>
+    <g fill="#58A8F7" transform="translate(88 62)">
+      <polygon points="0 0 50 0 50 5 0 5" opacity=".499"/>
+      <polygon points="0 0 82 0 82 3 0 3" opacity=".197" transform="translate(0 10)"/>
+      <polygon points="0 0 82 0 82 3 0 3" opacity=".197" transform="translate(0 17)"/>
+      <polygon points="0 0 62 0 62 3 0 3" opacity=".197" transform="translate(0 24)"/>
+    </g>
+    <g transform="translate(69 98)">
+      <mask id="5feqmn6500x-feed-h" fill="#fff">
+        <use xlink:href="#5feqmn6500x-feed-g"/>
+      </mask>
+      <use fill="#58A8F7" opacity=".197" xlink:href="#5feqmn6500x-feed-g"/>
+      <path fill="#0D87FF" d="M7.5,21 C3.91014913,21 1,18.0898509 1,14.5 C1,10.9101491 3.91014913,8 7.5,8 C11.0898509,8 14,10.9101491 14,14.5 C14,18.0898509 11.0898509,21 7.5,21 Z M7.5,7 C6.11928813,7 5,5.88071187 5,4.5 C5,3.11928813 6.11928813,2 7.5,2 C8.88071187,2 10,3.11928813 10,4.5 C10,5.88071187 8.88071187,7 7.5,7 Z" mask="url(#5feqmn6500x-feed-h)" opacity=".499"/>
+    </g>
+    <g fill="#58A8F7" transform="translate(88 98)">
+      <polygon points="0 0 50 0 50 5 0 5" opacity=".499"/>
+      <polygon points="0 0 82 0 82 3 0 3" opacity=".197" transform="translate(0 10)"/>
+      <polygon points="0 0 82 0 82 3 0 3" opacity=".197" transform="translate(0 17)"/>
+      <polygon points="0 0 62 0 62 3 0 3" opacity=".197" transform="translate(0 24)"/>
+    </g>
+    <path fill="#58A8F7" d="M0,3.00947762 C0,1.34738902 1.34537458,0 2.99263929,0 L177.007361,0 C178.66015,0 180,1.33663106 180,3.00947762 L180,16 L0,16 L0,3.00947762 Z" opacity=".197"/>
+    <path fill="#0D87FF" d="M2.5,5 C1.11928813,5 0,3.88071187 0,2.5 C0,1.11928813 1.11928813,0 2.5,0 C3.88071187,0 5,1.11928813 5,2.5 C5,3.88071187 3.88071187,5 2.5,5 Z M10.5,5 C9.11928813,5 8,3.88071187 8,2.5 C8,1.11928813 9.11928813,0 10.5,0 C11.8807119,0 13,1.11928813 13,2.5 C13,3.88071187 11.8807119,5 10.5,5 Z M18.5,5 C17.1192881,5 16,3.88071187 16,2.5 C16,1.11928813 17.1192881,0 18.5,0 C19.8807119,0 21,1.11928813 21,2.5 C21,3.88071187 19.8807119,5 18.5,5 Z" opacity=".499" transform="translate(5 6)"/>
+    <g transform="translate(10 26)">
+      <path fill="#58A8F7" d="M3.8458278,-1.55376046e-16 L45.1541722,1.55376046e-16 C46.4914503,-9.02779573e-17 46.9763797,0.139238417 47.4652686,0.400699056 C47.9541574,0.662159695 48.3378403,1.04584256 48.5993009,1.53473144 C48.8607616,2.02362033 49,2.50854969 49,3.8458278 L49,145.154172 C49,146.49145 48.8607616,146.97638 48.5993009,147.465269 C48.3378403,147.954157 47.9541574,148.33784 47.4652686,148.599301 C46.9763797,148.860762 46.4914503,149 45.1541722,149 L3.8458278,149 C2.50854969,149 2.02362033,148.860762 1.53473144,148.599301 C1.04584256,148.33784 0.662159695,147.954157 0.400699056,147.465269 C0.139238417,146.97638 6.01853049e-17,146.49145 -1.03584031e-16,145.154172 L1.03584031e-16,3.8458278 C-6.01853049e-17,2.50854969 0.139238417,2.02362033 0.400699056,1.53473144 C0.662159695,1.04584256 1.04584256,0.662159695 1.53473144,0.400699056 C2.02362033,0.139238417 2.50854969,9.02779573e-17 3.8458278,-1.55376046e-16 Z" opacity=".197"/>
+      <path fill="#0D87FF" d="M0,1.99201702 C0,0.891856397 0.896278629,0 2.00239962,0 L34.9976004,0 C36.1034952,0 37,0.900176167 37,1.99201702 L37,9.00798298 C37,10.1081436 36.1037214,11 34.9976004,11 L2.00239962,11 C0.896504848,11 0,10.0998238 0,9.00798298 L0,1.99201702 Z" opacity=".499" transform="translate(6 129)"/>
+      <polygon fill="#58A8F7" points="0 0 8 9 8 19 13 16 13 9 21 0" opacity=".197" transform="translate(14 16)"/>
+      <g transform="translate(6 47)">
+        <rect width="37" height="11" fill="#58A8F7" opacity=".499" rx="2"/>
+        <rect width="35" height="9" x="1" y="1" fill="#FFF" rx="1"/>
+        <polygon fill="#58A8F7" points="0 0 20 0 20 3 0 3" opacity=".197" transform="translate(4 4)"/>
+        <polygon fill="#0D87FF" points="2.5 3 0 0 5 0" transform="translate(27 4)"/>
+      </g>
+      <g transform="translate(6 63)">
+        <rect width="37" height="11" fill="#58A8F7" opacity=".499" rx="2"/>
+        <rect width="35" height="9" x="1" y="1" fill="#FFF" rx="1"/>
+        <polygon fill="#58A8F7" points="0 0 20 0 20 3 0 3" opacity=".197" transform="translate(4 4)"/>
+        <polygon fill="#0D87FF" points="2.5 3 0 0 5 0" transform="translate(27 4)"/>
+      </g>
+      <g transform="translate(6 79)">
+        <rect width="37" height="11" fill="#58A8F7" opacity=".499" rx="2"/>
+        <rect width="35" height="9" x="1" y="1" fill="#FFF" rx="1"/>
+        <polygon fill="#58A8F7" points="0 0 20 0 20 3 0 3" opacity=".197" transform="translate(4 4)"/>
+        <polygon fill="#0D87FF" points="2.5 3 0 0 5 0" transform="translate(27 4)"/>
+      </g>
+      <g transform="translate(6 95)">
+        <rect width="37" height="11" fill="#58A8F7" opacity=".499" rx="2"/>
+        <rect width="35" height="9" x="1" y="1" fill="#FFF" rx="1"/>
+        <polygon fill="#58A8F7" points="0 0 20 0 20 3 0 3" opacity=".197" transform="translate(4 4)"/>
+        <polygon fill="#0D87FF" points="2.5 3 0 0 5 0" transform="translate(27 4)"/>
+      </g>
+    </g>
+  </g>
+</svg></g></g></g><rect x="-1" y="-1" rx="3" ry="3" width="182" height="230" fill="none" stroke="#A2CEF9" stroke-width="2"/><g transform="translate(0,206)"><g><text x="90" y="4" text-anchor="middle" font-family="Roboto,sans-serif" font-size="14px" fill="#52565f">New Pet Events</text></g></g></g><g transform="translate(1410, 306)"><rect x="0" y="0" rx="2" ry="2" width="180" height="228" fill="#ffffff"/><g><g><g transform="translate( 0, 0 )"><svg xmlns="http://www.w3.org/2000/svg" width="180" height="185" viewBox="0 0 180 185">
+  <g fill="none" fill-rule="evenodd">
+    <path fill="#58A8F7" d="M0,2.99971296 C0,1.34301724 1.34537458,0 2.99263929,0 L177.007361,0 C178.66015,0 180,1.34382565 180,2.99971296 L180,185 L0,185 L0,2.99971296 Z" opacity=".097"/>
+    <path fill="#58A8F7" d="M0,3.00947762 C0,1.34738902 1.34537458,0 2.99263929,0 L177.007361,0 C178.66015,0 180,1.33663106 180,3.00947762 L180,16 L0,16 L0,3.00947762 Z" opacity=".197"/>
+    <path fill="#0D87FF" d="M2.5,5 C1.11928813,5 0,3.88071187 0,2.5 C0,1.11928813 1.11928813,0 2.5,0 C3.88071187,0 5,1.11928813 5,2.5 C5,3.88071187 3.88071187,5 2.5,5 Z M10.5,5 C9.11928813,5 8,3.88071187 8,2.5 C8,1.11928813 9.11928813,0 10.5,0 C11.8807119,0 13,1.11928813 13,2.5 C13,3.88071187 11.8807119,5 10.5,5 Z M18.5,5 C17.1192881,5 16,3.88071187 16,2.5 C16,1.11928813 17.1192881,0 18.5,0 C19.8807119,0 21,1.11928813 21,2.5 C21,3.88071187 19.8807119,5 18.5,5 Z" opacity=".499" transform="translate(5 6)"/>
+    <g transform="translate(26 26)">
+      <circle cx="7.5" cy="7.5" r="7.5" fill="#0D87FF" opacity=".499"/>
+      <polygon fill="#FFF" points="7.5 9.75 4.855 11.141 5.36 8.195 3.22 6.109 6.177 5.68 7.5 3 8.823 5.68 11.78 6.109 9.64 8.195 10.145 11.141"/>
+    </g>
+    <g transform="translate(26 83)">
+      <circle cx="7.5" cy="7.5" r="7.5" fill="#0D87FF" opacity=".499"/>
+      <polygon fill="#FFF" points="7.5 9.75 4.855 11.141 5.36 8.195 3.22 6.109 6.177 5.68 7.5 3 8.823 5.68 11.78 6.109 9.64 8.195 10.145 11.141"/>
+    </g>
+    <g transform="translate(140 26)">
+      <circle cx="7.5" cy="7.5" r="7.5" fill="#0D87FF" opacity=".499"/>
+      <polygon fill="#FFF" points="7.5 9.75 4.855 11.141 5.36 8.195 3.22 6.109 6.177 5.68 7.5 3 8.823 5.68 11.78 6.109 9.64 8.195 10.145 11.141"/>
+    </g>
+    <g transform="translate(140 83)">
+      <circle cx="7.5" cy="7.5" r="7.5" fill="#0D87FF" opacity=".499"/>
+      <polygon fill="#FFF" points="7.5 9.75 4.855 11.141 5.36 8.195 3.22 6.109 6.177 5.68 7.5 3 8.823 5.68 11.78 6.109 9.64 8.195 10.145 11.141"/>
+    </g>
+    <g transform="translate(83 26)">
+      <circle cx="7.5" cy="7.5" r="7.5" fill="#0D87FF" opacity=".499"/>
+      <polygon fill="#FFF" points="7.5 9.75 4.855 11.141 5.36 8.195 3.22 6.109 6.177 5.68 7.5 3 8.823 5.68 11.78 6.109 9.64 8.195 10.145 11.141"/>
+    </g>
+    <g transform="translate(83 83)">
+      <circle cx="7.5" cy="7.5" r="7.5" fill="#0D87FF" opacity=".499"/>
+      <polygon fill="#FFF" points="7.5 9.75 4.855 11.141 5.36 8.195 3.22 6.109 6.177 5.68 7.5 3 8.823 5.68 11.78 6.109 9.64 8.195 10.145 11.141"/>
+    </g>
+    <g fill="#58A8F7" transform="translate(10 47)">
+      <polygon points="0 0 26 0 26 5 0 5" opacity=".499" transform="translate(10)"/>
+      <polygon points="0 0 46 0 46 3 0 3" opacity=".197" transform="translate(0 17)"/>
+      <polygon points="0 0 46 0 46 3 0 3" opacity=".197" transform="translate(0 10)"/>
+      <polygon points="0 0 26 0 26 3 0 3" opacity=".197" transform="translate(10 24)"/>
+    </g>
+    <g fill="#58A8F7" transform="translate(10 104)">
+      <polygon points="0 0 26 0 26 5 0 5" opacity=".499" transform="translate(10)"/>
+      <polygon points="0 0 46 0 46 3 0 3" opacity=".197" transform="translate(0 17)"/>
+      <polygon points="0 0 46 0 46 3 0 3" opacity=".197" transform="translate(0 10)"/>
+      <polygon points="0 0 26 0 26 3 0 3" opacity=".197" transform="translate(10 24)"/>
+    </g>
+    <g fill="#58A8F7" transform="translate(124 47)">
+      <polygon points="0 0 26 0 26 5 0 5" opacity=".499" transform="translate(10)"/>
+      <polygon points="0 0 46 0 46 3 0 3" opacity=".197" transform="translate(0 17)"/>
+      <polygon points="0 0 46 0 46 3 0 3" opacity=".197" transform="translate(0 10)"/>
+      <polygon points="0 0 26 0 26 3 0 3" opacity=".197" transform="translate(10 24)"/>
+    </g>
+    <g fill="#58A8F7" transform="translate(124 104)">
+      <polygon points="0 0 26 0 26 5 0 5" opacity=".499" transform="translate(10)"/>
+      <polygon points="0 0 46 0 46 3 0 3" opacity=".197" transform="translate(0 17)"/>
+      <polygon points="0 0 46 0 46 3 0 3" opacity=".197" transform="translate(0 10)"/>
+      <polygon points="0 0 26 0 26 3 0 3" opacity=".197" transform="translate(10 24)"/>
+    </g>
+    <g fill="#58A8F7" transform="translate(67 47)">
+      <polygon points="0 0 26 0 26 5 0 5" opacity=".499" transform="translate(10)"/>
+      <polygon points="0 0 46 0 46 3 0 3" opacity=".197" transform="translate(0 17)"/>
+      <polygon points="0 0 46 0 46 3 0 3" opacity=".197" transform="translate(0 10)"/>
+      <polygon points="0 0 26 0 26 3 0 3" opacity=".197" transform="translate(10 24)"/>
+    </g>
+    <g fill="#58A8F7" transform="translate(67 104)">
+      <polygon points="0 0 26 0 26 5 0 5" opacity=".499" transform="translate(10)"/>
+      <polygon points="0 0 46 0 46 3 0 3" opacity=".197" transform="translate(0 17)"/>
+      <polygon points="0 0 46 0 46 3 0 3" opacity=".197" transform="translate(0 10)"/>
+      <polygon points="0 0 26 0 26 3 0 3" opacity=".197" transform="translate(10 24)"/>
+    </g>
+    <g fill="#58A8F7" opacity=".197" transform="translate(10 158)">
+      <polygon points="0 0 160 0 160 3 0 3" transform="translate(0 7)"/>
+      <polygon points="0 0 160 0 160 3 0 3"/>
+      <polygon points="0 0 96 0 96 3 0 3" transform="translate(0 14)"/>
+    </g>
+    <polygon fill="#58A8F7" points="0 0 50 0 50 5 0 5" opacity=".499" transform="translate(10 148)"/>
+  </g>
+</svg></g></g></g><rect x="-1" y="-1" rx="3" ry="3" width="182" height="230" fill="none" stroke="#A2CEF9" stroke-width="2"/><g transform="translate(0,206)"><g><text x="90" y="4" text-anchor="middle" font-family="Roboto,sans-serif" font-size="14px" fill="#52565f">What's New</text></g></g></g><g transform="translate(1810, 586)"><rect x="0" y="0" rx="2" ry="2" width="180" height="228" fill="#ffffff"/><g><g><g transform="translate( 0, 0 )"><svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" width="180" height="185" viewBox="0 0 180 185">
+  <defs>
+    <circle id="d11edv1rbjk-chat-a" cx="7.5" cy="7.5" r="7.5"/>
+    <circle id="d11edv1rbjk-chat-c" cx="7.5" cy="7.5" r="7.5"/>
+    <circle id="d11edv1rbjk-chat-e" cx="7.5" cy="7.5" r="7.5"/>
+    <circle id="d11edv1rbjk-chat-g" cx="7.5" cy="7.5" r="7.5"/>
+  </defs>
+  <g fill="none" fill-rule="evenodd">
+    <path fill="#58A8F7" d="M0,2.99971296 C0,1.34301724 1.34537458,0 2.99263929,0 L177.007361,0 C178.66015,0 180,1.34382565 180,2.99971296 L180,185 L0,185 L0,2.99971296 Z" opacity=".097"/>
+    <path fill="#FFF" d="M3.8458278,-1.55376046e-16 L76.1541722,1.55376046e-16 C77.4914503,-9.02779573e-17 77.9763797,0.139238417 78.4652686,0.400699056 C78.9541574,0.662159695 79.3378403,1.04584256 79.5993009,1.53473144 C79.8607616,2.02362033 80,2.50854969 80,3.8458278 L80,30.1541722 C80,31.4914503 79.8607616,31.9763797 79.5993009,32.4652686 C79.3378403,32.9541574 78.9541574,33.3378403 78.4652686,33.5993009 C77.9763797,33.8607616 77.4914503,34 76.1541722,34 L3.8458278,34 C2.50854969,34 2.02362033,33.8607616 1.53473144,33.5993009 C1.04584256,33.3378403 0.662159695,32.9541574 0.400699056,32.4652686 C0.139238417,31.9763797 6.01853049e-17,31.4914503 -1.03584031e-16,30.1541722 L1.03584031e-16,3.8458278 C-6.01853049e-17,2.50854969 0.139238417,2.02362033 0.400699056,1.53473144 C0.662159695,1.04584256 1.04584256,0.662159695 1.53473144,0.400699056 C2.02362033,0.139238417 2.50854969,9.02779573e-17 3.8458278,-1.55376046e-16 Z" transform="translate(70 66)"/>
+    <path fill="#FFF" d="M3.8458278,-1.55376046e-16 L70.1541722,1.55376046e-16 C71.4914503,-9.02779573e-17 71.9763797,0.139238417 72.4652686,0.400699056 C72.9541574,0.662159695 73.3378403,1.04584256 73.5993009,1.53473144 C73.8607616,2.02362033 74,2.50854969 74,3.8458278 L74,16.1541722 C74,17.4914503 73.8607616,17.9763797 73.5993009,18.4652686 C73.3378403,18.9541574 72.9541574,19.3378403 72.4652686,19.5993009 C71.9763797,19.8607616 71.4914503,20 70.1541722,20 L3.8458278,20 C2.50854969,20 2.02362033,19.8607616 1.53473144,19.5993009 C1.04584256,19.3378403 0.662159695,18.9541574 0.400699056,18.4652686 C0.139238417,17.9763797 6.01853049e-17,17.4914503 -1.03584031e-16,16.1541722 L1.03584031e-16,3.8458278 C-6.01853049e-17,2.50854969 0.139238417,2.02362033 0.400699056,1.53473144 C0.662159695,1.04584256 1.04584256,0.662159695 1.53473144,0.400699056 C2.02362033,0.139238417 2.50854969,9.02779573e-17 3.8458278,-1.55376046e-16 Z" transform="translate(30 36)"/>
+    <path fill="#FFF" d="M3.8458278,-1.55376046e-16 L70.1541722,1.55376046e-16 C71.4914503,-9.02779573e-17 71.9763797,0.139238417 72.4652686,0.400699056 C72.9541574,0.662159695 73.3378403,1.04584256 73.5993009,1.53473144 C73.8607616,2.02362033 74,2.50854969 74,3.8458278 L74,23.1541722 C74,24.4914503 73.8607616,24.9763797 73.5993009,25.4652686 C73.3378403,25.9541574 72.9541574,26.3378403 72.4652686,26.5993009 C71.9763797,26.8607616 71.4914503,27 70.1541722,27 L3.8458278,27 C2.50854969,27 2.02362033,26.8607616 1.53473144,26.5993009 C1.04584256,26.3378403 0.662159695,25.9541574 0.400699056,25.4652686 C0.139238417,24.9763797 6.01853049e-17,24.4914503 -1.03584031e-16,23.1541722 L1.03584031e-16,3.8458278 C-6.01853049e-17,2.50854969 0.139238417,2.02362033 0.400699056,1.53473144 C0.662159695,1.04584256 1.04584256,0.662159695 1.53473144,0.400699056 C2.02362033,0.139238417 2.50854969,9.02779573e-17 3.8458278,-1.55376046e-16 Z" transform="translate(30 110)"/>
+    <path fill="#58A8F7" d="M0,3.00947762 C0,1.34738902 1.34537458,0 2.99263929,0 L177.007361,0 C178.66015,0 180,1.33663106 180,3.00947762 L180,16 L0,16 L0,3.00947762 Z" opacity=".197"/>
+    <path fill="#0D87FF" d="M2.5,5 C1.11928813,5 0,3.88071187 0,2.5 C0,1.11928813 1.11928813,0 2.5,0 C3.88071187,0 5,1.11928813 5,2.5 C5,3.88071187 3.88071187,5 2.5,5 Z M10.5,5 C9.11928813,5 8,3.88071187 8,2.5 C8,1.11928813 9.11928813,0 10.5,0 C11.8807119,0 13,1.11928813 13,2.5 C13,3.88071187 11.8807119,5 10.5,5 Z M18.5,5 C17.1192881,5 16,3.88071187 16,2.5 C16,1.11928813 17.1192881,0 18.5,0 C19.8807119,0 21,1.11928813 21,2.5 C21,3.88071187 19.8807119,5 18.5,5 Z" opacity=".499" transform="translate(5 6)"/>
+    <path fill="#FFF" d="M143,100 C147.666667,104 152.333333,105.833333 157,105.5 C152.333333,102.511111 150,99.0111111 150,95 L143,100 Z"/>
+    <path fill="#FFF" d="M23 56C27.6666667 60 32.3333333 61.8333333 37 61.5 32.3333333 58.5111111 30 55.0111111 30 51L23 56zM23 137C27.6666667 141 32.3333333 142.833333 37 142.5 32.3333333 139.511111 30 136.011111 30 132L23 137z" transform="matrix(-1 0 0 1 60 0)"/>
+    <g fill="#58A8F7" opacity=".197" transform="translate(35 41)">
+      <polygon points="0 0 64 0 64 3 0 3"/>
+      <polygon points="0 0 38 0 38 3 0 3" transform="translate(0 7)"/>
+    </g>
+    <g fill="#58A8F7" opacity=".197" transform="translate(35 115)">
+      <polygon points="0 0 64 0 64 3 0 3"/>
+      <polygon points="0 0 38 0 38 3 0 3" transform="translate(0 7)"/>
+    </g>
+    <g fill="#58A8F7" opacity=".197" transform="translate(75 71)">
+      <polygon points="0 0 70 0 70 3 0 3" transform="translate(0 14)"/>
+      <polygon points="0 0 70 0 70 3 0 3" transform="translate(0 7)"/>
+      <polygon points="0 0 70 0 70 3 0 3"/>
+      <polygon points="0 0 42 0 42 3 0 3" transform="translate(28 21)"/>
+    </g>
+    <path fill="#FFF" d="M3.8458278,-1.55376046e-16 L61.1541722,1.55376046e-16 C62.4914503,-9.02779573e-17 62.9763797,0.139238417 63.4652686,0.400699056 C63.9541574,0.662159695 64.3378403,1.04584256 64.5993009,1.53473144 C64.8607616,2.02362033 65,2.50854969 65,3.8458278 L65,9.1541722 C65,10.4914503 64.8607616,10.9763797 64.5993009,11.4652686 C64.3378403,11.9541574 63.9541574,12.3378403 63.4652686,12.5993009 C62.9763797,12.8607616 62.4914503,13 61.1541722,13 L3.8458278,13 C2.50854969,13 2.02362033,12.8607616 1.53473144,12.5993009 C1.04584256,12.3378403 0.662159695,11.9541574 0.400699056,11.4652686 C0.139238417,10.9763797 6.01853049e-17,10.4914503 -1.03584031e-16,9.1541722 L1.03584031e-16,3.8458278 C-6.01853049e-17,2.50854969 0.139238417,2.02362033 0.400699056,1.53473144 C0.662159695,1.04584256 1.04584256,0.662159695 1.53473144,0.400699056 C2.02362033,0.139238417 2.50854969,9.02779573e-17 3.8458278,-1.55376046e-16 Z" transform="translate(85 147)"/>
+    <path fill="#FFF" d="M143,160 C147.666667,164 152.333333,165.833333 157,165.5 C152.333333,162.511111 150,159.011111 150,155 L143,160 Z"/>
+    <polygon fill="#58A8F7" points="0 0 55 0 55 3 0 3" opacity=".197" transform="translate(35 129)"/>
+    <polygon fill="#58A8F7" points="0 0 55 0 55 3 0 3" opacity=".197" transform="translate(90 152)"/>
+    <g transform="translate(155 147)">
+      <mask id="d11edv1rbjk-chat-b" fill="#fff">
+        <use xlink:href="#d11edv1rbjk-chat-a"/>
+      </mask>
+      <use fill="#58A8F7" opacity=".197" xlink:href="#d11edv1rbjk-chat-a"/>
+      <path fill="#0D87FF" d="M7.5,21 C3.91014913,21 1,18.0898509 1,14.5 C1,10.9101491 3.91014913,8 7.5,8 C11.0898509,8 14,10.9101491 14,14.5 C14,18.0898509 11.0898509,21 7.5,21 Z M7.5,7 C6.11928813,7 5,5.88071187 5,4.5 C5,3.11928813 6.11928813,2 7.5,2 C8.88071187,2 10,3.11928813 10,4.5 C10,5.88071187 8.88071187,7 7.5,7 Z" mask="url(#d11edv1rbjk-chat-b)" opacity=".499"/>
+    </g>
+    <g transform="translate(10 110)">
+      <mask id="d11edv1rbjk-chat-d" fill="#fff">
+        <use xlink:href="#d11edv1rbjk-chat-c"/>
+      </mask>
+      <use fill="#58A8F7" opacity=".197" xlink:href="#d11edv1rbjk-chat-c"/>
+      <path fill="#0D87FF" d="M7.5,21 C3.91014913,21 1,18.0898509 1,14.5 C1,10.9101491 3.91014913,8 7.5,8 C11.0898509,8 14,10.9101491 14,14.5 C14,18.0898509 11.0898509,21 7.5,21 Z M7.5,7 C6.11928813,7 5,5.88071187 5,4.5 C5,3.11928813 6.11928813,2 7.5,2 C8.88071187,2 10,3.11928813 10,4.5 C10,5.88071187 8.88071187,7 7.5,7 Z" mask="url(#d11edv1rbjk-chat-d)" opacity=".499"/>
+    </g>
+    <g transform="translate(155 66)">
+      <mask id="d11edv1rbjk-chat-f" fill="#fff">
+        <use xlink:href="#d11edv1rbjk-chat-e"/>
+      </mask>
+      <use fill="#58A8F7" opacity=".197" xlink:href="#d11edv1rbjk-chat-e"/>
+      <path fill="#0D87FF" d="M7.5,21 C3.91014913,21 1,18.0898509 1,14.5 C1,10.9101491 3.91014913,8 7.5,8 C11.0898509,8 14,10.9101491 14,14.5 C14,18.0898509 11.0898509,21 7.5,21 Z M7.5,7 C6.11928813,7 5,5.88071187 5,4.5 C5,3.11928813 6.11928813,2 7.5,2 C8.88071187,2 10,3.11928813 10,4.5 C10,5.88071187 8.88071187,7 7.5,7 Z" mask="url(#d11edv1rbjk-chat-f)" opacity=".499"/>
+    </g>
+    <g transform="translate(10 36)">
+      <mask id="d11edv1rbjk-chat-h" fill="#fff">
+        <use xlink:href="#d11edv1rbjk-chat-g"/>
+      </mask>
+      <use fill="#58A8F7" opacity=".197" xlink:href="#d11edv1rbjk-chat-g"/>
+      <path fill="#0D87FF" d="M7.5,21 C3.91014913,21 1,18.0898509 1,14.5 C1,10.9101491 3.91014913,8 7.5,8 C11.0898509,8 14,10.9101491 14,14.5 C14,18.0898509 11.0898509,21 7.5,21 Z M7.5,7 C6.11928813,7 5,5.88071187 5,4.5 C5,3.11928813 6.11928813,2 7.5,2 C8.88071187,2 10,3.11928813 10,4.5 C10,5.88071187 8.88071187,7 7.5,7 Z" mask="url(#d11edv1rbjk-chat-h)" opacity=".499"/>
+    </g>
+  </g>
+</svg></g></g></g><rect x="-1" y="-1" rx="3" ry="3" width="182" height="230" fill="none" stroke="#A2CEF9" stroke-width="2"/><g transform="translate(0,206)"><g><text x="90" y="4" text-anchor="middle" font-family="Roboto,sans-serif" font-size="14px" fill="#52565f">Messages (Schedule)</text></g></g></g><g transform="translate(1810, 306)"><rect x="0" y="0" rx="2" ry="2" width="180" height="228" fill="#ffffff"/><g><g><g transform="translate( 0, 0 )"><svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" width="180" height="185" viewBox="0 0 180 185">
+  <defs>
+    <circle id="i3bjb2xh6o-chat-a" cx="7.5" cy="7.5" r="7.5"/>
+    <circle id="i3bjb2xh6o-chat-c" cx="7.5" cy="7.5" r="7.5"/>
+    <circle id="i3bjb2xh6o-chat-e" cx="7.5" cy="7.5" r="7.5"/>
+    <circle id="i3bjb2xh6o-chat-g" cx="7.5" cy="7.5" r="7.5"/>
+  </defs>
+  <g fill="none" fill-rule="evenodd">
+    <path fill="#58A8F7" d="M0,2.99971296 C0,1.34301724 1.34537458,0 2.99263929,0 L177.007361,0 C178.66015,0 180,1.34382565 180,2.99971296 L180,185 L0,185 L0,2.99971296 Z" opacity=".097"/>
+    <path fill="#FFF" d="M3.8458278,-1.55376046e-16 L76.1541722,1.55376046e-16 C77.4914503,-9.02779573e-17 77.9763797,0.139238417 78.4652686,0.400699056 C78.9541574,0.662159695 79.3378403,1.04584256 79.5993009,1.53473144 C79.8607616,2.02362033 80,2.50854969 80,3.8458278 L80,30.1541722 C80,31.4914503 79.8607616,31.9763797 79.5993009,32.4652686 C79.3378403,32.9541574 78.9541574,33.3378403 78.4652686,33.5993009 C77.9763797,33.8607616 77.4914503,34 76.1541722,34 L3.8458278,34 C2.50854969,34 2.02362033,33.8607616 1.53473144,33.5993009 C1.04584256,33.3378403 0.662159695,32.9541574 0.400699056,32.4652686 C0.139238417,31.9763797 6.01853049e-17,31.4914503 -1.03584031e-16,30.1541722 L1.03584031e-16,3.8458278 C-6.01853049e-17,2.50854969 0.139238417,2.02362033 0.400699056,1.53473144 C0.662159695,1.04584256 1.04584256,0.662159695 1.53473144,0.400699056 C2.02362033,0.139238417 2.50854969,9.02779573e-17 3.8458278,-1.55376046e-16 Z" transform="translate(70 66)"/>
+    <path fill="#FFF" d="M3.8458278,-1.55376046e-16 L70.1541722,1.55376046e-16 C71.4914503,-9.02779573e-17 71.9763797,0.139238417 72.4652686,0.400699056 C72.9541574,0.662159695 73.3378403,1.04584256 73.5993009,1.53473144 C73.8607616,2.02362033 74,2.50854969 74,3.8458278 L74,16.1541722 C74,17.4914503 73.8607616,17.9763797 73.5993009,18.4652686 C73.3378403,18.9541574 72.9541574,19.3378403 72.4652686,19.5993009 C71.9763797,19.8607616 71.4914503,20 70.1541722,20 L3.8458278,20 C2.50854969,20 2.02362033,19.8607616 1.53473144,19.5993009 C1.04584256,19.3378403 0.662159695,18.9541574 0.400699056,18.4652686 C0.139238417,17.9763797 6.01853049e-17,17.4914503 -1.03584031e-16,16.1541722 L1.03584031e-16,3.8458278 C-6.01853049e-17,2.50854969 0.139238417,2.02362033 0.400699056,1.53473144 C0.662159695,1.04584256 1.04584256,0.662159695 1.53473144,0.400699056 C2.02362033,0.139238417 2.50854969,9.02779573e-17 3.8458278,-1.55376046e-16 Z" transform="translate(30 36)"/>
+    <path fill="#FFF" d="M3.8458278,-1.55376046e-16 L70.1541722,1.55376046e-16 C71.4914503,-9.02779573e-17 71.9763797,0.139238417 72.4652686,0.400699056 C72.9541574,0.662159695 73.3378403,1.04584256 73.5993009,1.53473144 C73.8607616,2.02362033 74,2.50854969 74,3.8458278 L74,23.1541722 C74,24.4914503 73.8607616,24.9763797 73.5993009,25.4652686 C73.3378403,25.9541574 72.9541574,26.3378403 72.4652686,26.5993009 C71.9763797,26.8607616 71.4914503,27 70.1541722,27 L3.8458278,27 C2.50854969,27 2.02362033,26.8607616 1.53473144,26.5993009 C1.04584256,26.3378403 0.662159695,25.9541574 0.400699056,25.4652686 C0.139238417,24.9763797 6.01853049e-17,24.4914503 -1.03584031e-16,23.1541722 L1.03584031e-16,3.8458278 C-6.01853049e-17,2.50854969 0.139238417,2.02362033 0.400699056,1.53473144 C0.662159695,1.04584256 1.04584256,0.662159695 1.53473144,0.400699056 C2.02362033,0.139238417 2.50854969,9.02779573e-17 3.8458278,-1.55376046e-16 Z" transform="translate(30 110)"/>
+    <path fill="#58A8F7" d="M0,3.00947762 C0,1.34738902 1.34537458,0 2.99263929,0 L177.007361,0 C178.66015,0 180,1.33663106 180,3.00947762 L180,16 L0,16 L0,3.00947762 Z" opacity=".197"/>
+    <path fill="#0D87FF" d="M2.5,5 C1.11928813,5 0,3.88071187 0,2.5 C0,1.11928813 1.11928813,0 2.5,0 C3.88071187,0 5,1.11928813 5,2.5 C5,3.88071187 3.88071187,5 2.5,5 Z M10.5,5 C9.11928813,5 8,3.88071187 8,2.5 C8,1.11928813 9.11928813,0 10.5,0 C11.8807119,0 13,1.11928813 13,2.5 C13,3.88071187 11.8807119,5 10.5,5 Z M18.5,5 C17.1192881,5 16,3.88071187 16,2.5 C16,1.11928813 17.1192881,0 18.5,0 C19.8807119,0 21,1.11928813 21,2.5 C21,3.88071187 19.8807119,5 18.5,5 Z" opacity=".499" transform="translate(5 6)"/>
+    <path fill="#FFF" d="M143,100 C147.666667,104 152.333333,105.833333 157,105.5 C152.333333,102.511111 150,99.0111111 150,95 L143,100 Z"/>
+    <path fill="#FFF" d="M23 56C27.6666667 60 32.3333333 61.8333333 37 61.5 32.3333333 58.5111111 30 55.0111111 30 51L23 56zM23 137C27.6666667 141 32.3333333 142.833333 37 142.5 32.3333333 139.511111 30 136.011111 30 132L23 137z" transform="matrix(-1 0 0 1 60 0)"/>
+    <g fill="#58A8F7" opacity=".197" transform="translate(35 41)">
+      <polygon points="0 0 64 0 64 3 0 3"/>
+      <polygon points="0 0 38 0 38 3 0 3" transform="translate(0 7)"/>
+    </g>
+    <g fill="#58A8F7" opacity=".197" transform="translate(35 115)">
+      <polygon points="0 0 64 0 64 3 0 3"/>
+      <polygon points="0 0 38 0 38 3 0 3" transform="translate(0 7)"/>
+    </g>
+    <g fill="#58A8F7" opacity=".197" transform="translate(75 71)">
+      <polygon points="0 0 70 0 70 3 0 3" transform="translate(0 14)"/>
+      <polygon points="0 0 70 0 70 3 0 3" transform="translate(0 7)"/>
+      <polygon points="0 0 70 0 70 3 0 3"/>
+      <polygon points="0 0 42 0 42 3 0 3" transform="translate(28 21)"/>
+    </g>
+    <path fill="#FFF" d="M3.8458278,-1.55376046e-16 L61.1541722,1.55376046e-16 C62.4914503,-9.02779573e-17 62.9763797,0.139238417 63.4652686,0.400699056 C63.9541574,0.662159695 64.3378403,1.04584256 64.5993009,1.53473144 C64.8607616,2.02362033 65,2.50854969 65,3.8458278 L65,9.1541722 C65,10.4914503 64.8607616,10.9763797 64.5993009,11.4652686 C64.3378403,11.9541574 63.9541574,12.3378403 63.4652686,12.5993009 C62.9763797,12.8607616 62.4914503,13 61.1541722,13 L3.8458278,13 C2.50854969,13 2.02362033,12.8607616 1.53473144,12.5993009 C1.04584256,12.3378403 0.662159695,11.9541574 0.400699056,11.4652686 C0.139238417,10.9763797 6.01853049e-17,10.4914503 -1.03584031e-16,9.1541722 L1.03584031e-16,3.8458278 C-6.01853049e-17,2.50854969 0.139238417,2.02362033 0.400699056,1.53473144 C0.662159695,1.04584256 1.04584256,0.662159695 1.53473144,0.400699056 C2.02362033,0.139238417 2.50854969,9.02779573e-17 3.8458278,-1.55376046e-16 Z" transform="translate(85 147)"/>
+    <path fill="#FFF" d="M143,160 C147.666667,164 152.333333,165.833333 157,165.5 C152.333333,162.511111 150,159.011111 150,155 L143,160 Z"/>
+    <polygon fill="#58A8F7" points="0 0 55 0 55 3 0 3" opacity=".197" transform="translate(35 129)"/>
+    <polygon fill="#58A8F7" points="0 0 55 0 55 3 0 3" opacity=".197" transform="translate(90 152)"/>
+    <g transform="translate(155 147)">
+      <mask id="i3bjb2xh6o-chat-b" fill="#fff">
+        <use xlink:href="#i3bjb2xh6o-chat-a"/>
+      </mask>
+      <use fill="#58A8F7" opacity=".197" xlink:href="#i3bjb2xh6o-chat-a"/>
+      <path fill="#0D87FF" d="M7.5,21 C3.91014913,21 1,18.0898509 1,14.5 C1,10.9101491 3.91014913,8 7.5,8 C11.0898509,8 14,10.9101491 14,14.5 C14,18.0898509 11.0898509,21 7.5,21 Z M7.5,7 C6.11928813,7 5,5.88071187 5,4.5 C5,3.11928813 6.11928813,2 7.5,2 C8.88071187,2 10,3.11928813 10,4.5 C10,5.88071187 8.88071187,7 7.5,7 Z" mask="url(#i3bjb2xh6o-chat-b)" opacity=".499"/>
+    </g>
+    <g transform="translate(10 110)">
+      <mask id="i3bjb2xh6o-chat-d" fill="#fff">
+        <use xlink:href="#i3bjb2xh6o-chat-c"/>
+      </mask>
+      <use fill="#58A8F7" opacity=".197" xlink:href="#i3bjb2xh6o-chat-c"/>
+      <path fill="#0D87FF" d="M7.5,21 C3.91014913,21 1,18.0898509 1,14.5 C1,10.9101491 3.91014913,8 7.5,8 C11.0898509,8 14,10.9101491 14,14.5 C14,18.0898509 11.0898509,21 7.5,21 Z M7.5,7 C6.11928813,7 5,5.88071187 5,4.5 C5,3.11928813 6.11928813,2 7.5,2 C8.88071187,2 10,3.11928813 10,4.5 C10,5.88071187 8.88071187,7 7.5,7 Z" mask="url(#i3bjb2xh6o-chat-d)" opacity=".499"/>
+    </g>
+    <g transform="translate(155 66)">
+      <mask id="i3bjb2xh6o-chat-f" fill="#fff">
+        <use xlink:href="#i3bjb2xh6o-chat-e"/>
+      </mask>
+      <use fill="#58A8F7" opacity=".197" xlink:href="#i3bjb2xh6o-chat-e"/>
+      <path fill="#0D87FF" d="M7.5,21 C3.91014913,21 1,18.0898509 1,14.5 C1,10.9101491 3.91014913,8 7.5,8 C11.0898509,8 14,10.9101491 14,14.5 C14,18.0898509 11.0898509,21 7.5,21 Z M7.5,7 C6.11928813,7 5,5.88071187 5,4.5 C5,3.11928813 6.11928813,2 7.5,2 C8.88071187,2 10,3.11928813 10,4.5 C10,5.88071187 8.88071187,7 7.5,7 Z" mask="url(#i3bjb2xh6o-chat-f)" opacity=".499"/>
+    </g>
+    <g transform="translate(10 36)">
+      <mask id="i3bjb2xh6o-chat-h" fill="#fff">
+        <use xlink:href="#i3bjb2xh6o-chat-g"/>
+      </mask>
+      <use fill="#58A8F7" opacity=".197" xlink:href="#i3bjb2xh6o-chat-g"/>
+      <path fill="#0D87FF" d="M7.5,21 C3.91014913,21 1,18.0898509 1,14.5 C1,10.9101491 3.91014913,8 7.5,8 C11.0898509,8 14,10.9101491 14,14.5 C14,18.0898509 11.0898509,21 7.5,21 Z M7.5,7 C6.11928813,7 5,5.88071187 5,4.5 C5,3.11928813 6.11928813,2 7.5,2 C8.88071187,2 10,3.11928813 10,4.5 C10,5.88071187 8.88071187,7 7.5,7 Z" mask="url(#i3bjb2xh6o-chat-h)" opacity=".499"/>
+    </g>
+  </g>
+</svg></g></g></g><rect x="-1" y="-1" rx="3" ry="3" width="182" height="230" fill="none" stroke="#A2CEF9" stroke-width="2"/><g transform="translate(0,206)"><g><text x="90" y="4" text-anchor="middle" font-family="Roboto,sans-serif" font-size="14px" fill="#52565f">Chat</text></g></g></g><g transform="translate(2010, 586)"><rect x="0" y="0" rx="2" ry="2" width="180" height="228" fill="#ffffff"/><g><g><g transform="translate( 0, 0 )"><svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" width="180" height="185" viewBox="0 0 180 185">
+  <defs>
+    <rect id="c6ms9479czp-features-a" width="70" height="43" rx="2"/>
+    <rect id="c6ms9479czp-features-c" width="70" height="41" rx="2"/>
+  </defs>
+  <g fill="none" fill-rule="evenodd">
+    <path fill="#58A8F7" d="M0,2.99971296 C0,1.34301724 1.34537458,0 2.99263929,0 L177.007361,0 C178.66015,0 180,1.34382565 180,2.99971296 L180,185 L0,185 L0,2.99971296 Z" opacity=".097"/>
+    <path fill="#58A8F7" d="M0,3.00947762 C0,1.34738902 1.34537458,0 2.99263929,0 L177.007361,0 C178.66015,0 180,1.33663106 180,3.00947762 L180,16 L0,16 L0,3.00947762 Z" opacity=".197"/>
+    <path fill="#0D87FF" d="M2.5,5 C1.11928813,5 0,3.88071187 0,2.5 C0,1.11928813 1.11928813,0 2.5,0 C3.88071187,0 5,1.11928813 5,2.5 C5,3.88071187 3.88071187,5 2.5,5 Z M10.5,5 C9.11928813,5 8,3.88071187 8,2.5 C8,1.11928813 9.11928813,0 10.5,0 C11.8807119,0 13,1.11928813 13,2.5 C13,3.88071187 11.8807119,5 10.5,5 Z M18.5,5 C17.1192881,5 16,3.88071187 16,2.5 C16,1.11928813 17.1192881,0 18.5,0 C19.8807119,0 21,1.11928813 21,2.5 C21,3.88071187 19.8807119,5 18.5,5 Z" opacity=".499" transform="translate(5 6)"/>
+    <polygon fill="#58A8F7" points="0 0 50 0 50 5 0 5" opacity=".499" transform="translate(100 83)"/>
+    <polygon fill="#58A8F7" points="0 0 50 0 50 5 0 5" opacity=".499" transform="translate(10 134)"/>
+    <g fill="#58A8F7" opacity=".197" transform="translate(100 93)">
+      <polygon points="0 0 70 0 70 3 0 3" transform="translate(0 14)"/>
+      <polygon points="0 0 70 0 70 3 0 3" transform="translate(0 7)"/>
+      <polygon points="0 0 70 0 70 3 0 3"/>
+      <polygon points="0 0 42 0 42 3 0 3" transform="translate(0 21)"/>
+    </g>
+    <g fill="#58A8F7" opacity=".197" transform="translate(10 144)">
+      <polygon points="0 0 70 0 70 3 0 3" transform="translate(0 14)"/>
+      <polygon points="0 0 70 0 70 3 0 3" transform="translate(0 7)"/>
+      <polygon points="0 0 70 0 70 3 0 3"/>
+      <polygon points="0 0 42 0 42 3 0 3" transform="translate(0 21)"/>
+    </g>
+    <g transform="translate(10 81)">
+      <rect width="70" height="43" fill="#58A8F7" opacity=".197" rx="2"/>
+      <mask id="c6ms9479czp-features-b" fill="#fff">
+        <use xlink:href="#c6ms9479czp-features-a"/>
+      </mask>
+      <path fill="#58A8F7" d="M56,20.4761905 C67.970297,20.4761905 74.3366337,30.0930979 86,43 L24,43 C34.1287129,32.3707865 44.029703,20.4761905 56,20.4761905 Z" mask="url(#c6ms9479czp-features-b)" opacity=".197"/>
+      <path fill="#0D87FF" d="M16,16.3809524 C28.7897146,16.3809524 37.5648148,29.0736399 49,43 L-16,43 C-4.95433742,29.0736399 3.21028543,16.3809524 16,16.3809524 Z" mask="url(#c6ms9479czp-features-b)" opacity=".198"/>
+      <circle cx="38" cy="11.262" r="5" fill="#58A8F7" mask="url(#c6ms9479czp-features-b)" opacity=".499"/>
+    </g>
+    <g transform="translate(100 134)">
+      <rect width="70" height="41" fill="#58A8F7" opacity=".197" rx="2"/>
+      <mask id="c6ms9479czp-features-d" fill="#fff">
+        <use xlink:href="#c6ms9479czp-features-c"/>
+      </mask>
+      <path fill="#58A8F7" d="M56,19.5238095 C67.970297,19.5238095 74.3366337,28.6934189 86,41 L24,41 C34.1287129,30.8651685 44.029703,19.5238095 56,19.5238095 Z" mask="url(#c6ms9479czp-features-d)" opacity=".197"/>
+      <path fill="#0D87FF" d="M16,15.6190476 C28.7897146,15.6190476 37.5648148,27.7213775 49,41 L-16,41 C-4.95433742,27.7213775 3.21028543,15.6190476 16,15.6190476 Z" mask="url(#c6ms9479czp-features-d)" opacity=".198"/>
+      <circle cx="38" cy="10.738" r="5" fill="#58A8F7" mask="url(#c6ms9479czp-features-d)" opacity=".499"/>
+    </g>
+    <g transform="translate(26 21)">
+      <circle cx="7.5" cy="7.5" r="7.5" fill="#0D87FF" opacity=".499"/>
+      <polygon fill="#FFF" points="7.5 9.75 4.855 11.141 5.36 8.195 3.22 6.109 6.177 5.68 7.5 3 8.823 5.68 11.78 6.109 9.64 8.195 10.145 11.141"/>
+    </g>
+    <g transform="translate(140 21)">
+      <circle cx="7.5" cy="7.5" r="7.5" fill="#0D87FF" opacity=".499"/>
+      <polygon fill="#FFF" points="7.5 9.75 4.855 11.141 5.36 8.195 3.22 6.109 6.177 5.68 7.5 3 8.823 5.68 11.78 6.109 9.64 8.195 10.145 11.141"/>
+    </g>
+    <g transform="translate(83 21)">
+      <circle cx="7.5" cy="7.5" r="7.5" fill="#0D87FF" opacity=".499"/>
+      <polygon fill="#FFF" points="7.5 9.75 4.855 11.141 5.36 8.195 3.22 6.109 6.177 5.68 7.5 3 8.823 5.68 11.78 6.109 9.64 8.195 10.145 11.141"/>
+    </g>
+    <g fill="#58A8F7" transform="translate(10 42)">
+      <polygon points="0 0 26 0 26 5 0 5" opacity=".499" transform="translate(10)"/>
+      <polygon points="0 0 46 0 46 3 0 3" opacity=".197" transform="translate(0 17)"/>
+      <polygon points="0 0 46 0 46 3 0 3" opacity=".197" transform="translate(0 10)"/>
+      <polygon points="0 0 26 0 26 3 0 3" opacity=".197" transform="translate(10 24)"/>
+    </g>
+    <g fill="#58A8F7" transform="translate(124 42)">
+      <polygon points="0 0 26 0 26 5 0 5" opacity=".499" transform="translate(10)"/>
+      <polygon points="0 0 46 0 46 3 0 3" opacity=".197" transform="translate(0 17)"/>
+      <polygon points="0 0 46 0 46 3 0 3" opacity=".197" transform="translate(0 10)"/>
+      <polygon points="0 0 26 0 26 3 0 3" opacity=".197" transform="translate(10 24)"/>
+    </g>
+    <g fill="#58A8F7" transform="translate(67 42)">
+      <polygon points="0 0 26 0 26 5 0 5" opacity=".499" transform="translate(10)"/>
+      <polygon points="0 0 46 0 46 3 0 3" opacity=".197" transform="translate(0 17)"/>
+      <polygon points="0 0 46 0 46 3 0 3" opacity=".197" transform="translate(0 10)"/>
+      <polygon points="0 0 26 0 26 3 0 3" opacity=".197" transform="translate(10 24)"/>
+    </g>
+  </g>
+</svg></g></g></g><rect x="-1" y="-1" rx="3" ry="3" width="182" height="230" fill="none" stroke="#A2CEF9" stroke-width="2"/><g transform="translate(0,206)"><g><text x="90" y="4" text-anchor="middle" font-family="Roboto,sans-serif" font-size="14px" fill="#52565f">All Favorites</text></g></g></g><g transform="translate(2010, 306)"><rect x="0" y="0" rx="2" ry="2" width="180" height="228" fill="#ffffff"/><g><g><g transform="translate( 0, 0 )"><svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" width="180" height="185" viewBox="0 0 180 185">
+  <defs>
+    <rect id="r9zirxwuj4j-features-a" width="70" height="43" rx="2"/>
+    <rect id="r9zirxwuj4j-features-c" width="70" height="41" rx="2"/>
+  </defs>
+  <g fill="none" fill-rule="evenodd">
+    <path fill="#58A8F7" d="M0,2.99971296 C0,1.34301724 1.34537458,0 2.99263929,0 L177.007361,0 C178.66015,0 180,1.34382565 180,2.99971296 L180,185 L0,185 L0,2.99971296 Z" opacity=".097"/>
+    <path fill="#58A8F7" d="M0,3.00947762 C0,1.34738902 1.34537458,0 2.99263929,0 L177.007361,0 C178.66015,0 180,1.33663106 180,3.00947762 L180,16 L0,16 L0,3.00947762 Z" opacity=".197"/>
+    <path fill="#0D87FF" d="M2.5,5 C1.11928813,5 0,3.88071187 0,2.5 C0,1.11928813 1.11928813,0 2.5,0 C3.88071187,0 5,1.11928813 5,2.5 C5,3.88071187 3.88071187,5 2.5,5 Z M10.5,5 C9.11928813,5 8,3.88071187 8,2.5 C8,1.11928813 9.11928813,0 10.5,0 C11.8807119,0 13,1.11928813 13,2.5 C13,3.88071187 11.8807119,5 10.5,5 Z M18.5,5 C17.1192881,5 16,3.88071187 16,2.5 C16,1.11928813 17.1192881,0 18.5,0 C19.8807119,0 21,1.11928813 21,2.5 C21,3.88071187 19.8807119,5 18.5,5 Z" opacity=".499" transform="translate(5 6)"/>
+    <polygon fill="#58A8F7" points="0 0 50 0 50 5 0 5" opacity=".499" transform="translate(100 83)"/>
+    <polygon fill="#58A8F7" points="0 0 50 0 50 5 0 5" opacity=".499" transform="translate(10 134)"/>
+    <g fill="#58A8F7" opacity=".197" transform="translate(100 93)">
+      <polygon points="0 0 70 0 70 3 0 3" transform="translate(0 14)"/>
+      <polygon points="0 0 70 0 70 3 0 3" transform="translate(0 7)"/>
+      <polygon points="0 0 70 0 70 3 0 3"/>
+      <polygon points="0 0 42 0 42 3 0 3" transform="translate(0 21)"/>
+    </g>
+    <g fill="#58A8F7" opacity=".197" transform="translate(10 144)">
+      <polygon points="0 0 70 0 70 3 0 3" transform="translate(0 14)"/>
+      <polygon points="0 0 70 0 70 3 0 3" transform="translate(0 7)"/>
+      <polygon points="0 0 70 0 70 3 0 3"/>
+      <polygon points="0 0 42 0 42 3 0 3" transform="translate(0 21)"/>
+    </g>
+    <g transform="translate(10 81)">
+      <rect width="70" height="43" fill="#58A8F7" opacity=".197" rx="2"/>
+      <mask id="r9zirxwuj4j-features-b" fill="#fff">
+        <use xlink:href="#r9zirxwuj4j-features-a"/>
+      </mask>
+      <path fill="#58A8F7" d="M56,20.4761905 C67.970297,20.4761905 74.3366337,30.0930979 86,43 L24,43 C34.1287129,32.3707865 44.029703,20.4761905 56,20.4761905 Z" mask="url(#r9zirxwuj4j-features-b)" opacity=".197"/>
+      <path fill="#0D87FF" d="M16,16.3809524 C28.7897146,16.3809524 37.5648148,29.0736399 49,43 L-16,43 C-4.95433742,29.0736399 3.21028543,16.3809524 16,16.3809524 Z" mask="url(#r9zirxwuj4j-features-b)" opacity=".198"/>
+      <circle cx="38" cy="11.262" r="5" fill="#58A8F7" mask="url(#r9zirxwuj4j-features-b)" opacity=".499"/>
+    </g>
+    <g transform="translate(100 134)">
+      <rect width="70" height="41" fill="#58A8F7" opacity=".197" rx="2"/>
+      <mask id="r9zirxwuj4j-features-d" fill="#fff">
+        <use xlink:href="#r9zirxwuj4j-features-c"/>
+      </mask>
+      <path fill="#58A8F7" d="M56,19.5238095 C67.970297,19.5238095 74.3366337,28.6934189 86,41 L24,41 C34.1287129,30.8651685 44.029703,19.5238095 56,19.5238095 Z" mask="url(#r9zirxwuj4j-features-d)" opacity=".197"/>
+      <path fill="#0D87FF" d="M16,15.6190476 C28.7897146,15.6190476 37.5648148,27.7213775 49,41 L-16,41 C-4.95433742,27.7213775 3.21028543,15.6190476 16,15.6190476 Z" mask="url(#r9zirxwuj4j-features-d)" opacity=".198"/>
+      <circle cx="38" cy="10.738" r="5" fill="#58A8F7" mask="url(#r9zirxwuj4j-features-d)" opacity=".499"/>
+    </g>
+    <g transform="translate(26 21)">
+      <circle cx="7.5" cy="7.5" r="7.5" fill="#0D87FF" opacity=".499"/>
+      <polygon fill="#FFF" points="7.5 9.75 4.855 11.141 5.36 8.195 3.22 6.109 6.177 5.68 7.5 3 8.823 5.68 11.78 6.109 9.64 8.195 10.145 11.141"/>
+    </g>
+    <g transform="translate(140 21)">
+      <circle cx="7.5" cy="7.5" r="7.5" fill="#0D87FF" opacity=".499"/>
+      <polygon fill="#FFF" points="7.5 9.75 4.855 11.141 5.36 8.195 3.22 6.109 6.177 5.68 7.5 3 8.823 5.68 11.78 6.109 9.64 8.195 10.145 11.141"/>
+    </g>
+    <g transform="translate(83 21)">
+      <circle cx="7.5" cy="7.5" r="7.5" fill="#0D87FF" opacity=".499"/>
+      <polygon fill="#FFF" points="7.5 9.75 4.855 11.141 5.36 8.195 3.22 6.109 6.177 5.68 7.5 3 8.823 5.68 11.78 6.109 9.64 8.195 10.145 11.141"/>
+    </g>
+    <g fill="#58A8F7" transform="translate(10 42)">
+      <polygon points="0 0 26 0 26 5 0 5" opacity=".499" transform="translate(10)"/>
+      <polygon points="0 0 46 0 46 3 0 3" opacity=".197" transform="translate(0 17)"/>
+      <polygon points="0 0 46 0 46 3 0 3" opacity=".197" transform="translate(0 10)"/>
+      <polygon points="0 0 26 0 26 3 0 3" opacity=".197" transform="translate(10 24)"/>
+    </g>
+    <g fill="#58A8F7" transform="translate(124 42)">
+      <polygon points="0 0 26 0 26 5 0 5" opacity=".499" transform="translate(10)"/>
+      <polygon points="0 0 46 0 46 3 0 3" opacity=".197" transform="translate(0 17)"/>
+      <polygon points="0 0 46 0 46 3 0 3" opacity=".197" transform="translate(0 10)"/>
+      <polygon points="0 0 26 0 26 3 0 3" opacity=".197" transform="translate(10 24)"/>
+    </g>
+    <g fill="#58A8F7" transform="translate(67 42)">
+      <polygon points="0 0 26 0 26 5 0 5" opacity=".499" transform="translate(10)"/>
+      <polygon points="0 0 46 0 46 3 0 3" opacity=".197" transform="translate(0 17)"/>
+      <polygon points="0 0 46 0 46 3 0 3" opacity=".197" transform="translate(0 10)"/>
+      <polygon points="0 0 26 0 26 3 0 3" opacity=".197" transform="translate(10 24)"/>
+    </g>
+  </g>
+</svg></g></g></g><rect x="-1" y="-1" rx="3" ry="3" width="182" height="230" fill="none" stroke="#A2CEF9" stroke-width="2"/><g transform="translate(0,206)"><g><text x="90" y="4" text-anchor="middle" font-family="Roboto,sans-serif" font-size="14px" fill="#52565f">Favorite</text></g></g></g><g transform="translate(2210, 586)"><rect x="0" y="0" rx="2" ry="2" width="180" height="228" fill="#ffffff"/><g><g><g transform="translate( 0, 0 )"><svg xmlns="http://www.w3.org/2000/svg" width="180" height="184" viewBox="0 0 180 184" fill="none">
+<path d="M0 3C0 1.34315 1.34315 0 3 0H177C178.657 0 180 1.34315 180 3V184H0V3Z" fill="#EFF7FF"/>
+<path opacity="0.2" d="M0 3C0 1.34315 1.34315 0 3 0H177C178.657 0 180 1.34315 180 3V15H0V3Z" fill="#58A8F7"/>
+<path opacity="0.5" fill-rule="evenodd" clip-rule="evenodd" d="M7.5 10C8.88071 10 10 8.88071 10 7.5C10 6.11929 8.88071 5 7.5 5C6.11929 5 5 6.11929 5 7.5C5 8.88071 6.11929 10 7.5 10ZM15.5 10C16.8807 10 18 8.88071 18 7.5C18 6.11929 16.8807 5 15.5 5C14.1193 5 13 6.11929 13 7.5C13 8.88071 14.1193 10 15.5 10ZM26 7.5C26 8.88071 24.8807 10 23.5 10C22.1193 10 21 8.88071 21 7.5C21 6.11929 22.1193 5 23.5 5C24.8807 5 26 6.11929 26 7.5Z" fill="#0D87FF"/>
+<rect x="64" y="25" width="32" height="38" rx="3" fill="white"/>
+<rect opacity="0.2" x="66" y="52" width="28" height="3" fill="#58A8F7"/>
+<rect opacity="0.2" x="73" y="58" width="14" height="3" fill="#58A8F7"/>
+<rect opacity="0.2" x="66" y="27" width="28" height="22" rx="2" fill="#58A8F7"/>
+<mask id="qq1ih5has4n-mask0" mask-type="alpha" maskUnits="userSpaceOnUse" x="66" y="27" width="28" height="22">
+<rect x="66" y="27" width="28" height="22" rx="2" fill="white"/>
+</mask>
+<g mask="url(#qq1ih5has4n-mask0)">
+<path opacity="0.2" fill-rule="evenodd" clip-rule="evenodd" d="M90 39C95.4059 39 98.7327 43.2697 104 49C99.703 49 81.3071 49 76 49C80.5743 44.2809 84.5941 39 90 39Z" fill="#58A8F7"/>
+<path opacity="0.2" fill-rule="evenodd" clip-rule="evenodd" d="M70 37C75.7062 37 79.8981 42.7219 85 49C78.306 49 62.0952 49 56 49C60.9281 42.7219 64.2938 37 70 37Z" fill="#0D87FF"/>
+<path opacity="0.5" fill-rule="evenodd" clip-rule="evenodd" d="M81 37C82.6569 37 84 35.6569 84 34C84 32.3431 82.6569 31 81 31C79.3431 31 78 32.3431 78 34C78 35.6569 79.3431 37 81 37Z" fill="#58A8F7"/>
+</g>
+<rect x="64" y="68" width="32" height="38" rx="3" fill="white"/>
+<rect opacity="0.2" x="66" y="95" width="28" height="3" fill="#58A8F7"/>
+<rect opacity="0.2" x="73" y="101" width="14" height="3" fill="#58A8F7"/>
+<rect opacity="0.2" x="66" y="70" width="28" height="22" rx="2" fill="#58A8F7"/>
+<mask id="qq1ih5has4n-mask1" mask-type="alpha" maskUnits="userSpaceOnUse" x="66" y="70" width="28" height="22">
+<rect x="66" y="70" width="28" height="22" rx="2" fill="white"/>
+</mask>
+<g mask="url(#qq1ih5has4n-mask1)">
+<path opacity="0.2" fill-rule="evenodd" clip-rule="evenodd" d="M90 82C95.4059 82 98.7327 86.2697 104 92C99.703 92 81.3071 92 76 92C80.5743 87.2809 84.5941 82 90 82Z" fill="#58A8F7"/>
+<path opacity="0.2" fill-rule="evenodd" clip-rule="evenodd" d="M70 80C75.7062 80 79.8981 85.7219 85 92C78.306 92 62.0952 92 56 92C60.9281 85.7219 64.2938 80 70 80Z" fill="#0D87FF"/>
+<path opacity="0.5" fill-rule="evenodd" clip-rule="evenodd" d="M81 80C82.6569 80 84 78.6569 84 77C84 75.3431 82.6569 74 81 74C79.3431 74 78 75.3431 78 77C78 78.6569 79.3431 80 81 80Z" fill="#58A8F7"/>
+</g>
+<rect x="101" y="25" width="32" height="38" rx="3" fill="white"/>
+<rect opacity="0.2" x="103" y="52" width="28" height="3" fill="#58A8F7"/>
+<rect opacity="0.2" x="110" y="58" width="14" height="3" fill="#58A8F7"/>
+<rect opacity="0.2" x="103" y="27" width="28" height="22" rx="2" fill="#58A8F7"/>
+<mask id="qq1ih5has4n-mask2" mask-type="alpha" maskUnits="userSpaceOnUse" x="103" y="27" width="28" height="22">
+<rect x="103" y="27" width="28" height="22" rx="2" fill="white"/>
+</mask>
+<g mask="url(#qq1ih5has4n-mask2)">
+<path opacity="0.2" fill-rule="evenodd" clip-rule="evenodd" d="M127 39C132.406 39 135.733 43.2697 141 49C136.703 49 118.307 49 113 49C117.574 44.2809 121.594 39 127 39Z" fill="#58A8F7"/>
+<path opacity="0.2" fill-rule="evenodd" clip-rule="evenodd" d="M107 37C112.706 37 116.898 42.7219 122 49C115.306 49 99.0952 49 93 49C97.9281 42.7219 101.294 37 107 37Z" fill="#0D87FF"/>
+<path opacity="0.5" fill-rule="evenodd" clip-rule="evenodd" d="M118 37C119.657 37 121 35.6569 121 34C121 32.3431 119.657 31 118 31C116.343 31 115 32.3431 115 34C115 35.6569 116.343 37 118 37Z" fill="#58A8F7"/>
+</g>
+<rect x="101" y="68" width="32" height="38" rx="3" fill="white"/>
+<rect opacity="0.2" x="103" y="95" width="28" height="3" fill="#58A8F7"/>
+<rect opacity="0.2" x="110" y="101" width="14" height="3" fill="#58A8F7"/>
+<rect opacity="0.2" x="103" y="70" width="28" height="22" rx="2" fill="#58A8F7"/>
+<mask id="qq1ih5has4n-mask3" mask-type="alpha" maskUnits="userSpaceOnUse" x="103" y="70" width="28" height="22">
+<rect x="103" y="70" width="28" height="22" rx="2" fill="white"/>
+</mask>
+<g mask="url(#qq1ih5has4n-mask3)">
+<path opacity="0.2" fill-rule="evenodd" clip-rule="evenodd" d="M127 82C132.406 82 135.733 86.2697 141 92C136.703 92 118.307 92 113 92C117.574 87.2809 121.594 82 127 82Z" fill="#58A8F7"/>
+<path opacity="0.2" fill-rule="evenodd" clip-rule="evenodd" d="M107 80C112.706 80 116.898 85.7219 122 92C115.306 92 99.0952 92 93 92C97.9281 85.7219 101.294 80 107 80Z" fill="#0D87FF"/>
+<path opacity="0.5" fill-rule="evenodd" clip-rule="evenodd" d="M118 80C119.657 80 121 78.6569 121 77C121 75.3431 119.657 74 118 74C116.343 74 115 75.3431 115 77C115 78.6569 116.343 80 118 80Z" fill="#58A8F7"/>
+</g>
+<rect x="138" y="25" width="32" height="38" rx="3" fill="white"/>
+<rect opacity="0.2" x="140" y="52" width="28" height="3" fill="#58A8F7"/>
+<rect opacity="0.2" x="147" y="58" width="14" height="3" fill="#58A8F7"/>
+<rect opacity="0.2" x="140" y="27" width="28" height="22" rx="2" fill="#58A8F7"/>
+<mask id="qq1ih5has4n-mask4" mask-type="alpha" maskUnits="userSpaceOnUse" x="140" y="27" width="28" height="22">
+<rect x="140" y="27" width="28" height="22" rx="2" fill="white"/>
+</mask>
+<g mask="url(#qq1ih5has4n-mask4)">
+<path opacity="0.2" fill-rule="evenodd" clip-rule="evenodd" d="M164 39C169.406 39 172.733 43.2697 178 49C173.703 49 155.307 49 150 49C154.574 44.2809 158.594 39 164 39Z" fill="#58A8F7"/>
+<path opacity="0.2" fill-rule="evenodd" clip-rule="evenodd" d="M144 37C149.706 37 153.898 42.7219 159 49C152.306 49 136.095 49 130 49C134.928 42.7219 138.294 37 144 37Z" fill="#0D87FF"/>
+<path opacity="0.5" fill-rule="evenodd" clip-rule="evenodd" d="M155 37C156.657 37 158 35.6569 158 34C158 32.3431 156.657 31 155 31C153.343 31 152 32.3431 152 34C152 35.6569 153.343 37 155 37Z" fill="#58A8F7"/>
+</g>
+<rect x="138" y="68" width="32" height="38" rx="3" fill="white"/>
+<rect opacity="0.2" x="140" y="95" width="28" height="3" fill="#58A8F7"/>
+<rect opacity="0.2" x="147" y="101" width="14" height="3" fill="#58A8F7"/>
+<rect opacity="0.2" x="140" y="70" width="28" height="22" rx="2" fill="#58A8F7"/>
+<mask id="qq1ih5has4n-mask5" mask-type="alpha" maskUnits="userSpaceOnUse" x="140" y="70" width="28" height="22">
+<rect x="140" y="70" width="28" height="22" rx="2" fill="white"/>
+</mask>
+<g mask="url(#qq1ih5has4n-mask5)">
+<path opacity="0.2" fill-rule="evenodd" clip-rule="evenodd" d="M164 82C169.406 82 172.733 86.2697 178 92C173.703 92 155.307 92 150 92C154.574 87.2809 158.594 82 164 82Z" fill="#58A8F7"/>
+<path opacity="0.2" fill-rule="evenodd" clip-rule="evenodd" d="M144 80C149.706 80 153.898 85.7219 159 92C152.306 92 136.095 92 130 92C134.928 85.7219 138.294 80 144 80Z" fill="#0D87FF"/>
+<path opacity="0.5" fill-rule="evenodd" clip-rule="evenodd" d="M155 80C156.657 80 158 78.6569 158 77C158 75.3431 156.657 74 155 74C153.343 74 152 75.3431 152 77C152 78.6569 153.343 80 155 80Z" fill="#58A8F7"/>
+</g>
+<rect x="64" y="111" width="32" height="38" rx="3" fill="white"/>
+<rect opacity="0.2" x="66" y="138" width="28" height="3" fill="#58A8F7"/>
+<rect opacity="0.2" x="73" y="144" width="14" height="3" fill="#58A8F7"/>
+<rect opacity="0.2" x="66" y="113" width="28" height="22" rx="2" fill="#58A8F7"/>
+<mask id="qq1ih5has4n-mask6" mask-type="alpha" maskUnits="userSpaceOnUse" x="66" y="113" width="28" height="22">
+<rect x="66" y="113" width="28" height="22" rx="2" fill="white"/>
+</mask>
+<g mask="url(#qq1ih5has4n-mask6)">
+<path opacity="0.2" fill-rule="evenodd" clip-rule="evenodd" d="M90 125C95.4059 125 98.7327 129.27 104 135C99.703 135 81.3071 135 76 135C80.5743 130.281 84.5941 125 90 125Z" fill="#58A8F7"/>
+<path opacity="0.2" fill-rule="evenodd" clip-rule="evenodd" d="M70 123C75.7062 123 79.8981 128.722 85 135C78.306 135 62.0952 135 56 135C60.9281 128.722 64.2938 123 70 123Z" fill="#0D87FF"/>
+<path opacity="0.5" fill-rule="evenodd" clip-rule="evenodd" d="M81 123C82.6569 123 84 121.657 84 120C84 118.343 82.6569 117 81 117C79.3431 117 78 118.343 78 120C78 121.657 79.3431 123 81 123Z" fill="#58A8F7"/>
+</g>
+<rect x="101" y="111" width="32" height="38" rx="3" fill="white"/>
+<rect opacity="0.2" x="103" y="138" width="28" height="3" fill="#58A8F7"/>
+<rect opacity="0.2" x="110" y="144" width="14" height="3" fill="#58A8F7"/>
+<rect opacity="0.2" x="103" y="113" width="28" height="22" rx="2" fill="#58A8F7"/>
+<mask id="qq1ih5has4n-mask7" mask-type="alpha" maskUnits="userSpaceOnUse" x="103" y="113" width="28" height="22">
+<rect x="103" y="113" width="28" height="22" rx="2" fill="white"/>
+</mask>
+<g mask="url(#qq1ih5has4n-mask7)">
+<path opacity="0.2" fill-rule="evenodd" clip-rule="evenodd" d="M127 125C132.406 125 135.733 129.27 141 135C136.703 135 118.307 135 113 135C117.574 130.281 121.594 125 127 125Z" fill="#58A8F7"/>
+<path opacity="0.2" fill-rule="evenodd" clip-rule="evenodd" d="M107 123C112.706 123 116.898 128.722 122 135C115.306 135 99.0952 135 93 135C97.9281 128.722 101.294 123 107 123Z" fill="#0D87FF"/>
+<path opacity="0.5" fill-rule="evenodd" clip-rule="evenodd" d="M118 123C119.657 123 121 121.657 121 120C121 118.343 119.657 117 118 117C116.343 117 115 118.343 115 120C115 121.657 116.343 123 118 123Z" fill="#58A8F7"/>
+</g>
+<rect x="138" y="111" width="32" height="38" rx="3" fill="white"/>
+<rect opacity="0.2" x="140" y="138" width="28" height="3" fill="#58A8F7"/>
+<rect opacity="0.2" x="147" y="144" width="14" height="3" fill="#58A8F7"/>
+<rect opacity="0.2" x="140" y="113" width="28" height="22" rx="2" fill="#58A8F7"/>
+<mask id="qq1ih5has4n-mask8" mask-type="alpha" maskUnits="userSpaceOnUse" x="140" y="113" width="28" height="22">
+<rect x="140" y="113" width="28" height="22" rx="2" fill="white"/>
+</mask>
+<g mask="url(#qq1ih5has4n-mask8)">
+<path opacity="0.2" fill-rule="evenodd" clip-rule="evenodd" d="M164 125C169.406 125 172.733 129.27 178 135C173.703 135 155.307 135 150 135C154.574 130.281 158.594 125 164 125Z" fill="#58A8F7"/>
+<path opacity="0.2" fill-rule="evenodd" clip-rule="evenodd" d="M144 123C149.706 123 153.898 128.722 159 135C152.306 135 136.095 135 130 135C134.928 128.722 138.294 123 144 123Z" fill="#0D87FF"/>
+<path opacity="0.5" fill-rule="evenodd" clip-rule="evenodd" d="M155 123C156.657 123 158 121.657 158 120C158 118.343 156.657 117 155 117C153.343 117 152 118.343 152 120C152 121.657 153.343 123 155 123Z" fill="#58A8F7"/>
+</g>
+<rect opacity="0.2" x="64" y="162" width="12" height="11.9999" rx="2" fill="#58A8F7"/>
+<rect opacity="0.2" x="83" y="162" width="12" height="11.9999" rx="2" fill="#58A8F7"/>
+<rect opacity="0.2" x="102" y="162" width="12" height="11.9999" rx="2" fill="#58A8F7"/>
+<rect opacity="0.2" x="121" y="162" width="12" height="11.9999" rx="2" fill="#58A8F7"/>
+<rect opacity="0.2" x="140" y="162" width="12" height="11.9999" rx="2" fill="#58A8F7"/>
+<rect opacity="0.2" x="158" y="162" width="12" height="11.9999" rx="2" fill="#58A8F7"/>
+<rect opacity="0.2" x="10" y="25" width="49" height="149" rx="3" fill="#58A8F7"/>
+<rect opacity="0.5" x="16" y="154" width="37" height="11" rx="2" fill="#0D87FF"/>
+<path opacity="0.2" fill-rule="evenodd" clip-rule="evenodd" d="M24 41L32 50V60L37 57V50L45 41H24Z" fill="#58A8F7"/>
+<rect opacity="0.5" x="16" y="72" width="37" height="11" rx="2" fill="#58A8F7"/>
+<rect x="17" y="73" width="35" height="9" rx="1" fill="white"/>
+<rect opacity="0.2" x="18.5965" y="76" width="20.7719" height="3" fill="#58A8F7"/>
+<path fill-rule="evenodd" clip-rule="evenodd" d="M45.5 79L43 76H48L45.5 79Z" fill="#0D87FF"/>
+<rect opacity="0.5" x="16" y="88" width="37" height="11" rx="2" fill="#58A8F7"/>
+<rect x="17" y="89" width="35" height="9" rx="1" fill="white"/>
+<rect opacity="0.2" x="18.5965" y="92" width="20.7719" height="3" fill="#58A8F7"/>
+<path fill-rule="evenodd" clip-rule="evenodd" d="M45.5 95L43 92H48L45.5 95Z" fill="#0D87FF"/>
+<rect opacity="0.5" x="16" y="104" width="37" height="11" rx="2" fill="#58A8F7"/>
+<rect x="17" y="105" width="35" height="9" rx="1" fill="white"/>
+<rect opacity="0.2" x="18.5965" y="108" width="20.7719" height="3" fill="#58A8F7"/>
+<path fill-rule="evenodd" clip-rule="evenodd" d="M45.5 111L43 108H48L45.5 111Z" fill="#0D87FF"/>
+<rect opacity="0.5" x="16" y="120" width="37" height="11" rx="2" fill="#58A8F7"/>
+<rect x="17" y="121" width="35" height="9" rx="1" fill="white"/>
+<rect opacity="0.2" x="18.5965" y="124" width="20.7719" height="3" fill="#58A8F7"/>
+<path fill-rule="evenodd" clip-rule="evenodd" d="M45.5 127L43 124H48L45.5 127Z" fill="#0D87FF"/>
+</svg></g></g></g><rect x="-1" y="-1" rx="3" ry="3" width="182" height="230" fill="none" stroke="#A2CEF9" stroke-width="2"/><g transform="translate(0,206)"><g><text x="90" y="-5" text-anchor="middle" font-family="Roboto,sans-serif" font-size="14px" fill="#52565f">Rescue Details (Reviews,</text><text x="90" y="13" text-anchor="middle" font-family="Roboto,sans-serif" font-size="14px" fill="#52565f">Contact)</text></g></g></g><g transform="translate(2210, 306)"><rect x="0" y="0" rx="2" ry="2" width="180" height="228" fill="#ffffff"/><g><g><g transform="translate( 0, 0 )"><svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" width="180" height="185" viewBox="0 0 180 185">
+  <defs>
+    <rect id="zorshmanopf-photo_gallery-a" width="48" height="32" rx="2"/>
+    <rect id="zorshmanopf-photo_gallery-c" width="48" height="32" rx="2"/>
+    <rect id="zorshmanopf-photo_gallery-e" width="48" height="32" rx="2"/>
+    <rect id="zorshmanopf-photo_gallery-g" width="48" height="32" rx="2"/>
+    <rect id="zorshmanopf-photo_gallery-i" width="48" height="32" rx="2"/>
+    <rect id="zorshmanopf-photo_gallery-k" width="48" height="32" rx="2"/>
+    <rect id="zorshmanopf-photo_gallery-m" width="48" height="32" rx="2"/>
+    <rect id="zorshmanopf-photo_gallery-o" width="48" height="32" rx="2"/>
+    <rect id="zorshmanopf-photo_gallery-q" width="48" height="32" rx="2"/>
+    <rect id="zorshmanopf-photo_gallery-s" width="48" height="32" rx="2"/>
+    <rect id="zorshmanopf-photo_gallery-u" width="48" height="32" rx="2"/>
+    <rect id="zorshmanopf-photo_gallery-w" width="48" height="32" rx="2"/>
+  </defs>
+  <g fill="none" fill-rule="evenodd">
+    <path fill="#58A8F7" d="M0,2.99971296 C0,1.34301724 1.34537458,0 2.99263929,0 L177.007361,0 C178.66015,0 180,1.34382565 180,2.99971296 L180,185 L0,185 L0,2.99971296 Z" opacity=".097"/>
+    <path fill="#58A8F7" d="M0,3.00947762 C0,1.34738902 1.34537458,0 2.99263929,0 L177.007361,0 C178.66015,0 180,1.33663106 180,3.00947762 L180,16 L0,16 L0,3.00947762 Z" opacity=".197"/>
+    <path fill="#0D87FF" d="M2.5,5 C1.11928813,5 0,3.88071187 0,2.5 C0,1.11928813 1.11928813,0 2.5,0 C3.88071187,0 5,1.11928813 5,2.5 C5,3.88071187 3.88071187,5 2.5,5 Z M10.5,5 C9.11928813,5 8,3.88071187 8,2.5 C8,1.11928813 9.11928813,0 10.5,0 C11.8807119,0 13,1.11928813 13,2.5 C13,3.88071187 11.8807119,5 10.5,5 Z M18.5,5 C17.1192881,5 16,3.88071187 16,2.5 C16,1.11928813 17.1192881,0 18.5,0 C19.8807119,0 21,1.11928813 21,2.5 C21,3.88071187 19.8807119,5 18.5,5 Z" opacity=".499" transform="translate(5 6)"/>
+    <g transform="translate(10 26)">
+      <rect width="48" height="32" fill="#58A8F7" opacity=".197" rx="2"/>
+      <mask id="zorshmanopf-photo_gallery-b" fill="#fff">
+        <use xlink:href="#zorshmanopf-photo_gallery-a"/>
+      </mask>
+      <path fill="#58A8F7" d="M38.4,15.2380952 C46.6082037,15.2380952 50.9736917,22.3948636 58.9714286,32 L16.4571429,32 C23.402546,24.0898876 30.1917963,15.2380952 38.4,15.2380952 Z" mask="url(#zorshmanopf-photo_gallery-b)" opacity=".197"/>
+      <path fill="#0D87FF" d="M10.9714286,12.1904762 C19.7415186,12.1904762 25.7587302,21.6361971 33.6,32 L-10.9714286,32 C-3.39725995,21.6361971 2.20133858,12.1904762 10.9714286,12.1904762 Z" mask="url(#zorshmanopf-photo_gallery-b)" opacity=".198"/>
+      <circle cx="26.057" cy="8.381" r="5" fill="#58A8F7" mask="url(#zorshmanopf-photo_gallery-b)" opacity=".499"/>
+    </g>
+    <g transform="translate(10 66)">
+      <rect width="48" height="32" fill="#58A8F7" opacity=".197" rx="2"/>
+      <mask id="zorshmanopf-photo_gallery-d" fill="#fff">
+        <use xlink:href="#zorshmanopf-photo_gallery-c"/>
+      </mask>
+      <path fill="#58A8F7" d="M38.4,15.2380952 C46.6082037,15.2380952 50.9736917,22.3948636 58.9714286,32 L16.4571429,32 C23.402546,24.0898876 30.1917963,15.2380952 38.4,15.2380952 Z" mask="url(#zorshmanopf-photo_gallery-d)" opacity=".197"/>
+      <path fill="#0D87FF" d="M10.9714286,12.1904762 C19.7415186,12.1904762 25.7587302,21.6361971 33.6,32 L-10.9714286,32 C-3.39725995,21.6361971 2.20133858,12.1904762 10.9714286,12.1904762 Z" mask="url(#zorshmanopf-photo_gallery-d)" opacity=".198"/>
+      <circle cx="26.057" cy="8.381" r="5" fill="#58A8F7" mask="url(#zorshmanopf-photo_gallery-d)" opacity=".499"/>
+    </g>
+    <g transform="translate(66 26)">
+      <rect width="48" height="32" fill="#58A8F7" opacity=".197" rx="2"/>
+      <mask id="zorshmanopf-photo_gallery-f" fill="#fff">
+        <use xlink:href="#zorshmanopf-photo_gallery-e"/>
+      </mask>
+      <path fill="#58A8F7" d="M38.4,15.2380952 C46.6082037,15.2380952 50.9736917,22.3948636 58.9714286,32 L16.4571429,32 C23.402546,24.0898876 30.1917963,15.2380952 38.4,15.2380952 Z" mask="url(#zorshmanopf-photo_gallery-f)" opacity=".197"/>
+      <path fill="#0D87FF" d="M10.9714286,12.1904762 C19.7415186,12.1904762 25.7587302,21.6361971 33.6,32 L-10.9714286,32 C-3.39725995,21.6361971 2.20133858,12.1904762 10.9714286,12.1904762 Z" mask="url(#zorshmanopf-photo_gallery-f)" opacity=".198"/>
+      <circle cx="26.057" cy="8.381" r="5" fill="#58A8F7" mask="url(#zorshmanopf-photo_gallery-f)" opacity=".499"/>
+    </g>
+    <g transform="translate(66 66)">
+      <rect width="48" height="32" fill="#58A8F7" opacity=".197" rx="2"/>
+      <mask id="zorshmanopf-photo_gallery-h" fill="#fff">
+        <use xlink:href="#zorshmanopf-photo_gallery-g"/>
+      </mask>
+      <path fill="#58A8F7" d="M38.4,15.2380952 C46.6082037,15.2380952 50.9736917,22.3948636 58.9714286,32 L16.4571429,32 C23.402546,24.0898876 30.1917963,15.2380952 38.4,15.2380952 Z" mask="url(#zorshmanopf-photo_gallery-h)" opacity=".197"/>
+      <path fill="#0D87FF" d="M10.9714286,12.1904762 C19.7415186,12.1904762 25.7587302,21.6361971 33.6,32 L-10.9714286,32 C-3.39725995,21.6361971 2.20133858,12.1904762 10.9714286,12.1904762 Z" mask="url(#zorshmanopf-photo_gallery-h)" opacity=".198"/>
+      <circle cx="26.057" cy="8.381" r="5" fill="#58A8F7" mask="url(#zorshmanopf-photo_gallery-h)" opacity=".499"/>
+    </g>
+    <g transform="translate(122 26)">
+      <rect width="48" height="32" fill="#58A8F7" opacity=".197" rx="2"/>
+      <mask id="zorshmanopf-photo_gallery-j" fill="#fff">
+        <use xlink:href="#zorshmanopf-photo_gallery-i"/>
+      </mask>
+      <path fill="#58A8F7" d="M38.4,15.2380952 C46.6082037,15.2380952 50.9736917,22.3948636 58.9714286,32 L16.4571429,32 C23.402546,24.0898876 30.1917963,15.2380952 38.4,15.2380952 Z" mask="url(#zorshmanopf-photo_gallery-j)" opacity=".197"/>
+      <path fill="#0D87FF" d="M10.9714286,12.1904762 C19.7415186,12.1904762 25.7587302,21.6361971 33.6,32 L-10.9714286,32 C-3.39725995,21.6361971 2.20133858,12.1904762 10.9714286,12.1904762 Z" mask="url(#zorshmanopf-photo_gallery-j)" opacity=".198"/>
+      <circle cx="26.057" cy="8.381" r="5" fill="#58A8F7" mask="url(#zorshmanopf-photo_gallery-j)" opacity=".499"/>
+    </g>
+    <g transform="translate(122 66)">
+      <rect width="48" height="32" fill="#58A8F7" opacity=".197" rx="2"/>
+      <mask id="zorshmanopf-photo_gallery-l" fill="#fff">
+        <use xlink:href="#zorshmanopf-photo_gallery-k"/>
+      </mask>
+      <path fill="#58A8F7" d="M38.4,15.2380952 C46.6082037,15.2380952 50.9736917,22.3948636 58.9714286,32 L16.4571429,32 C23.402546,24.0898876 30.1917963,15.2380952 38.4,15.2380952 Z" mask="url(#zorshmanopf-photo_gallery-l)" opacity=".197"/>
+      <path fill="#0D87FF" d="M10.9714286,12.1904762 C19.7415186,12.1904762 25.7587302,21.6361971 33.6,32 L-10.9714286,32 C-3.39725995,21.6361971 2.20133858,12.1904762 10.9714286,12.1904762 Z" mask="url(#zorshmanopf-photo_gallery-l)" opacity=".198"/>
+      <circle cx="26.057" cy="8.381" r="5" fill="#58A8F7" mask="url(#zorshmanopf-photo_gallery-l)" opacity=".499"/>
+    </g>
+    <g transform="translate(10 106)">
+      <rect width="48" height="32" fill="#58A8F7" opacity=".197" rx="2"/>
+      <mask id="zorshmanopf-photo_gallery-n" fill="#fff">
+        <use xlink:href="#zorshmanopf-photo_gallery-m"/>
+      </mask>
+      <path fill="#58A8F7" d="M38.4,15.2380952 C46.6082037,15.2380952 50.9736917,22.3948636 58.9714286,32 L16.4571429,32 C23.402546,24.0898876 30.1917963,15.2380952 38.4,15.2380952 Z" mask="url(#zorshmanopf-photo_gallery-n)" opacity=".197"/>
+      <path fill="#0D87FF" d="M10.9714286,12.1904762 C19.7415186,12.1904762 25.7587302,21.6361971 33.6,32 L-10.9714286,32 C-3.39725995,21.6361971 2.20133858,12.1904762 10.9714286,12.1904762 Z" mask="url(#zorshmanopf-photo_gallery-n)" opacity=".198"/>
+      <circle cx="26.057" cy="8.381" r="5" fill="#58A8F7" mask="url(#zorshmanopf-photo_gallery-n)" opacity=".499"/>
+    </g>
+    <g transform="translate(66 106)">
+      <rect width="48" height="32" fill="#58A8F7" opacity=".197" rx="2"/>
+      <mask id="zorshmanopf-photo_gallery-p" fill="#fff">
+        <use xlink:href="#zorshmanopf-photo_gallery-o"/>
+      </mask>
+      <path fill="#58A8F7" d="M38.4,15.2380952 C46.6082037,15.2380952 50.9736917,22.3948636 58.9714286,32 L16.4571429,32 C23.402546,24.0898876 30.1917963,15.2380952 38.4,15.2380952 Z" mask="url(#zorshmanopf-photo_gallery-p)" opacity=".197"/>
+      <path fill="#0D87FF" d="M10.9714286,12.1904762 C19.7415186,12.1904762 25.7587302,21.6361971 33.6,32 L-10.9714286,32 C-3.39725995,21.6361971 2.20133858,12.1904762 10.9714286,12.1904762 Z" mask="url(#zorshmanopf-photo_gallery-p)" opacity=".198"/>
+      <circle cx="26.057" cy="8.381" r="5" fill="#58A8F7" mask="url(#zorshmanopf-photo_gallery-p)" opacity=".499"/>
+    </g>
+    <g transform="translate(122 106)">
+      <rect width="48" height="32" fill="#58A8F7" opacity=".197" rx="2"/>
+      <mask id="zorshmanopf-photo_gallery-r" fill="#fff">
+        <use xlink:href="#zorshmanopf-photo_gallery-q"/>
+      </mask>
+      <path fill="#58A8F7" d="M38.4,15.2380952 C46.6082037,15.2380952 50.9736917,22.3948636 58.9714286,32 L16.4571429,32 C23.402546,24.0898876 30.1917963,15.2380952 38.4,15.2380952 Z" mask="url(#zorshmanopf-photo_gallery-r)" opacity=".197"/>
+      <path fill="#0D87FF" d="M10.9714286,12.1904762 C19.7415186,12.1904762 25.7587302,21.6361971 33.6,32 L-10.9714286,32 C-3.39725995,21.6361971 2.20133858,12.1904762 10.9714286,12.1904762 Z" mask="url(#zorshmanopf-photo_gallery-r)" opacity=".198"/>
+      <circle cx="26.057" cy="8.381" r="5" fill="#58A8F7" mask="url(#zorshmanopf-photo_gallery-r)" opacity=".499"/>
+    </g>
+    <g transform="translate(10 146)">
+      <rect width="48" height="32" fill="#58A8F7" opacity=".197" rx="2"/>
+      <mask id="zorshmanopf-photo_gallery-t" fill="#fff">
+        <use xlink:href="#zorshmanopf-photo_gallery-s"/>
+      </mask>
+      <path fill="#58A8F7" d="M38.4,15.2380952 C46.6082037,15.2380952 50.9736917,22.3948636 58.9714286,32 L16.4571429,32 C23.402546,24.0898876 30.1917963,15.2380952 38.4,15.2380952 Z" mask="url(#zorshmanopf-photo_gallery-t)" opacity=".197"/>
+      <path fill="#0D87FF" d="M10.9714286,12.1904762 C19.7415186,12.1904762 25.7587302,21.6361971 33.6,32 L-10.9714286,32 C-3.39725995,21.6361971 2.20133858,12.1904762 10.9714286,12.1904762 Z" mask="url(#zorshmanopf-photo_gallery-t)" opacity=".198"/>
+      <circle cx="26.057" cy="8.381" r="5" fill="#58A8F7" mask="url(#zorshmanopf-photo_gallery-t)" opacity=".499"/>
+    </g>
+    <g transform="translate(66 146)">
+      <rect width="48" height="32" fill="#58A8F7" opacity=".197" rx="2"/>
+      <mask id="zorshmanopf-photo_gallery-v" fill="#fff">
+        <use xlink:href="#zorshmanopf-photo_gallery-u"/>
+      </mask>
+      <path fill="#58A8F7" d="M38.4,15.2380952 C46.6082037,15.2380952 50.9736917,22.3948636 58.9714286,32 L16.4571429,32 C23.402546,24.0898876 30.1917963,15.2380952 38.4,15.2380952 Z" mask="url(#zorshmanopf-photo_gallery-v)" opacity=".197"/>
+      <path fill="#0D87FF" d="M10.9714286,12.1904762 C19.7415186,12.1904762 25.7587302,21.6361971 33.6,32 L-10.9714286,32 C-3.39725995,21.6361971 2.20133858,12.1904762 10.9714286,12.1904762 Z" mask="url(#zorshmanopf-photo_gallery-v)" opacity=".198"/>
+      <circle cx="26.057" cy="8.381" r="5" fill="#58A8F7" mask="url(#zorshmanopf-photo_gallery-v)" opacity=".499"/>
+    </g>
+    <g transform="translate(122 146)">
+      <rect width="48" height="32" fill="#58A8F7" opacity=".197" rx="2"/>
+      <mask id="zorshmanopf-photo_gallery-x" fill="#fff">
+        <use xlink:href="#zorshmanopf-photo_gallery-w"/>
+      </mask>
+      <path fill="#58A8F7" d="M38.4,15.2380952 C46.6082037,15.2380952 50.9736917,22.3948636 58.9714286,32 L16.4571429,32 C23.402546,24.0898876 30.1917963,15.2380952 38.4,15.2380952 Z" mask="url(#zorshmanopf-photo_gallery-x)" opacity=".197"/>
+      <path fill="#0D87FF" d="M10.9714286,12.1904762 C19.7415186,12.1904762 25.7587302,21.6361971 33.6,32 L-10.9714286,32 C-3.39725995,21.6361971 2.20133858,12.1904762 10.9714286,12.1904762 Z" mask="url(#zorshmanopf-photo_gallery-x)" opacity=".198"/>
+      <circle cx="26.057" cy="8.381" r="5" fill="#58A8F7" mask="url(#zorshmanopf-photo_gallery-x)" opacity=".499"/>
+    </g>
+  </g>
+</svg></g></g></g><rect x="-1" y="-1" rx="3" ry="3" width="182" height="230" fill="none" stroke="#A2CEF9" stroke-width="2"/><g transform="translate(0,206)"><g><text x="90" y="4" text-anchor="middle" font-family="Roboto,sans-serif" font-size="14px" fill="#52565f">Rescues</text></g></g></g><g transform="translate(2410, 586)"><rect x="0" y="0" rx="2" ry="2" width="180" height="228" fill="#ffffff"/><g><g><g transform="translate( 0, 0 )"><svg xmlns="http://www.w3.org/2000/svg" width="180" height="184" viewBox="0 0 180 184" fill="none">
+<path d="M0 3C0 1.34315 1.34315 0 3 0H177C178.657 0 180 1.34315 180 3V184H0V3Z" fill="#EFF7FF"/>
+<path opacity="0.2" d="M0 3C0 1.34315 1.34315 0 3 0H177C178.657 0 180 1.34315 180 3V15H0V3Z" fill="#58A8F7"/>
+<path opacity="0.5" fill-rule="evenodd" clip-rule="evenodd" d="M7.5 10C8.88071 10 10 8.88071 10 7.5C10 6.11929 8.88071 5 7.5 5C6.11929 5 5 6.11929 5 7.5C5 8.88071 6.11929 10 7.5 10ZM15.5 10C16.8807 10 18 8.88071 18 7.5C18 6.11929 16.8807 5 15.5 5C14.1193 5 13 6.11929 13 7.5C13 8.88071 14.1193 10 15.5 10ZM26 7.5C26 8.88071 24.8807 10 23.5 10C22.1193 10 21 8.88071 21 7.5C21 6.11929 22.1193 5 23.5 5C24.8807 5 26 6.11929 26 7.5Z" fill="#0D87FF"/>
+<rect x="64" y="25" width="32" height="38" rx="3" fill="white"/>
+<rect opacity="0.2" x="66" y="52" width="28" height="3" fill="#58A8F7"/>
+<rect opacity="0.2" x="73" y="58" width="14" height="3" fill="#58A8F7"/>
+<rect opacity="0.2" x="66" y="27" width="28" height="22" rx="2" fill="#58A8F7"/>
+<mask id="gqbtok4gpaf-mask0" mask-type="alpha" maskUnits="userSpaceOnUse" x="66" y="27" width="28" height="22">
+<rect x="66" y="27" width="28" height="22" rx="2" fill="white"/>
+</mask>
+<g mask="url(#gqbtok4gpaf-mask0)">
+<path opacity="0.2" fill-rule="evenodd" clip-rule="evenodd" d="M90 39C95.4059 39 98.7327 43.2697 104 49C99.703 49 81.3071 49 76 49C80.5743 44.2809 84.5941 39 90 39Z" fill="#58A8F7"/>
+<path opacity="0.2" fill-rule="evenodd" clip-rule="evenodd" d="M70 37C75.7062 37 79.8981 42.7219 85 49C78.306 49 62.0952 49 56 49C60.9281 42.7219 64.2938 37 70 37Z" fill="#0D87FF"/>
+<path opacity="0.5" fill-rule="evenodd" clip-rule="evenodd" d="M81 37C82.6569 37 84 35.6569 84 34C84 32.3431 82.6569 31 81 31C79.3431 31 78 32.3431 78 34C78 35.6569 79.3431 37 81 37Z" fill="#58A8F7"/>
+</g>
+<rect x="64" y="68" width="32" height="38" rx="3" fill="white"/>
+<rect opacity="0.2" x="66" y="95" width="28" height="3" fill="#58A8F7"/>
+<rect opacity="0.2" x="73" y="101" width="14" height="3" fill="#58A8F7"/>
+<rect opacity="0.2" x="66" y="70" width="28" height="22" rx="2" fill="#58A8F7"/>
+<mask id="gqbtok4gpaf-mask1" mask-type="alpha" maskUnits="userSpaceOnUse" x="66" y="70" width="28" height="22">
+<rect x="66" y="70" width="28" height="22" rx="2" fill="white"/>
+</mask>
+<g mask="url(#gqbtok4gpaf-mask1)">
+<path opacity="0.2" fill-rule="evenodd" clip-rule="evenodd" d="M90 82C95.4059 82 98.7327 86.2697 104 92C99.703 92 81.3071 92 76 92C80.5743 87.2809 84.5941 82 90 82Z" fill="#58A8F7"/>
+<path opacity="0.2" fill-rule="evenodd" clip-rule="evenodd" d="M70 80C75.7062 80 79.8981 85.7219 85 92C78.306 92 62.0952 92 56 92C60.9281 85.7219 64.2938 80 70 80Z" fill="#0D87FF"/>
+<path opacity="0.5" fill-rule="evenodd" clip-rule="evenodd" d="M81 80C82.6569 80 84 78.6569 84 77C84 75.3431 82.6569 74 81 74C79.3431 74 78 75.3431 78 77C78 78.6569 79.3431 80 81 80Z" fill="#58A8F7"/>
+</g>
+<rect x="101" y="25" width="32" height="38" rx="3" fill="white"/>
+<rect opacity="0.2" x="103" y="52" width="28" height="3" fill="#58A8F7"/>
+<rect opacity="0.2" x="110" y="58" width="14" height="3" fill="#58A8F7"/>
+<rect opacity="0.2" x="103" y="27" width="28" height="22" rx="2" fill="#58A8F7"/>
+<mask id="gqbtok4gpaf-mask2" mask-type="alpha" maskUnits="userSpaceOnUse" x="103" y="27" width="28" height="22">
+<rect x="103" y="27" width="28" height="22" rx="2" fill="white"/>
+</mask>
+<g mask="url(#gqbtok4gpaf-mask2)">
+<path opacity="0.2" fill-rule="evenodd" clip-rule="evenodd" d="M127 39C132.406 39 135.733 43.2697 141 49C136.703 49 118.307 49 113 49C117.574 44.2809 121.594 39 127 39Z" fill="#58A8F7"/>
+<path opacity="0.2" fill-rule="evenodd" clip-rule="evenodd" d="M107 37C112.706 37 116.898 42.7219 122 49C115.306 49 99.0952 49 93 49C97.9281 42.7219 101.294 37 107 37Z" fill="#0D87FF"/>
+<path opacity="0.5" fill-rule="evenodd" clip-rule="evenodd" d="M118 37C119.657 37 121 35.6569 121 34C121 32.3431 119.657 31 118 31C116.343 31 115 32.3431 115 34C115 35.6569 116.343 37 118 37Z" fill="#58A8F7"/>
+</g>
+<rect x="101" y="68" width="32" height="38" rx="3" fill="white"/>
+<rect opacity="0.2" x="103" y="95" width="28" height="3" fill="#58A8F7"/>
+<rect opacity="0.2" x="110" y="101" width="14" height="3" fill="#58A8F7"/>
+<rect opacity="0.2" x="103" y="70" width="28" height="22" rx="2" fill="#58A8F7"/>
+<mask id="gqbtok4gpaf-mask3" mask-type="alpha" maskUnits="userSpaceOnUse" x="103" y="70" width="28" height="22">
+<rect x="103" y="70" width="28" height="22" rx="2" fill="white"/>
+</mask>
+<g mask="url(#gqbtok4gpaf-mask3)">
+<path opacity="0.2" fill-rule="evenodd" clip-rule="evenodd" d="M127 82C132.406 82 135.733 86.2697 141 92C136.703 92 118.307 92 113 92C117.574 87.2809 121.594 82 127 82Z" fill="#58A8F7"/>
+<path opacity="0.2" fill-rule="evenodd" clip-rule="evenodd" d="M107 80C112.706 80 116.898 85.7219 122 92C115.306 92 99.0952 92 93 92C97.9281 85.7219 101.294 80 107 80Z" fill="#0D87FF"/>
+<path opacity="0.5" fill-rule="evenodd" clip-rule="evenodd" d="M118 80C119.657 80 121 78.6569 121 77C121 75.3431 119.657 74 118 74C116.343 74 115 75.3431 115 77C115 78.6569 116.343 80 118 80Z" fill="#58A8F7"/>
+</g>
+<rect x="138" y="25" width="32" height="38" rx="3" fill="white"/>
+<rect opacity="0.2" x="140" y="52" width="28" height="3" fill="#58A8F7"/>
+<rect opacity="0.2" x="147" y="58" width="14" height="3" fill="#58A8F7"/>
+<rect opacity="0.2" x="140" y="27" width="28" height="22" rx="2" fill="#58A8F7"/>
+<mask id="gqbtok4gpaf-mask4" mask-type="alpha" maskUnits="userSpaceOnUse" x="140" y="27" width="28" height="22">
+<rect x="140" y="27" width="28" height="22" rx="2" fill="white"/>
+</mask>
+<g mask="url(#gqbtok4gpaf-mask4)">
+<path opacity="0.2" fill-rule="evenodd" clip-rule="evenodd" d="M164 39C169.406 39 172.733 43.2697 178 49C173.703 49 155.307 49 150 49C154.574 44.2809 158.594 39 164 39Z" fill="#58A8F7"/>
+<path opacity="0.2" fill-rule="evenodd" clip-rule="evenodd" d="M144 37C149.706 37 153.898 42.7219 159 49C152.306 49 136.095 49 130 49C134.928 42.7219 138.294 37 144 37Z" fill="#0D87FF"/>
+<path opacity="0.5" fill-rule="evenodd" clip-rule="evenodd" d="M155 37C156.657 37 158 35.6569 158 34C158 32.3431 156.657 31 155 31C153.343 31 152 32.3431 152 34C152 35.6569 153.343 37 155 37Z" fill="#58A8F7"/>
+</g>
+<rect x="138" y="68" width="32" height="38" rx="3" fill="white"/>
+<rect opacity="0.2" x="140" y="95" width="28" height="3" fill="#58A8F7"/>
+<rect opacity="0.2" x="147" y="101" width="14" height="3" fill="#58A8F7"/>
+<rect opacity="0.2" x="140" y="70" width="28" height="22" rx="2" fill="#58A8F7"/>
+<mask id="gqbtok4gpaf-mask5" mask-type="alpha" maskUnits="userSpaceOnUse" x="140" y="70" width="28" height="22">
+<rect x="140" y="70" width="28" height="22" rx="2" fill="white"/>
+</mask>
+<g mask="url(#gqbtok4gpaf-mask5)">
+<path opacity="0.2" fill-rule="evenodd" clip-rule="evenodd" d="M164 82C169.406 82 172.733 86.2697 178 92C173.703 92 155.307 92 150 92C154.574 87.2809 158.594 82 164 82Z" fill="#58A8F7"/>
+<path opacity="0.2" fill-rule="evenodd" clip-rule="evenodd" d="M144 80C149.706 80 153.898 85.7219 159 92C152.306 92 136.095 92 130 92C134.928 85.7219 138.294 80 144 80Z" fill="#0D87FF"/>
+<path opacity="0.5" fill-rule="evenodd" clip-rule="evenodd" d="M155 80C156.657 80 158 78.6569 158 77C158 75.3431 156.657 74 155 74C153.343 74 152 75.3431 152 77C152 78.6569 153.343 80 155 80Z" fill="#58A8F7"/>
+</g>
+<rect x="64" y="111" width="32" height="38" rx="3" fill="white"/>
+<rect opacity="0.2" x="66" y="138" width="28" height="3" fill="#58A8F7"/>
+<rect opacity="0.2" x="73" y="144" width="14" height="3" fill="#58A8F7"/>
+<rect opacity="0.2" x="66" y="113" width="28" height="22" rx="2" fill="#58A8F7"/>
+<mask id="gqbtok4gpaf-mask6" mask-type="alpha" maskUnits="userSpaceOnUse" x="66" y="113" width="28" height="22">
+<rect x="66" y="113" width="28" height="22" rx="2" fill="white"/>
+</mask>
+<g mask="url(#gqbtok4gpaf-mask6)">
+<path opacity="0.2" fill-rule="evenodd" clip-rule="evenodd" d="M90 125C95.4059 125 98.7327 129.27 104 135C99.703 135 81.3071 135 76 135C80.5743 130.281 84.5941 125 90 125Z" fill="#58A8F7"/>
+<path opacity="0.2" fill-rule="evenodd" clip-rule="evenodd" d="M70 123C75.7062 123 79.8981 128.722 85 135C78.306 135 62.0952 135 56 135C60.9281 128.722 64.2938 123 70 123Z" fill="#0D87FF"/>
+<path opacity="0.5" fill-rule="evenodd" clip-rule="evenodd" d="M81 123C82.6569 123 84 121.657 84 120C84 118.343 82.6569 117 81 117C79.3431 117 78 118.343 78 120C78 121.657 79.3431 123 81 123Z" fill="#58A8F7"/>
+</g>
+<rect x="101" y="111" width="32" height="38" rx="3" fill="white"/>
+<rect opacity="0.2" x="103" y="138" width="28" height="3" fill="#58A8F7"/>
+<rect opacity="0.2" x="110" y="144" width="14" height="3" fill="#58A8F7"/>
+<rect opacity="0.2" x="103" y="113" width="28" height="22" rx="2" fill="#58A8F7"/>
+<mask id="gqbtok4gpaf-mask7" mask-type="alpha" maskUnits="userSpaceOnUse" x="103" y="113" width="28" height="22">
+<rect x="103" y="113" width="28" height="22" rx="2" fill="white"/>
+</mask>
+<g mask="url(#gqbtok4gpaf-mask7)">
+<path opacity="0.2" fill-rule="evenodd" clip-rule="evenodd" d="M127 125C132.406 125 135.733 129.27 141 135C136.703 135 118.307 135 113 135C117.574 130.281 121.594 125 127 125Z" fill="#58A8F7"/>
+<path opacity="0.2" fill-rule="evenodd" clip-rule="evenodd" d="M107 123C112.706 123 116.898 128.722 122 135C115.306 135 99.0952 135 93 135C97.9281 128.722 101.294 123 107 123Z" fill="#0D87FF"/>
+<path opacity="0.5" fill-rule="evenodd" clip-rule="evenodd" d="M118 123C119.657 123 121 121.657 121 120C121 118.343 119.657 117 118 117C116.343 117 115 118.343 115 120C115 121.657 116.343 123 118 123Z" fill="#58A8F7"/>
+</g>
+<rect x="138" y="111" width="32" height="38" rx="3" fill="white"/>
+<rect opacity="0.2" x="140" y="138" width="28" height="3" fill="#58A8F7"/>
+<rect opacity="0.2" x="147" y="144" width="14" height="3" fill="#58A8F7"/>
+<rect opacity="0.2" x="140" y="113" width="28" height="22" rx="2" fill="#58A8F7"/>
+<mask id="gqbtok4gpaf-mask8" mask-type="alpha" maskUnits="userSpaceOnUse" x="140" y="113" width="28" height="22">
+<rect x="140" y="113" width="28" height="22" rx="2" fill="white"/>
+</mask>
+<g mask="url(#gqbtok4gpaf-mask8)">
+<path opacity="0.2" fill-rule="evenodd" clip-rule="evenodd" d="M164 125C169.406 125 172.733 129.27 178 135C173.703 135 155.307 135 150 135C154.574 130.281 158.594 125 164 125Z" fill="#58A8F7"/>
+<path opacity="0.2" fill-rule="evenodd" clip-rule="evenodd" d="M144 123C149.706 123 153.898 128.722 159 135C152.306 135 136.095 135 130 135C134.928 128.722 138.294 123 144 123Z" fill="#0D87FF"/>
+<path opacity="0.5" fill-rule="evenodd" clip-rule="evenodd" d="M155 123C156.657 123 158 121.657 158 120C158 118.343 156.657 117 155 117C153.343 117 152 118.343 152 120C152 121.657 153.343 123 155 123Z" fill="#58A8F7"/>
+</g>
+<rect opacity="0.2" x="64" y="162" width="12" height="11.9999" rx="2" fill="#58A8F7"/>
+<rect opacity="0.2" x="83" y="162" width="12" height="11.9999" rx="2" fill="#58A8F7"/>
+<rect opacity="0.2" x="102" y="162" width="12" height="11.9999" rx="2" fill="#58A8F7"/>
+<rect opacity="0.2" x="121" y="162" width="12" height="11.9999" rx="2" fill="#58A8F7"/>
+<rect opacity="0.2" x="140" y="162" width="12" height="11.9999" rx="2" fill="#58A8F7"/>
+<rect opacity="0.2" x="158" y="162" width="12" height="11.9999" rx="2" fill="#58A8F7"/>
+<rect opacity="0.2" x="10" y="25" width="49" height="149" rx="3" fill="#58A8F7"/>
+<rect opacity="0.5" x="16" y="154" width="37" height="11" rx="2" fill="#0D87FF"/>
+<path opacity="0.2" fill-rule="evenodd" clip-rule="evenodd" d="M24 41L32 50V60L37 57V50L45 41H24Z" fill="#58A8F7"/>
+<rect opacity="0.5" x="16" y="72" width="37" height="11" rx="2" fill="#58A8F7"/>
+<rect x="17" y="73" width="35" height="9" rx="1" fill="white"/>
+<rect opacity="0.2" x="18.5965" y="76" width="20.7719" height="3" fill="#58A8F7"/>
+<path fill-rule="evenodd" clip-rule="evenodd" d="M45.5 79L43 76H48L45.5 79Z" fill="#0D87FF"/>
+<rect opacity="0.5" x="16" y="88" width="37" height="11" rx="2" fill="#58A8F7"/>
+<rect x="17" y="89" width="35" height="9" rx="1" fill="white"/>
+<rect opacity="0.2" x="18.5965" y="92" width="20.7719" height="3" fill="#58A8F7"/>
+<path fill-rule="evenodd" clip-rule="evenodd" d="M45.5 95L43 92H48L45.5 95Z" fill="#0D87FF"/>
+<rect opacity="0.5" x="16" y="104" width="37" height="11" rx="2" fill="#58A8F7"/>
+<rect x="17" y="105" width="35" height="9" rx="1" fill="white"/>
+<rect opacity="0.2" x="18.5965" y="108" width="20.7719" height="3" fill="#58A8F7"/>
+<path fill-rule="evenodd" clip-rule="evenodd" d="M45.5 111L43 108H48L45.5 111Z" fill="#0D87FF"/>
+<rect opacity="0.5" x="16" y="120" width="37" height="11" rx="2" fill="#58A8F7"/>
+<rect x="17" y="121" width="35" height="9" rx="1" fill="white"/>
+<rect opacity="0.2" x="18.5965" y="124" width="20.7719" height="3" fill="#58A8F7"/>
+<path fill-rule="evenodd" clip-rule="evenodd" d="M45.5 127L43 124H48L45.5 127Z" fill="#0D87FF"/>
+</svg></g></g></g><rect x="-1" y="-1" rx="3" ry="3" width="182" height="230" fill="none" stroke="#A2CEF9" stroke-width="2"/><g transform="translate(0,206)"><g><text x="90" y="4" text-anchor="middle" font-family="Roboto,sans-serif" font-size="14px" fill="#52565f">Pet Events</text></g></g></g><g transform="translate(2410, 306)"><rect x="0" y="0" rx="2" ry="2" width="180" height="228" fill="#ffffff"/><g><g><g transform="translate( 0, 0 )"><svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" width="180" height="185" viewBox="0 0 180 185">
+  <defs>
+    <circle id="qal93hkkvuo-feed-a" cx="7.5" cy="7.5" r="7.5"/>
+    <circle id="qal93hkkvuo-feed-c" cx="7.5" cy="7.5" r="7.5"/>
+    <circle id="qal93hkkvuo-feed-e" cx="7.5" cy="7.5" r="7.5"/>
+    <circle id="qal93hkkvuo-feed-g" cx="7.5" cy="7.5" r="7.5"/>
+  </defs>
+  <g fill="none" fill-rule="evenodd">
+    <path fill="#58A8F7" d="M0,2.99971296 C0,1.34301724 1.34537458,0 2.99263929,0 L177.007361,0 C178.66015,0 180,1.34382565 180,2.99971296 L180,185 L0,185 L0,2.99971296 Z" opacity=".097"/>
+    <g transform="translate(69 135)">
+      <mask id="qal93hkkvuo-feed-b" fill="#fff">
+        <use xlink:href="#qal93hkkvuo-feed-a"/>
+      </mask>
+      <use fill="#58A8F7" opacity=".197" xlink:href="#qal93hkkvuo-feed-a"/>
+      <path fill="#0D87FF" d="M7.5,21 C3.91014913,21 1,18.0898509 1,14.5 C1,10.9101491 3.91014913,8 7.5,8 C11.0898509,8 14,10.9101491 14,14.5 C14,18.0898509 11.0898509,21 7.5,21 Z M7.5,7 C6.11928813,7 5,5.88071187 5,4.5 C5,3.11928813 6.11928813,2 7.5,2 C8.88071187,2 10,3.11928813 10,4.5 C10,5.88071187 8.88071187,7 7.5,7 Z" mask="url(#qal93hkkvuo-feed-b)" opacity=".499"/>
+    </g>
+    <g transform="translate(69 26)">
+      <mask id="qal93hkkvuo-feed-d" fill="#fff">
+        <use xlink:href="#qal93hkkvuo-feed-c"/>
+      </mask>
+      <use fill="#58A8F7" opacity=".197" xlink:href="#qal93hkkvuo-feed-c"/>
+      <path fill="#0D87FF" d="M7.5,21 C3.91014913,21 1,18.0898509 1,14.5 C1,10.9101491 3.91014913,8 7.5,8 C11.0898509,8 14,10.9101491 14,14.5 C14,18.0898509 11.0898509,21 7.5,21 Z M7.5,7 C6.11928813,7 5,5.88071187 5,4.5 C5,3.11928813 6.11928813,2 7.5,2 C8.88071187,2 10,3.11928813 10,4.5 C10,5.88071187 8.88071187,7 7.5,7 Z" mask="url(#qal93hkkvuo-feed-d)" opacity=".499"/>
+    </g>
+    <g transform="translate(69 62)">
+      <mask id="qal93hkkvuo-feed-f" fill="#fff">
+        <use xlink:href="#qal93hkkvuo-feed-e"/>
+      </mask>
+      <use fill="#58A8F7" opacity=".197" xlink:href="#qal93hkkvuo-feed-e"/>
+      <path fill="#0D87FF" d="M7.5,21 C3.91014913,21 1,18.0898509 1,14.5 C1,10.9101491 3.91014913,8 7.5,8 C11.0898509,8 14,10.9101491 14,14.5 C14,18.0898509 11.0898509,21 7.5,21 Z M7.5,7 C6.11928813,7 5,5.88071187 5,4.5 C5,3.11928813 6.11928813,2 7.5,2 C8.88071187,2 10,3.11928813 10,4.5 C10,5.88071187 8.88071187,7 7.5,7 Z" mask="url(#qal93hkkvuo-feed-f)" opacity=".499"/>
+    </g>
+    <path fill="#0D87FF" d="M0,1.99201702 C0,0.891856397 0.894337654,0 1.99821383,0 L29.0017862,0 C30.1053692,0 31,0.900176167 31,1.99201702 L31,9.00798298 C31,10.1081436 30.1056623,11 29.0017862,11 L1.99821383,11 C0.894630804,11 0,10.0998238 0,9.00798298 L0,1.99201702 Z" opacity=".499" transform="translate(88 164)"/>
+    <g transform="translate(88 135)">
+      <rect width="82" height="24" fill="#58A8F7" opacity=".499" rx="2"/>
+      <rect width="80" height="22" x="1" y="1" fill="#FFF" rx="1"/>
+    </g>
+    <g fill="#58A8F7" transform="translate(88 26)">
+      <polygon points="0 0 50 0 50 5 0 5" opacity=".499"/>
+      <polygon points="0 0 82 0 82 3 0 3" opacity=".197" transform="translate(0 10)"/>
+      <polygon points="0 0 82 0 82 3 0 3" opacity=".197" transform="translate(0 17)"/>
+      <polygon points="0 0 62 0 62 3 0 3" opacity=".197" transform="translate(0 24)"/>
+    </g>
+    <g fill="#58A8F7" transform="translate(88 62)">
+      <polygon points="0 0 50 0 50 5 0 5" opacity=".499"/>
+      <polygon points="0 0 82 0 82 3 0 3" opacity=".197" transform="translate(0 10)"/>
+      <polygon points="0 0 82 0 82 3 0 3" opacity=".197" transform="translate(0 17)"/>
+      <polygon points="0 0 62 0 62 3 0 3" opacity=".197" transform="translate(0 24)"/>
+    </g>
+    <g transform="translate(69 98)">
+      <mask id="qal93hkkvuo-feed-h" fill="#fff">
+        <use xlink:href="#qal93hkkvuo-feed-g"/>
+      </mask>
+      <use fill="#58A8F7" opacity=".197" xlink:href="#qal93hkkvuo-feed-g"/>
+      <path fill="#0D87FF" d="M7.5,21 C3.91014913,21 1,18.0898509 1,14.5 C1,10.9101491 3.91014913,8 7.5,8 C11.0898509,8 14,10.9101491 14,14.5 C14,18.0898509 11.0898509,21 7.5,21 Z M7.5,7 C6.11928813,7 5,5.88071187 5,4.5 C5,3.11928813 6.11928813,2 7.5,2 C8.88071187,2 10,3.11928813 10,4.5 C10,5.88071187 8.88071187,7 7.5,7 Z" mask="url(#qal93hkkvuo-feed-h)" opacity=".499"/>
+    </g>
+    <g fill="#58A8F7" transform="translate(88 98)">
+      <polygon points="0 0 50 0 50 5 0 5" opacity=".499"/>
+      <polygon points="0 0 82 0 82 3 0 3" opacity=".197" transform="translate(0 10)"/>
+      <polygon points="0 0 82 0 82 3 0 3" opacity=".197" transform="translate(0 17)"/>
+      <polygon points="0 0 62 0 62 3 0 3" opacity=".197" transform="translate(0 24)"/>
+    </g>
+    <path fill="#58A8F7" d="M0,3.00947762 C0,1.34738902 1.34537458,0 2.99263929,0 L177.007361,0 C178.66015,0 180,1.33663106 180,3.00947762 L180,16 L0,16 L0,3.00947762 Z" opacity=".197"/>
+    <path fill="#0D87FF" d="M2.5,5 C1.11928813,5 0,3.88071187 0,2.5 C0,1.11928813 1.11928813,0 2.5,0 C3.88071187,0 5,1.11928813 5,2.5 C5,3.88071187 3.88071187,5 2.5,5 Z M10.5,5 C9.11928813,5 8,3.88071187 8,2.5 C8,1.11928813 9.11928813,0 10.5,0 C11.8807119,0 13,1.11928813 13,2.5 C13,3.88071187 11.8807119,5 10.5,5 Z M18.5,5 C17.1192881,5 16,3.88071187 16,2.5 C16,1.11928813 17.1192881,0 18.5,0 C19.8807119,0 21,1.11928813 21,2.5 C21,3.88071187 19.8807119,5 18.5,5 Z" opacity=".499" transform="translate(5 6)"/>
+    <g transform="translate(10 26)">
+      <path fill="#58A8F7" d="M3.8458278,-1.55376046e-16 L45.1541722,1.55376046e-16 C46.4914503,-9.02779573e-17 46.9763797,0.139238417 47.4652686,0.400699056 C47.9541574,0.662159695 48.3378403,1.04584256 48.5993009,1.53473144 C48.8607616,2.02362033 49,2.50854969 49,3.8458278 L49,145.154172 C49,146.49145 48.8607616,146.97638 48.5993009,147.465269 C48.3378403,147.954157 47.9541574,148.33784 47.4652686,148.599301 C46.9763797,148.860762 46.4914503,149 45.1541722,149 L3.8458278,149 C2.50854969,149 2.02362033,148.860762 1.53473144,148.599301 C1.04584256,148.33784 0.662159695,147.954157 0.400699056,147.465269 C0.139238417,146.97638 6.01853049e-17,146.49145 -1.03584031e-16,145.154172 L1.03584031e-16,3.8458278 C-6.01853049e-17,2.50854969 0.139238417,2.02362033 0.400699056,1.53473144 C0.662159695,1.04584256 1.04584256,0.662159695 1.53473144,0.400699056 C2.02362033,0.139238417 2.50854969,9.02779573e-17 3.8458278,-1.55376046e-16 Z" opacity=".197"/>
+      <path fill="#0D87FF" d="M0,1.99201702 C0,0.891856397 0.896278629,0 2.00239962,0 L34.9976004,0 C36.1034952,0 37,0.900176167 37,1.99201702 L37,9.00798298 C37,10.1081436 36.1037214,11 34.9976004,11 L2.00239962,11 C0.896504848,11 0,10.0998238 0,9.00798298 L0,1.99201702 Z" opacity=".499" transform="translate(6 129)"/>
+      <polygon fill="#58A8F7" points="0 0 8 9 8 19 13 16 13 9 21 0" opacity=".197" transform="translate(14 16)"/>
+      <g transform="translate(6 47)">
+        <rect width="37" height="11" fill="#58A8F7" opacity=".499" rx="2"/>
+        <rect width="35" height="9" x="1" y="1" fill="#FFF" rx="1"/>
+        <polygon fill="#58A8F7" points="0 0 20 0 20 3 0 3" opacity=".197" transform="translate(4 4)"/>
+        <polygon fill="#0D87FF" points="2.5 3 0 0 5 0" transform="translate(27 4)"/>
+      </g>
+      <g transform="translate(6 63)">
+        <rect width="37" height="11" fill="#58A8F7" opacity=".499" rx="2"/>
+        <rect width="35" height="9" x="1" y="1" fill="#FFF" rx="1"/>
+        <polygon fill="#58A8F7" points="0 0 20 0 20 3 0 3" opacity=".197" transform="translate(4 4)"/>
+        <polygon fill="#0D87FF" points="2.5 3 0 0 5 0" transform="translate(27 4)"/>
+      </g>
+      <g transform="translate(6 79)">
+        <rect width="37" height="11" fill="#58A8F7" opacity=".499" rx="2"/>
+        <rect width="35" height="9" x="1" y="1" fill="#FFF" rx="1"/>
+        <polygon fill="#58A8F7" points="0 0 20 0 20 3 0 3" opacity=".197" transform="translate(4 4)"/>
+        <polygon fill="#0D87FF" points="2.5 3 0 0 5 0" transform="translate(27 4)"/>
+      </g>
+      <g transform="translate(6 95)">
+        <rect width="37" height="11" fill="#58A8F7" opacity=".499" rx="2"/>
+        <rect width="35" height="9" x="1" y="1" fill="#FFF" rx="1"/>
+        <polygon fill="#58A8F7" points="0 0 20 0 20 3 0 3" opacity=".197" transform="translate(4 4)"/>
+        <polygon fill="#0D87FF" points="2.5 3 0 0 5 0" transform="translate(27 4)"/>
+      </g>
+    </g>
+  </g>
+</svg></g></g></g><rect x="-1" y="-1" rx="3" ry="3" width="182" height="230" fill="none" stroke="#A2CEF9" stroke-width="2"/><g transform="translate(0,206)"><g><text x="90" y="4" text-anchor="middle" font-family="Roboto,sans-serif" font-size="14px" fill="#52565f">Events</text></g></g></g><g transform="translate(1810, 26)"><rect x="0" y="0" rx="2" ry="2" width="180" height="228" fill="#ffffff"/><g><g><g transform="translate( 0, 0 )"><svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" width="180" height="185" viewBox="0 0 180 185">
+  <defs>
+    <rect id="gslzq1gasp-landing-a" width="70" height="43" rx="2"/>
+    <path id="gslzq1gasp-landing-c" d="M0,1.99970728 C0,0.895299444 0.899814069,0 1.99402962,0 L158.00597,0 C159.107243,0 160,0.889892578 160,1.99970728 L160,34.0002927 C160,35.1047006 159.100186,36 158.00597,36 L1.99402962,36 C0.89275747,36 0,35.1101074 0,34.0002927 L0,1.99970728 Z"/>
+  </defs>
+  <g fill="none" fill-rule="evenodd">
+    <path fill="#58A8F7" d="M0,2.99971296 C0,1.34301724 1.34537458,0 2.99263929,0 L177.007361,0 C178.66015,0 180,1.34382565 180,2.99971296 L180,185 L0,185 L0,2.99971296 Z" opacity=".097"/>
+    <path fill="#58A8F7" d="M0,3.00947762 C0,1.34738902 1.34537458,0 2.99263929,0 L177.007361,0 C178.66015,0 180,1.33663106 180,3.00947762 L180,16 L0,16 L0,3.00947762 Z" opacity=".197"/>
+    <path fill="#0D87FF" d="M2.5,5 C1.11928813,5 0,3.88071187 0,2.5 C0,1.11928813 1.11928813,0 2.5,0 C3.88071187,0 5,1.11928813 5,2.5 C5,3.88071187 3.88071187,5 2.5,5 Z M10.5,5 C9.11928813,5 8,3.88071187 8,2.5 C8,1.11928813 9.11928813,0 10.5,0 C11.8807119,0 13,1.11928813 13,2.5 C13,3.88071187 11.8807119,5 10.5,5 Z M18.5,5 C17.1192881,5 16,3.88071187 16,2.5 C16,1.11928813 17.1192881,0 18.5,0 C19.8807119,0 21,1.11928813 21,2.5 C21,3.88071187 19.8807119,5 18.5,5 Z" opacity=".499" transform="translate(5 6)"/>
+    <polygon fill="#58A8F7" points="0 0 50 0 50 5 0 5" opacity=".499" transform="translate(100 134)"/>
+    <g fill="#58A8F7" opacity=".197" transform="translate(100 144)">
+      <polygon points="0 0 70 0 70 3 0 3" transform="translate(0 14)"/>
+      <polygon points="0 0 70 0 70 3 0 3" transform="translate(0 7)"/>
+      <polygon points="0 0 70 0 70 3 0 3"/>
+      <polygon points="0 0 42 0 42 3 0 3" transform="translate(0 21)"/>
+    </g>
+    <g transform="translate(10 132)">
+      <rect width="70" height="43" fill="#58A8F7" opacity=".197" rx="2"/>
+      <mask id="gslzq1gasp-landing-b" fill="#fff">
+        <use xlink:href="#gslzq1gasp-landing-a"/>
+      </mask>
+      <path fill="#58A8F7" d="M56,20.4761905 C67.970297,20.4761905 74.3366337,30.0930979 86,43 L24,43 C34.1287129,32.3707865 44.029703,20.4761905 56,20.4761905 Z" mask="url(#gslzq1gasp-landing-b)" opacity=".197"/>
+      <path fill="#0D87FF" d="M16,16.3809524 C28.7897146,16.3809524 37.5648148,29.0736399 49,43 L-16,43 C-4.95433742,29.0736399 3.21028543,16.3809524 16,16.3809524 Z" mask="url(#gslzq1gasp-landing-b)" opacity=".198"/>
+      <circle cx="38" cy="11.262" r="5" fill="#58A8F7" mask="url(#gslzq1gasp-landing-b)" opacity=".499"/>
+    </g>
+    <g transform="translate(26 72)">
+      <circle cx="7.5" cy="7.5" r="7.5" fill="#0D87FF" opacity=".499"/>
+      <polygon fill="#FFF" points="7.5 9.75 4.855 11.141 5.36 8.195 3.22 6.109 6.177 5.68 7.5 3 8.823 5.68 11.78 6.109 9.64 8.195 10.145 11.141"/>
+    </g>
+    <g transform="translate(140 72)">
+      <circle cx="7.5" cy="7.5" r="7.5" fill="#0D87FF" opacity=".499"/>
+      <polygon fill="#FFF" points="7.5 9.75 4.855 11.141 5.36 8.195 3.22 6.109 6.177 5.68 7.5 3 8.823 5.68 11.78 6.109 9.64 8.195 10.145 11.141"/>
+    </g>
+    <g transform="translate(83 72)">
+      <circle cx="7.5" cy="7.5" r="7.5" fill="#0D87FF" opacity=".499"/>
+      <polygon fill="#FFF" points="7.5 9.75 4.855 11.141 5.36 8.195 3.22 6.109 6.177 5.68 7.5 3 8.823 5.68 11.78 6.109 9.64 8.195 10.145 11.141"/>
+    </g>
+    <g fill="#58A8F7" transform="translate(10 93)">
+      <polygon points="0 0 26 0 26 5 0 5" opacity=".499" transform="translate(10)"/>
+      <polygon points="0 0 46 0 46 3 0 3" opacity=".197" transform="translate(0 17)"/>
+      <polygon points="0 0 46 0 46 3 0 3" opacity=".197" transform="translate(0 10)"/>
+      <polygon points="0 0 26 0 26 3 0 3" opacity=".197" transform="translate(10 24)"/>
+    </g>
+    <g fill="#58A8F7" transform="translate(124 93)">
+      <polygon points="0 0 26 0 26 5 0 5" opacity=".499" transform="translate(10)"/>
+      <polygon points="0 0 46 0 46 3 0 3" opacity=".197" transform="translate(0 17)"/>
+      <polygon points="0 0 46 0 46 3 0 3" opacity=".197" transform="translate(0 10)"/>
+      <polygon points="0 0 26 0 26 3 0 3" opacity=".197" transform="translate(10 24)"/>
+    </g>
+    <g fill="#58A8F7" transform="translate(67 93)">
+      <polygon points="0 0 26 0 26 5 0 5" opacity=".499" transform="translate(10)"/>
+      <polygon points="0 0 46 0 46 3 0 3" opacity=".197" transform="translate(0 17)"/>
+      <polygon points="0 0 46 0 46 3 0 3" opacity=".197" transform="translate(0 10)"/>
+      <polygon points="0 0 26 0 26 3 0 3" opacity=".197" transform="translate(10 24)"/>
+    </g>
+    <g transform="translate(10 26)">
+      <path fill="#58A8F7" d="M0,1.99970728 C0,0.895299444 0.899814069,0 1.99402962,0 L158.00597,0 C159.107243,0 160,0.889892578 160,1.99970728 L160,34.0002927 C160,35.1047006 159.100186,36 158.00597,36 L1.99402962,36 C0.89275747,36 0,35.1101074 0,34.0002927 L0,1.99970728 Z" opacity=".197"/>
+      <mask id="gslzq1gasp-landing-d" fill="#fff">
+        <use xlink:href="#gslzq1gasp-landing-c"/>
+      </mask>
+      <path fill="#58A8F7" d="M123.544554,19.8 C147.292079,19.8 158.861386,26.7168539 182,36 C163.123762,36 82.3134379,36 59,36 C79.0940594,28.3550562 99.7970297,19.8 123.544554,19.8 Z" mask="url(#gslzq1gasp-landing-d)" opacity=".197"/>
+      <path fill="#0D87FF" d="M44.5,8.1 C69.8826643,8.1 86.3055556,21.4034805 109,36 C79.2231422,36 7.11330049,36 -20,36 C1.92139189,21.4034805 19.1173357,8.1 44.5,8.1 Z" mask="url(#gslzq1gasp-landing-d)" opacity=".198"/>
+      <circle cx="94" cy="9.9" r="7" fill="#58A8F7" mask="url(#gslzq1gasp-landing-d)" opacity=".499"/>
+    </g>
+  </g>
+</svg></g></g></g><rect x="-1" y="-1" rx="3" ry="3" width="182" height="230" fill="none" stroke="#A2CEF9" stroke-width="2"/><g transform="translate(0,206)"><g><text x="90" y="4" text-anchor="middle" font-family="Roboto,sans-serif" font-size="14px" fill="#52565f">Home Page</text></g></g></g></g><g><g><g><path d="M 270,560L 70,560Q60,560 60,570L 60,586" stroke="#4d9ef6" stroke-width="2" fill="none"/><path d="M 470,560L 270,560Q260,560 260,570L 260,586" stroke="#4d9ef6" stroke-width="2" fill="none"/><path d="M 460,534L 460,560L 460,586" stroke="#4d9ef6" stroke-width="2" fill="none"/><path d="M 450,560L 650,560Q660,560 660,570L 660,586" stroke="#4d9ef6" stroke-width="2" fill="none"/><path d="M 650,560L 850,560Q860,560 860,570L 860,586" stroke="#4d9ef6" stroke-width="2" fill="none"/><path d="M 850,560L 1050,560Q1060,560 1060,570L 1060,586" stroke="#4d9ef6" stroke-width="2" fill="none"/></g><g><g transform="translate( 450,524 )"><circle cx="10" cy="10" r="9" stroke-width="2" stroke="#A2CEF9" fill="#ffffff"/><path d="M10 7L13 12L7 12Z" fill="#58A8F7"/></g><g transform="translate( 54,580 )"><circle cx="6" cy="6" r="5" stroke-width="2" stroke="#A2CEF9" fill="#ffffff"/><path d="M6 8L4 5L8 5Z" fill="#58A8F7"/></g><g transform="translate( 254,580 )"><circle cx="6" cy="6" r="5" stroke-width="2" stroke="#A2CEF9" fill="#ffffff"/><path d="M6 8L4 5L8 5Z" fill="#58A8F7"/></g><g transform="translate( 454,580 )"><circle cx="6" cy="6" r="5" stroke-width="2" stroke="#A2CEF9" fill="#ffffff"/><path d="M6 8L4 5L8 5Z" fill="#58A8F7"/></g><g transform="translate( 654,580 )"><circle cx="6" cy="6" r="5" stroke-width="2" stroke="#A2CEF9" fill="#ffffff"/><path d="M6 8L4 5L8 5Z" fill="#58A8F7"/></g><g transform="translate( 854,580 )"><circle cx="6" cy="6" r="5" stroke-width="2" stroke="#A2CEF9" fill="#ffffff"/><path d="M6 8L4 5L8 5Z" fill="#58A8F7"/></g><g transform="translate( 1054,580 )"><circle cx="6" cy="6" r="5" stroke-width="2" stroke="#A2CEF9" fill="#ffffff"/><path d="M6 8L4 5L8 5Z" fill="#58A8F7"/></g></g></g><g><g><path d="M 1260,534L 1260,560L 1260,586" stroke="#4d9ef6" stroke-width="2" fill="none"/></g><g><g transform="translate( 1250,524 )"><circle cx="10" cy="10" r="9" stroke-width="2" stroke="#A2CEF9" fill="#ffffff"/><path d="M10 7L13 12L7 12Z" fill="#58A8F7"/></g><g transform="translate( 1254,580 )"><circle cx="6" cy="6" r="5" stroke-width="2" stroke="#A2CEF9" fill="#ffffff"/><path d="M6 8L4 5L8 5Z" fill="#58A8F7"/></g></g></g><g><g><path d="M 1460,534L 1460,560L 1460,586" stroke="#4d9ef6" stroke-width="2" fill="none"/><path d="M 1460,560L 1650,560Q1660,560 1660,570L 1660,586" stroke="#4d9ef6" stroke-width="2" fill="none"/></g><g><g transform="translate( 1450,524 )"><circle cx="10" cy="10" r="9" stroke-width="2" stroke="#A2CEF9" fill="#ffffff"/><path d="M10 7L13 12L7 12Z" fill="#58A8F7"/></g><g transform="translate( 1454,580 )"><circle cx="6" cy="6" r="5" stroke-width="2" stroke="#A2CEF9" fill="#ffffff"/><path d="M6 8L4 5L8 5Z" fill="#58A8F7"/></g><g transform="translate( 1654,580 )"><circle cx="6" cy="6" r="5" stroke-width="2" stroke="#A2CEF9" fill="#ffffff"/><path d="M6 8L4 5L8 5Z" fill="#58A8F7"/></g></g></g><g><g><path d="M 1860,534L 1860,560L 1860,586" stroke="#4d9ef6" stroke-width="2" fill="none"/></g><g><g transform="translate( 1850,524 )"><circle cx="10" cy="10" r="9" stroke-width="2" stroke="#A2CEF9" fill="#ffffff"/><path d="M10 7L13 12L7 12Z" fill="#58A8F7"/></g><g transform="translate( 1854,580 )"><circle cx="6" cy="6" r="5" stroke-width="2" stroke="#A2CEF9" fill="#ffffff"/><path d="M6 8L4 5L8 5Z" fill="#58A8F7"/></g></g></g><g><g><path d="M 2060,534L 2060,560L 2060,586" stroke="#4d9ef6" stroke-width="2" fill="none"/></g><g><g transform="translate( 2050,524 )"><circle cx="10" cy="10" r="9" stroke-width="2" stroke="#A2CEF9" fill="#ffffff"/><path d="M10 7L13 12L7 12Z" fill="#58A8F7"/></g><g transform="translate( 2054,580 )"><circle cx="6" cy="6" r="5" stroke-width="2" stroke="#A2CEF9" fill="#ffffff"/><path d="M6 8L4 5L8 5Z" fill="#58A8F7"/></g></g></g><g><g><path d="M 2260,534L 2260,560L 2260,586" stroke="#4d9ef6" stroke-width="2" fill="none"/></g><g><g transform="translate( 2250,524 )"><circle cx="10" cy="10" r="9" stroke-width="2" stroke="#A2CEF9" fill="#ffffff"/><path d="M10 7L13 12L7 12Z" fill="#58A8F7"/></g><g transform="translate( 2254,580 )"><circle cx="6" cy="6" r="5" stroke-width="2" stroke="#A2CEF9" fill="#ffffff"/><path d="M6 8L4 5L8 5Z" fill="#58A8F7"/></g></g></g><g><g><path d="M 2460,534L 2460,560L 2460,586" stroke="#4d9ef6" stroke-width="2" fill="none"/></g><g><g transform="translate( 2450,524 )"><circle cx="10" cy="10" r="9" stroke-width="2" stroke="#A2CEF9" fill="#ffffff"/><path d="M10 7L13 12L7 12Z" fill="#58A8F7"/></g><g transform="translate( 2454,580 )"><circle cx="6" cy="6" r="5" stroke-width="2" stroke="#A2CEF9" fill="#ffffff"/><path d="M6 8L4 5L8 5Z" fill="#58A8F7"/></g></g></g><g><g><path d="M 1270,280L 470,280Q460,280 460,290L 460,306" stroke="#4d9ef6" stroke-width="2" fill="none"/><path d="M 1470,280L 1270,280Q1260,280 1260,290L 1260,306" stroke="#4d9ef6" stroke-width="2" fill="none"/><path d="M 1870,280L 1470,280Q1460,280 1460,290L 1460,306" stroke="#4d9ef6" stroke-width="2" fill="none"/><path d="M 1860,254L 1860,280L 1860,306" stroke="#4d9ef6" stroke-width="2" fill="none"/><path d="M 1850,280L 2050,280Q2060,280 2060,290L 2060,306" stroke="#4d9ef6" stroke-width="2" fill="none"/><path d="M 2050,280L 2250,280Q2260,280 2260,290L 2260,306" stroke="#4d9ef6" stroke-width="2" fill="none"/><path d="M 2250,280L 2450,280Q2460,280 2460,290L 2460,306" stroke="#4d9ef6" stroke-width="2" fill="none"/></g><g><g transform="translate( 1850,244 )"><circle cx="10" cy="10" r="9" stroke-width="2" stroke="#A2CEF9" fill="#ffffff"/><path d="M10 7L13 12L7 12Z" fill="#58A8F7"/></g><g transform="translate( 454,300 )"><circle cx="6" cy="6" r="5" stroke-width="2" stroke="#A2CEF9" fill="#ffffff"/><path d="M6 8L4 5L8 5Z" fill="#58A8F7"/></g><g transform="translate( 1254,300 )"><circle cx="6" cy="6" r="5" stroke-width="2" stroke="#A2CEF9" fill="#ffffff"/><path d="M6 8L4 5L8 5Z" fill="#58A8F7"/></g><g transform="translate( 1454,300 )"><circle cx="6" cy="6" r="5" stroke-width="2" stroke="#A2CEF9" fill="#ffffff"/><path d="M6 8L4 5L8 5Z" fill="#58A8F7"/></g><g transform="translate( 1854,300 )"><circle cx="6" cy="6" r="5" stroke-width="2" stroke="#A2CEF9" fill="#ffffff"/><path d="M6 8L4 5L8 5Z" fill="#58A8F7"/></g><g transform="translate( 2054,300 )"><circle cx="6" cy="6" r="5" stroke-width="2" stroke="#A2CEF9" fill="#ffffff"/><path d="M6 8L4 5L8 5Z" fill="#58A8F7"/></g><g transform="translate( 2254,300 )"><circle cx="6" cy="6" r="5" stroke-width="2" stroke="#A2CEF9" fill="#ffffff"/><path d="M6 8L4 5L8 5Z" fill="#58A8F7"/></g><g transform="translate( 2454,300 )"><circle cx="6" cy="6" r="5" stroke-width="2" stroke="#A2CEF9" fill="#ffffff"/><path d="M6 8L4 5L8 5Z" fill="#58A8F7"/></g></g></g></g></g></g></svg>
