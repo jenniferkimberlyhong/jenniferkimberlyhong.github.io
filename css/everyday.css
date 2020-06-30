@@ -126,8 +126,12 @@ p {
   background-color: #d4d8f0 !important;
 }
 
+.bg-challenge {
+  background-color: #DFE0E7;
+}
+
 .bg-results {
-  background-color:#d4d8f0;
+  background-color:#DFE0E7;
 }
 
 .text-secondary {
@@ -172,6 +176,10 @@ p {
    color: #ffaf12;
   }
 
+.wireframe-images {
+  width: 14%;
+  margin: 10px;
+}
 
   /** PROJECT NAVIGATION BAR**/
 
